@@ -1,0 +1,5275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="label" attr.type="string"/>
+<key id="d1" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="young people">
+  <data key="d0">young people</data>
+</node>
+<node id="Iran">
+  <data key="d0">Iran</data>
+</node>
+<node id="Contribution">
+  <data key="d0">Contribution</data>
+</node>
+<node id="Public Sphere">
+  <data key="d0">Public Sphere</data>
+</node>
+<node id="Aouragh">
+  <data key="d0">Aouragh</data>
+</node>
+<node id="different kinds">
+  <data key="d0">different kinds</data>
+</node>
+<node id="Roskomnadzor">
+  <data key="d0">Roskomnadzor</data>
+</node>
+<node id="notifica­ push tions">
+  <data key="d0">notifica­ push tions</data>
+</node>
+<node id="incen­ tives">
+  <data key="d0">incen­ tives</data>
+</node>
+<node id="disinformation campaigns">
+  <data key="d0">disinformation campaigns</data>
+</node>
+<node id="Dover">
+  <data key="d0">Dover</data>
+</node>
+<node id="symbiotic relationship">
+  <data key="d0">symbiotic relationship</data>
+</node>
+<node id="News">
+  <data key="d0">News</data>
+</node>
+<node id="highest frequency">
+  <data key="d0">highest frequency</data>
+</node>
+<node id="popular dataset">
+  <data key="d0">popular dataset</data>
+</node>
+<node id="synthetic realistic imagery">
+  <data key="d0">synthetic realistic imagery</data>
+</node>
+<node id="Aaron van">
+  <data key="d0">Aaron van</data>
+</node>
+<node id="Oord">
+  <data key="d0">Oord</data>
+</node>
+<node id="data">
+  <data key="d0">data</data>
+</node>
+<node id="basic contain information">
+  <data key="d0">basic contain information</data>
+</node>
+<node id="media companies">
+  <data key="d0">media companies</data>
+</node>
+<node id="influence campaign">
+  <data key="d0">influence campaign</data>
+</node>
+<node id="Bo Katie Lillis">
+  <data key="d0">Bo Katie Lillis</data>
+</node>
+<node id="British intelligence">
+  <data key="d0">British intelligence</data>
+</node>
+<node id="Telegram">
+  <data key="d0">Telegram</data>
+</node>
+<node id="random addresses">
+  <data key="d0">random addresses</data>
+</node>
+<node id="younger members">
+  <data key="d0">younger members</data>
+</node>
+<node id="political views">
+  <data key="d0">political views</data>
+</node>
+<node id="WaveNet">
+  <data key="d0">WaveNet</data>
+</node>
+<node id="synthetic voices">
+  <data key="d0">synthetic voices</data>
+</node>
+<node id="lithuania">
+  <data key="d0">lithuania</data>
+</node>
+<node id="goods transit">
+  <data key="d0">goods transit</data>
+</node>
+<node id="Telegram chats">
+  <data key="d0">Telegram chats</data>
+</node>
+<node id="major tool">
+  <data key="d0">major tool</data>
+</node>
+<node id="useful surveys">
+  <data key="d0">useful surveys</data>
+</node>
+<node id="Devender Raahat Singh">
+  <data key="d0">Devender Raahat Singh</data>
+</node>
+<node id="Usmanov">
+  <data key="d0">Usmanov</data>
+</node>
+<node id="Dmitry Medvedev">
+  <data key="d0">Dmitry Medvedev</data>
+</node>
+<node id="CyberPalyanitsa">
+  <data key="d0">CyberPalyanitsa</data>
+</node>
+<node id="websites">
+  <data key="d0">websites</data>
+</node>
+<node id="Iraqi WMD">
+  <data key="d0">Iraqi WMD</data>
+</node>
+<node id="reputational risks">
+  <data key="d0">reputational risks</data>
+</node>
+<node id="Putin">
+  <data key="d0">Putin</data>
+</node>
+<node id="partial mobilisation">
+  <data key="d0">partial mobilisation</data>
+</node>
+<node id="target host">
+  <data key="d0">target host</data>
+</node>
+<node id="Botnet">
+  <data key="d0">Botnet</data>
+</node>
+<node id="digital innovations">
+  <data key="d0">digital innovations</data>
+</node>
+<node id="digital devices">
+  <data key="d0">digital devices</data>
+</node>
+<node id="Online Activism">
+  <data key="d0">Online Activism</data>
+</node>
+<node id="based alternative power">
+  <data key="d0">based alternative power</data>
+</node>
+<node id="research cent papers">
+  <data key="d0">research cent papers</data>
+</node>
+<node id="useful details">
+  <data key="d0">useful details</data>
+</node>
+<node id="Researchers">
+  <data key="d0">Researchers</data>
+</node>
+<node id="strong success">
+  <data key="d0">strong success</data>
+</node>
+<node id="Manuscript">
+  <data key="d0">Manuscript</data>
+</node>
+<node id="business Botnet models">
+  <data key="d0">business Botnet models</data>
+</node>
+<node id="media social platforms">
+  <data key="d0">media social platforms</data>
+</node>
+<node id="learning process">
+  <data key="d0">learning process</data>
+</node>
+<node id="Runet">
+  <data key="d0">Runet</data>
+</node>
+<node id="rich diversity">
+  <data key="d0">rich diversity</data>
+</node>
+<node id="Ukraine">
+  <data key="d0">Ukraine</data>
+</node>
+<node id="UK claim">
+  <data key="d0">UK claim</data>
+</node>
+<node id="Nicolas Fandos">
+  <data key="d0">Nicolas Fandos</data>
+</node>
+<node id="Influence Active Campaign">
+  <data key="d0">Influence Active Campaign</data>
+</node>
+<node id="Conclusions">
+  <data key="d0">Conclusions</data>
+</node>
+<node id="possible strategies">
+  <data key="d0">possible strategies</data>
+</node>
+<node id="Malicious actors">
+  <data key="d0">Malicious actors</data>
+</node>
+<node id="influence operations">
+  <data key="d0">influence operations</data>
+</node>
+<node id="civil societies">
+  <data key="d0">civil societies</data>
+</node>
+<node id="fascinating continuity">
+  <data key="d0">fascinating continuity</data>
+</node>
+<node id="Government">
+  <data key="d0">Government</data>
+</node>
+<node id="VPNs">
+  <data key="d0">VPNs</data>
+</node>
+<node id="online sphere">
+  <data key="d0">online sphere</data>
+</node>
+<node id="major domain">
+  <data key="d0">major domain</data>
+</node>
+<node id="AVCs">
+  <data key="d0">AVCs</data>
+</node>
+<node id="Cybercriminal Different Platforms">
+  <data key="d0">Cybercriminal Different Platforms</data>
+</node>
+<node id="El Paquete">
+  <data key="d0">El Paquete</data>
+</node>
+<node id="informational alternative">
+  <data key="d0">informational alternative</data>
+</node>
+<node id="Entertainment">
+  <data key="d0">Entertainment</data>
+</node>
+<node id="domains">
+  <data key="d0">domains</data>
+</node>
+<node id="Cloudﬂare">
+  <data key="d0">Cloudﬂare</data>
+</node>
+<node id="ﬁgure 1b">
+  <data key="d0">ﬁgure 1b</data>
+</node>
+<node id="detailed visualization">
+  <data key="d0">detailed visualization</data>
+</node>
+<node id="Akbari">
+  <data key="d0">Akbari</data>
+</node>
+<node id="sociopolitical context">
+  <data key="d0">sociopolitical context</data>
+</node>
+<node id="technological innovation">
+  <data key="d0">technological innovation</data>
+</node>
+<node id="synergy effects">
+  <data key="d0">synergy effects</data>
+</node>
+<node id="social media">
+  <data key="d0">social media</data>
+</node>
+<node id="people">
+  <data key="d0">people</data>
+</node>
+<node id="Imam Khomeini">
+  <data key="d0">Imam Khomeini</data>
+</node>
+<node id="Figure">
+  <data key="d0">Figure</data>
+</node>
+<node id="collection pipeline">
+  <data key="d0">collection pipeline</data>
+</node>
+<node id="Supreme Leader">
+  <data key="d0">Supreme Leader</data>
+</node>
+<node id="Telegram channel">
+  <data key="d0">Telegram channel</data>
+</node>
+<node id="disinformation Sophisticated campaigns">
+  <data key="d0">disinformation Sophisticated campaigns</data>
+</node>
+<node id="deepfakes">
+  <data key="d0">deepfakes</data>
+</node>
+<node id="Digital tools">
+  <data key="d0">Digital tools</data>
+</node>
+<node id="autocrats">
+  <data key="d0">autocrats</data>
+</node>
+<node id="mere identification">
+  <data key="d0">mere identification</data>
+</node>
+<node id="public views">
+  <data key="d0">public views</data>
+</node>
+<node id="Fig.7">
+  <data key="d0">Fig.7</data>
+</node>
+<node id="cumulative count">
+  <data key="d0">cumulative count</data>
+</node>
+<node id="Iranians">
+  <data key="d0">Iranians</data>
+</node>
+<node id="satellite antenna">
+  <data key="d0">satellite antenna</data>
+</node>
+<node id="public discourse">
+  <data key="d0">public discourse</data>
+</node>
+<node id="supreme court">
+  <data key="d0">supreme court</data>
+</node>
+<node id="nationwide referendum">
+  <data key="d0">nationwide referendum</data>
+</node>
+<node id="popular websites">
+  <data key="d0">popular websites</data>
+</node>
+<node id="online library">
+  <data key="d0">online library</data>
+</node>
+<node id="state">
+  <data key="d0">state</data>
+</node>
+<node id="mobilizing main agent">
+  <data key="d0">mobilizing main agent</data>
+</node>
+<node id="Dozen users">
+  <data key="d0">Dozen users</data>
+</node>
+<node id="Journal">
+  <data key="d0">Journal</data>
+</node>
+<node id="protest sample">
+  <data key="d0">protest sample</data>
+</node>
+<node id="higher proportion">
+  <data key="d0">higher proportion</data>
+</node>
+<node id="Russian websites">
+  <data key="d0">Russian websites</data>
+</node>
+<node id="DDoS sustained attacks">
+  <data key="d0">DDoS sustained attacks</data>
+</node>
+<node id="Haydamaki">
+  <data key="d0">Haydamaki</data>
+</node>
+<node id="targeting isolated pattern">
+  <data key="d0">targeting isolated pattern</data>
+</node>
+<node id="political protest">
+  <data key="d0">political protest</data>
+</node>
+<node id="media uptake">
+  <data key="d0">media uptake</data>
+</node>
+<node id="undesired narratives">
+  <data key="d0">undesired narratives</data>
+</node>
+<node id="Globalization">
+  <data key="d0">Globalization</data>
+</node>
+<node id="Lives">
+  <data key="d0">Lives</data>
+</node>
+<node id="Women">
+  <data key="d0">Women</data>
+</node>
+<node id="Stereotypes">
+  <data key="d0">Stereotypes</data>
+</node>
+<node id="dif­ ferences">
+  <data key="d0">dif­ ferences</data>
+</node>
+<node id="rigorous comparisons">
+  <data key="d0">rigorous comparisons</data>
+</node>
+<node id="GANs">
+  <data key="d0">GANs</data>
+</node>
+<node id="synthetic images">
+  <data key="d0">synthetic images</data>
+</node>
+<node id="VKontakte">
+  <data key="d0">VKontakte</data>
+</node>
+<node id="networks market">
+  <data key="d0">networks market</data>
+</node>
+<node id="mobile network">
+  <data key="d0">mobile network</data>
+</node>
+<node id="COVID-19">
+  <data key="d0">COVID-19</data>
+</node>
+<node id="Sectoral dissection">
+  <data key="d0">Sectoral dissection</data>
+</node>
+<node id="sectors">
+  <data key="d0">sectors</data>
+</node>
+<node id="FSB">
+  <data key="d0">FSB</data>
+</node>
+<node id="political parties">
+  <data key="d0">political parties</data>
+</node>
+<node id="personal data">
+  <data key="d0">personal data</data>
+</node>
+<node id="media synthetic techniques">
+  <data key="d0">media synthetic techniques</data>
+</node>
+<node id="Disinformation Dozen">
+  <data key="d0">Disinformation Dozen</data>
+</node>
+<node id="fewest messages">
+  <data key="d0">fewest messages</data>
+</node>
+<node id="Figures">
+  <data key="d0">Figures</data>
+</node>
+<node id="Technology">
+  <data key="d0">Technology</data>
+</node>
+<node id="forwarding users">
+  <data key="d0">forwarding users</data>
+</node>
+<node id="Bot users">
+  <data key="d0">Bot users</data>
+</node>
+<node id="Domain">
+  <data key="d0">Domain</data>
+</node>
+<node id="Server shutdown">
+  <data key="d0">Server shutdown</data>
+</node>
+<node id="Internet Filtering">
+  <data key="d0">Internet Filtering</data>
+</node>
+<node id="virtual community">
+  <data key="d0">virtual community</data>
+</node>
+<node id="Brian Murphy">
+  <data key="d0">Brian Murphy</data>
+</node>
+<node id="Center">
+  <data key="d0">Center</data>
+</node>
+<node id="formal complaint">
+  <data key="d0">formal complaint</data>
+</node>
+<node id="Revolutionary Guards">
+  <data key="d0">Revolutionary Guards</data>
+</node>
+<node id="VPN servers">
+  <data key="d0">VPN servers</data>
+</node>
+<node id="disinformation campaign">
+  <data key="d0">disinformation campaign</data>
+</node>
+<node id="digital tools">
+  <data key="d0">digital tools</data>
+</node>
+<node id="perpetual agenda">
+  <data key="d0">perpetual agenda</data>
+</node>
+<node id="Russian authorities">
+  <data key="d0">Russian authorities</data>
+</node>
+<node id="failed attempt">
+  <data key="d0">failed attempt</data>
+</node>
+<node id="data subject">
+  <data key="d0">data subject</data>
+</node>
+<node id="informed specific explicit consent">
+  <data key="d0">informed specific explicit consent</data>
+</node>
+<node id="Gunitsky S">
+  <data key="d0">Gunitsky S</data>
+</node>
+<node id="Perspectives">
+  <data key="d0">Perspectives</data>
+</node>
+<node id="Digitalization">
+  <data key="d0">Digitalization</data>
+</node>
+<node id="horizontal connective new modes">
+  <data key="d0">horizontal connective new modes</data>
+</node>
+<node id="political significant developments">
+  <data key="d0">political significant developments</data>
+</node>
+<node id="military coup">
+  <data key="d0">military coup</data>
+</node>
+<node id="Political Protest">
+  <data key="d0">Political Protest</data>
+</node>
+<node id="disinformation unsophisticated campaigns">
+  <data key="d0">disinformation unsophisticated campaigns</data>
+</node>
+<node id="users">
+  <data key="d0">users</data>
+</node>
+<node id="content Messages">
+  <data key="d0">content Messages</data>
+</node>
+<node id="Google">
+  <data key="d0">Google</data>
+</node>
+<node id="ing includ­ companies">
+  <data key="d0">ing includ­ companies</data>
+</node>
+<node id="insufﬁcient security">
+  <data key="d0">insufﬁcient security</data>
+</node>
+<node id="attacks">
+  <data key="d0">attacks</data>
+</node>
+<node id="technology block">
+  <data key="d0">technology block</data>
+</node>
+<node id="botnet applications">
+  <data key="d0">botnet applications</data>
+</node>
+<node id="Recommendation">
+  <data key="d0">Recommendation</data>
+</node>
+<node id="member states">
+  <data key="d0">member states</data>
+</node>
+<node id="Ukrainian - Pro groups">
+  <data key="d0">Ukrainian - Pro groups</data>
+</node>
+<node id="DDoS attacks">
+  <data key="d0">DDoS attacks</data>
+</node>
+<node id="Chinese Government">
+  <data key="d0">Chinese Government</data>
+</node>
+<node id="Media Posts">
+  <data key="d0">Media Posts</data>
+</node>
+<node id="trained - pre model">
+  <data key="d0">trained - pre model</data>
+</node>
+<node id="Dies">
+  <data key="d0">Dies</data>
+</node>
+<node id="Covid masks">
+  <data key="d0">Covid masks</data>
+</node>
+<node id="malicious actor">
+  <data key="d0">malicious actor</data>
+</node>
+<node id="generative models">
+  <data key="d0">generative models</data>
+</node>
+<node id="Traditional concepts">
+  <data key="d0">Traditional concepts</data>
+</node>
+<node id="limited capacity">
+  <data key="d0">limited capacity</data>
+</node>
+<node id="Past work">
+  <data key="d0">Past work</data>
+</node>
+<node id="Framework">
+  <data key="d0">Framework</data>
+</node>
+<node id="Network analysis">
+  <data key="d0">Network analysis</data>
+</node>
+<node id="eye view">
+  <data key="d0">eye view</data>
+</node>
+<node id="sanitised version">
+  <data key="d0">sanitised version</data>
+</node>
+<node id="popular forums">
+  <data key="d0">popular forums</data>
+</node>
+<node id="Dread">
+  <data key="d0">Dread</data>
+</node>
+<node id="personal agenda">
+  <data key="d0">personal agenda</data>
+</node>
+<node id="Ukrainian">
+  <data key="d0">Ukrainian</data>
+</node>
+<node id="broad concerns">
+  <data key="d0">broad concerns</data>
+</node>
+<node id="government discourse">
+  <data key="d0">government discourse</data>
+</node>
+<node id="existing overlaps">
+  <data key="d0">existing overlaps</data>
+</node>
+<node id="value targets">
+  <data key="d0">value targets</data>
+</node>
+<node id="ML models">
+  <data key="d0">ML models</data>
+</node>
+<node id="translate Manuscript">
+  <data key="d0">translate Manuscript</data>
+</node>
+<node id="Proceedings">
+  <data key="d0">Proceedings</data>
+</node>
+<node id="cooperative work">
+  <data key="d0">cooperative work</data>
+</node>
+<node id="web dark users">
+  <data key="d0">web dark users</data>
+</node>
+<node id="postal services">
+  <data key="d0">postal services</data>
+</node>
+<node id="Ned spokesperson Price">
+  <data key="d0">Ned spokesperson Price</data>
+</node>
+<node id="tough questions">
+  <data key="d0">tough questions</data>
+</node>
+<node id="building block">
+  <data key="d0">building block</data>
+</node>
+<node id="maintenance hardware costs">
+  <data key="d0">maintenance hardware costs</data>
+</node>
+<node id="Cent">
+  <data key="d0">Cent</data>
+</node>
+<node id="Click trajectories">
+  <data key="d0">Click trajectories</data>
+</node>
+<node id="alternative system">
+  <data key="d0">alternative system</data>
+</node>
+<node id="comparable performance">
+  <data key="d0">comparable performance</data>
+</node>
+<node id="China">
+  <data key="d0">China</data>
+</node>
+<node id="Russia">
+  <data key="d0">Russia</data>
+</node>
+<node id="digital platforms">
+  <data key="d0">digital platforms</data>
+</node>
+<node id="Russian users">
+  <data key="d0">Russian users</data>
+</node>
+<node id="frequent targeting">
+  <data key="d0">frequent targeting</data>
+</node>
+<node id="deliberate effort">
+  <data key="d0">deliberate effort</data>
+</node>
+<node id="International Journal">
+  <data key="d0">International Journal</data>
+</node>
+<node id="target preferences">
+  <data key="d0">target preferences</data>
+</node>
+<node id="ordinary citizens">
+  <data key="d0">ordinary citizens</data>
+</node>
+<node id="basic rights">
+  <data key="d0">basic rights</data>
+</node>
+<node id="models">
+  <data key="d0">models</data>
+</node>
+<node id="Russian - pro groups">
+  <data key="d0">Russian - pro groups</data>
+</node>
+<node id="hostile environment">
+  <data key="d0">hostile environment</data>
+</node>
+<node id="Review">
+  <data key="d0">Review</data>
+</node>
+<node id="Brendan Nyhan">
+  <data key="d0">Brendan Nyhan</data>
+</node>
+<node id="OpenNet Initative">
+  <data key="d0">OpenNet Initative</data>
+</node>
+<node id="Peluso">
+  <data key="d0">Peluso</data>
+</node>
+<node id="Chinese regime">
+  <data key="d0">Chinese regime</data>
+</node>
+<node id="media comments">
+  <data key="d0">media comments</data>
+</node>
+<node id="technological new possibilities">
+  <data key="d0">technological new possibilities</data>
+</node>
+<node id="autocratic politics">
+  <data key="d0">autocratic politics</data>
+</node>
+<node id="evident progress">
+  <data key="d0">evident progress</data>
+</node>
+<node id="deepfake aggressive Widespread detection">
+  <data key="d0">deepfake aggressive Widespread detection</data>
+</node>
+<node id="messaging private networks">
+  <data key="d0">messaging private networks</data>
+</node>
+<node id="demographic variables">
+  <data key="d0">demographic variables</data>
+</node>
+<node id="political dispositions">
+  <data key="d0">political dispositions</data>
+</node>
+<node id="paired models">
+  <data key="d0">paired models</data>
+</node>
+<node id="blocked Telegram">
+  <data key="d0">blocked Telegram</data>
+</node>
+<node id="P2P architecture">
+  <data key="d0">P2P architecture</data>
+</node>
+<node id="Anon_by">
+  <data key="d0">Anon_by</data>
+</node>
+<node id="overlapping highest value">
+  <data key="d0">overlapping highest value</data>
+</node>
+<node id="similar strategies">
+  <data key="d0">similar strategies</data>
+</node>
+<node id="machine learning">
+  <data key="d0">machine learning</data>
+</node>
+<node id="International team">
+  <data key="d0">International team</data>
+</node>
+<node id="Andromeda spewing botnet">
+  <data key="d0">Andromeda spewing botnet</data>
+</node>
+<node id="GAN">
+  <data key="d0">GAN</data>
+</node>
+<node id="generative network">
+  <data key="d0">generative network</data>
+</node>
+<node id="Ukrainian - pro groups">
+  <data key="d0">Ukrainian - pro groups</data>
+</node>
+<node id="Cyber Army">
+  <data key="d0">Cyber Army</data>
+</node>
+<node id="malicious actors">
+  <data key="d0">malicious actors</data>
+</node>
+<node id="cleavage coalition">
+  <data key="d0">cleavage coalition</data>
+</node>
+<node id="streets">
+  <data key="d0">streets</data>
+</node>
+<node id="Botnets">
+  <data key="d0">Botnets</data>
+</node>
+<node id="credential fraud">
+  <data key="d0">credential fraud</data>
+</node>
+<node id="subtle details">
+  <data key="d0">subtle details</data>
+</node>
+<node id="Microsoft">
+  <data key="d0">Microsoft</data>
+</node>
+<node id="coordinated takedown">
+  <data key="d0">coordinated takedown</data>
+</node>
+<node id="Media">
+  <data key="d0">Media</data>
+</node>
+<node id="political advertising">
+  <data key="d0">political advertising</data>
+</node>
+<node id="Instagram group">
+  <data key="d0">Instagram group</data>
+</node>
+<node id="Telegram account">
+  <data key="d0">Telegram account</data>
+</node>
+<node id="mass domestic contention">
+  <data key="d0">mass domestic contention</data>
+</node>
+<node id="frequent transformation">
+  <data key="d0">frequent transformation</data>
+</node>
+<node id="encryption codes">
+  <data key="d0">encryption codes</data>
+</node>
+<node id="Operation Ladybird">
+  <data key="d0">Operation Ladybird</data>
+</node>
+<node id="enforcement authorities">
+  <data key="d0">enforcement authorities</data>
+</node>
+<node id="disinformation resourced efforts">
+  <data key="d0">disinformation resourced efforts</data>
+</node>
+<node id="BotBuster algorithm">
+  <data key="d0">BotBuster algorithm</data>
+</node>
+<node id="algorithm concept">
+  <data key="d0">algorithm concept</data>
+</node>
+<node id="support gains">
+  <data key="d0">support gains</data>
+</node>
+<node id="intelligence">
+  <data key="d0">intelligence</data>
+</node>
+<node id="package inspection">
+  <data key="d0">package inspection</data>
+</node>
+<node id="Mie Young Kim">
+  <data key="d0">Mie Young Kim</data>
+</node>
+<node id="groups">
+  <data key="d0">groups</data>
+</node>
+<node id="Carl Friedrich">
+  <data key="d0">Carl Friedrich</data>
+</node>
+<node id="inter alia">
+  <data key="d0">inter alia</data>
+</node>
+<node id="CDL">
+  <data key="d0">CDL</data>
+</node>
+<node id="Guidelines">
+  <data key="d0">Guidelines</data>
+</node>
+<node id="uniform distribution">
+  <data key="d0">uniform distribution</data>
+</node>
+<node id="pressure continuous strategy">
+  <data key="d0">pressure continuous strategy</data>
+</node>
+<node id="Svolik">
+  <data key="d0">Svolik</data>
+</node>
+<node id="actor contentious constellations">
+  <data key="d0">actor contentious constellations</data>
+</node>
+<node id="Telegram platform">
+  <data key="d0">Telegram platform</data>
+</node>
+<node id="data fields">
+  <data key="d0">data fields</data>
+</node>
+<node id="British government">
+  <data key="d0">British government</data>
+</node>
+<node id="intelligence private dissemination">
+  <data key="d0">intelligence private dissemination</data>
+</node>
+<node id="Commoditization">
+  <data key="d0">Commoditization</data>
+</node>
+<node id="Pay">
+  <data key="d0">Pay</data>
+</node>
+<node id="increasing ubiquity">
+  <data key="d0">increasing ubiquity</data>
+</node>
+<node id="actual impact">
+  <data key="d0">actual impact</data>
+</node>
+<node id="push called updates">
+  <data key="d0">push called updates</data>
+</node>
+<node id="T]he successes">
+  <data key="d0">T]he successes</data>
+</node>
+<node id="ernment crackdown">
+  <data key="d0">ernment crackdown</data>
+</node>
+<node id="emerging literature">
+  <data key="d0">emerging literature</data>
+</node>
+<node id="theoretical embeddedness">
+  <data key="d0">theoretical embeddedness</data>
+</node>
+<node id="West">
+  <data key="d0">West</data>
+</node>
+<node id="news fake factories">
+  <data key="d0">news fake factories</data>
+</node>
+<node id="influence online operations">
+  <data key="d0">influence online operations</data>
+</node>
+<node id="user">
+  <data key="d0">user</data>
+</node>
+<node id="human users">
+  <data key="d0">human users</data>
+</node>
+<node id="Figure9">
+  <data key="d0">Figure9</data>
+</node>
+<node id="recent commitments">
+  <data key="d0">recent commitments</data>
+</node>
+<node id="significant implications">
+  <data key="d0">significant implications</data>
+</node>
+<node id="particular dates">
+  <data key="d0">particular dates</data>
+</node>
+<node id="-May 12th">
+  <data key="d0">-May 12th</data>
+</node>
+<node id="moderation decisions">
+  <data key="d0">moderation decisions</data>
+</node>
+<node id="European approach">
+  <data key="d0">European approach</data>
+</node>
+<node id="CyberPalyanista">
+  <data key="d0">CyberPalyanista</data>
+</node>
+<node id="https://darkrebel.net/hydra-review-and-tutorial Manuscript">
+  <data key="d0">https://darkrebel.net/hydra-review-and-tutorial Manuscript</data>
+</node>
+<node id="Georgoulias">
+  <data key="d0">Georgoulias</data>
+</node>
+<node id="defensive measures">
+  <data key="d0">defensive measures</data>
+</node>
+<node id="plat­ form">
+  <data key="d0">plat­ form</data>
+</node>
+<node id="based researchers">
+  <data key="d0">based researchers</data>
+</node>
+<node id="cultural cluster">
+  <data key="d0">cultural cluster</data>
+</node>
+<node id="Ukrainian groups">
+  <data key="d0">Ukrainian groups</data>
+</node>
+<node id="peak activity">
+  <data key="d0">peak activity</data>
+</node>
+<node id="Arab">
+  <data key="d0">Arab</data>
+</node>
+<node id="Egyptian experience">
+  <data key="d0">Egyptian experience</data>
+</node>
+<node id="extensive review">
+  <data key="d0">extensive review</data>
+</node>
+<node id="research ﬁndings">
+  <data key="d0">research ﬁndings</data>
+</node>
+<node id="political scientists">
+  <data key="d0">political scientists</data>
+</node>
+<node id="analytical tools">
+  <data key="d0">analytical tools</data>
+</node>
+<node id="close scrutiny">
+  <data key="d0">close scrutiny</data>
+</node>
+<node id="hardware components">
+  <data key="d0">hardware components</data>
+</node>
+<node id="spy microchips">
+  <data key="d0">spy microchips</data>
+</node>
+<node id="Navalny">
+  <data key="d0">Navalny</data>
+</node>
+<node id="standalone website">
+  <data key="d0">standalone website</data>
+</node>
+<node id="protesters">
+  <data key="d0">protesters</data>
+</node>
+<node id="political claims">
+  <data key="d0">political claims</data>
+</node>
+<node id="Effects">
+  <data key="d0">Effects</data>
+</node>
+<node id="EconSocio05u">
+  <data key="d0">EconSocio05u</data>
+</node>
+<node id="power relations">
+  <data key="d0">power relations</data>
+</node>
+<node id="different modes">
+  <data key="d0">different modes</data>
+</node>
+<node id="Deepfake Videos">
+  <data key="d0">Deepfake Videos</data>
+</node>
+<node id="Real">
+  <data key="d0">Real</data>
+</node>
+<node id="CyberArmyofRussia_Reborn">
+  <data key="d0">CyberArmyofRussia_Reborn</data>
+</node>
+<node id="signiﬁcant activity">
+  <data key="d0">signiﬁcant activity</data>
+</node>
+<node id="regime capacities">
+  <data key="d0">regime capacities</data>
+</node>
+<node id="life private increase">
+  <data key="d0">life private increase</data>
+</node>
+<node id="Physical seizure">
+  <data key="d0">Physical seizure</data>
+</node>
+<node id="legal procedures">
+  <data key="d0">legal procedures</data>
+</node>
+<node id="effective detection">
+  <data key="d0">effective detection</data>
+</node>
+<node id="continuous maintenance">
+  <data key="d0">continuous maintenance</data>
+</node>
+<node id="Organizations">
+  <data key="d0">Organizations</data>
+</node>
+<node id="business">
+  <data key="d0">business</data>
+</node>
+<node id="state security">
+  <data key="d0">state security</data>
+</node>
+<node id="Chinese technologies">
+  <data key="d0">Chinese technologies</data>
+</node>
+<node id="digital new platform">
+  <data key="d0">digital new platform</data>
+</node>
+<node id="increasing importance">
+  <data key="d0">increasing importance</data>
+</node>
+<node id="key area">
+  <data key="d0">key area</data>
+</node>
+<node id="Military category">
+  <data key="d0">Military category</data>
+</node>
+<node id="aggressive growth">
+  <data key="d0">aggressive growth</data>
+</node>
+<node id="internet">
+  <data key="d0">internet</data>
+</node>
+<node id="global phenomenon">
+  <data key="d0">global phenomenon</data>
+</node>
+<node id="security practitioners">
+  <data key="d0">security practitioners</data>
+</node>
+<node id="online media">
+  <data key="d0">online media</data>
+</node>
+<node id="inde­ pendent">
+  <data key="d0">inde­ pendent</data>
+</node>
+<node id="certain sectors">
+  <data key="d0">certain sectors</data>
+</node>
+<node id="Lord">
+  <data key="d0">Lord</data>
+</node>
+<node id="Russian - pro Ukrainian - pro collectives">
+  <data key="d0">Russian - pro Ukrainian - pro collectives</data>
+</node>
+<node id="different strategies">
+  <data key="d0">different strategies</data>
+</node>
+<node id="erative gen­ trained - pre models">
+  <data key="d0">erative gen­ trained - pre models</data>
+</node>
+<node id="routine simple transformations">
+  <data key="d0">routine simple transformations</data>
+</node>
+<node id="analysis">
+  <data key="d0">analysis</data>
+</node>
+<node id="concrete recommendations">
+  <data key="d0">concrete recommendations</data>
+</node>
+<node id="Youth">
+  <data key="d0">Youth</data>
+</node>
+<node id="Past">
+  <data key="d0">Past</data>
+</node>
+<node id="MainProblemEcon">
+  <data key="d0">MainProblemEcon</data>
+</node>
+<node id="second option">
+  <data key="d0">second option</data>
+</node>
+<node id="botnet framework">
+  <data key="d0">botnet framework</data>
+</node>
+<node id="Institutional change">
+  <data key="d0">Institutional change</data>
+</node>
+<node id="political new institutions">
+  <data key="d0">political new institutions</data>
+</node>
+<node id="user large base">
+  <data key="d0">user large base</data>
+</node>
+<node id="ripe ground">
+  <data key="d0">ripe ground</data>
+</node>
+<node id="Shah">
+  <data key="d0">Shah</data>
+</node>
+<node id="modernizing vision">
+  <data key="d0">modernizing vision</data>
+</node>
+<node id="Dropbox">
+  <data key="d0">Dropbox</data>
+</node>
+<node id="upper limits">
+  <data key="d0">upper limits</data>
+</node>
+<node id="Intimate">
+  <data key="d0">Intimate</data>
+</node>
+<node id="gender relationships">
+  <data key="d0">gender relationships</data>
+</node>
+<node id="effective censorship">
+  <data key="d0">effective censorship</data>
+</node>
+<node id="regime leaders">
+  <data key="d0">regime leaders</data>
+</node>
+<node id="surveillance Enhanced capacities">
+  <data key="d0">surveillance Enhanced capacities</data>
+</node>
+<node id="Figure6">
+  <data key="d0">Figure6</data>
+</node>
+<node id="insightful visualization">
+  <data key="d0">insightful visualization</data>
+</node>
+<node id="LiveJournal">
+  <data key="d0">LiveJournal</data>
+</node>
+<node id="political function">
+  <data key="d0">political function</data>
+</node>
+<node id="Forms">
+  <data key="d0">Forms</data>
+</node>
+<node id="hashtag activism">
+  <data key="d0">hashtag activism</data>
+</node>
+<node id="varied uses">
+  <data key="d0">varied uses</data>
+</node>
+<node id="generative deep model">
+  <data key="d0">generative deep model</data>
+</node>
+<node id="suspicious distortions">
+  <data key="d0">suspicious distortions</data>
+</node>
+<node id="Cyber Commons">
+  <data key="d0">Cyber Commons</data>
+</node>
+<node id="propaganda Communist - anti War body">
+  <data key="d0">propaganda Communist - anti War body</data>
+</node>
+<node id="collection OSINT global network">
+  <data key="d0">collection OSINT global network</data>
+</node>
+<node id="state Russian television">
+  <data key="d0">state Russian television</data>
+</node>
+<node id="fake images">
+  <data key="d0">fake images</data>
+</node>
+<node id="centrality higher Fig">
+  <data key="d0">centrality higher Fig</data>
+</node>
+<node id="protest movement">
+  <data key="d0">protest movement</data>
+</node>
+<node id="media applications">
+  <data key="d0">media applications</data>
+</node>
+<node id="Medvedev">
+  <data key="d0">Medvedev</data>
+</node>
+<node id="head office">
+  <data key="d0">head office</data>
+</node>
+<node id="Blue nodes">
+  <data key="d0">Blue nodes</data>
+</node>
+<node id="betweenness higher centrality">
+  <data key="d0">betweenness higher centrality</data>
+</node>
+<node id="Paper">
+  <data key="d0">Paper</data>
+</node>
+<node id="Verdoliva">
+  <data key="d0">Verdoliva</data>
+</node>
+<node id="FUTURE | SCENARIOS">
+  <data key="d0">FUTURE | SCENARIOS</data>
+</node>
+<node id="diverse set">
+  <data key="d0">diverse set</data>
+</node>
+<node id="political sectors">
+  <data key="d0">political sectors</data>
+</node>
+<node id="Habermas">
+  <data key="d0">Habermas</data>
+</node>
+<node id="explicit interest">
+  <data key="d0">explicit interest</data>
+</node>
+<node id="face images">
+  <data key="d0">face images</data>
+</node>
+<node id="costumer segments">
+  <data key="d0">costumer segments</data>
+</node>
+<node id="substance users">
+  <data key="d0">substance users</data>
+</node>
+<node id="Innovations">
+  <data key="d0">Innovations</data>
+</node>
+<node id="Cambridge Analytica">
+  <data key="d0">Cambridge Analytica</data>
+</node>
+<node id="KGB">
+  <data key="d0">KGB</data>
+</node>
+<node id="forged intelligence">
+  <data key="d0">forged intelligence</data>
+</node>
+<node id="political similar ambitions">
+  <data key="d0">political similar ambitions</data>
+</node>
+<node id="different forms">
+  <data key="d0">different forms</data>
+</node>
+<node id="Joshua Tucker">
+  <data key="d0">Joshua Tucker</data>
+</node>
+<node id="Vladimir President Putin">
+  <data key="d0">Vladimir President Putin</data>
+</node>
+<node id="traditional Russian media">
+  <data key="d0">traditional Russian media</data>
+</node>
+<node id="Trickbot">
+  <data key="d0">Trickbot</data>
+</node>
+<node id="Emotet Following Shutdown">
+  <data key="d0">Emotet Following Shutdown</data>
+</node>
+<node id="proRussian groups">
+  <data key="d0">proRussian groups</data>
+</node>
+<node id="limited overlap">
+  <data key="d0">limited overlap</data>
+</node>
+<node id="new content">
+  <data key="d0">new content</data>
+</node>
+<node id="analytics firm">
+  <data key="d0">analytics firm</data>
+</node>
+<node id="interference Russian campaign">
+  <data key="d0">interference Russian campaign</data>
+</node>
+<node id="continuous stream">
+  <data key="d0">continuous stream</data>
+</node>
+<node id="TransitionWinners 0.04">
+  <data key="d0">TransitionWinners 0.04</data>
+</node>
+<node id="Emre Ekmekcioglu1">
+  <data key="d0">Emre Ekmekcioglu1</data>
+</node>
+<node id="Russian - pro Ukrainian - pro groups">
+  <data key="d0">Russian - pro Ukrainian - pro groups</data>
+</node>
+<node id="Procurement">
+  <data key="d0">Procurement</data>
+</node>
+<node id="physical acquisition">
+  <data key="d0">physical acquisition</data>
+</node>
+<node id="chemical weapons">
+  <data key="d0">chemical weapons</data>
+</node>
+<node id="Ukraine crisis">
+  <data key="d0">Ukraine crisis</data>
+</node>
+<node id="digital technologies">
+  <data key="d0">digital technologies</data>
+</node>
+<node id="bots">
+  <data key="d0">bots</data>
+</node>
+<node id="limited capability">
+  <data key="d0">limited capability</data>
+</node>
+<node id="false narratives">
+  <data key="d0">false narratives</data>
+</node>
+<node id="Protest surveys">
+  <data key="d0">Protest surveys</data>
+</node>
+<node id="probability - non sampling">
+  <data key="d0">probability - non sampling</data>
+</node>
+<node id="technical expertise">
+  <data key="d0">technical expertise</data>
+</node>
+<node id="major difference">
+  <data key="d0">major difference</data>
+</node>
+<node id="fourth step">
+  <data key="d0">fourth step</data>
+</node>
+<node id="Section">
+  <data key="d0">Section</data>
+</node>
+<node id="GPT">
+  <data key="d0">GPT</data>
+</node>
+<node id="language interpretation">
+  <data key="d0">language interpretation</data>
+</node>
+<node id="common targets">
+  <data key="d0">common targets</data>
+</node>
+<node id="System">
+  <data key="d0">System</data>
+</node>
+<node id="CIA Director">
+  <data key="d0">CIA Director</data>
+</node>
+<node id="CNN">
+  <data key="d0">CNN</data>
+</node>
+<node id="discourse information">
+  <data key="d0">discourse information</data>
+</node>
+<node id="Media source">
+  <data key="d0">Media source</data>
+</node>
+<node id="VotedLukashenka MemberInCivSocOrg VotedTsikhanouskaya">
+  <data key="d0">VotedLukashenka MemberInCivSocOrg VotedTsikhanouskaya</data>
+</node>
+<node id="Telegram bots">
+  <data key="d0">Telegram bots</data>
+</node>
+<node id="main roles">
+  <data key="d0">main roles</data>
+</node>
+<node id="Facebook">
+  <data key="d0">Facebook</data>
+</node>
+<node id="different factions">
+  <data key="d0">different factions</data>
+</node>
+<node id="filtering different policies">
+  <data key="d0">filtering different policies</data>
+</node>
+<node id="plat­ popular form">
+  <data key="d0">plat­ popular form</data>
+</node>
+<node id="Stephanie van">
+  <data key="d0">Stephanie van</data>
+</node>
+<node id="Berg">
+  <data key="d0">Berg</data>
+</node>
+<node id="posture.9 operational similar Perpetrators">
+  <data key="d0">posture.9 operational similar Perpetrators</data>
+</node>
+<node id="invest­ significant ment">
+  <data key="d0">invest­ significant ment</data>
+</node>
+<node id="Key 3.3.6 Resources">
+  <data key="d0">Key 3.3.6 Resources</data>
+</node>
+<node id="necessary assets">
+  <data key="d0">necessary assets</data>
+</node>
+<node id="important limitations">
+  <data key="d0">important limitations</data>
+</node>
+<node id="Spyware">
+  <data key="d0">Spyware</data>
+</node>
+<node id="information">
+  <data key="d0">information</data>
+</node>
+<node id="Gordon Corera">
+  <data key="d0">Gordon Corera</data>
+</node>
+<node id="BBC News">
+  <data key="d0">BBC News</data>
+</node>
+<node id="GPT labels">
+  <data key="d0">GPT labels</data>
+</node>
+<node id="language natural interpretation">
+  <data key="d0">language natural interpretation</data>
+</node>
+<node id="Demographic Factors">
+  <data key="d0">Demographic Factors</data>
+</node>
+<node id="Protest Participants">
+  <data key="d0">Protest Participants</data>
+</node>
+<node id="daily expenses">
+  <data key="d0">daily expenses</data>
+</node>
+<node id="money Purchase">
+  <data key="d0">money Purchase</data>
+</node>
+<node id="citizenship basic rights">
+  <data key="d0">citizenship basic rights</data>
+</node>
+<node id="theoretical reflections">
+  <data key="d0">theoretical reflections</data>
+</node>
+<node id="modern life">
+  <data key="d0">modern life</data>
+</node>
+<node id="complete list">
+  <data key="d0">complete list</data>
+</node>
+<node id="”64 Platforms">
+  <data key="d0">”64 Platforms</data>
+</node>
+<node id="policies.65 similar Center">
+  <data key="d0">policies.65 similar Center</data>
+</node>
+<node id="exiled opponents">
+  <data key="d0">exiled opponents</data>
+</node>
+<node id="diverse interactions">
+  <data key="d0">diverse interactions</data>
+</node>
+<node id="new challenges">
+  <data key="d0">new challenges</data>
+</node>
+<node id="ex­ amples">
+  <data key="d0">ex­ amples</data>
+</node>
+<node id="rough benchmark">
+  <data key="d0">rough benchmark</data>
+</node>
+<node id="Theocharis">
+  <data key="d0">Theocharis</data>
+</node>
+<node id="Van Deth">
+  <data key="d0">Van Deth</data>
+</node>
+<node id="analytical frame">
+  <data key="d0">analytical frame</data>
+</node>
+<node id="future explorations">
+  <data key="d0">future explorations</data>
+</node>
+<node id="political processes">
+  <data key="d0">political processes</data>
+</node>
+<node id="generative model">
+  <data key="d0">generative model</data>
+</node>
+<node id="regulation">
+  <data key="d0">regulation</data>
+</node>
+<node id="humdrum considerations">
+  <data key="d0">humdrum considerations</data>
+</node>
+<node id="crucial hints">
+  <data key="d0">crucial hints</data>
+</node>
+<node id="synthetic media">
+  <data key="d0">synthetic media</data>
+</node>
+<node id="prominent landmarks">
+  <data key="d0">prominent landmarks</data>
+</node>
+<node id="Repression">
+  <data key="d0">Repression</data>
+</node>
+<node id="negative incentives">
+  <data key="d0">negative incentives</data>
+</node>
+<node id="political campaign">
+  <data key="d0">political campaign</data>
+</node>
+<node id="sure action">
+  <data key="d0">sure action</data>
+</node>
+<node id="tailored Second deepfakes">
+  <data key="d0">tailored Second deepfakes</data>
+</node>
+<node id="greater threat">
+  <data key="d0">greater threat</data>
+</node>
+<node id="Incourse911(inc911">
+  <data key="d0">Incourse911(inc911</data>
+</node>
+<node id="studca CybPal inc911">
+  <data key="d0">studca CybPal inc911</data>
+</node>
+<node id="Censorship">
+  <data key="d0">Censorship</data>
+</node>
+<node id="Government Criticism">
+  <data key="d0">Government Criticism</data>
+</node>
+<node id="Provided data">
+  <data key="d0">Provided data</data>
+</node>
+<node id="Page">
+  <data key="d0">Page</data>
+</node>
+<node id="digital technology">
+  <data key="d0">digital technology</data>
+</node>
+<node id="new ways">
+  <data key="d0">new ways</data>
+</node>
+<node id="Version Peer">
+  <data key="d0">Version Peer</data>
+</node>
+<node id="version Link">
+  <data key="d0">version Link</data>
+</node>
+<node id="vaccination - Anti Islam Rizza activist">
+  <data key="d0">vaccination - Anti Islam Rizza activist</data>
+</node>
+<node id="IP addresses">
+  <data key="d0">IP addresses</data>
+</node>
+<node id="service providers">
+  <data key="d0">service providers</data>
+</node>
+<node id="Policymak­ ers">
+  <data key="d0">Policymak­ ers</data>
+</node>
+<node id="concrete guidance">
+  <data key="d0">concrete guidance</data>
+</node>
+<node id="Nationalities Papers">
+  <data key="d0">Nationalities Papers</data>
+</node>
+<node id="Russian">
+  <data key="d0">Russian</data>
+</node>
+<node id="driven fakery">
+  <data key="d0">driven fakery</data>
+</node>
+<node id="realistic depictions">
+  <data key="d0">realistic depictions</data>
+</node>
+<node id="National Belarus Awakening">
+  <data key="d0">National Belarus Awakening</data>
+</node>
+<node id="Hope">
+  <data key="d0">Hope</data>
+</node>
+<node id="Lithuanian websites">
+  <data key="d0">Lithuanian websites</data>
+</node>
+<node id="BotBuster">
+  <data key="d0">BotBuster</data>
+</node>
+<node id="speciﬁc domains">
+  <data key="d0">speciﬁc domains</data>
+</node>
+<node id="DDoS repeated attacks">
+  <data key="d0">DDoS repeated attacks</data>
+</node>
+<node id="complex factors">
+  <data key="d0">complex factors</data>
+</node>
+<node id="particular patterns">
+  <data key="d0">particular patterns</data>
+</node>
+<node id="recent paper">
+  <data key="d0">recent paper</data>
+</node>
+<node id="training times">
+  <data key="d0">training times</data>
+</node>
+<node id="low cost">
+  <data key="d0">low cost</data>
+</node>
+<node id="disinformation resourced campaigns">
+  <data key="d0">disinformation resourced campaigns</data>
+</node>
+<node id="fertile environment">
+  <data key="d0">fertile environment</data>
+</node>
+<node id="ing trend">
+  <data key="d0">ing trend</data>
+</node>
+<node id="Simple Detection deepfakes">
+  <data key="d0">Simple Detection deepfakes</data>
+</node>
+<node id="ZeroAccess notorious botnet">
+  <data key="d0">ZeroAccess notorious botnet</data>
+</node>
+<node id="Discussion">
+  <data key="d0">Discussion</data>
+</node>
+<node id="dissemination patterns">
+  <data key="d0">dissemination patterns</data>
+</node>
+<node id="Preprint">
+  <data key="d0">Preprint</data>
+</node>
+<node id="January">
+  <data key="d0">January</data>
+</node>
+<node id="Russian - pro entities">
+  <data key="d0">Russian - pro entities</data>
+</node>
+<node id="trained resulting model">
+  <data key="d0">trained resulting model</data>
+</node>
+<node id="unseen images">
+  <data key="d0">unseen images</data>
+</node>
+<node id="FrdsFamAbroad">
+  <data key="d0">FrdsFamAbroad</data>
+</node>
+<node id="Table">
+  <data key="d0">Table</data>
+</node>
+<node id="Unexpected Deaths">
+  <data key="d0">Unexpected Deaths</data>
+</node>
+<node id="online content">
+  <data key="d0">online content</data>
+</node>
+<node id="| Issue">
+  <data key="d0">| Issue</data>
+</node>
+<node id="Commission">
+  <data key="d0">Commission</data>
+</node>
+<node id="specific guidance">
+  <data key="d0">specific guidance</data>
+</node>
+<node id="technical literature">
+  <data key="d0">technical literature</data>
+</node>
+<node id="critical insight">
+  <data key="d0">critical insight</data>
+</node>
+<node id="Trump administration">
+  <data key="d0">Trump administration</data>
+</node>
+<node id="similar tactics">
+  <data key="d0">similar tactics</data>
+</node>
+<node id="Cloudbased solutions">
+  <data key="d0">Cloudbased solutions</data>
+</node>
+<node id="transient changes">
+  <data key="d0">transient changes</data>
+</node>
+<node id="garbage protests">
+  <data key="d0">garbage protests</data>
+</node>
+<node id="sig­ government - anti clear nificance">
+  <data key="d0">sig­ government - anti clear nificance</data>
+</node>
+<node id="Educ6u">
+  <data key="d0">Educ6u</data>
+</node>
+<node id="theocratic regime">
+  <data key="d0">theocratic regime</data>
+</node>
+<node id="considerable control">
+  <data key="d0">considerable control</data>
+</node>
+<node id="political forces">
+  <data key="d0">political forces</data>
+</node>
+<node id="rapid shifts">
+  <data key="d0">rapid shifts</data>
+</node>
+<node id="intelligence analysis">
+  <data key="d0">intelligence analysis</data>
+</node>
+<node id="policymaking process.28">
+  <data key="d0">policymaking process.28</data>
+</node>
+<node id="et al">
+  <data key="d0">et al</data>
+</node>
+<node id="political strong antagonisms">
+  <data key="d0">political strong antagonisms</data>
+</node>
+<node id="long history">
+  <data key="d0">long history</data>
+</node>
+<node id="highest second rate">
+  <data key="d0">highest second rate</data>
+</node>
+<node id="Technical innovation">
+  <data key="d0">Technical innovation</data>
+</node>
+<node id="fake operation">
+  <data key="d0">fake operation</data>
+</node>
+<node id="digital advanced devices">
+  <data key="d0">digital advanced devices</data>
+</node>
+<node id="Section6">
+  <data key="d0">Section6</data>
+</node>
+<node id="thorough analysis">
+  <data key="d0">thorough analysis</data>
+</node>
+<node id="Recent work">
+  <data key="d0">Recent work</data>
+</node>
+<node id="helpful datapoints">
+  <data key="d0">helpful datapoints</data>
+</node>
+<node id="FakeApp">
+  <data key="d0">FakeApp</data>
+</node>
+<node id="technical - non users">
+  <data key="d0">technical - non users</data>
+</node>
+<node id="credential Botnets theft">
+  <data key="d0">credential Botnets theft</data>
+</node>
+<node id="Red nodes">
+  <data key="d0">Red nodes</data>
+</node>
+<node id="High costs">
+  <data key="d0">High costs</data>
+</node>
+<node id="attractive relative">
+  <data key="d0">attractive relative</data>
+</node>
+<node id="Survey">
+  <data key="d0">Survey</data>
+</node>
+<node id="underlying characteristics">
+  <data key="d0">underlying characteristics</data>
+</node>
+<node id="Phoenix Inform">
+  <data key="d0">Phoenix Inform</data>
+</node>
+<node id="lower activity">
+  <data key="d0">lower activity</data>
+</node>
+<node id="DDoS protection">
+  <data key="d0">DDoS protection</data>
+</node>
+<node id="FamFinanSit7u">
+  <data key="d0">FamFinanSit7u</data>
+</node>
+<node id="Medical Online medical Discussion">
+  <data key="d0">Medical Online medical Discussion</data>
+</node>
+<node id="Writers">
+  <data key="d0">Writers</data>
+</node>
+<node id="significant concerns">
+  <data key="d0">significant concerns</data>
+</node>
+<node id="exhaustive - non list">
+  <data key="d0">exhaustive - non list</data>
+</node>
+<node id="digital activism">
+  <data key="d0">digital activism</data>
+</node>
+<node id="English">
+  <data key="d0">English</data>
+</node>
+<node id="intellectual elite">
+  <data key="d0">intellectual elite</data>
+</node>
+<node id="Psychology 39(S1">
+  <data key="d0">Psychology 39(S1</data>
+</node>
+<node id="biological funded program">
+  <data key="d0">biological funded program</data>
+</node>
+<node id="detection systems">
+  <data key="d0">detection systems</data>
+</node>
+<node id="constant updating">
+  <data key="d0">constant updating</data>
+</node>
+<node id="Portal Research DOI">
+  <data key="d0">Portal Research DOI</data>
+</node>
+<node id="Hackers">
+  <data key="d0">Hackers</data>
+</node>
+<node id="Bitcoin">
+  <data key="d0">Bitcoin</data>
+</node>
+<node id="College London">
+  <data key="d0">College London</data>
+</node>
+<node id="Higher Kolozaridi School">
+  <data key="d0">Higher Kolozaridi School</data>
+</node>
+<node id="0.00 TransitionLosers">
+  <data key="d0">0.00 TransitionLosers</data>
+</node>
+<node id="Figure3a">
+  <data key="d0">Figure3a</data>
+</node>
+<node id="messaging popular platform">
+  <data key="d0">messaging popular platform</data>
+</node>
+<node id="prevalent arrests">
+  <data key="d0">prevalent arrests</data>
+</node>
+<node id="political opposition">
+  <data key="d0">political opposition</data>
+</node>
+<node id="documentation inconsistent practices">
+  <data key="d0">documentation inconsistent practices</data>
+</node>
+<node id="detection deepfake accuracy">
+  <data key="d0">detection deepfake accuracy</data>
+</node>
+<node id="Events">
+  <data key="d0">Events</data>
+</node>
+<node id="stable set">
+  <data key="d0">stable set</data>
+</node>
+<node id="additional sector">
+  <data key="d0">additional sector</data>
+</node>
+<node id="related services">
+  <data key="d0">related services</data>
+</node>
+<node id="Colin Powell">
+  <data key="d0">Colin Powell</data>
+</node>
+<node id="communication secure channels">
+  <data key="d0">communication secure channels</data>
+</node>
+<node id="striking tactics">
+  <data key="d0">striking tactics</data>
+</node>
+<node id="greater influence">
+  <data key="d0">greater influence</data>
+</node>
+<node id="tailored GAN">
+  <data key="d0">tailored GAN</data>
+</node>
+<node id="ERGA">
+  <data key="d0">ERGA</data>
+</node>
+<node id="interim Report">
+  <data key="d0">interim Report</data>
+</node>
+<node id="security Russian service">
+  <data key="d0">security Russian service</data>
+</node>
+<node id="Actors">
+  <data key="d0">Actors</data>
+</node>
+<node id="Glasius">
+  <data key="d0">Glasius</data>
+</node>
+<node id="deep­ fakes">
+  <data key="d0">deep­ fakes</data>
+</node>
+<node id="inspired anomaly">
+  <data key="d0">inspired anomaly</data>
+</node>
+<node id="time detection">
+  <data key="d0">time detection</data>
+</node>
+<node id="Control Study">
+  <data key="d0">Control Study</data>
+</node>
+<node id="Protest Class Paradigm">
+  <data key="d0">Protest Class Paradigm</data>
+</node>
+<node id="Yarovaya package">
+  <data key="d0">Yarovaya package</data>
+</node>
+<node id="Service Providers">
+  <data key="d0">Service Providers</data>
+</node>
+<node id="Keywords">
+  <data key="d0">Keywords</data>
+</node>
+<node id="unanticipated unplanned1">
+  <data key="d0">unanticipated unplanned1</data>
+</node>
+<node id="active monthly users">
+  <data key="d0">active monthly users</data>
+</node>
+<node id="sponsored groups">
+  <data key="d0">sponsored groups</data>
+</node>
+<node id="leveraged tools">
+  <data key="d0">leveraged tools</data>
+</node>
+<node id="political institutions">
+  <data key="d0">political institutions</data>
+</node>
+<node id="technological possibilities">
+  <data key="d0">technological possibilities</data>
+</node>
+<node id="state pressure">
+  <data key="d0">state pressure</data>
+</node>
+<node id="longer history">
+  <data key="d0">longer history</data>
+</node>
+<node id="opinion messages">
+  <data key="d0">opinion messages</data>
+</node>
+<node id="elite New actors">
+  <data key="d0">elite New actors</data>
+</node>
+<node id="higher levels">
+  <data key="d0">higher levels</data>
+</node>
+<node id="Abstract">
+  <data key="d0">Abstract</data>
+</node>
+<node id="military massive offensive">
+  <data key="d0">military massive offensive</data>
+</node>
+<node id="following section">
+  <data key="d0">following section</data>
+</node>
+<node id="conceptual framework">
+  <data key="d0">conceptual framework</data>
+</node>
+<node id="Neural Recurrent Network">
+  <data key="d0">Neural Recurrent Network</data>
+</node>
+<node id="short text">
+  <data key="d0">short text</data>
+</node>
+<node id="security apparatus">
+  <data key="d0">security apparatus</data>
+</node>
+<node id="espionage advanced technologies">
+  <data key="d0">espionage advanced technologies</data>
+</node>
+<node id="intelligence communities">
+  <data key="d0">intelligence communities</data>
+</node>
+<node id="Data Accessibility">
+  <data key="d0">Data Accessibility</data>
+</node>
+<node id="Content">
+  <data key="d0">Content</data>
+</node>
+<node id="mod­ generative els">
+  <data key="d0">mod­ generative els</data>
+</node>
+<node id="resulting video">
+  <data key="d0">resulting video</data>
+</node>
+<node id="Cyber Attacks">
+  <data key="d0">Cyber Attacks</data>
+</node>
+<node id="Sophisticated">
+  <data key="d0">Sophisticated</data>
+</node>
+<node id="Distribution">
+  <data key="d0">Distribution</data>
+</node>
+<node id="Results">
+  <data key="d0">Results</data>
+</node>
+<node id="security inadequate measures">
+  <data key="d0">security inadequate measures</data>
+</node>
+<node id="air Soviet force">
+  <data key="d0">air Soviet force</data>
+</node>
+<node id="flight KAL">
+  <data key="d0">flight KAL</data>
+</node>
+<node id="Capabilities Tracking">
+  <data key="d0">Capabilities Tracking</data>
+</node>
+<node id="GoAbroad 0.03">
+  <data key="d0">GoAbroad 0.03</data>
+</node>
+<node id="regime coalitions">
+  <data key="d0">regime coalitions</data>
+</node>
+<node id="society state relations">
+  <data key="d0">society state relations</data>
+</node>
+<node id="European Commission">
+  <data key="d0">European Commission</data>
+</node>
+<node id="Guidance">
+  <data key="d0">Guidance</data>
+</node>
+<node id="Figure8">
+  <data key="d0">Figure8</data>
+</node>
+<node id="detailed analysis">
+  <data key="d0">detailed analysis</data>
+</node>
+<node id="sec­ tion">
+  <data key="d0">sec­ tion</data>
+</node>
+<node id="current strengths">
+  <data key="d0">current strengths</data>
+</node>
+<node id="Related work">
+  <data key="d0">Related work</data>
+</node>
+<node id="literature review">
+  <data key="d0">literature review</data>
+</node>
+<node id="likely outpace">
+  <data key="d0">likely outpace</data>
+</node>
+<node id="Humans">
+  <data key="d0">Humans</data>
+</node>
+<node id="disinformation stories">
+  <data key="d0">disinformation stories</data>
+</node>
+<node id="quantitative calculations">
+  <data key="d0">quantitative calculations</data>
+</node>
+<node id="Intelligence">
+  <data key="d0">Intelligence</data>
+</node>
+<node id="Value propositions">
+  <data key="d0">Value propositions</data>
+</node>
+<node id="value exchange">
+  <data key="d0">value exchange</data>
+</node>
+<node id="Rød EG">
+  <data key="d0">Rød EG</data>
+</node>
+<node id="Activists">
+  <data key="d0">Activists</data>
+</node>
+<node id="NationBEL">
+  <data key="d0">NationBEL</data>
+</node>
+<node id="wide range">
+  <data key="d0">wide range</data>
+</node>
+<node id="Drone">
+  <data key="d0">Drone</data>
+</node>
+<node id="Coronavirus Enforcing Rules">
+  <data key="d0">Coronavirus Enforcing Rules</data>
+</node>
+<node id="Digital technology">
+  <data key="d0">Digital technology</data>
+</node>
+<node id="new means">
+  <data key="d0">new means</data>
+</node>
+<node id="OpenNet Initiative">
+  <data key="d0">OpenNet Initiative</data>
+</node>
+<node id="country report">
+  <data key="d0">country report</data>
+</node>
+<node id="Recent literature">
+  <data key="d0">Recent literature</data>
+</node>
+<node id="under­ standing">
+  <data key="d0">under­ standing</data>
+</node>
+<node id="protection authorities">
+  <data key="d0">protection authorities</data>
+</node>
+<node id="enforcement limited powers">
+  <data key="d0">enforcement limited powers</data>
+</node>
+<node id="Belarusian context">
+  <data key="d0">Belarusian context</data>
+</node>
+<node id="economic decline">
+  <data key="d0">economic decline</data>
+</node>
+<node id="source intelligence">
+  <data key="d0">source intelligence</data>
+</node>
+<node id="state monopolies">
+  <data key="d0">state monopolies</data>
+</node>
+<node id="autocratic elites">
+  <data key="d0">autocratic elites</data>
+</node>
+<node id="authoritarian politics">
+  <data key="d0">authoritarian politics</data>
+</node>
+<node id="Mark">
+  <data key="d0">Mark</data>
+</node>
+<node id="interactional patterns">
+  <data key="d0">interactional patterns</data>
+</node>
+<node id="generative deep models">
+  <data key="d0">generative deep models</data>
+</node>
+<node id="underground economy">
+  <data key="d0">underground economy</data>
+</node>
+<node id="comparative analysis">
+  <data key="d0">comparative analysis</data>
+</node>
+<node id="strategic distinct preferences">
+  <data key="d0">strategic distinct preferences</data>
+</node>
+<node id="Sounding Board">
+  <data key="d0">Sounding Board</data>
+</node>
+<node id="critical view">
+  <data key="d0">critical view</data>
+</node>
+<node id="Matthew Hutson">
+  <data key="d0">Matthew Hutson</data>
+</node>
+<node id="Science">
+  <data key="d0">Science</data>
+</node>
+<node id="comprehensive analysis">
+  <data key="d0">comprehensive analysis</data>
+</node>
+<node id="political party">
+  <data key="d0">political party</data>
+</node>
+<node id="startup companies">
+  <data key="d0">startup companies</data>
+</node>
+<node id="detection services">
+  <data key="d0">detection services</data>
+</node>
+<node id="Clandestine acts">
+  <data key="d0">Clandestine acts</data>
+</node>
+<node id="data retrospective collection">
+  <data key="d0">data retrospective collection</data>
+</node>
+<node id="additional biases">
+  <data key="d0">additional biases</data>
+</node>
+<node id="DemSystemPreferable">
+  <data key="d0">DemSystemPreferable</data>
+</node>
+<node id="sparse data">
+  <data key="d0">sparse data</data>
+</node>
+<node id="disinformation prospective actor">
+  <data key="d0">disinformation prospective actor</data>
+</node>
+<node id="Power">
+  <data key="d0">Power</data>
+</node>
+<node id="service provider">
+  <data key="d0">service provider</data>
+</node>
+<node id="data hardware probes">
+  <data key="d0">data hardware probes</data>
+</node>
+<node id="Declarations Conﬂict">
+  <data key="d0">Declarations Conﬂict</data>
+</node>
+<node id="Conﬂict">
+  <data key="d0">Conﬂict</data>
+</node>
+<node id="Temporal analysis">
+  <data key="d0">Temporal analysis</data>
+</node>
+<node id="time understanding">
+  <data key="d0">time understanding</data>
+</node>
+<node id="independent media">
+  <data key="d0">independent media</data>
+</node>
+<node id="Syria">
+  <data key="d0">Syria</data>
+</node>
+<node id="States assessment">
+  <data key="d0">States assessment</data>
+</node>
+<node id="Economic Governance">
+  <data key="d0">Economic Governance</data>
+</node>
+<node id="Social Contracts">
+  <data key="d0">Social Contracts</data>
+</node>
+<node id="global profound transformations">
+  <data key="d0">global profound transformations</data>
+</node>
+<node id="widespread adoption">
+  <data key="d0">widespread adoption</data>
+</node>
+<node id="robust platform">
+  <data key="d0">robust platform</data>
+</node>
+<node id="Deeptrace">
+  <data key="d0">Deeptrace</data>
+</node>
+<node id="model">
+  <data key="d0">model</data>
+</node>
+<node id="Russian ambassador">
+  <data key="d0">Russian ambassador</data>
+</node>
+<node id="Express">
+  <data key="d0">Express</data>
+</node>
+<node id="Edward Wong">
+  <data key="d0">Edward Wong</data>
+</node>
+<node id="Botmasters">
+  <data key="d0">Botmasters</data>
+</node>
+<node id="darkweb marketplaces">
+  <data key="d0">darkweb marketplaces</data>
+</node>
+<node id="dot Chinese org">
+  <data key="d0">dot Chinese org</data>
+</node>
+<node id="regime">
+  <data key="d0">regime</data>
+</node>
+<node id="targeted repression">
+  <data key="d0">targeted repression</data>
+</node>
+<node id="Incourse911">
+  <data key="d0">Incourse911</data>
+</node>
+<node id="Belarus">
+  <data key="d0">Belarus</data>
+</node>
+<node id="false information">
+  <data key="d0">false information</data>
+</node>
+<node id="VPN services">
+  <data key="d0">VPN services</data>
+</node>
+<node id="distinctive traces">
+  <data key="d0">distinctive traces</data>
+</node>
+<node id="Artificial intelligence">
+  <data key="d0">Artificial intelligence</data>
+</node>
+<node id="Yandex">
+  <data key="d0">Yandex</data>
+</node>
+<node id="Internet Russian major giants">
+  <data key="d0">Internet Russian major giants</data>
+</node>
+<node id="State Dependency">
+  <data key="d0">State Dependency</data>
+</node>
+<node id="Demand">
+  <data key="d0">Demand</data>
+</node>
+<node id="interview sample">
+  <data key="d0">interview sample</data>
+</node>
+<node id="interesting segment">
+  <data key="d0">interesting segment</data>
+</node>
+<node id="Twitter">
+  <data key="d0">Twitter</data>
+</node>
+<node id="Guardian">
+  <data key="d0">Guardian</data>
+</node>
+<node id="Values">
+  <data key="d0">Values</data>
+</node>
+<node id="positive correlation">
+  <data key="d0">positive correlation</data>
+</node>
+<node id="Television">
+  <data key="d0">Television</data>
+</node>
+<node id="main source">
+  <data key="d0">main source</data>
+</node>
+<node id="limited understanding">
+  <data key="d0">limited understanding</data>
+</node>
+<node id="Inconsistent documentation">
+  <data key="d0">Inconsistent documentation</data>
+</node>
+<node id="significant issue">
+  <data key="d0">significant issue</data>
+</node>
+<node id="public dissemination">
+  <data key="d0">public dissemination</data>
+</node>
+<node id="Biden administration">
+  <data key="d0">Biden administration</data>
+</node>
+<node id="information networks">
+  <data key="d0">information networks</data>
+</node>
+<node id="salient moments">
+  <data key="d0">salient moments</data>
+</node>
+<node id="aggre­ gates">
+  <data key="d0">aggre­ gates</data>
+</node>
+<node id="Dictators">
+  <data key="d0">Dictators</data>
+</node>
+<node id="detectable deepfakes">
+  <data key="d0">detectable deepfakes</data>
+</node>
+<node id="resilience gains">
+  <data key="d0">resilience gains</data>
+</node>
+<node id="Author(s">
+  <data key="d0">Author(s</data>
+</node>
+<node id="prominent threat">
+  <data key="d0">prominent threat</data>
+</node>
+<node id="disinformation themes">
+  <data key="d0">disinformation themes</data>
+</node>
+<node id="Changes">
+  <data key="d0">Changes</data>
+</node>
+<node id="elite - intra composition">
+  <data key="d0">elite - intra composition</data>
+</node>
+<node id="takedown operations">
+  <data key="d0">takedown operations</data>
+</node>
+<node id="Ukrainian government">
+  <data key="d0">Ukrainian government</data>
+</node>
+<node id="Army">
+  <data key="d0">Army</data>
+</node>
+<node id="new types">
+  <data key="d0">new types</data>
+</node>
+<node id="consump­ tion">
+  <data key="d0">consump­ tion</data>
+</node>
+<node id="travel threatorientated advice">
+  <data key="d0">travel threatorientated advice</data>
+</node>
+<node id="led simpler communications">
+  <data key="d0">led simpler communications</data>
+</node>
+<node id="Western agents">
+  <data key="d0">Western agents</data>
+</node>
+<node id="Observers">
+  <data key="d0">Observers</data>
+</node>
+<node id="protest wave">
+  <data key="d0">protest wave</data>
+</node>
+<node id="Britain">
+  <data key="d0">Britain</data>
+</node>
+<node id="careful measures">
+  <data key="d0">careful measures</data>
+</node>
+<node id="Sensitive data">
+  <data key="d0">Sensitive data</data>
+</node>
+<node id="political opinions">
+  <data key="d0">political opinions</data>
+</node>
+<node id="different media">
+  <data key="d0">different media</data>
+</node>
+<node id="indiscriminate violence">
+  <data key="d0">indiscriminate violence</data>
+</node>
+<node id="opposite effect">
+  <data key="d0">opposite effect</data>
+</node>
+<node id="high rate">
+  <data key="d0">high rate</data>
+</node>
+<node id="strategic importance">
+  <data key="d0">strategic importance</data>
+</node>
+<node id="evolving relationship">
+  <data key="d0">evolving relationship</data>
+</node>
+<node id="India">
+  <data key="d0">India</data>
+</node>
+<node id="regimes">
+  <data key="d0">regimes</data>
+</node>
+<node id="CCDH">
+  <data key="d0">CCDH</data>
+</node>
+<node id="data collection">
+  <data key="d0">data collection</data>
+</node>
+<node id="authoritarian contexts">
+  <data key="d0">authoritarian contexts</data>
+</node>
+<node id="middle dependent class">
+  <data key="d0">middle dependent class</data>
+</node>
+<node id="Capacity Deepfakes">
+  <data key="d0">Capacity Deepfakes</data>
+</node>
+<node id="unique opportunity">
+  <data key="d0">unique opportunity</data>
+</node>
+<node id="overall cost">
+  <data key="d0">overall cost</data>
+</node>
+<node id="trained eye">
+  <data key="d0">trained eye</data>
+</node>
+<node id="crude deepfakes">
+  <data key="d0">crude deepfakes</data>
+</node>
+<node id="Weekday distribution">
+  <data key="d0">Weekday distribution</data>
+</node>
+<node id="expansive campaign">
+  <data key="d0">expansive campaign</data>
+</node>
+<node id="reproducibility crisis">
+  <data key="d0">reproducibility crisis</data>
+</node>
+<node id="Inconsistent practices">
+  <data key="d0">Inconsistent practices</data>
+</node>
+<node id="Working Conficker Group">
+  <data key="d0">Working Conficker Group</data>
+</node>
+<node id="digital recent innovations">
+  <data key="d0">digital recent innovations</data>
+</node>
+<node id="broad range">
+  <data key="d0">broad range</data>
+</node>
+<node id="digital techniques">
+  <data key="d0">digital techniques</data>
+</node>
+<node id="authoritarian incumbents">
+  <data key="d0">authoritarian incumbents</data>
+</node>
+<node id="media sphere">
+  <data key="d0">media sphere</data>
+</node>
+<node id="oppositional power">
+  <data key="d0">oppositional power</data>
+</node>
+<node id="Council">
+  <data key="d0">Council</data>
+</node>
+<node id="quality journalism">
+  <data key="d0">quality journalism</data>
+</node>
+<node id="Chinese government">
+  <data key="d0">Chinese government</data>
+</node>
+<node id="undesirable sites">
+  <data key="d0">undesirable sites</data>
+</node>
+<node id="Russian state">
+  <data key="d0">Russian state</data>
+</node>
+<node id="new constraints">
+  <data key="d0">new constraints</data>
+</node>
+<node id="political innovation">
+  <data key="d0">political innovation</data>
+</node>
+<node id="hacktivist group">
+  <data key="d0">hacktivist group</data>
+</node>
+<node id="INTERPOL">
+  <data key="d0">INTERPOL</data>
+</node>
+<node id="global operation">
+  <data key="d0">global operation</data>
+</node>
+<node id="Peer sinkholing">
+  <data key="d0">Peer sinkholing</data>
+</node>
+<node id="bot assimilation">
+  <data key="d0">bot assimilation</data>
+</node>
+<node id="policy demands">
+  <data key="d0">policy demands</data>
+</node>
+<node id="new era">
+  <data key="d0">new era</data>
+</node>
+<node id="Technoactivism">
+  <data key="d0">Technoactivism</data>
+</node>
+<node id="technical extensive expertise">
+  <data key="d0">technical extensive expertise</data>
+</node>
+<node id="LangNatvBEL">
+  <data key="d0">LangNatvBEL</data>
+</node>
+<node id="existing systems">
+  <data key="d0">existing systems</data>
+</node>
+<node id="technical capacities">
+  <data key="d0">technical capacities</data>
+</node>
+<node id="Research">
+  <data key="d0">Research</data>
+</node>
+<node id="repressive regimes">
+  <data key="d0">repressive regimes</data>
+</node>
+<node id="current scope">
+  <data key="d0">current scope</data>
+</node>
+<node id="relevant regulation">
+  <data key="d0">relevant regulation</data>
+</node>
+<node id="global standard">
+  <data key="d0">global standard</data>
+</node>
+<node id="identity factors">
+  <data key="d0">identity factors</data>
+</node>
+<node id="engagement Belarus">
+  <data key="d0">engagement Belarus</data>
+</node>
+<node id="EDPS">
+  <data key="d0">EDPS</data>
+</node>
+<node id="Opinion">
+  <data key="d0">Opinion</data>
+</node>
+<node id="Great Chinese Firewall">
+  <data key="d0">Great Chinese Firewall</data>
+</node>
+<node id="numerous algorithms">
+  <data key="d0">numerous algorithms</data>
+</node>
+<node id="VotedTsikhanouskaya">
+  <data key="d0">VotedTsikhanouskaya</data>
+</node>
+<node id="technol­ modern ogy">
+  <data key="d0">technol­ modern ogy</data>
+</node>
+<node id="service media">
+  <data key="d0">service media</data>
+</node>
+<node id="free airtime">
+  <data key="d0">free airtime</data>
+</node>
+<node id="CoP">
+  <data key="d0">CoP</data>
+</node>
+<node id="transitional measure">
+  <data key="d0">transitional measure</data>
+</node>
+<node id="Samantha">
+  <data key="d0">Samantha</data>
+</node>
+<node id="data annotation">
+  <data key="d0">data annotation</data>
+</node>
+<node id="different addresses">
+  <data key="d0">different addresses</data>
+</node>
+<node id="Web Amazon Services">
+  <data key="d0">Web Amazon Services</data>
+</node>
+<node id="Detection Deepfake Challenge">
+  <data key="d0">Detection Deepfake Challenge</data>
+</node>
+<node id="Mozilla">
+  <data key="d0">Mozilla</data>
+</node>
+<node id="action">
+  <data key="d0">action</data>
+</node>
+<node id="Internet users">
+  <data key="d0">Internet users</data>
+</node>
+<node id="special interest">
+  <data key="d0">special interest</data>
+</node>
+<node id="MIT Press">
+  <data key="d0">MIT Press</data>
+</node>
+<node id="Ian Goodfellow">
+  <data key="d0">Ian Goodfellow</data>
+</node>
+<node id="deciding factors">
+  <data key="d0">deciding factors</data>
+</node>
+<node id="tain cer­ actors">
+  <data key="d0">tain cer­ actors</data>
+</node>
+<node id="Gerasimov Doctrine">
+  <data key="d0">Gerasimov Doctrine</data>
+</node>
+<node id="Molly Mckew">
+  <data key="d0">Molly Mckew</data>
+</node>
+<node id="Digital popularity.21 capabilities">
+  <data key="d0">Digital popularity.21 capabilities</data>
+</node>
+<node id="dictatorial existing tools">
+  <data key="d0">dictatorial existing tools</data>
+</node>
+<node id="pop organized protests">
+  <data key="d0">pop organized protests</data>
+</node>
+<node id="human chains">
+  <data key="d0">human chains</data>
+</node>
+<node id="Draft">
+  <data key="d0">Draft</data>
+</node>
+<node id="training course">
+  <data key="d0">training course</data>
+</node>
+<node id="persuasive capacity">
+  <data key="d0">persuasive capacity</data>
+</node>
+<node id="different meanings">
+  <data key="d0">different meanings</data>
+</node>
+<node id="Richard Chief Moore">
+  <data key="d0">Richard Chief Moore</data>
+</node>
+<node id="emptive - pre exposures">
+  <data key="d0">emptive - pre exposures</data>
+</node>
+<node id="takedown actors">
+  <data key="d0">takedown actors</data>
+</node>
+<node id="ISPs">
+  <data key="d0">ISPs</data>
+</node>
+<node id="Russians">
+  <data key="d0">Russians</data>
+</node>
+<node id="controlled TV">
+  <data key="d0">controlled TV</data>
+</node>
+<node id="Analysis">
+  <data key="d0">Analysis</data>
+</node>
+<node id="heat detailed map">
+  <data key="d0">heat detailed map</data>
+</node>
+<node id="useful platform">
+  <data key="d0">useful platform</data>
+</node>
+<node id="al­ gorithms">
+  <data key="d0">al­ gorithms</data>
+</node>
+<node id="notable surge">
+  <data key="d0">notable surge</data>
+</node>
+<node id="Stakeholders">
+  <data key="d0">Stakeholders</data>
+</node>
+<node id="radioactive marking">
+  <data key="d0">radioactive marking</data>
+</node>
+<node id="GDPR">
+  <data key="d0">GDPR</data>
+</node>
+<node id="Protection Directive">
+  <data key="d0">Protection Directive</data>
+</node>
+<node id="public conversations">
+  <data key="d0">public conversations</data>
+</node>
+<node id="Dmitry Gudkov">
+  <data key="d0">Dmitry Gudkov</data>
+</node>
+<node id="Uber">
+  <data key="d0">Uber</data>
+</node>
+<node id="Islamic Republic">
+  <data key="d0">Islamic Republic</data>
+</node>
+<node id="satellite dishes">
+  <data key="d0">satellite dishes</data>
+</node>
+<node id="research literature">
+  <data key="d0">research literature</data>
+</node>
+<node id="relevant categories">
+  <data key="d0">relevant categories</data>
+</node>
+<node id="economic groups">
+  <data key="d0">economic groups</data>
+</node>
+<node id="active users">
+  <data key="d0">active users</data>
+</node>
+<node id="Belarusian distinguishing protesters">
+  <data key="d0">Belarusian distinguishing protesters</data>
+</node>
+<node id="positive incentives">
+  <data key="d0">positive incentives</data>
+</node>
+<node id="smaller increases">
+  <data key="d0">smaller increases</data>
+</node>
+<node id="Glossary Center">
+  <data key="d0">Glossary Center</data>
+</node>
+<node id="rare conversation">
+  <data key="d0">rare conversation</data>
+</node>
+<node id="Washington Post">
+  <data key="d0">Washington Post</data>
+</node>
+<node id="Authoritarianism">
+  <data key="d0">Authoritarianism</data>
+</node>
+<node id="Intelligence Joint Committee">
+  <data key="d0">Intelligence Joint Committee</data>
+</node>
+<node id="manipulation intervenes">
+  <data key="d0">manipulation intervenes</data>
+</node>
+<node id="behavioural changes">
+  <data key="d0">behavioural changes</data>
+</node>
+<node id="disinformation paign">
+  <data key="d0">disinformation paign</data>
+</node>
+<node id="experienced specialist">
+  <data key="d0">experienced specialist</data>
+</node>
+<node id="contentious - Non Forms">
+  <data key="d0">contentious - Non Forms</data>
+</node>
+<node id="Examples">
+  <data key="d0">Examples</data>
+</node>
+<node id="joint action">
+  <data key="d0">joint action</data>
+</node>
+<node id="War Propaganda">
+  <data key="d0">War Propaganda</data>
+</node>
+<node id="Lukashenka - Anti protesters">
+  <data key="d0">Lukashenka - Anti protesters</data>
+</node>
+<node id="red flag">
+  <data key="d0">red flag</data>
+</node>
+<node id="photographic evidence">
+  <data key="d0">photographic evidence</data>
+</node>
+<node id="rich source">
+  <data key="d0">rich source</data>
+</node>
+<node id="attack DDoS strategies">
+  <data key="d0">attack DDoS strategies</data>
+</node>
+<node id="distinct difference">
+  <data key="d0">distinct difference</data>
+</node>
+<node id="sophisticated actors">
+  <data key="d0">sophisticated actors</data>
+</node>
+<node id="tailored deepfakes">
+  <data key="d0">tailored deepfakes</data>
+</node>
+<node id="Pavel Durov">
+  <data key="d0">Pavel Durov</data>
+</node>
+<node id="grant program">
+  <data key="d0">grant program</data>
+</node>
+<node id="transformative qualitative change">
+  <data key="d0">transformative qualitative change</data>
+</node>
+<node id="new strategies">
+  <data key="d0">new strategies</data>
+</node>
+<node id="private discourses">
+  <data key="d0">private discourses</data>
+</node>
+<node id="differing inputs">
+  <data key="d0">differing inputs</data>
+</node>
+<node id="follow video">
+  <data key="d0">follow video</data>
+</node>
+<node id="military involvement">
+  <data key="d0">military involvement</data>
+</node>
+<edge source="young people" target="Iran">
+  <data key="d1">leave</data>
+  <data key="d2">leave</data>
+</edge>
+<edge source="young people" target="social media">
+  <data key="d1">adapt</data>
+  <data key="d2">adapt</data>
+</edge>
+<edge source="Contribution" target="Public Sphere">
+  <data key="d1">rethink</data>
+  <data key="d2">rethink</data>
+</edge>
+<edge source="Aouragh" target="different kinds">
+  <data key="d1">distinguish</data>
+  <data key="d2">distinguish</data>
+</edge>
+<edge source="Roskomnadzor" target="notifica­ push tions">
+  <data key="d1">block</data>
+  <data key="d2">block</data>
+</edge>
+<edge source="Roskomnadzor" target="service providers">
+  <data key="d1">tell</data>
+  <data key="d2">tell</data>
+</edge>
+<edge source="incen­ tives" target="disinformation campaigns">
+  <data key="d1">lead</data>
+  <data key="d2">lead</data>
+</edge>
+<edge source="disinformation campaigns" target="media synthetic techniques">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="disinformation campaigns" target="Technology">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="disinformation campaigns" target="ML models">
+  <data key="d1">adopt</data>
+  <data key="d2">adopt</data>
+</edge>
+<edge source="disinformation campaigns" target="hostile environment">
+  <data key="d1">confront</data>
+  <data key="d2">confront</data>
+</edge>
+<edge source="disinformation campaigns" target="deepfakes">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="disinformation campaigns" target="false information">
+  <data key="d1">spread</data>
+  <data key="d2">spread</data>
+</edge>
+<edge source="disinformation campaigns" target="detectable deepfakes">
+  <data key="d1">avoid</data>
+  <data key="d2">avoid</data>
+</edge>
+<edge source="disinformation campaigns" target="technol­ modern ogy">
+  <data key="d1">leverage</data>
+  <data key="d2">leverage</data>
+</edge>
+<edge source="Dover" target="symbiotic relationship">
+  <data key="d1">highlight</data>
+  <data key="d2">highlight</data>
+</edge>
+<edge source="News" target="highest frequency">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="popular dataset" target="synthetic realistic imagery">
+  <data key="d1">produce</data>
+  <data key="d2">produce</data>
+</edge>
+<edge source="Aaron van" target="Oord">
+  <data key="d1">den</data>
+  <data key="d2">den</data>
+</edge>
+<edge source="Aaron van" target="Lord">
+  <data key="d1">den</data>
+  <data key="d2">den</data>
+</edge>
+<edge source="data" target="basic contain information">
+  <data key="d1">acquire</data>
+  <data key="d2">acquire</data>
+</edge>
+<edge source="media companies" target="influence campaign">
+  <data key="d1">deplatform</data>
+  <data key="d2">deplatform</data>
+</edge>
+<edge source="Bo Katie Lillis" target="British intelligence">
+  <data key="d1">bring</data>
+  <data key="d2">bring</data>
+</edge>
+<edge source="Telegram" target="random addresses">
+  <data key="d1">assign</data>
+  <data key="d2">assign</data>
+</edge>
+<edge source="Telegram" target="push called updates">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Telegram" target="close scrutiny">
+  <data key="d1">give</data>
+  <data key="d2">give</data>
+</edge>
+<edge source="Telegram" target="political similar ambitions">
+  <data key="d1">lack</data>
+  <data key="d2">lack</data>
+</edge>
+<edge source="Telegram" target="active monthly users">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Telegram" target="different addresses">
+  <data key="d1">assign</data>
+  <data key="d2">assign</data>
+</edge>
+<edge source="Telegram" target="useful platform">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="Telegram" target="rich source">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="younger members" target="political views">
+  <data key="d1">characterize</data>
+  <data key="d2">characterize</data>
+</edge>
+<edge source="WaveNet" target="synthetic voices">
+  <data key="d1">produce</data>
+  <data key="d2">produce</data>
+</edge>
+<edge source="lithuania" target="goods transit">
+  <data key="d1">ban</data>
+  <data key="d2">ban</data>
+</edge>
+<edge source="Telegram chats" target="major tool">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="useful surveys" target="Devender Raahat Singh">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Usmanov" target="Dmitry Medvedev">
+  <data key="d1">bribe</data>
+  <data key="d2">bribe</data>
+</edge>
+<edge source="CyberPalyanitsa" target="websites">
+  <data key="d1">target</data>
+  <data key="d2">target</data>
+</edge>
+<edge source="websites" target="highest second rate">
+  <data key="d1">experience</data>
+  <data key="d2">experience</data>
+</edge>
+<edge source="Iraqi WMD" target="reputational risks">
+  <data key="d1">underscore</data>
+  <data key="d2">underscore</data>
+</edge>
+<edge source="Putin" target="partial mobilisation">
+  <data key="d1">order</data>
+  <data key="d2">order</data>
+</edge>
+<edge source="target host" target="Botnet">
+  <data key="d1">join</data>
+  <data key="d2">join</data>
+</edge>
+<edge source="Botnet" target="personal agenda">
+  <data key="d1">serve</data>
+  <data key="d2">serve</data>
+</edge>
+<edge source="Botnet" target="P2P architecture">
+  <data key="d1">follow</data>
+  <data key="d2">follow</data>
+</edge>
+<edge source="Botnet" target="System">
+  <data key="d1">utilise</data>
+  <data key="d2">utilise</data>
+</edge>
+<edge source="digital innovations" target="digital devices">
+  <data key="d1">require</data>
+  <data key="d2">require</data>
+</edge>
+<edge source="Online Activism" target="based alternative power">
+  <data key="d1">add</data>
+  <data key="d2">add</data>
+</edge>
+<edge source="research cent papers" target="useful details">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="Researchers" target="strong success">
+  <data key="d1">report</data>
+  <data key="d2">report</data>
+</edge>
+<edge source="Researchers" target="special interest">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="Manuscript" target="business Botnet models">
+  <data key="d1">submit</data>
+  <data key="d2">submit</data>
+</edge>
+<edge source="Manuscript" target="Georgoulias">
+  <data key="d1">submit</data>
+  <data key="d2">submit</data>
+</edge>
+<edge source="media social platforms" target="learning process">
+  <data key="d1">help</data>
+  <data key="d2">help</data>
+</edge>
+<edge source="Runet" target="rich diversity">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="Runet" target="new challenges">
+  <data key="d1">create</data>
+  <data key="d2">create</data>
+</edge>
+<edge source="Ukraine" target="UK claim">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="Ukraine" target="biological funded program">
+  <data key="d1">destroy</data>
+  <data key="d2">destroy</data>
+</edge>
+<edge source="Ukraine" target="notable surge">
+  <data key="d1">witness</data>
+  <data key="d2">witness</data>
+</edge>
+<edge source="Nicolas Fandos" target="Influence Active Campaign">
+  <data key="d1">identify</data>
+  <data key="d2">identify</data>
+</edge>
+<edge source="Conclusions" target="possible strategies">
+  <data key="d1">reveal</data>
+  <data key="d2">reveal</data>
+</edge>
+<edge source="Malicious actors" target="influence operations">
+  <data key="d1">enhance</data>
+  <data key="d2">enhance</data>
+</edge>
+<edge source="Malicious actors" target="hostile environment">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="influence operations" target="deciding factors">
+  <data key="d1">weigh</data>
+  <data key="d2">weigh</data>
+</edge>
+<edge source="civil societies" target="fascinating continuity">
+  <data key="d1">represent</data>
+  <data key="d2">represent</data>
+</edge>
+<edge source="Government" target="VPNs">
+  <data key="d1">block</data>
+  <data key="d2">block</data>
+</edge>
+<edge source="Government" target="sanitised version">
+  <data key="d1">publish</data>
+  <data key="d2">publish</data>
+</edge>
+<edge source="Government" target="encryption codes">
+  <data key="d1">change</data>
+  <data key="d2">change</data>
+</edge>
+<edge source="Government" target="package inspection">
+  <data key="d1">appropriate</data>
+  <data key="d2">appropriate</data>
+</edge>
+<edge source="online sphere" target="major domain">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="AVCs" target="Cybercriminal Different Platforms">
+  <data key="d1">understand</data>
+  <data key="d2">understand</data>
+</edge>
+<edge source="El Paquete" target="informational alternative">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="Entertainment" target="highest frequency">
+  <data key="d1">experience</data>
+  <data key="d2">experience</data>
+</edge>
+<edge source="Entertainment" target="smaller increases">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="domains" target="Cloudﬂare">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="domains" target="DDoS protection">
+  <data key="d1">lack</data>
+  <data key="d2">lack</data>
+</edge>
+<edge source="ﬁgure 1b" target="detailed visualization">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="Akbari" target="sociopolitical context">
+  <data key="d1">describe</data>
+  <data key="d2">describe</data>
+</edge>
+<edge source="technological innovation" target="synergy effects">
+  <data key="d1">bring</data>
+  <data key="d2">bring</data>
+</edge>
+<edge source="social media" target="Political Protest">
+  <data key="d1">facilitate</data>
+  <data key="d2">facilitate</data>
+</edge>
+<edge source="social media" target="Psychology 39(S1">
+  <data key="d1">facilitate</data>
+  <data key="d2">facilitate</data>
+</edge>
+<edge source="social media" target="information networks">
+  <data key="d1">represent</data>
+  <data key="d2">represent</data>
+</edge>
+<edge source="social media" target="evolving relationship">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="social media" target="protest movement">
+  <data key="d1">shape</data>
+  <data key="d2">shape</data>
+</edge>
+<edge source="social media" target="different meanings">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="people" target="Imam Khomeini">
+  <data key="d1">love</data>
+  <data key="d2">love</data>
+</edge>
+<edge source="people" target="blocked Telegram">
+  <data key="d1">prefer</data>
+  <data key="d2">prefer</data>
+</edge>
+<edge source="people" target="social media">
+  <data key="d1">put</data>
+  <data key="d2">put</data>
+</edge>
+<edge source="Figure" target="collection pipeline">
+  <data key="d1">illustrate</data>
+  <data key="d2">illustrate</data>
+</edge>
+<edge source="Supreme Leader" target="Telegram channel">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="disinformation Sophisticated campaigns" target="deepfakes">
+  <data key="d1">want</data>
+  <data key="d2">want</data>
+</edge>
+<edge source="deepfakes" target="public discourse">
+  <data key="d1">influence</data>
+  <data key="d2">influence</data>
+</edge>
+<edge source="deepfakes" target="subtle details">
+  <data key="d1">reproduce</data>
+  <data key="d2">reproduce</data>
+</edge>
+<edge source="deepfakes" target="wide range">
+  <data key="d1">exclude</data>
+  <data key="d2">exclude</data>
+</edge>
+<edge source="Digital tools" target="autocrats">
+  <data key="d1">enable</data>
+  <data key="d2">enable</data>
+</edge>
+<edge source="Digital tools" target="exiled opponents">
+  <data key="d1">enable</data>
+  <data key="d2">enable</data>
+</edge>
+<edge source="autocrats" target="undesired narratives">
+  <data key="d1">marginalize</data>
+  <data key="d2">marginalize</data>
+</edge>
+<edge source="autocrats" target="similar strategies">
+  <data key="d1">apply</data>
+  <data key="d2">apply</data>
+</edge>
+<edge source="autocrats" target="digital technologies">
+  <data key="d1">instrumentalize</data>
+  <data key="d2">instrumentalize</data>
+</edge>
+<edge source="autocrats" target="online content">
+  <data key="d1">censor</data>
+  <data key="d2">censor</data>
+</edge>
+<edge source="autocrats" target="positive incentives">
+  <data key="d1">set</data>
+  <data key="d2">set</data>
+</edge>
+<edge source="mere identification" target="public views">
+  <data key="d1">change</data>
+  <data key="d2">change</data>
+</edge>
+<edge source="Fig.7" target="cumulative count">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="Iranians" target="satellite antenna">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Iranians" target="internet">
+  <data key="d1">appropriate</data>
+  <data key="d2">appropriate</data>
+</edge>
+<edge source="Iranians" target="Internet Filtering">
+  <data key="d1">overcome</data>
+  <data key="d2">overcome</data>
+</edge>
+<edge source="supreme court" target="nationwide referendum">
+  <data key="d1">overturn</data>
+  <data key="d2">overturn</data>
+</edge>
+<edge source="popular websites" target="online library">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="state" target="mobilizing main agent">
+  <data key="d1">remain</data>
+  <data key="d2">remain</data>
+</edge>
+<edge source="Dozen users" target="Journal">
+  <data key="d1">observe</data>
+  <data key="d2">observe</data>
+</edge>
+<edge source="Journal" target="fertile environment">
+  <data key="d1">create</data>
+  <data key="d2">create</data>
+</edge>
+<edge source="Journal" target="messaging popular platform">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="protest sample" target="higher proportion">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Russian websites" target="DDoS sustained attacks">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="Haydamaki" target="targeting isolated pattern">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="political protest" target="media uptake">
+  <data key="d1">precede</data>
+  <data key="d2">precede</data>
+</edge>
+<edge source="Globalization" target="Lives">
+  <data key="d1">reshape</data>
+  <data key="d2">reshape</data>
+</edge>
+<edge source="Women" target="Stereotypes">
+  <data key="d1">lead</data>
+  <data key="d2">lead</data>
+</edge>
+<edge source="dif­ ferences" target="rigorous comparisons">
+  <data key="d1">make</data>
+  <data key="d2">make</data>
+</edge>
+<edge source="GANs" target="synthetic images">
+  <data key="d1">generate</data>
+  <data key="d2">generate</data>
+</edge>
+<edge source="GANs" target="paired models">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="GANs" target="key area">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="GANs" target="face images">
+  <data key="d1">produce</data>
+  <data key="d2">produce</data>
+</edge>
+<edge source="VKontakte" target="networks market">
+  <data key="d1">dominate</data>
+  <data key="d2">dominate</data>
+</edge>
+<edge source="VKontakte" target="plat­ form">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="mobile network" target="COVID-19">
+  <data key="d1">cause</data>
+  <data key="d2">cause</data>
+</edge>
+<edge source="Sectoral dissection" target="sectors">
+  <data key="d1">outline</data>
+  <data key="d2">outline</data>
+</edge>
+<edge source="sectors" target="DDoS repeated attacks">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="FSB" target="Telegram">
+  <data key="d1">require</data>
+  <data key="d2">require</data>
+</edge>
+<edge source="FSB" target="formal complaint">
+  <data key="d1">file</data>
+  <data key="d2">file</data>
+</edge>
+<edge source="political parties" target="personal data">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Disinformation Dozen" target="fewest messages">
+  <data key="d1">post</data>
+  <data key="d2">post</data>
+</edge>
+<edge source="Disinformation Dozen" target="Journal">
+  <data key="d1">post</data>
+  <data key="d2">post</data>
+</edge>
+<edge source="Disinformation Dozen" target="disinformation themes">
+  <data key="d1">initiate</data>
+  <data key="d2">initiate</data>
+</edge>
+<edge source="Figures" target="sectors">
+  <data key="d1">demonstrate</data>
+  <data key="d2">demonstrate</data>
+</edge>
+<edge source="Technology" target="Power">
+  <data key="d1">reshape</data>
+  <data key="d2">reshape</data>
+</edge>
+<edge source="forwarding users" target="Bot users">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Bot users" target="betweenness higher centrality">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Bot users" target="opinion messages">
+  <data key="d1">author</data>
+  <data key="d2">author</data>
+</edge>
+<edge source="Domain" target="Server shutdown">
+  <data key="d1">sinkhole</data>
+  <data key="d2">sinkhole</data>
+</edge>
+<edge source="Internet Filtering" target="virtual community">
+  <data key="d1">grow</data>
+  <data key="d2">grow</data>
+</edge>
+<edge source="Brian Murphy" target="Center">
+  <data key="d1">need</data>
+  <data key="d2">need</data>
+</edge>
+<edge source="Center" target="machine learning">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Center" target="wide range">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Center" target="persuasive capacity">
+  <data key="d1">define</data>
+  <data key="d2">define</data>
+</edge>
+<edge source="Center" target="photographic evidence">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="Revolutionary Guards" target="VPN servers">
+  <data key="d1">run</data>
+  <data key="d2">run</data>
+</edge>
+<edge source="Revolutionary Guards" target="political sectors">
+  <data key="d1">enter</data>
+  <data key="d2">enter</data>
+</edge>
+<edge source="Revolutionary Guards" target="VPN services">
+  <data key="d1">implement</data>
+  <data key="d2">implement</data>
+</edge>
+<edge source="disinformation campaign" target="deepfakes">
+  <data key="d1">choose</data>
+  <data key="d2">choose</data>
+</edge>
+<edge source="disinformation campaign" target="trained - pre model">
+  <data key="d1">obtain</data>
+  <data key="d2">obtain</data>
+</edge>
+<edge source="disinformation campaign" target="generative deep model">
+  <data key="d1">train</data>
+  <data key="d2">train</data>
+</edge>
+<edge source="disinformation campaign" target="generative model">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="digital tools" target="perpetual agenda">
+  <data key="d1">affect</data>
+  <data key="d2">affect</data>
+</edge>
+<edge source="Russian authorities" target="failed attempt">
+  <data key="d1">make</data>
+  <data key="d2">make</data>
+</edge>
+<edge source="data subject" target="informed specific explicit consent">
+  <data key="d1">give</data>
+  <data key="d2">give</data>
+</edge>
+<edge source="Gunitsky S" target="Perspectives">
+  <data key="d1">corrupt</data>
+  <data key="d2">corrupt</data>
+</edge>
+<edge source="Gunitsky S" target="Cyber Commons">
+  <data key="d1">corrupt</data>
+  <data key="d2">corrupt</data>
+</edge>
+<edge source="Gunitsky S" target="social media">
+  <data key="d1">corrupt</data>
+  <data key="d2">corrupt</data>
+</edge>
+<edge source="Digitalization" target="horizontal connective new modes">
+  <data key="d1">enable</data>
+  <data key="d2">enable</data>
+</edge>
+<edge source="political significant developments" target="military coup">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="disinformation unsophisticated campaigns" target="deepfakes">
+  <data key="d1">adopt</data>
+  <data key="d2">adopt</data>
+</edge>
+<edge source="users" target="content Messages">
+  <data key="d1">post</data>
+  <data key="d2">post</data>
+</edge>
+<edge source="users" target="new content">
+  <data key="d1">discover</data>
+  <data key="d2">discover</data>
+</edge>
+<edge source="users" target="discourse information">
+  <data key="d1">generate</data>
+  <data key="d2">generate</data>
+</edge>
+<edge source="users" target="short text">
+  <data key="d1">post</data>
+  <data key="d2">post</data>
+</edge>
+<edge source="users" target="public conversations">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Google" target="ing includ­ companies">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="Google" target="evident progress">
+  <data key="d1">make</data>
+  <data key="d2">make</data>
+</edge>
+<edge source="insufﬁcient security" target="attacks">
+  <data key="d1">persist</data>
+  <data key="d2">persist</data>
+</edge>
+<edge source="attacks" target="defensive measures">
+  <data key="d1">understand</data>
+  <data key="d2">understand</data>
+</edge>
+<edge source="attacks" target="prominent threat">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="technology block" target="botnet applications">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Recommendation" target="member states">
+  <data key="d1">advise</data>
+  <data key="d2">advise</data>
+</edge>
+<edge source="Recommendation" target="Simple Detection deepfakes">
+  <data key="d1">commodify</data>
+  <data key="d2">commodify</data>
+</edge>
+<edge source="Recommendation" target="Inconsistent practices">
+  <data key="d1">encourage</data>
+  <data key="d2">encourage</data>
+</edge>
+<edge source="Ukrainian - Pro groups" target="DDoS attacks">
+  <data key="d1">conduct</data>
+  <data key="d2">conduct</data>
+</edge>
+<edge source="Chinese Government" target="Media Posts">
+  <data key="d1">fabricate</data>
+  <data key="d2">fabricate</data>
+</edge>
+<edge source="Dies" target="Covid masks">
+  <data key="d1">dod</data>
+  <data key="d2">dod</data>
+</edge>
+<edge source="malicious actor" target="generative models">
+  <data key="d1">create</data>
+  <data key="d2">create</data>
+</edge>
+<edge source="malicious actor" target="tailored GAN">
+  <data key="d1">build</data>
+  <data key="d2">build</data>
+</edge>
+<edge source="Traditional concepts" target="limited capacity">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Past work" target="Framework">
+  <data key="d1">develop</data>
+  <data key="d2">develop</data>
+</edge>
+<edge source="Network analysis" target="eye view">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="popular forums" target="Dread">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Ukrainian" target="DDoS attacks">
+  <data key="d1">initiate</data>
+  <data key="d2">initiate</data>
+</edge>
+<edge source="broad concerns" target="government discourse">
+  <data key="d1">shape</data>
+  <data key="d2">shape</data>
+</edge>
+<edge source="existing overlaps" target="value targets">
+  <data key="d1">highlight</data>
+  <data key="d2">highlight</data>
+</edge>
+<edge source="ML models" target="suspicious distortions">
+  <data key="d1">leave</data>
+  <data key="d2">leave</data>
+</edge>
+<edge source="translate Manuscript" target="business Botnet models">
+  <data key="d1">submit</data>
+  <data key="d2">submit</data>
+</edge>
+<edge source="Proceedings" target="cooperative work">
+  <data key="d1">support</data>
+  <data key="d2">support</data>
+</edge>
+<edge source="web dark users" target="postal services">
+  <data key="d1">utilise</data>
+  <data key="d2">utilise</data>
+</edge>
+<edge source="Ned spokesperson Price" target="tough questions">
+  <data key="d1">outline</data>
+  <data key="d2">outline</data>
+</edge>
+<edge source="Ned spokesperson Price" target="fake operation">
+  <data key="d1">outline</data>
+  <data key="d2">outline</data>
+</edge>
+<edge source="building block" target="maintenance hardware costs">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="building block" target="overall cost">
+  <data key="d1">describe</data>
+  <data key="d2">describe</data>
+</edge>
+<edge source="Cent" target="Click trajectories">
+  <data key="d1">hit</data>
+  <data key="d2">hit</data>
+</edge>
+<edge source="Cent" target="Botnets">
+  <data key="d1">hit</data>
+  <data key="d2">hit</data>
+</edge>
+<edge source="Cent" target="credential Botnets theft">
+  <data key="d1">hit</data>
+  <data key="d2">hit</data>
+</edge>
+<edge source="Cent" target="underground economy">
+  <data key="d1">hit</data>
+  <data key="d2">hit</data>
+</edge>
+<edge source="alternative system" target="comparable performance">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="China" target="Russia">
+  <data key="d1">ask</data>
+  <data key="d2">ask</data>
+</edge>
+<edge source="China" target="current scope">
+  <data key="d1">highlight</data>
+  <data key="d2">highlight</data>
+</edge>
+<edge source="Russia" target="Ukraine">
+  <data key="d1">invade</data>
+  <data key="d2">invade</data>
+</edge>
+<edge source="Russia" target="chemical weapons">
+  <data key="d1">deploy</data>
+  <data key="d2">deploy</data>
+</edge>
+<edge source="Russia" target="military massive offensive">
+  <data key="d1">plan</data>
+  <data key="d2">plan</data>
+</edge>
+<edge source="Russia" target="Internet users">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Russia" target="military involvement">
+  <data key="d1">escalate</data>
+  <data key="d2">escalate</data>
+</edge>
+<edge source="digital platforms" target="Russian users">
+  <data key="d1">afford</data>
+  <data key="d2">afford</data>
+</edge>
+<edge source="frequent targeting" target="deliberate effort">
+  <data key="d1">suggest</data>
+  <data key="d2">suggest</data>
+</edge>
+<edge source="International Journal" target="target preferences">
+  <data key="d1">examine</data>
+  <data key="d2">examine</data>
+</edge>
+<edge source="International Journal" target="Emre Ekmekcioglu1">
+  <data key="d1">examine</data>
+  <data key="d2">examine</data>
+</edge>
+<edge source="ordinary citizens" target="basic rights">
+  <data key="d1">view</data>
+  <data key="d2">view</data>
+</edge>
+<edge source="models" target="Center">
+  <data key="d1">train</data>
+  <data key="d2">train</data>
+</edge>
+<edge source="models" target="false narratives">
+  <data key="d1">spread</data>
+  <data key="d2">spread</data>
+</edge>
+<edge source="Russian - pro groups" target="DDoS attacks">
+  <data key="d1">launch</data>
+  <data key="d2">launch</data>
+</edge>
+<edge source="Russian - pro groups" target="Lithuanian websites">
+  <data key="d1">ddosed</data>
+  <data key="d2">ddosed</data>
+</edge>
+<edge source="Russian - pro groups" target="websites">
+  <data key="d1">target</data>
+  <data key="d2">target</data>
+</edge>
+<edge source="Review" target="Brendan Nyhan">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="Review" target="et al">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="OpenNet Initative" target="Peluso">
+  <data key="d1">resea​rch/​profi​les/​iran</data>
+  <data key="d2">resea​rch/​profi​les/​iran</data>
+</edge>
+<edge source="Chinese regime" target="media comments">
+  <data key="d1">forge</data>
+  <data key="d2">forge</data>
+</edge>
+<edge source="technological new possibilities" target="autocratic politics">
+  <data key="d1">affect</data>
+  <data key="d2">affect</data>
+</edge>
+<edge source="deepfake aggressive Widespread detection" target="messaging private networks">
+  <data key="d1">cover</data>
+  <data key="d2">cover</data>
+</edge>
+<edge source="demographic variables" target="political dispositions">
+  <data key="d1">share</data>
+  <data key="d2">share</data>
+</edge>
+<edge source="Anon_by" target="overlapping highest value">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="International team" target="Andromeda spewing botnet">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="GAN" target="generative network">
+  <data key="d1">produce</data>
+  <data key="d2">produce</data>
+</edge>
+<edge source="Ukrainian - pro groups" target="Cyber Army">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Ukrainian - pro groups" target="CyberPalyanista">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Ukrainian - pro groups" target="Incourse911">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Cyber Army" target="websites">
+  <data key="d1">target</data>
+  <data key="d2">target</data>
+</edge>
+<edge source="malicious actors" target="Technology">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="malicious actors" target="ML models">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="cleavage coalition" target="streets">
+  <data key="d1">fill</data>
+  <data key="d2">fill</data>
+</edge>
+<edge source="Botnets" target="credential fraud">
+  <data key="d1">perform</data>
+  <data key="d2">perform</data>
+</edge>
+<edge source="Microsoft" target="coordinated takedown">
+  <data key="d1">orchestrate</data>
+  <data key="d2">orchestrate</data>
+</edge>
+<edge source="Microsoft" target="IP addresses">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="Microsoft" target="ZeroAccess notorious botnet">
+  <data key="d1">disrupt</data>
+  <data key="d2">disrupt</data>
+</edge>
+<edge source="Microsoft" target="dot Chinese org">
+  <data key="d1">seize</data>
+  <data key="d2">seize</data>
+</edge>
+<edge source="Microsoft" target="Working Conficker Group">
+  <data key="d1">create</data>
+  <data key="d2">create</data>
+</edge>
+<edge source="Media" target="political advertising">
+  <data key="d1">broadcast</data>
+  <data key="d2">broadcast</data>
+</edge>
+<edge source="Media" target="Intelligence">
+  <data key="d1">need</data>
+  <data key="d2">need</data>
+</edge>
+<edge source="political advertising" target="different forms">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="Instagram group" target="Telegram account">
+  <data key="d1">set</data>
+  <data key="d2">set</data>
+</edge>
+<edge source="mass domestic contention" target="frequent transformation">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="Operation Ladybird" target="enforcement authorities">
+  <data key="d1">involve</data>
+  <data key="d2">involve</data>
+</edge>
+<edge source="disinformation resourced efforts" target="generative models">
+  <data key="d1">afford</data>
+  <data key="d2">afford</data>
+</edge>
+<edge source="BotBuster algorithm" target="algorithm concept">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="support gains" target="intelligence">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Mie Young Kim" target="groups">
+  <data key="d1">investigate</data>
+  <data key="d2">investigate</data>
+</edge>
+<edge source="groups" target="common targets">
+  <data key="d1">share</data>
+  <data key="d2">share</data>
+</edge>
+<edge source="groups" target="domains">
+  <data key="d1">target</data>
+  <data key="d2">target</data>
+</edge>
+<edge source="groups" target="DDoS attacks">
+  <data key="d1">coordinate</data>
+  <data key="d2">coordinate</data>
+</edge>
+<edge source="groups" target="Russian websites">
+  <data key="d1">target</data>
+  <data key="d2">target</data>
+</edge>
+<edge source="Carl Friedrich" target="inter alia">
+  <data key="d1">define</data>
+  <data key="d2">define</data>
+</edge>
+<edge source="CDL" target="Guidelines">
+  <data key="d1">ad(2010)024</data>
+  <data key="d2">ad(2010)024</data>
+</edge>
+<edge source="uniform distribution" target="pressure continuous strategy">
+  <data key="d1">indicate</data>
+  <data key="d2">indicate</data>
+</edge>
+<edge source="Svolik" target="actor contentious constellations">
+  <data key="d1">model</data>
+  <data key="d2">model</data>
+</edge>
+<edge source="Telegram platform" target="data fields">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="British government" target="intelligence private dissemination">
+  <data key="d1">pursue</data>
+  <data key="d2">pursue</data>
+</edge>
+<edge source="British government" target="resilience gains">
+  <data key="d1">pursue</data>
+  <data key="d2">pursue</data>
+</edge>
+<edge source="Commoditization" target="Pay">
+  <data key="d1">measure</data>
+  <data key="d2">measure</data>
+</edge>
+<edge source="increasing ubiquity" target="actual impact">
+  <data key="d1">overstate</data>
+  <data key="d2">overstate</data>
+</edge>
+<edge source="T]he successes" target="ernment crackdown">
+  <data key="d1">initiate</data>
+  <data key="d2">initiate</data>
+</edge>
+<edge source="emerging literature" target="theoretical embeddedness">
+  <data key="d1">lack</data>
+  <data key="d2">lack</data>
+</edge>
+<edge source="West" target="news fake factories">
+  <data key="d1">hit</data>
+  <data key="d2">hit</data>
+</edge>
+<edge source="influence online operations" target="deepfakes">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="user" target="human users">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="human users" target="varied uses">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="human users" target="centrality higher Fig">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Figure9" target="sectors">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="recent commitments" target="significant implications">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="particular dates" target="-May 12th">
+  <data key="d1">stand</data>
+  <data key="d2">stand</data>
+</edge>
+<edge source="moderation decisions" target="European approach">
+  <data key="d1">unpack</data>
+  <data key="d2">unpack</data>
+</edge>
+<edge source="https://darkrebel.net/hydra-review-and-tutorial Manuscript" target="Georgoulias">
+  <data key="d1">submit</data>
+  <data key="d2">submit</data>
+</edge>
+<edge source="based researchers" target="cultural cluster">
+  <data key="d1">identify</data>
+  <data key="d2">identify</data>
+</edge>
+<edge source="Ukrainian groups" target="peak activity">
+  <data key="d1">exhibit</data>
+  <data key="d2">exhibit</data>
+</edge>
+<edge source="Arab" target="Egyptian experience">
+  <data key="d1">spring|</data>
+  <data key="d2">spring|</data>
+</edge>
+<edge source="extensive review" target="research ﬁndings">
+  <data key="d1">improve</data>
+  <data key="d2">improve</data>
+</edge>
+<edge source="political scientists" target="analytical tools">
+  <data key="d1">lack</data>
+  <data key="d2">lack</data>
+</edge>
+<edge source="hardware components" target="spy microchips">
+  <data key="d1">design</data>
+  <data key="d2">design</data>
+</edge>
+<edge source="Navalny" target="standalone website">
+  <data key="d1">launch</data>
+  <data key="d2">launch</data>
+</edge>
+<edge source="Navalny" target="follow video">
+  <data key="d1">publish</data>
+  <data key="d2">publish</data>
+</edge>
+<edge source="protesters" target="political claims">
+  <data key="d1">report</data>
+  <data key="d2">report</data>
+</edge>
+<edge source="protesters" target="diverse set">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="protesters" target="independent media">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="protesters" target="different media">
+  <data key="d1">consume</data>
+  <data key="d2">consume</data>
+</edge>
+<edge source="Effects" target="EconSocio05u">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="MainProblemEcon">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="TransitionWinners 0.04">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="FrdsFamAbroad">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="Educ6u">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="FamFinanSit7u">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="0.00 TransitionLosers">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="GoAbroad 0.03">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="NationBEL">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="DemSystemPreferable">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="LangNatvBEL">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="Effects" target="VotedTsikhanouskaya">
+  <data key="d1">0.02</data>
+  <data key="d2">0.02</data>
+</edge>
+<edge source="power relations" target="different modes">
+  <data key="d1">manifest</data>
+  <data key="d2">manifest</data>
+</edge>
+<edge source="Deepfake Videos" target="Real">
+  <data key="d1">get</data>
+  <data key="d2">get</data>
+</edge>
+<edge source="CyberArmyofRussia_Reborn" target="signiﬁcant activity">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="CyberArmyofRussia_Reborn" target="diverse interactions">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="regime capacities" target="life private increase">
+  <data key="d1">penetrate</data>
+  <data key="d2">penetrate</data>
+</edge>
+<edge source="Physical seizure" target="legal procedures">
+  <data key="d1">require</data>
+  <data key="d2">require</data>
+</edge>
+<edge source="effective detection" target="continuous maintenance">
+  <data key="d1">require</data>
+  <data key="d2">require</data>
+</edge>
+<edge source="Organizations" target="business">
+  <data key="d1">rethink</data>
+  <data key="d2">rethink</data>
+</edge>
+<edge source="state security" target="Chinese technologies">
+  <data key="d1">acquire</data>
+  <data key="d2">acquire</data>
+</edge>
+<edge source="digital new platform" target="increasing importance">
+  <data key="d1">assume</data>
+  <data key="d2">assume</data>
+</edge>
+<edge source="Military category" target="aggressive growth">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="internet" target="global phenomenon">
+  <data key="d1">remain</data>
+  <data key="d2">remain</data>
+</edge>
+<edge source="internet" target="War Propaganda">
+  <data key="d1">debunk</data>
+  <data key="d2">debunk</data>
+</edge>
+<edge source="security practitioners" target="intelligence">
+  <data key="d1">divulge</data>
+  <data key="d2">divulge</data>
+</edge>
+<edge source="online media" target="inde­ pendent">
+  <data key="d1">remain</data>
+  <data key="d2">remain</data>
+</edge>
+<edge source="certain sectors" target="DDoS attacks">
+  <data key="d1">experience</data>
+  <data key="d2">experience</data>
+</edge>
+<edge source="Russian - pro Ukrainian - pro collectives" target="different strategies">
+  <data key="d1">follow</data>
+  <data key="d2">follow</data>
+</edge>
+<edge source="erative gen­ trained - pre models" target="routine simple transformations">
+  <data key="d1">perform</data>
+  <data key="d2">perform</data>
+</edge>
+<edge source="analysis" target="concrete recommendations">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="Youth" target="Past">
+  <data key="d1">define</data>
+  <data key="d2">define</data>
+</edge>
+<edge source="second option" target="botnet framework">
+  <data key="d1">buy</data>
+  <data key="d2">buy</data>
+</edge>
+<edge source="Institutional change" target="political new institutions">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="user large base" target="ripe ground">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="Shah" target="modernizing vision">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Dropbox" target="upper limits">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Intimate" target="gender relationships">
+  <data key="d1">cross</data>
+  <data key="d2">cross</data>
+</edge>
+<edge source="effective censorship" target="regime leaders">
+  <data key="d1">deprive</data>
+  <data key="d2">deprive</data>
+</edge>
+<edge source="surveillance Enhanced capacities" target="autocrats">
+  <data key="d1">enable</data>
+  <data key="d2">enable</data>
+</edge>
+<edge source="Figure6" target="insightful visualization">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="LiveJournal" target="political function">
+  <data key="d1">lose</data>
+  <data key="d2">lose</data>
+</edge>
+<edge source="LiveJournal" target="plat­ popular form">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="Forms" target="hashtag activism">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="propaganda Communist - anti War body" target="collection OSINT global network">
+  <data key="d1">develop</data>
+  <data key="d2">develop</data>
+</edge>
+<edge source="state Russian television" target="fake images">
+  <data key="d1">share</data>
+  <data key="d2">share</data>
+</edge>
+<edge source="protest movement" target="media applications">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Medvedev" target="head office">
+  <data key="d1">visit</data>
+  <data key="d2">visit</data>
+</edge>
+<edge source="Blue nodes" target="human users">
+  <data key="d1">represent</data>
+  <data key="d2">represent</data>
+</edge>
+<edge source="Paper" target="Verdoliva">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="FUTURE | SCENARIOS" target="machine learning">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Habermas" target="explicit interest">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="costumer segments" target="substance users">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Innovations" target="Cambridge Analytica">
+  <data key="d1">allow</data>
+  <data key="d2">allow</data>
+</edge>
+<edge source="KGB" target="forged intelligence">
+  <data key="d1">disseminate</data>
+  <data key="d2">disseminate</data>
+</edge>
+<edge source="KGB" target="Washington Post">
+  <data key="d1">help</data>
+  <data key="d2">help</data>
+</edge>
+<edge source="Joshua Tucker" target="Brendan Nyhan">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="Joshua Tucker" target="et al">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="Vladimir President Putin" target="traditional Russian media">
+  <data key="d1">subject</data>
+  <data key="d2">subject</data>
+</edge>
+<edge source="Trickbot" target="Emotet Following Shutdown">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="proRussian groups" target="limited overlap">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="analytics firm" target="personal data">
+  <data key="d1">harvest</data>
+  <data key="d2">harvest</data>
+</edge>
+<edge source="interference Russian campaign" target="continuous stream">
+  <data key="d1">produce</data>
+  <data key="d2">produce</data>
+</edge>
+<edge source="Russian - pro Ukrainian - pro groups" target="different strategies">
+  <data key="d1">adopt</data>
+  <data key="d2">adopt</data>
+</edge>
+<edge source="Procurement" target="physical acquisition">
+  <data key="d1">describe</data>
+  <data key="d2">describe</data>
+</edge>
+<edge source="Ukraine crisis" target="British intelligence">
+  <data key="d1">bring</data>
+  <data key="d2">bring</data>
+</edge>
+<edge source="digital technologies" target="political processes">
+  <data key="d1">influence</data>
+  <data key="d2">influence</data>
+</edge>
+<edge source="digital technologies" target="digital advanced devices">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="digital technologies" target="global profound transformations">
+  <data key="d1">induce</data>
+  <data key="d2">induce</data>
+</edge>
+<edge source="digital technologies" target="private discourses">
+  <data key="d1">enable</data>
+  <data key="d2">enable</data>
+</edge>
+<edge source="bots" target="limited capability">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Protest surveys" target="probability - non sampling">
+  <data key="d1">employ</data>
+  <data key="d2">employ</data>
+</edge>
+<edge source="technical expertise" target="major difference">
+  <data key="d1">make</data>
+  <data key="d2">make</data>
+</edge>
+<edge source="fourth step" target="Section">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="GPT" target="language interpretation">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="CIA Director" target="CNN">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="CIA Director" target="rare conversation">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Media source" target="VotedLukashenka MemberInCivSocOrg VotedTsikhanouskaya">
+  <data key="d1">denote</data>
+  <data key="d2">denote</data>
+</edge>
+<edge source="Telegram bots" target="main roles">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Facebook" target="Influence Active Campaign">
+  <data key="d1">identify</data>
+  <data key="d2">identify</data>
+</edge>
+<edge source="Facebook" target="regulation">
+  <data key="d1">need</data>
+  <data key="d2">need</data>
+</edge>
+<edge source="different factions" target="filtering different policies">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Stephanie van" target="Berg">
+  <data key="d1">den</data>
+  <data key="d2">den</data>
+</edge>
+<edge source="posture.9 operational similar Perpetrators" target="invest­ significant ment">
+  <data key="d1">make</data>
+  <data key="d2">make</data>
+</edge>
+<edge source="Key 3.3.6 Resources" target="necessary assets">
+  <data key="d1">describe</data>
+  <data key="d2">describe</data>
+</edge>
+<edge source="important limitations" target="disinformation campaigns">
+  <data key="d1">constrain</data>
+  <data key="d2">constrain</data>
+</edge>
+<edge source="Spyware" target="information">
+  <data key="d1">collect</data>
+  <data key="d2">collect</data>
+</edge>
+<edge source="Gordon Corera" target="BBC News">
+  <data key="d1">seek</data>
+  <data key="d2">seek</data>
+</edge>
+<edge source="GPT labels" target="language natural interpretation">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="Demographic Factors" target="Protest Participants">
+  <data key="d1">highlight</data>
+  <data key="d2">highlight</data>
+</edge>
+<edge source="daily expenses" target="money Purchase">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="citizenship basic rights" target="theoretical reflections">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="modern life" target="complete list">
+  <data key="d1">give</data>
+  <data key="d2">give</data>
+</edge>
+<edge source="”64 Platforms" target="policies.65 similar Center">
+  <data key="d1">adopt</data>
+  <data key="d2">adopt</data>
+</edge>
+<edge source="ex­ amples" target="rough benchmark">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="Theocharis" target="Van Deth">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="analytical frame" target="future explorations">
+  <data key="d1">facilitate</data>
+  <data key="d2">facilitate</data>
+</edge>
+<edge source="humdrum considerations" target="crucial hints">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="synthetic media" target="prominent landmarks">
+  <data key="d1">depict</data>
+  <data key="d2">depict</data>
+</edge>
+<edge source="synthetic media" target="distinctive traces">
+  <data key="d1">contain</data>
+  <data key="d2">contain</data>
+</edge>
+<edge source="Repression" target="negative incentives">
+  <data key="d1">entail</data>
+  <data key="d2">entail</data>
+</edge>
+<edge source="political campaign" target="sure action">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="tailored Second deepfakes" target="greater threat">
+  <data key="d1">represent</data>
+  <data key="d2">represent</data>
+</edge>
+<edge source="Incourse911(inc911" target="studca CybPal inc911">
+  <data key="d1">inc911</data>
+  <data key="d2">inc911</data>
+</edge>
+<edge source="Censorship" target="Government Criticism">
+  <data key="d1">allow</data>
+  <data key="d2">allow</data>
+</edge>
+<edge source="Provided data" target="Page">
+  <data key="d1">demonstrate</data>
+  <data key="d2">demonstrate</data>
+</edge>
+<edge source="Provided data" target="ing trend">
+  <data key="d1">demonstrate</data>
+  <data key="d2">demonstrate</data>
+</edge>
+<edge source="Provided data" target="et al">
+  <data key="d1">demonstrate</data>
+  <data key="d2">demonstrate</data>
+</edge>
+<edge source="digital technology" target="new ways">
+  <data key="d1">enable</data>
+  <data key="d2">enable</data>
+</edge>
+<edge source="Version Peer" target="version Link">
+  <data key="d1">review</data>
+  <data key="d2">review</data>
+</edge>
+<edge source="vaccination - Anti Islam Rizza activist" target="Journal">
+  <data key="d1">find</data>
+  <data key="d2">find</data>
+</edge>
+<edge source="Policymak­ ers" target="concrete guidance">
+  <data key="d1">lack</data>
+  <data key="d2">lack</data>
+</edge>
+<edge source="Nationalities Papers" target="Russian">
+  <data key="d1">declare</data>
+  <data key="d2">declare</data>
+</edge>
+<edge source="driven fakery" target="realistic depictions">
+  <data key="d1">produce</data>
+  <data key="d2">produce</data>
+</edge>
+<edge source="National Belarus Awakening" target="Hope">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="BotBuster" target="bots">
+  <data key="d1">identify</data>
+  <data key="d2">identify</data>
+</edge>
+<edge source="BotBuster" target="differing inputs">
+  <data key="d1">handle</data>
+  <data key="d2">handle</data>
+</edge>
+<edge source="speciﬁc domains" target="DDoS repeated attacks">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="complex factors" target="particular patterns">
+  <data key="d1">produce</data>
+  <data key="d2">produce</data>
+</edge>
+<edge source="recent paper" target="training times">
+  <data key="d1">report</data>
+  <data key="d2">report</data>
+</edge>
+<edge source="recent paper" target="detection deepfake accuracy">
+  <data key="d1">claim</data>
+  <data key="d2">claim</data>
+</edge>
+<edge source="low cost" target="disinformation resourced campaigns">
+  <data key="d1">attract</data>
+  <data key="d2">attract</data>
+</edge>
+<edge source="Discussion" target="dissemination patterns">
+  <data key="d1">study</data>
+  <data key="d2">study</data>
+</edge>
+<edge source="Preprint" target="January">
+  <data key="d1">submit</data>
+  <data key="d2">submit</data>
+</edge>
+<edge source="Preprint" target="Neural Recurrent Network">
+  <data key="d1">draw</data>
+  <data key="d2">draw</data>
+</edge>
+<edge source="Russian - pro entities" target="attacks">
+  <data key="d1">increase</data>
+  <data key="d2">increase</data>
+</edge>
+<edge source="trained resulting model" target="unseen images">
+  <data key="d1">process</data>
+  <data key="d2">process</data>
+</edge>
+<edge source="Table" target="Unexpected Deaths">
+  <data key="d1">die</data>
+  <data key="d2">die</data>
+</edge>
+<edge source="| Issue" target="European approach">
+  <data key="d1">unpack</data>
+  <data key="d2">unpack</data>
+</edge>
+<edge source="Commission" target="specific guidance">
+  <data key="d1">prepare</data>
+  <data key="d2">prepare</data>
+</edge>
+<edge source="technical literature" target="critical insight">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="Trump administration" target="similar tactics">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Cloudbased solutions" target="transient changes">
+  <data key="d1">involve</data>
+  <data key="d2">involve</data>
+</edge>
+<edge source="garbage protests" target="sig­ government - anti clear nificance">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="theocratic regime" target="considerable control">
+  <data key="d1">exert</data>
+  <data key="d2">exert</data>
+</edge>
+<edge source="political forces" target="rapid shifts">
+  <data key="d1">undergo</data>
+  <data key="d2">undergo</data>
+</edge>
+<edge source="intelligence analysis" target="policymaking process.28">
+  <data key="d1">underpin</data>
+  <data key="d2">underpin</data>
+</edge>
+<edge source="political strong antagonisms" target="long history">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Technical innovation" target="autocrats">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="Section6" target="thorough analysis">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="Recent work" target="helpful datapoints">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="FakeApp" target="technical - non users">
+  <data key="d1">enable</data>
+  <data key="d2">enable</data>
+</edge>
+<edge source="Red nodes" target="Bot users">
+  <data key="d1">represent</data>
+  <data key="d2">represent</data>
+</edge>
+<edge source="High costs" target="attractive relative">
+  <data key="d1">make</data>
+  <data key="d2">make</data>
+</edge>
+<edge source="Survey" target="underlying characteristics">
+  <data key="d1">capture</data>
+  <data key="d2">capture</data>
+</edge>
+<edge source="Phoenix Inform" target="lower activity">
+  <data key="d1">exhibit</data>
+  <data key="d2">exhibit</data>
+</edge>
+<edge source="Phoenix Inform" target="common targets">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="Medical Online medical Discussion" target="Covid masks">
+  <data key="d1">dod</data>
+  <data key="d2">dod</data>
+</edge>
+<edge source="Writers" target="significant concerns">
+  <data key="d1">express</data>
+  <data key="d2">express</data>
+</edge>
+<edge source="exhaustive - non list" target="digital activism">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="English" target="intellectual elite">
+  <data key="d1">speak</data>
+  <data key="d2">speak</data>
+</edge>
+<edge source="detection systems" target="constant updating">
+  <data key="d1">need</data>
+  <data key="d2">need</data>
+</edge>
+<edge source="detection systems" target="deep­ fakes">
+  <data key="d1">hold</data>
+  <data key="d2">hold</data>
+</edge>
+<edge source="Portal Research DOI" target="version Link">
+  <data key="d1">review</data>
+  <data key="d2">review</data>
+</edge>
+<edge source="Hackers" target="Bitcoin">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="College London" target="Higher Kolozaridi School">
+  <data key="d1">gregory.asmolov@kcl.ac.uk</data>
+  <data key="d2">gregory.asmolov@kcl.ac.uk</data>
+</edge>
+<edge source="Figure3a" target="sectors">
+  <data key="d1">illustrate</data>
+  <data key="d2">illustrate</data>
+</edge>
+<edge source="prevalent arrests" target="political opposition">
+  <data key="d1">suppress</data>
+  <data key="d2">suppress</data>
+</edge>
+<edge source="documentation inconsistent practices" target="analysis">
+  <data key="d1">hinder</data>
+  <data key="d2">hinder</data>
+</edge>
+<edge source="Events" target="stable set">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="additional sector" target="related services">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Colin Powell" target="intelligence">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="communication secure channels" target="Section">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="striking tactics" target="greater influence">
+  <data key="d1">exert</data>
+  <data key="d2">exert</data>
+</edge>
+<edge source="ERGA" target="interim Report">
+  <data key="d1">release</data>
+  <data key="d2">release</data>
+</edge>
+<edge source="security Russian service" target="Telegram">
+  <data key="d1">require</data>
+  <data key="d2">require</data>
+</edge>
+<edge source="Actors" target="Glasius">
+  <data key="d1">engage</data>
+  <data key="d2">engage</data>
+</edge>
+<edge source="inspired anomaly" target="time detection">
+  <data key="d1">base</data>
+  <data key="d2">base</data>
+</edge>
+<edge source="Control Study" target="Protest Class Paradigm">
+  <data key="d1">reevaluate</data>
+  <data key="d2">reevaluate</data>
+</edge>
+<edge source="Yarovaya package" target="Service Providers">
+  <data key="d1">oblige</data>
+  <data key="d2">oblige</data>
+</edge>
+<edge source="Keywords" target="unanticipated unplanned1">
+  <data key="d1">witness</data>
+  <data key="d2">witness</data>
+</edge>
+<edge source="sponsored groups" target="leveraged tools">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="political institutions" target="technological possibilities">
+  <data key="d1">manage</data>
+  <data key="d2">manage</data>
+</edge>
+<edge source="state pressure" target="longer history">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="elite New actors" target="higher levels">
+  <data key="d1">require</data>
+  <data key="d2">require</data>
+</edge>
+<edge source="Abstract" target="analytical tools">
+  <data key="d1">lack</data>
+  <data key="d2">lack</data>
+</edge>
+<edge source="following section" target="conceptual framework">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="security apparatus" target="espionage advanced technologies">
+  <data key="d1">appropriate</data>
+  <data key="d2">appropriate</data>
+</edge>
+<edge source="intelligence communities" target="intelligence">
+  <data key="d1">share</data>
+  <data key="d2">share</data>
+</edge>
+<edge source="Data Accessibility" target="Content">
+  <data key="d1">drive</data>
+  <data key="d2">drive</data>
+</edge>
+<edge source="mod­ generative els" target="resulting video">
+  <data key="d1">distort</data>
+  <data key="d2">distort</data>
+</edge>
+<edge source="Cyber Attacks" target="Sophisticated">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="Distribution" target="highest frequency">
+  <data key="d1">experience</data>
+  <data key="d2">experience</data>
+</edge>
+<edge source="Results" target="security inadequate measures">
+  <data key="d1">highlight</data>
+  <data key="d2">highlight</data>
+</edge>
+<edge source="Results" target="comprehensive analysis">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="air Soviet force" target="flight KAL">
+  <data key="d1">shoot</data>
+  <data key="d2">shoot</data>
+</edge>
+<edge source="Capabilities Tracking" target="critical insight">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="regime coalitions" target="society state relations">
+  <data key="d1">affect</data>
+  <data key="d2">affect</data>
+</edge>
+<edge source="European Commission" target="Guidance">
+  <data key="d1">publish</data>
+  <data key="d2">publish</data>
+</edge>
+<edge source="Figure8" target="detailed analysis">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="sec­ tion" target="current strengths">
+  <data key="d1">examine</data>
+  <data key="d2">examine</data>
+</edge>
+<edge source="Related work" target="literature review">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="likely outpace" target="political opposition">
+  <data key="d1">open</data>
+  <data key="d2">open</data>
+</edge>
+<edge source="Humans" target="disinformation stories">
+  <data key="d1">share</data>
+  <data key="d2">share</data>
+</edge>
+<edge source="quantitative calculations" target="centrality higher Fig">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Intelligence" target="Media">
+  <data key="d1">need</data>
+  <data key="d2">need</data>
+</edge>
+<edge source="Value propositions" target="value exchange">
+  <data key="d1">describe</data>
+  <data key="d2">describe</data>
+</edge>
+<edge source="Rød EG" target="Activists">
+  <data key="d1">empower</data>
+  <data key="d2">empower</data>
+</edge>
+<edge source="Drone" target="Coronavirus Enforcing Rules">
+  <data key="d1">speak</data>
+  <data key="d2">speak</data>
+</edge>
+<edge source="Digital technology" target="new means">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="OpenNet Initiative" target="country report">
+  <data key="d1">publish</data>
+  <data key="d2">publish</data>
+</edge>
+<edge source="Recent literature" target="under­ standing">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="protection authorities" target="enforcement limited powers">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Belarusian context" target="economic decline">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="source intelligence" target="state monopolies">
+  <data key="d1">challenge</data>
+  <data key="d2">challenge</data>
+</edge>
+<edge source="autocratic elites" target="authoritarian politics">
+  <data key="d1">impact</data>
+  <data key="d2">impact</data>
+</edge>
+<edge source="Mark" target="interactional patterns">
+  <data key="d1">identify</data>
+  <data key="d2">identify</data>
+</edge>
+<edge source="generative deep models" target="malicious actors">
+  <data key="d1">serve</data>
+  <data key="d2">serve</data>
+</edge>
+<edge source="comparative analysis" target="strategic distinct preferences">
+  <data key="d1">reveal</data>
+  <data key="d2">reveal</data>
+</edge>
+<edge source="Sounding Board" target="critical view">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="Matthew Hutson" target="Science">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="Matthew Hutson" target="reproducibility crisis">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="political party" target="data">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="startup companies" target="detection services">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="Clandestine acts" target="political opposition">
+  <data key="d1">open</data>
+  <data key="d2">open</data>
+</edge>
+<edge source="data retrospective collection" target="additional biases">
+  <data key="d1">introduce</data>
+  <data key="d2">introduce</data>
+</edge>
+<edge source="sparse data" target="disinformation prospective actor">
+  <data key="d1">require</data>
+  <data key="d2">require</data>
+</edge>
+<edge source="service provider" target="data hardware probes">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Declarations Conﬂict" target="Conﬂict">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="Temporal analysis" target="time understanding">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="Syria" target="States assessment">
+  <data key="d1">report</data>
+  <data key="d2">report</data>
+</edge>
+<edge source="Economic Governance" target="Social Contracts">
+  <data key="d1">rethink</data>
+  <data key="d2">rethink</data>
+</edge>
+<edge source="widespread adoption" target="robust platform">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="Deeptrace" target="model">
+  <data key="d1">follow</data>
+  <data key="d2">follow</data>
+</edge>
+<edge source="model" target="limited understanding">
+  <data key="d1">gain</data>
+  <data key="d2">gain</data>
+</edge>
+<edge source="Russian ambassador" target="Express">
+  <data key="d1">mock</data>
+  <data key="d2">mock</data>
+</edge>
+<edge source="Edward Wong" target="Russia">
+  <data key="d1">ask</data>
+  <data key="d2">ask</data>
+</edge>
+<edge source="Botmasters" target="darkweb marketplaces">
+  <data key="d1">utilize</data>
+  <data key="d2">utilize</data>
+</edge>
+<edge source="regime" target="targeted repression">
+  <data key="d1">exert</data>
+  <data key="d2">exert</data>
+</edge>
+<edge source="Belarus" target="unanticipated unplanned1">
+  <data key="d1">witness</data>
+  <data key="d2">witness</data>
+</edge>
+<edge source="Artificial intelligence" target="Science">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="Artificial intelligence" target="reproducibility crisis">
+  <data key="d1">face</data>
+  <data key="d2">face</data>
+</edge>
+<edge source="Yandex" target="Internet Russian major giants">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="State Dependency" target="Demand">
+  <data key="d1">reduce</data>
+  <data key="d2">reduce</data>
+</edge>
+<edge source="interview sample" target="interesting segment">
+  <data key="d1">cover</data>
+  <data key="d2">cover</data>
+</edge>
+<edge source="Twitter" target="Guardian">
+  <data key="d1">delete</data>
+  <data key="d2">delete</data>
+</edge>
+<edge source="Values" target="positive correlation">
+  <data key="d1">indicate</data>
+  <data key="d2">indicate</data>
+</edge>
+<edge source="Television" target="main source">
+  <data key="d1">remain</data>
+  <data key="d2">remain</data>
+</edge>
+<edge source="Inconsistent documentation" target="significant issue">
+  <data key="d1">pose</data>
+  <data key="d2">pose</data>
+</edge>
+<edge source="public dissemination" target="intelligence">
+  <data key="d1">divulge</data>
+  <data key="d2">divulge</data>
+</edge>
+<edge source="Biden administration" target="intelligence">
+  <data key="d1">release</data>
+  <data key="d2">release</data>
+</edge>
+<edge source="salient moments" target="aggre­ gates">
+  <data key="d1">lose</data>
+  <data key="d2">lose</data>
+</edge>
+<edge source="Dictators" target="internet">
+  <data key="d1">control</data>
+  <data key="d2">control</data>
+</edge>
+<edge source="Author(s" target="prominent threat">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="Changes" target="elite - intra composition">
+  <data key="d1">impact</data>
+  <data key="d2">impact</data>
+</edge>
+<edge source="takedown operations" target="Botnet">
+  <data key="d1">strategise</data>
+  <data key="d2">strategise</data>
+</edge>
+<edge source="Ukrainian government" target="Army">
+  <data key="d1">establish</data>
+  <data key="d2">establish</data>
+</edge>
+<edge source="new types" target="consump­ tion">
+  <data key="d1">shape</data>
+  <data key="d2">shape</data>
+</edge>
+<edge source="travel threatorientated advice" target="led simpler communications">
+  <data key="d1">represent</data>
+  <data key="d2">represent</data>
+</edge>
+<edge source="Western agents" target="BBC News">
+  <data key="d1">seek</data>
+  <data key="d2">seek</data>
+</edge>
+<edge source="Observers" target="protest wave">
+  <data key="d1">dub</data>
+  <data key="d2">dub</data>
+</edge>
+<edge source="Britain" target="careful measures">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="Britain" target="intelligence">
+  <data key="d1">deploy</data>
+  <data key="d2">deploy</data>
+</edge>
+<edge source="Sensitive data" target="political opinions">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="indiscriminate violence" target="opposite effect">
+  <data key="d1">have</data>
+  <data key="d2">have</data>
+</edge>
+<edge source="high rate" target="strategic importance">
+  <data key="d1">reﬂect</data>
+  <data key="d2">reﬂect</data>
+</edge>
+<edge source="India" target="regimes">
+  <data key="d1">demonstrate</data>
+  <data key="d2">demonstrate</data>
+</edge>
+<edge source="CCDH" target="data collection">
+  <data key="d1">perform</data>
+  <data key="d2">perform</data>
+</edge>
+<edge source="authoritarian contexts" target="middle dependent class">
+  <data key="d1">breed</data>
+  <data key="d2">breed</data>
+</edge>
+<edge source="Capacity Deepfakes" target="unique opportunity">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="trained eye" target="crude deepfakes">
+  <data key="d1">identify</data>
+  <data key="d2">identify</data>
+</edge>
+<edge source="Weekday distribution" target="expansive campaign">
+  <data key="d1">coordinate</data>
+  <data key="d2">coordinate</data>
+</edge>
+<edge source="digital recent innovations" target="broad range">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="digital techniques" target="authoritarian incumbents">
+  <data key="d1">empower</data>
+  <data key="d2">empower</data>
+</edge>
+<edge source="media sphere" target="oppositional power">
+  <data key="d1">lose</data>
+  <data key="d2">lose</data>
+</edge>
+<edge source="Council" target="quality journalism">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Chinese government" target="undesirable sites">
+  <data key="d1">filter</data>
+  <data key="d2">filter</data>
+</edge>
+<edge source="Russian state" target="new constraints">
+  <data key="d1">introduce</data>
+  <data key="d2">introduce</data>
+</edge>
+<edge source="political innovation" target="new ways">
+  <data key="d1">offer</data>
+  <data key="d2">offer</data>
+</edge>
+<edge source="hacktivist group" target="DDoS attacks">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="INTERPOL" target="global operation">
+  <data key="d1">support</data>
+  <data key="d2">support</data>
+</edge>
+<edge source="Peer sinkholing" target="bot assimilation">
+  <data key="d1">affect</data>
+  <data key="d2">affect</data>
+</edge>
+<edge source="policy demands" target="new era">
+  <data key="d1">enter</data>
+  <data key="d2">enter</data>
+</edge>
+<edge source="Technoactivism" target="technical extensive expertise">
+  <data key="d1">require</data>
+  <data key="d2">require</data>
+</edge>
+<edge source="existing systems" target="technical capacities">
+  <data key="d1">demonstrate</data>
+  <data key="d2">demonstrate</data>
+</edge>
+<edge source="Research" target="repressive regimes">
+  <data key="d1">show</data>
+  <data key="d2">show</data>
+</edge>
+<edge source="relevant regulation" target="global standard">
+  <data key="d1">set</data>
+  <data key="d2">set</data>
+</edge>
+<edge source="identity factors" target="engagement Belarus">
+  <data key="d1">underpin</data>
+  <data key="d2">underpin</data>
+</edge>
+<edge source="EDPS" target="Opinion">
+  <data key="d1">publish</data>
+  <data key="d2">publish</data>
+</edge>
+<edge source="Great Chinese Firewall" target="numerous algorithms">
+  <data key="d1">combine</data>
+  <data key="d2">combine</data>
+</edge>
+<edge source="service media" target="free airtime">
+  <data key="d1">provide</data>
+  <data key="d2">provide</data>
+</edge>
+<edge source="CoP" target="transitional measure">
+  <data key="d1">represent</data>
+  <data key="d2">represent</data>
+</edge>
+<edge source="Samantha" target="data annotation">
+  <data key="d1">perform</data>
+  <data key="d2">perform</data>
+</edge>
+<edge source="Web Amazon Services" target="Detection Deepfake Challenge">
+  <data key="d1">launch</data>
+  <data key="d2">launch</data>
+</edge>
+<edge source="Mozilla" target="action">
+  <data key="d1">take</data>
+  <data key="d2">take</data>
+</edge>
+<edge source="MIT Press" target="Ian Goodfellow">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="tain cer­ actors" target="synthetic media">
+  <data key="d1">produce</data>
+  <data key="d2">produce</data>
+</edge>
+<edge source="Gerasimov Doctrine" target="Molly Mckew">
+  <data key="d1">see</data>
+  <data key="d2">see</data>
+</edge>
+<edge source="Digital popularity.21 capabilities" target="dictatorial existing tools">
+  <data key="d1">supplant</data>
+  <data key="d2">supplant</data>
+</edge>
+<edge source="pop organized protests" target="human chains">
+  <data key="d1">form</data>
+  <data key="d2">form</data>
+</edge>
+<edge source="Draft" target="training course">
+  <data key="d1">launch</data>
+  <data key="d2">launch</data>
+</edge>
+<edge source="Richard Chief Moore" target="emptive - pre exposures">
+  <data key="d1">highlight</data>
+  <data key="d2">highlight</data>
+</edge>
+<edge source="takedown actors" target="ISPs">
+  <data key="d1">contact</data>
+  <data key="d2">contact</data>
+</edge>
+<edge source="Russians" target="controlled TV">
+  <data key="d1">shun</data>
+  <data key="d2">shun</data>
+</edge>
+<edge source="Analysis" target="heat detailed map">
+  <data key="d1">present</data>
+  <data key="d2">present</data>
+</edge>
+<edge source="al­ gorithms" target="malicious actors">
+  <data key="d1">enable</data>
+  <data key="d2">enable</data>
+</edge>
+<edge source="Stakeholders" target="radioactive marking">
+  <data key="d1">encourage</data>
+  <data key="d2">encourage</data>
+</edge>
+<edge source="GDPR" target="Protection Directive">
+  <data key="d1">supplant</data>
+  <data key="d2">supplant</data>
+</edge>
+<edge source="Dmitry Gudkov" target="Uber">
+  <data key="d1">develop</data>
+  <data key="d2">develop</data>
+</edge>
+<edge source="Islamic Republic" target="satellite dishes">
+  <data key="d1">ban</data>
+  <data key="d2">ban</data>
+</edge>
+<edge source="research literature" target="relevant categories">
+  <data key="d1">demonstrate</data>
+  <data key="d2">demonstrate</data>
+</edge>
+<edge source="economic groups" target="active users">
+  <data key="d1">become</data>
+  <data key="d2">become</data>
+</edge>
+<edge source="Belarusian distinguishing protesters" target="protesters">
+  <data key="d1">form</data>
+  <data key="d2">form</data>
+</edge>
+<edge source="Glossary Center" target="Real">
+  <data key="d1">get</data>
+  <data key="d2">get</data>
+</edge>
+<edge source="Authoritarianism" target="Framework">
+  <data key="d1">transform</data>
+  <data key="d2">transform</data>
+</edge>
+<edge source="Intelligence Joint Committee" target="States assessment">
+  <data key="d1">report</data>
+  <data key="d2">report</data>
+</edge>
+<edge source="manipulation intervenes" target="behavioural changes">
+  <data key="d1">cause</data>
+  <data key="d2">cause</data>
+</edge>
+<edge source="disinformation paign" target="experienced specialist">
+  <data key="d1">recruit</data>
+  <data key="d2">recruit</data>
+</edge>
+<edge source="contentious - Non Forms" target="Forms">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Examples" target="joint action">
+  <data key="d1">include</data>
+  <data key="d2">include</data>
+</edge>
+<edge source="Lukashenka - Anti protesters" target="red flag">
+  <data key="d1">reclaim</data>
+  <data key="d2">reclaim</data>
+</edge>
+<edge source="attack DDoS strategies" target="distinct difference">
+  <data key="d1">reveal</data>
+  <data key="d2">reveal</data>
+</edge>
+<edge source="sophisticated actors" target="tailored deepfakes">
+  <data key="d1">use</data>
+  <data key="d2">use</data>
+</edge>
+<edge source="Pavel Durov" target="grant program">
+  <data key="d1">announce</data>
+  <data key="d2">announce</data>
+</edge>
+<edge source="transformative qualitative change" target="new strategies">
+  <data key="d1">involve</data>
+  <data key="d2">involve</data>
+</edge>
+</graph></graphml>
