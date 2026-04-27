@@ -1,0 +1,203 @@
+{
+  "stats": {
+    "nodes": 954,
+    "edges": 606,
+    "communities": 356,
+    "density": 0.000667
+  },
+  "top_nodes_by_pagerank": [
+    {
+      "label": "intelligence",
+      "score": 0.004708
+    },
+    {
+      "label": "DDoS repeated attacks",
+      "score": 0.004028
+    },
+    {
+      "label": "DDoS attacks",
+      "score": 0.003662
+    },
+    {
+      "label": "sectors",
+      "score": 0.003174
+    },
+    {
+      "label": "deepfakes",
+      "score": 0.003082
+    },
+    {
+      "label": "highest second rate",
+      "score": 0.002696
+    },
+    {
+      "label": "political opposition",
+      "score": 0.002561
+    },
+    {
+      "label": "websites",
+      "score": 0.002325
+    },
+    {
+      "label": "highest frequency",
+      "score": 0.002254
+    },
+    {
+      "label": "autocrats",
+      "score": 0.002254
+    },
+    {
+      "label": "suspicious distortions",
+      "score": 0.002196
+    },
+    {
+      "label": "Power",
+      "score": 0.002196
+    },
+    {
+      "label": "centrality higher Fig",
+      "score": 0.002161
+    },
+    {
+      "label": "prominent threat",
+      "score": 0.002161
+    },
+    {
+      "label": "Journal",
+      "score": 0.002152
+    },
+    {
+      "label": "Media",
+      "score": 0.002065
+    },
+    {
+      "label": "different forms",
+      "score": 0.002065
+    },
+    {
+      "label": "disinformation campaigns",
+      "score": 0.001948
+    },
+    {
+      "label": "British intelligence",
+      "score": 0.001948
+    },
+    {
+      "label": "Botnet",
+      "score": 0.001948
+    }
+  ],
+  "communities": [
+    {
+      "id": 0,
+      "size": 37,
+      "members": [
+        "generative deep model",
+        "false narratives",
+        "influence online operations",
+        "disinformation Sophisticated campaigns",
+        "FUTURE | SCENARIOS"
+      ]
+    },
+    {
+      "id": 1,
+      "size": 24,
+      "members": [
+        "Phoenix Inform",
+        "Cloud\ufb02are",
+        "Incourse911",
+        "websites",
+        "domains"
+      ]
+    },
+    {
+      "id": 2,
+      "size": 16,
+      "members": [
+        "Gunitsky S",
+        "media applications",
+        "protest movement",
+        "evolving relationship",
+        "Cyber Commons"
+      ]
+    },
+    {
+      "id": 3,
+      "size": 14,
+      "members": [
+        "undesired narratives",
+        "exiled opponents",
+        "political processes",
+        "autocrats",
+        "Technical innovation"
+      ]
+    },
+    {
+      "id": 4,
+      "size": 13,
+      "members": [
+        "TransitionWinners 0.04",
+        "GoAbroad 0.03",
+        "Effects",
+        "Educ6u",
+        "EconSocio05u"
+      ]
+    },
+    {
+      "id": 5,
+      "size": 12,
+      "members": [
+        "political similar ambitions",
+        "security Russian service",
+        "random addresses",
+        "formal complaint",
+        "push called updates"
+      ]
+    },
+    {
+      "id": 6,
+      "size": 12,
+      "members": [
+        "Ukraine",
+        "chemical weapons",
+        "UK claim",
+        "military involvement",
+        "notable surge"
+      ]
+    },
+    {
+      "id": 7,
+      "size": 9,
+      "members": [
+        "intelligence communities",
+        "Biden administration",
+        "security practitioners",
+        "Britain",
+        "intelligence"
+      ]
+    },
+    {
+      "id": 8,
+      "size": 8,
+      "members": [
+        "Iranians",
+        "War Propaganda",
+        "Dictators",
+        "satellite antenna",
+        "virtual community"
+      ]
+    },
+    {
+      "id": 9,
+      "size": 8,
+      "members": [
+        "fertile environment",
+        "vaccination - Anti Islam Rizza activist",
+        "Dozen users",
+        "fewest messages",
+        "disinformation themes"
+      ]
+    }
+  ],
+  "predicted_links": []
+}

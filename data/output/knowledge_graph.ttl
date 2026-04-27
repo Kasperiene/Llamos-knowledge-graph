@@ -1,0 +1,5447 @@
+@prefix ex: <http://llamos-kg.org/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+ex:00253_research_article a owl:Thing ;
+    rdfs:label "00253 research article" .
+
+ex:19_discourse_emerging a owl:Thing ;
+    rdfs:label "19 discourse emerging" .
+
+ex:2013_democratic_countries a owl:Thing ;
+    rdfs:label "2013 democratic countries" .
+
+ex:2016_presiden a owl:Thing ;
+    rdfs:label "2016 presiden" .
+
+ex:2017_caused_widespread a owl:Thing ;
+    rdfs:label "2017 caused widespread" .
+
+ex:2020_traces_systematically a owl:Thing ;
+    rdfs:label "2020 traces systematically" .
+
+ex:2023_russia_ddos a owl:Thing ;
+    rdfs:label "2023 russia ddos" .
+
+ex:25_million_malicious a owl:Thing ;
+    rdfs:label "25 million malicious" .
+
+ex:25_records_indicate a owl:Thing ;
+    rdfs:label "25 records indicate" .
+
+ex:37_pages_https a owl:Thing ;
+    rdfs:label "37 pages https" .
+
+ex:64_https_doi a owl:Thing ;
+    rdfs:label "64 https doi" .
+
+ex:7_Conclusions a ex:ORG ;
+    rdfs:label "7 Conclusions" .
+
+ex:80_million_citizens a owl:Thing ;
+    rdfs:label "80 million citizens" .
+
+ex:81_96_Springer a ex:PERSON ;
+    rdfs:label "81–96 Springer" .
+
+ex:API a ex:ORG ;
+    rdfs:label "API" ;
+    rdfs:comment "species of edible plant; the vegetables celery, celeriac and leaf celery are modern cultivars" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q28298> .
+
+ex:AVCs rdfs:label "AVCs" ;
+    ex:understand ex:Cybercriminal_Different_Platforms .
+
+ex:Aaron_van rdfs:label "Aaron van" ;
+    ex:den ex:Lord,
+        ex:Oord .
+
+ex:Abstract rdfs:label "Abstract" ;
+    ex:lack ex:analytical_tools .
+
+ex:Academic_Conferences_Limited a ex:ORG ;
+    rdfs:label """Academic Conferences
+Limited""" .
+
+ex:Activism a owl:Thing ;
+    rdfs:label "Activism" .
+
+ex:Activism_in_Russia a owl:Thing ;
+    rdfs:label "Activism in Russia" .
+
+ex:Actors rdfs:label "Actors" ;
+    ex:engage ex:Glasius .
+
+ex:Address a ex:ORG ;
+    rdfs:label "Address" ;
+    rdfs:comment "address delivered to an audience" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q861911> .
+
+ex:Akamai a ex:GPE ;
+    rdfs:label "Akamai" ;
+    rdfs:comment "American content delivery network, cybersecurity, and cloud service company" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q415598> .
+
+ex:Akbari rdfs:label "Akbari" ;
+    ex:describe ex:sociopolitical_context .
+
+ex:Analysis rdfs:label "Analysis" ;
+    ex:present ex:heat_detailed_map .
+
+ex:Anderson_R_ a ex:PERSON ;
+    rdfs:label "Anderson R." ;
+    rdfs:comment "British expert on epidemiology" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q7373091> .
+
+ex:Andrew_Colarik a ex:PERSON ;
+    rdfs:label "Andrew Colarik" .
+
+ex:Anon_by rdfs:label "Anon_by" ;
+    ex:have ex:overlapping_highest_value .
+
+ex:Anonymous a ex:WORK_OF_ART ;
+    rdfs:label "Anonymous" ;
+    rdfs:comment "unknown creator of a work (do not use as value of P50; use \"unknown value\" instead)" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q4233718> .
+
+ex:Aouragh rdfs:label "Aouragh" ;
+    ex:distinguish ex:different_kinds .
+
+ex:Arab rdfs:label "Arab" ;
+    ex:spring_ ex:Egyptian_experience .
+
+ex:Artificial_intelligence rdfs:label "Artificial intelligence" ;
+    ex:face ex:Science,
+        ex:reproducibility_crisis .
+
+ex:Author_s rdfs:label "Author(s" ;
+    ex:become ex:prominent_threat .
+
+ex:Authoritarianism a owl:Thing ;
+    rdfs:label "Authoritarianism" ;
+    ex:transform ex:Framework .
+
+ex:BGP a ex:ORG ;
+    rdfs:label "BGP" ;
+    rdfs:comment "protocol for communicating routing information on the Internet" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q11155> .
+
+ex:Belarus a ex:GPE ;
+    rdfs:label "Belarus" ;
+    ex:witness ex:unanticipated_unplanned1 ;
+    rdfs:comment "country in Eastern Europe" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q184> .
+
+ex:Belarus_Protest a owl:Thing ;
+    rdfs:label "Belarus Protest" .
+
+ex:Belarus_Protest_Survey a owl:Thing ;
+    rdfs:label "Belarus Protest Survey" .
+
+ex:Belarus_Protests a owl:Thing ;
+    rdfs:label "Belarus Protests" .
+
+ex:Belarusian a ex:NORP ;
+    rdfs:label "Belarusian" ;
+    rdfs:comment "East Slavic language" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q9091> .
+
+ex:Belarusian_Protest_Survey a owl:Thing ;
+    rdfs:label "Belarusian Protest Survey" .
+
+ex:Belarusian_context rdfs:label "Belarusian context" ;
+    ex:provide ex:economic_decline .
+
+ex:Belarusian_distinguishing_protesters rdfs:label "Belarusian distinguishing protesters" ;
+    ex:form ex:protesters .
+
+ex:Belarusian_protesters a owl:Thing ;
+    rdfs:label "Belarusian protesters" .
+
+ex:Biden_administration rdfs:label "Biden administration" ;
+    ex:release ex:intelligence .
+
+ex:Black a ex:GPE ;
+    rdfs:label "Black" ;
+    rdfs:comment "family name" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q2662465> .
+
+ex:Blue_nodes rdfs:label "Blue nodes" ;
+    ex:represent ex:human_users .
+
+ex:Bo_Katie_Lillis rdfs:label "Bo Katie Lillis" ;
+    ex:bring ex:British_intelligence .
+
+ex:BotBuster rdfs:label "BotBuster" ;
+    ex:handle ex:differing_inputs ;
+    ex:identify ex:bots .
+
+ex:BotBuster_algorithm rdfs:label "BotBuster algorithm" ;
+    ex:use ex:algorithm_concept .
+
+ex:Botmasters rdfs:label "Botmasters" ;
+    ex:utilize ex:darkweb_marketplaces .
+
+ex:Botnet_Business_Model a owl:Thing ;
+    rdfs:label "Botnet Business Model" .
+
+ex:Botnet_Market_botnet a owl:Thing ;
+    rdfs:label "Botnet Market botnet" .
+
+ex:Botnet_Revenue_Model a owl:Thing ;
+    rdfs:label "Botnet Revenue Model" .
+
+ex:Botnet_Services a owl:Thing ;
+    rdfs:label "Botnet Services" .
+
+ex:Botnet_Takedowns_takedown a owl:Thing ;
+    rdfs:label "Botnet Takedowns takedown" .
+
+ex:Botnet_business a owl:Thing ;
+    rdfs:label "Botnet business" .
+
+ex:Brantly a ex:GPE ;
+    rdfs:label "Brantly" ;
+    rdfs:comment "family name" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q37029191> .
+
+ex:Brian_Murphy rdfs:label "Brian Murphy" ;
+    ex:need ex:Center .
+
+ex:Britain rdfs:label "Britain" ;
+    ex:deploy ex:intelligence ;
+    ex:take ex:careful_measures .
+
+ex:British_Secret_Intelligence a owl:Thing ;
+    rdfs:label "British Secret Intelligence" .
+
+ex:British_government rdfs:label "British government" ;
+    ex:pursue ex:intelligence_private_dissemination,
+        ex:resilience_gains .
+
+ex:Business_Model a owl:Thing ;
+    rdfs:label "Business Model" .
+
+ex:Business_Model_Canvas a owl:Thing ;
+    rdfs:label "Business Model Canvas" .
+
+ex:CCDH rdfs:label "CCDH" ;
+    ex:perform ex:data_collection .
+
+ex:CCD_COE_Publications a ex:ORG ;
+    rdfs:label "CCD COE Publications" .
+
+ex:CDL rdfs:label "CDL" ;
+    ex:ad_2010_024 ex:Guidelines .
+
+ex:CIA_Director rdfs:label "CIA Director" ;
+    ex:have ex:CNN,
+        ex:rare_conversation .
+
+ex:CNA a ex:ORG ;
+    rdfs:label "CNA" ;
+    rdfs:comment "French engineering school founded in 1794" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q524289> .
+
+ex:C__S_ a ex:PERSON ;
+    rdfs:label "C. S." ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q107057615> .
+
+ex:Cambridge_University a owl:Thing ;
+    rdfs:label "Cambridge University" .
+
+ex:Canadian_Global_Affairs_Institute a ex:ORG ;
+    rdfs:label "Canadian Global Affairs Institute" ;
+    rdfs:comment "Canadian research institute" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q5029940> .
+
+ex:Capabilities_Tracking rdfs:label "Capabilities Tracking" ;
+    ex:provide ex:critical_insight .
+
+ex:Capacity_Deepfakes rdfs:label "Capacity Deepfakes" ;
+    ex:offer ex:unique_opportunity .
+
+ex:Carl_Friedrich rdfs:label "Carl Friedrich" ;
+    ex:define ex:inter_alia .
+
+ex:Cattler a ex:GPE ;
+    rdfs:label "Cattler" ;
+    rdfs:comment "person who works specifically with cattle" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q5179781> .
+
+ex:Censorship rdfs:label "Censorship" ;
+    ex:allow ex:Government_Criticism .
+
+ex:Cent rdfs:label "Cent" ;
+    ex:hit ex:Botnets,
+        ex:Click_trajectories,
+        ex:credential_Botnets_theft,
+        ex:underground_economy .
+
+ex:Center_for_Security a owl:Thing ;
+    rdfs:label "Center for Security" .
+
+ex:Chain_Model a owl:Thing ;
+    rdfs:label "Chain Model" .
+
+ex:Challenges_Sodobni_Voja_ki_Izzivi a ex:ORG ;
+    rdfs:label "Challenges/Sodobni Vojaški Izzivi" .
+
+ex:Changes rdfs:label "Changes" ;
+    ex:impact ex:elite___intra_composition .
+
+ex:China rdfs:label "China" ;
+    ex:ask ex:Russia ;
+    ex:highlight ex:current_scope .
+
+ex:Chinese_Government rdfs:label "Chinese Government" ;
+    ex:fabricate ex:Media_Posts .
+
+ex:Chinese_government rdfs:label "Chinese government" ;
+    ex:filter ex:undesirable_sites .
+
+ex:Chinese_regime rdfs:label "Chinese regime" ;
+    ex:forge ex:media_comments .
+
+ex:Clandestine_acts rdfs:label "Clandestine acts" ;
+    ex:open ex:political_opposition .
+
+ex:Cloud_Shield a ex:PERSON ;
+    rdfs:label "Cloud-Shield" ;
+    rdfs:comment "Oglala Sioux artist" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q104416374> .
+
+ex:Cloudbased_solutions rdfs:label "Cloudbased solutions" ;
+    ex:involve ex:transient_changes .
+
+ex:CoP rdfs:label "CoP" ;
+    ex:represent ex:transitional_measure .
+
+ex:Colin_Powell rdfs:label "Colin Powell" ;
+    ex:present ex:intelligence .
+
+ex:College_London rdfs:label "College London" ;
+    ex:gregory_asmolov_kcl_ac_uk ex:Higher_Kolozaridi_School .
+
+ex:Commission rdfs:label "Commission" ;
+    ex:prepare ex:specific_guidance .
+
+ex:Commoditization rdfs:label "Commoditization" ;
+    ex:measure ex:Pay .
+
+ex:Communicative_Online_Activism a owl:Thing ;
+    rdfs:label "Communicative Online Activism" .
+
+ex:Computational_Social a owl:Thing ;
+    rdfs:label "Computational Social" .
+
+ex:Computational_Social_Science a owl:Thing ;
+    rdfs:label "Computational Social Science" .
+
+ex:Conclusions rdfs:label "Conclusions" ;
+    ex:reveal ex:possible_strategies .
+
+ex:Contribution rdfs:label "Contribution" ;
+    ex:rethink ex:Public_Sphere .
+
+ex:Control_Study rdfs:label "Control Study" ;
+    ex:reevaluate ex:Protest_Class_Paradigm .
+
+ex:Council rdfs:label "Council" ;
+    ex:use ex:quality_journalism .
+
+ex:Creative_Commons a ex:ORG ;
+    rdfs:label "Creative Commons" ;
+    rdfs:comment "non-profit-organization creating copyright licenses for the public release of creative works" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q43449> .
+
+ex:Cyber a ex:ORG ;
+    rdfs:label "Cyber" ;
+    rdfs:comment "2020 role-playing video game developed by CD Projekt RED" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q3182559> .
+
+ex:CyberArmyofRussia_Reborn rdfs:label "CyberArmyofRussia_Reborn" ;
+    ex:show ex:diverse_interactions,
+        ex:signi_cant_activity .
+
+ex:CyberPalyanitsa rdfs:label "CyberPalyanitsa" ;
+    ex:target ex:websites .
+
+ex:CyberPeace_Institute a ex:ORG ;
+    rdfs:label "CyberPeace Institute" ;
+    rdfs:comment "non governmental organization" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q113835050> .
+
+ex:Cyber_Attacks rdfs:label "Cyber Attacks" ;
+    ex:become ex:Sophisticated .
+
+ex:Cyber_War a ex:EVENT ;
+    rdfs:label "Cyber War" ;
+    rdfs:comment "use of technological force within cyberspace" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q849340> .
+
+ex:Cyber_Warfare a ex:PERSON ;
+    rdfs:label "Cyber Warfare" ;
+    rdfs:comment "any crime that involves a computer and a network" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q29137> .
+
+ex:Cyberattacks a ex:PERSON ;
+    rdfs:label "Cyberattacks" ;
+    rdfs:comment "series of cyber attacks during Russo-Georgian war in 2008" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q5197754> .
+
+ex:Cyberwarfare__ a ex:ORG ;
+    rdfs:label "Cyberwarfare &" .
+
+ex:DDoS a ex:GPE ;
+    rdfs:label "DDoS" ;
+    rdfs:comment "distributed attack overwhelming a service with traffic to make it inaccessible" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q17329819> .
+
+ex:DDoS_Guard a ex:ORG ;
+    rdfs:label "DDoS-Guard" ;
+    rdfs:comment "Russian Internet infrastructure services provider" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q25383150> .
+
+ex:DDoS_attack a owl:Thing ;
+    rdfs:label "DDoS attack" .
+
+ex:DDoS_attack_distribution a owl:Thing ;
+    rdfs:label "DDoS attack distribution" .
+
+ex:DDoS_attack_targets a owl:Thing ;
+    rdfs:label "DDoS attack targets" .
+
+ex:DDoS_attacks_reveals a owl:Thing ;
+    rdfs:label "DDoS attacks reveals" .
+
+ex:DDoS_attacks_targeting a owl:Thing ;
+    rdfs:label "DDoS attacks targeting" .
+
+ex:DDoS_protection_services a owl:Thing ;
+    rdfs:label "DDoS protection services" .
+
+ex:DNS a ex:ORG ;
+    rdfs:label "DNS" ;
+    rdfs:comment "system to identify resources on a network" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q8767> .
+
+ex:Daksha_Ramasamy a ex:PERSON ;
+    rdfs:label "Daksha Ramasamy" .
+
+ex:Data_Accessibility rdfs:label "Data Accessibility" ;
+    ex:drive ex:Content .
+
+ex:Data_Protection a owl:Thing ;
+    rdfs:label "Data Protection" .
+
+ex:Debunking_Russian_War a owl:Thing ;
+    rdfs:label "Debunking Russian War" .
+
+ex:Declarations_Con_ict rdfs:label "Declarations Conﬂict" ;
+    ex:have ex:Con_ict .
+
+ex:Deepfake_Videos rdfs:label "Deepfake Videos" ;
+    ex:get ex:Real .
+
+ex:Deeptrace rdfs:label "Deeptrace" ;
+    ex:follow ex:model .
+
+ex:Demographic_Factors rdfs:label "Demographic Factors" ;
+    ex:highlight ex:Protest_Participants .
+
+ex:Dictators rdfs:label "Dictators" ;
+    ex:control ex:internet .
+
+ex:Dies rdfs:label "Dies" ;
+    ex:dod ex:Covid_masks .
+
+ex:Digital_popularity_21_capabilities rdfs:label "Digital popularity.21 capabilities" ;
+    ex:supplant ex:dictatorial_existing_tools .
+
+ex:Digital_technology rdfs:label "Digital technology" ;
+    ex:offer ex:new_means .
+
+ex:Digital_tools rdfs:label "Digital tools" ;
+    ex:enable ex:autocrats,
+        ex:exiled_opponents .
+
+ex:Digitalization rdfs:label "Digitalization" ;
+    ex:enable ex:horizontal_connective_new_modes .
+
+ex:Discussion rdfs:label "Discussion" ;
+    ex:study ex:dissemination_patterns .
+
+ex:Disinformation_Disinformation_Political a owl:Thing ;
+    rdfs:label "Disinformation Disinformation Political" .
+
+ex:Disinformation_Dozen a owl:Thing ;
+    rdfs:label "Disinformation Dozen" ;
+    ex:initiate ex:disinformation_themes ;
+    ex:post ex:Journal,
+        ex:fewest_messages .
+
+ex:Disinformation_Dozen_Telegram a owl:Thing ;
+    rdfs:label "Disinformation Dozen Telegram" .
+
+ex:Disinformation_Dozen_accounts a owl:Thing ;
+    rdfs:label "Disinformation Dozen accounts" .
+
+ex:Disinformation_Dozen_identified a owl:Thing ;
+    rdfs:label "Disinformation Dozen identified" .
+
+ex:Disinformation_Dozen_posted a owl:Thing ;
+    rdfs:label "Disinformation Dozen posted" .
+
+ex:Disinformation_Dozen_posts a owl:Thing ;
+    rdfs:label "Disinformation Dozen posts" .
+
+ex:Disinformation_Dozen_users a owl:Thing ;
+    rdfs:label "Disinformation Dozen users" .
+
+ex:Disinformation_Political_advertising a owl:Thing ;
+    rdfs:label "Disinformation Political advertising" .
+
+ex:Distributed_Denial_of_Service a ex:ORG ;
+    rdfs:label "Distributed Denial of Service" ;
+    rdfs:comment "distributed attack overwhelming a service with traffic to make it inaccessible" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q17329819> .
+
+ex:Distribution rdfs:label "Distribution" ;
+    ex:experience ex:highest_frequency .
+
+ex:Dmitry_Gudkov rdfs:label "Dmitry Gudkov" ;
+    ex:develop ex:Uber .
+
+ex:DoS a ex:ORG ;
+    rdfs:label "DoS" ;
+    rdfs:comment "group of closely-related PC-compatible operating systems" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q170434> .
+
+ex:Domain rdfs:label "Domain" ;
+    ex:sinkhole ex:Server_shutdown .
+
+ex:Dover rdfs:label "Dover" ;
+    ex:highlight ex:symbiotic_relationship .
+
+ex:Dozen a owl:Thing ;
+    rdfs:label "Dozen" .
+
+ex:Dozen_Telegram_channels a owl:Thing ;
+    rdfs:label "Dozen Telegram channels" .
+
+ex:Dozen_users rdfs:label "Dozen users" ;
+    ex:observe ex:Journal .
+
+ex:Draft rdfs:label "Draft" ;
+    ex:launch ex:training_course .
+
+ex:Drone rdfs:label "Drone" ;
+    ex:speak ex:Coronavirus_Enforcing_Rules .
+
+ex:Dropbox rdfs:label "Dropbox" ;
+    ex:have ex:upper_limits .
+
+ex:ECCRI a ex:PERSON ;
+    rdfs:label "ECCRI" ;
+    rdfs:comment "subtribe of insects" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q5816883> .
+
+ex:EDPS rdfs:label "EDPS" ;
+    ex:publish ex:Opinion .
+
+ex:ERGA rdfs:label "ERGA" ;
+    ex:release ex:interim_Report .
+
+ex:ETH_Zurich a ex:PERSON ;
+    rdfs:label "ETH Zurich" ;
+    rdfs:comment "public research university in Zurich" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q11942> .
+
+ex:Economic_Governance rdfs:label "Economic Governance" ;
+    ex:rethink ex:Social_Contracts .
+
+ex:Edward_Wong rdfs:label "Edward Wong" ;
+    ex:ask ex:Russia .
+
+ex:Effects rdfs:label "Effects" ;
+    ex:_0_02 ex:DemSystemPreferable,
+        ex:EconSocio05u,
+        ex:Educ6u,
+        ex:FamFinanSit7u,
+        ex:FrdsFamAbroad,
+        ex:GoAbroad__0_03,
+        ex:LangNatvBEL,
+        ex:MainProblemEcon,
+        ex:NationBEL,
+        ex:TransitionWinners__0_04,
+        ex:VotedTsikhanouskaya,
+        ex:_0_00_TransitionLosers .
+
+ex:El_Paquete rdfs:label "El Paquete" ;
+    ex:become ex:informational_alternative .
+
+ex:Emerging a owl:Thing ;
+    rdfs:label "Emerging" .
+
+ex:Emre_Ekmekcioglu a ex:PERSON ;
+    rdfs:label "Emre Ekmekcioglu" ;
+    rdfs:comment "Turkish researcher" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q130865292> .
+
+ex:Energy_Engineering_Conference__APPEEC a ex:ORG ;
+    rdfs:label """Energy Engineering
+Conference (APPEEC""" .
+
+ex:English rdfs:label "English" ;
+    ex:speak ex:intellectual_elite .
+
+ex:Entertainment rdfs:label "Entertainment" ;
+    ex:experience ex:highest_frequency ;
+    ex:see ex:smaller_increases .
+
+ex:Estonia a ex:GPE ;
+    rdfs:label "Estonia" ;
+    rdfs:comment "country in Northern Europe" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q191> .
+
+ex:European_Commission rdfs:label "European Commission" ;
+    ex:publish ex:Guidance .
+
+ex:European_Data a owl:Thing ;
+    rdfs:label "European Data" .
+
+ex:European_Elections_Campaign a owl:Thing ;
+    rdfs:label "European Elections Campaign" .
+
+ex:European_Social_Survey a owl:Thing ;
+    rdfs:label "European Social Survey" .
+
+ex:European_elections a owl:Thing ;
+    rdfs:label "European elections" .
+
+ex:European_political a owl:Thing ;
+    rdfs:label "European political" .
+
+ex:European_political_parties a owl:Thing ;
+    rdfs:label "European political parties" .
+
+ex:Events rdfs:label "Events" ;
+    ex:provide ex:stable_set .
+
+ex:Examples rdfs:label "Examples" ;
+    ex:include ex:joint_action .
+
+ex:Exposing_Russian_intelligence a owl:Thing ;
+    rdfs:label "Exposing Russian intelligence" .
+
+ex:FSB rdfs:label "FSB" ;
+    ex:ask ex:Telegram ;
+    ex:file ex:formal_complaint ;
+    ex:require ex:Telegram .
+
+ex:FUTURE___SCENARIOS rdfs:label "FUTURE | SCENARIOS" ;
+    ex:use ex:machine_learning .
+
+ex:Facebook rdfs:label "Facebook" ;
+    ex:identify ex:Influence_Active_Campaign ;
+    ex:need ex:regulation .
+
+ex:FakeApp rdfs:label "FakeApp" ;
+    ex:enable ex:technical___non_users .
+
+ex:February a owl:Thing ;
+    rdfs:label "February" .
+
+ex:Fig_3a a ex:NORP ;
+    rdfs:label "Fig.3a" .
+
+ex:Fig_7 a ex:ORG ;
+    rdfs:label "Fig.7" ;
+    ex:present ex:cumulative_count .
+
+ex:Figure rdfs:label "Figure" ;
+    ex:illustrate ex:collection_pipeline .
+
+ex:Figure3a rdfs:label "Figure3a" ;
+    ex:illustrate ex:sectors .
+
+ex:Figure6 rdfs:label "Figure6" ;
+    ex:provide ex:insightful_visualization .
+
+ex:Figure8 rdfs:label "Figure8" ;
+    ex:provide ex:detailed_analysis .
+
+ex:Figure9 rdfs:label "Figure9" ;
+    ex:show ex:sectors .
+
+ex:Figures rdfs:label "Figures" ;
+    ex:demonstrate ex:sectors .
+
+ex:Following_Visa a ex:PERSON ;
+    rdfs:label "Following Visa" .
+
+ex:Foreign_Affairs a ex:ORG ;
+    rdfs:label "Foreign Affairs" ;
+    rdfs:comment "politics at the intergovernmental level" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q610018> .
+
+ex:Forms_of_Online a owl:Thing ;
+    rdfs:label "Forms of Online" .
+
+ex:GAN rdfs:label "GAN" ;
+    ex:produce ex:generative_network .
+
+ex:GANs rdfs:label "GANs" ;
+    ex:become ex:key_area ;
+    ex:generate ex:synthetic_images ;
+    ex:produce ex:face_images ;
+    ex:use ex:paired_models .
+
+ex:GDPR rdfs:label "GDPR" ;
+    ex:supplant ex:Protection_Directive .
+
+ex:GPT rdfs:label "GPT" ;
+    ex:provide ex:language_interpretation .
+
+ex:GPT_labels rdfs:label "GPT labels" ;
+    ex:present ex:language_natural_interpretation .
+
+ex:Georgia a ex:GPE ;
+    rdfs:label "Georgia" ;
+    rdfs:comment "state of the United States of America" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q1428> .
+
+ex:Georgios_Kambourakis a ex:ORG ;
+    rdfs:label "Georgios Kambourakis" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q130905565> .
+
+ex:Gerasimov_Doctrine rdfs:label "Gerasimov Doctrine" ;
+    ex:see ex:Molly_Mckew .
+
+ex:Globalization rdfs:label "Globalization" ;
+    ex:reshape ex:Lives .
+
+ex:Glossary_Center rdfs:label "Glossary Center" ;
+    ex:get ex:Real .
+
+ex:Google a ex:ORG ;
+    rdfs:label "Google" ;
+    ex:make ex:evident_progress ;
+    ex:provide ex:ing_includ__companies ;
+    rdfs:comment "American multinational technology company, a subsidiary of Alphabet Inc." ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q95> .
+
+ex:Gordon_Corera rdfs:label "Gordon Corera" ;
+    ex:seek ex:BBC_News .
+
+ex:Government a owl:Thing ;
+    rdfs:label "Government" ;
+    ex:appropriate ex:package_inspection ;
+    ex:block ex:VPNs ;
+    ex:change ex:encryption_codes ;
+    ex:publish ex:sanitised_version .
+
+ex:Government__websites a owl:Thing ;
+    rdfs:label "Government’ websites" .
+
+ex:Great_Chinese_Firewall rdfs:label "Great Chinese Firewall" ;
+    ex:combine ex:numerous_algorithms .
+
+ex:Gunitsky_S rdfs:label "Gunitsky S" ;
+    ex:corrupt ex:Cyber_Commons,
+        ex:Perspectives,
+        ex:social_media .
+
+ex:HTML a ex:ORG ;
+    rdfs:label "HTML" ;
+    rdfs:comment "family of markup languages for displaying content in a web browser" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q8811> .
+
+ex:Habermas rdfs:label "Habermas" ;
+    ex:have ex:explicit_interest .
+
+ex:Hackers rdfs:label "Hackers" ;
+    ex:use ex:Bitcoin .
+
+ex:Hacktivist a ex:NORP ;
+    rdfs:label "Hacktivist" ;
+    rdfs:comment "hacker and Internet-activist" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q108877388> .
+
+ex:Haydamaki rdfs:label "Haydamaki" ;
+    ex:show ex:targeting_isolated_pattern .
+
+ex:High_costs rdfs:label "High costs" ;
+    ex:make ex:attractive_relative .
+
+ex:Hochschule_f_r_Politik a owl:Thing ;
+    rdfs:label "Hochschule für Politik" .
+
+ex:Humans rdfs:label "Humans" ;
+    ex:share ex:disinformation_stories .
+
+ex:Hupperich_T_ a ex:PERSON ;
+    rdfs:label "Hupperich T." .
+
+ex:IEEE a ex:ORG ;
+    rdfs:label "IEEE" ;
+    rdfs:comment "American professional association for electronic engineering and electrical engineering" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q131566> .
+
+ex:IGI_Global a ex:ORG ;
+    rdfs:label "IGI Global" ;
+    rdfs:comment "American publishing company" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q648724> .
+
+ex:INTERNET_POLICY a owl:Thing ;
+    rdfs:label "INTERNET POLICY" .
+
+ex:INTERNET_POLICY_REVIEW a owl:Thing ;
+    rdfs:label "INTERNET POLICY REVIEW" .
+
+ex:INTERPOL rdfs:label "INTERPOL" ;
+    ex:support ex:global_operation .
+
+ex:IT_Army_of_Ukraine_2022 a ex:WORK_OF_ART ;
+    rdfs:label """IT
+Army of Ukraine 2022""" .
+
+ex:Inconsistent_documentation rdfs:label "Inconsistent documentation" ;
+    ex:pose ex:significant_issue .
+
+ex:Incourse911_inc911 rdfs:label "Incourse911(inc911" ;
+    ex:inc911 ex:studca_CybPal_inc911 .
+
+ex:India rdfs:label "India" ;
+    ex:demonstrate ex:regimes .
+
+ex:Innovations rdfs:label "Innovations" ;
+    ex:allow ex:Cambridge_Analytica .
+
+ex:Instagram_group rdfs:label "Instagram group" ;
+    ex:set ex:Telegram_account .
+
+ex:Institutional_change rdfs:label "Institutional change" ;
+    ex:include ex:political_new_institutions .
+
+ex:Intelligence_Joint_Committee rdfs:label "Intelligence Joint Committee" ;
+    ex:report ex:States_assessment .
+
+ex:International_Conference a ex:EVENT ;
+    rdfs:label "International Conference" ;
+    rdfs:comment "meeting of representatives of states convened to discuss and attempt to resolve a matter of common interest" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q18564543> .
+
+ex:International_Journal rdfs:label "International Journal" ;
+    ex:examine ex:Emre_Ekmekcioglu1,
+        ex:target_preferences .
+
+ex:International_Journal_of_Information_Security a ex:ORG ;
+    rdfs:label "International Journal of Information Security" ;
+    rdfs:comment "journal" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q2195044> .
+
+ex:International_team rdfs:label "International team" ;
+    ex:take ex:Andromeda_spewing_botnet .
+
+ex:Internet_in_Russia a owl:Thing ;
+    rdfs:label "Internet in Russia" .
+
+ex:Intimate rdfs:label "Intimate" ;
+    ex:cross ex:gender_relationships .
+
+ex:Iranian_government a owl:Thing ;
+    rdfs:label "Iranian government" .
+
+ex:Iranian_social_movements a owl:Thing ;
+    rdfs:label "Iranian social movements" .
+
+ex:Iranians rdfs:label "Iranians" ;
+    ex:appropriate ex:internet ;
+    ex:have ex:satellite_antenna ;
+    ex:overcome ex:Internet_Filtering .
+
+ex:Iraqi_WMD rdfs:label "Iraqi WMD" ;
+    ex:underscore ex:reputational_risks .
+
+ex:Islamic_Republic rdfs:label "Islamic Republic" ;
+    ex:ban ex:satellite_dishes .
+
+ex:J__Con_ict_Resoltn a ex:PERSON ;
+    rdfs:label """J. Conﬂict
+Resoltn""" .
+
+ex:J__Con_ict_Resolut a ex:PERSON ;
+    rdfs:label "J. Conﬂict Resolut" .
+
+ex:J__Cyber_Secur a ex:PERSON ;
+    rdfs:label "J. Cyber-Secur" .
+
+ex:J__Diplomasi_Pertahanan a ex:PERSON ;
+    rdfs:label "J. Diplomasi Pertahanan" .
+
+ex:J__Glob a ex:PERSON ;
+    rdfs:label "J. Glob" ;
+    rdfs:comment "journal" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q13359992> .
+
+ex:J__Inform a ex:PERSON ;
+    rdfs:label "J. Inform" ;
+    rdfs:comment "journal" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q7743386> .
+
+ex:J__Mass_Media a ex:ORG ;
+    rdfs:label "J. Mass Media" .
+
+ex:J___Lithuanian a ex:ORG ;
+    rdfs:label "J., Lithuanian" .
+
+ex:J___Masuch__M_ a ex:ORG ;
+    rdfs:label "J., Masuch, M." .
+
+ex:Joshua_Tucker rdfs:label "Joshua Tucker" ;
+    ex:see ex:Brendan_Nyhan,
+        ex:et_al .
+
+ex:Journal_of_Computational a owl:Thing ;
+    rdfs:label "Journal of Computational" .
+
+ex:KGB rdfs:label "KGB" ;
+    ex:disseminate ex:forged_intelligence ;
+    ex:help ex:Washington_Post .
+
+ex:Kaliningrad a ex:FAC ;
+    rdfs:label "Kaliningrad" ;
+    rdfs:comment "Russian Baltic city between Poland and Lithuania" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q1829> .
+
+ex:Key_3_3_6_Resources rdfs:label "Key 3.3.6 Resources" ;
+    ex:describe ex:necessary_assets .
+
+ex:Keywords rdfs:label "Keywords" ;
+    ex:witness ex:unanticipated_unplanned1 .
+
+ex:Keywords_Cyberwarfare a ex:PERSON ;
+    rdfs:label "Keywords Cyberwarfare" .
+
+ex:Komninos a ex:PERSON ;
+    rdfs:label "Komninos" ;
+    rdfs:comment "family name" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q37527048> .
+
+ex:Kostyuk a ex:GPE ;
+    rdfs:label "Kostyuk" ;
+    rdfs:comment "family name" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q6433608> .
+
+ex:Lech_Janczewski a ex:PERSON ;
+    rdfs:label "Lech Janczewski" ;
+    rdfs:comment "information systems researcher at Massey University in New Zealand" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q122480174> .
+
+ex:Lithuanian a ex:NORP ;
+    rdfs:label "Lithuanian" ;
+    rdfs:comment "Baltic language spoken in Lithuania" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q9083> .
+
+ex:LiveJournal rdfs:label "LiveJournal" ;
+    ex:become ex:plat__popular_form ;
+    ex:lose ex:political_function .
+
+ex:Lukashenka___Anti_protesters rdfs:label "Lukashenka - Anti protesters" ;
+    ex:reclaim ex:red_flag .
+
+ex:MIT_Press rdfs:label "MIT Press" ;
+    ex:see ex:Ian_Goodfellow .
+
+ex:MOBILISE_Belarus_Protest a owl:Thing ;
+    rdfs:label "MOBILISE Belarus Protest" .
+
+ex:MOBILISE_Belarusian_Protest a owl:Thing ;
+    rdfs:label "MOBILISE Belarusian Protest" .
+
+ex:Malicious_actors rdfs:label "Malicious actors" ;
+    ex:enhance ex:influence_operations ;
+    ex:face ex:hostile_environment .
+
+ex:Manuscript rdfs:label "Manuscript" ;
+    ex:submit ex:Georgoulias,
+        ex:business_Botnet_models .
+
+ex:Mark rdfs:label "Mark" ;
+    ex:identify ex:interactional_patterns .
+
+ex:Martti_Lehto a ex:PERSON ;
+    rdfs:label "Martti Lehto" ;
+    rdfs:comment "Finnish military scientist" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q103306226> .
+
+ex:Matthew_Hutson rdfs:label "Matthew Hutson" ;
+    ex:face ex:Science,
+        ex:reproducibility_crisis .
+
+ex:Media_source rdfs:label "Media source" ;
+    ex:denote ex:VotedLukashenka_MemberInCivSocOrg_VotedTsikhanouskaya .
+
+ex:Medical_Online_medical_Discussion rdfs:label "Medical Online medical Discussion" ;
+    ex:dod ex:Covid_masks .
+
+ex:Medvedev rdfs:label "Medvedev" ;
+    ex:visit ex:head_office .
+
+ex:Microsoft a ex:ORG ;
+    rdfs:label "Microsoft" ;
+    ex:create ex:Working_Conficker_Group ;
+    ex:disrupt ex:ZeroAccess_notorious_botnet ;
+    ex:orchestrate ex:coordinated_takedown ;
+    ex:seize ex:dot_Chinese_org ;
+    ex:take ex:IP_addresses ;
+    rdfs:comment "American multinational technology corporation" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q2283> .
+
+ex:Mie_Young_Kim rdfs:label "Mie Young Kim" ;
+    ex:investigate ex:groups .
+
+ex:Military_category rdfs:label "Military category" ;
+    ex:show ex:aggressive_growth .
+
+ex:Model_Business_Model a owl:Thing ;
+    rdfs:label "Model Business Model" .
+
+ex:Mozilla rdfs:label "Mozilla" ;
+    ex:take ex:action .
+
+ex:NATO a ex:ORG ;
+    rdfs:label "NATO" ;
+    rdfs:comment "intergovernmental military alliance between 32 member states" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q7184> .
+
+ex:NCSC a ex:PERSON ;
+    rdfs:label "NCSC" ;
+    rdfs:comment "National Commission" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q17077707> .
+
+ex:N__Tavakkoli a ex:PERSON ;
+    rdfs:label "N. Tavakkoli" .
+
+ex:Nasim a ex:NORP ;
+    rdfs:label "Nasim" ;
+    rdfs:comment "given name" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q21127505> .
+
+ex:Nasim_Tavakkoli a ex:ORG ;
+    rdfs:label "Nasim Tavakkoli" .
+
+ex:National_Belarus_Awakening rdfs:label "National Belarus Awakening" ;
+    ex:offer ex:Hope .
+
+ex:Nationalities_Papers rdfs:label "Nationalities Papers" ;
+    ex:declare ex:Russian .
+
+ex:Natural_Sciences a ex:ORG ;
+    rdfs:label "Natural Sciences" ;
+    rdfs:comment "branch of science about the natural world" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q7991> .
+
+ex:Navalny rdfs:label "Navalny" ;
+    ex:launch ex:standalone_website ;
+    ex:publish ex:follow_video .
+
+ex:Ned_spokesperson_Price rdfs:label "Ned spokesperson Price" ;
+    ex:outline ex:fake_operation,
+        ex:tough_questions .
+
+ex:Network_analysis rdfs:label "Network analysis" ;
+    ex:provide ex:eye_view .
+
+ex:News rdfs:label "News" ;
+    ex:see ex:highest_frequency .
+
+ex:Nicolas_Fandos rdfs:label "Nicolas Fandos" ;
+    ex:identify ex:Influence_Active_Campaign .
+
+ex:OSINT a ex:ORG ;
+    rdfs:label "OSINT" ;
+    rdfs:comment "data collected from open and publicly available sources to be used in an intelligence context" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q1059178> .
+
+ex:Observers rdfs:label "Observers" ;
+    ex:dub ex:protest_wave .
+
+ex:Online_Activism a owl:Thing ;
+    rdfs:label "Online Activism" ;
+    ex:add ex:based_alternative_power .
+
+ex:Onuch a owl:Thing ;
+    rdfs:label "Onuch" .
+
+ex:OpenNet_Initative rdfs:label "OpenNet Initative" ;
+    ex:resea_rch__profi_les__iran ex:Peluso .
+
+ex:OpenNet_Initiative rdfs:label "OpenNet Initiative" ;
+    ex:publish ex:country_report .
+
+ex:Operation_Ladybird rdfs:label "Operation Ladybird" ;
+    ex:involve ex:enforcement_authorities .
+
+ex:Or_un__etin a ex:ORG ;
+    rdfs:label "Orçun Çetin" ;
+    rdfs:comment "Turkish researcher" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q130859122> .
+
+ex:Organizations rdfs:label "Organizations" ;
+    ex:rethink ex:business .
+
+ex:Paper rdfs:label "Paper" ;
+    ex:present ex:Verdoliva .
+
+ex:Past_work rdfs:label "Past work" ;
+    ex:develop ex:Framework .
+
+ex:Pavel_Durov rdfs:label "Pavel Durov" ;
+    ex:announce ex:grant_program .
+
+ex:Peer_sinkholing rdfs:label "Peer sinkholing" ;
+    ex:affect ex:bot_assimilation .
+
+ex:Philipp_M__ a ex:PERSON ;
+    rdfs:label "Philipp M.:" .
+
+ex:Phoenix a ex:GPE ;
+    rdfs:label "Phoenix" ;
+    rdfs:comment "seat of Maricopa County, largest city in, and capital of, the State of Arizona, United States" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q16556> .
+
+ex:Phoenix_Inform a ex:WORK_OF_ART ;
+    rdfs:label "Phoenix Inform" ;
+    ex:exhibit ex:lower_activity ;
+    ex:show ex:common_targets .
+
+ex:Physical_seizure rdfs:label "Physical seizure" ;
+    ex:require ex:legal_procedures .
+
+ex:Policymak__ers rdfs:label "Policymak­ ers" ;
+    ex:lack ex:concrete_guidance .
+
+ex:Political a owl:Thing ;
+    rdfs:label "Political" .
+
+ex:Political_Science a owl:Thing ;
+    rdfs:label "Political Science" .
+
+ex:Political_Science_Review a owl:Thing ;
+    rdfs:label "Political Science Review" .
+
+ex:Portal_Research_DOI rdfs:label "Portal Research DOI" ;
+    ex:review ex:version_Link .
+
+ex:Preprint rdfs:label "Preprint" ;
+    ex:draw ex:Neural_Recurrent_Network ;
+    ex:submit ex:January .
+
+ex:Press a owl:Thing ;
+    rdfs:label "Press" .
+
+ex:Press_Lukashenka_protest a owl:Thing ;
+    rdfs:label "Press Lukashenka protest" .
+
+ex:Pro_UA a ex:ORG ;
+    rdfs:label "Pro-UA" .
+
+ex:Proceedings rdfs:label "Proceedings" ;
+    ex:support ex:cooperative_work .
+
+ex:Procurement rdfs:label "Procurement" ;
+    ex:describe ex:physical_acquisition .
+
+ex:Protest a owl:Thing ;
+    rdfs:label "Protest" .
+
+ex:Protest_surveys rdfs:label "Protest surveys" ;
+    ex:employ ex:probability___non_sampling .
+
+ex:Provided_data rdfs:label "Provided data" ;
+    ex:demonstrate ex:Page,
+        ex:et_al,
+        ex:ing_trend .
+
+ex:Public a owl:Thing ;
+    rdfs:label "Public" .
+
+ex:Public_intelligence a owl:Thing ;
+    rdfs:label "Public intelligence" .
+
+ex:Putin a ex:PERSON ;
+    rdfs:label "Putin" ;
+    ex:order ex:partial_mobilisation ;
+    rdfs:comment "2024 film" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q125999766> .
+
+ex:R__A_ a ex:PERSON ;
+    rdfs:label "R. A." ;
+    rdfs:comment "American writer" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q316431> .
+
+ex:R_d_EG rdfs:label "Rød EG" ;
+    ex:empower ex:Activists .
+
+ex:Recent_literature rdfs:label "Recent literature" ;
+    ex:present ex:under__standing .
+
+ex:Recent_work rdfs:label "Recent work" ;
+    ex:provide ex:helpful_datapoints .
+
+ex:Recommendation rdfs:label "Recommendation" ;
+    ex:advise ex:member_states ;
+    ex:commodify ex:Simple_Detection_deepfakes ;
+    ex:encourage ex:Inconsistent_practices .
+
+ex:Red_nodes rdfs:label "Red nodes" ;
+    ex:represent ex:Bot_users .
+
+ex:Related_work rdfs:label "Related work" ;
+    ex:provide ex:literature_review .
+
+ex:Repression rdfs:label "Repression" ;
+    ex:entail ex:negative_incentives .
+
+ex:Research rdfs:label "Research" ;
+    ex:show ex:repressive_regimes .
+
+ex:Research_Portal a owl:Thing ;
+    rdfs:label "Research Portal" .
+
+ex:Research_Portal_Citation a owl:Thing ;
+    rdfs:label "Research Portal Citation" .
+
+ex:Research_in_Computer_Security a ex:ORG ;
+    rdfs:label "Research in Computer Security" .
+
+ex:Researchers rdfs:label "Researchers" ;
+    ex:report ex:strong_success ;
+    ex:take ex:special_interest .
+
+ex:Results rdfs:label "Results" ;
+    ex:highlight ex:security_inadequate_measures ;
+    ex:present ex:comprehensive_analysis .
+
+ex:Review rdfs:label "Review" ;
+    ex:see ex:Brendan_Nyhan,
+        ex:et_al .
+
+ex:Revolutionary_Guards rdfs:label "Revolutionary Guards" ;
+    ex:enter ex:political_sectors ;
+    ex:implement ex:VPN_services ;
+    ex:run ex:VPN_servers .
+
+ex:Richard_Chief_Moore rdfs:label "Richard Chief Moore" ;
+    ex:highlight ex:emptive___pre_exposures .
+
+ex:Roskomnadzor rdfs:label "Roskomnadzor" ;
+    ex:block ex:notifica__push_tions ;
+    ex:tell ex:service_providers .
+
+ex:Routledge a ex:PERSON ;
+    rdfs:label "Routledge" ;
+    rdfs:comment "British multinational academic publisher founded in 1836" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q1508259> .
+
+ex:Run_Runet a owl:Thing ;
+    rdfs:label "Run Runet" .
+
+ex:Run_Runet_Runaway a owl:Thing ;
+    rdfs:label "Run Runet Runaway" .
+
+ex:Runet rdfs:label "Runet" ;
+    ex:create ex:new_challenges ;
+    ex:offer ex:rich_diversity .
+
+ex:Runet_Development a owl:Thing ;
+    rdfs:label "Runet Development" .
+
+ex:Runet_Runaway a owl:Thing ;
+    rdfs:label "Runet Runaway" .
+
+ex:Runet_media a owl:Thing ;
+    rdfs:label "Runet media" .
+
+ex:Runet_media_sphere a owl:Thing ;
+    rdfs:label "Runet media sphere" .
+
+ex:RussiaUkraine a ex:ORG ;
+    rdfs:label "RussiaUkraine" .
+
+ex:Russian_Aggression a ex:PERSON ;
+    rdfs:label "Russian Aggression" ;
+    rdfs:comment "journal article from 'Innovation in the Social Sciences' published in 2024" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q127601334> .
+
+ex:Russian_Internet a owl:Thing ;
+    rdfs:label "Russian Internet" .
+
+ex:Russian_Internet_continuously a owl:Thing ;
+    rdfs:label "Russian Internet continuously" .
+
+ex:Russian_Internet_development a owl:Thing ;
+    rdfs:label "Russian Internet development" .
+
+ex:Russian_Internet_giants a owl:Thing ;
+    rdfs:label "Russian Internet giants" .
+
+ex:Russian_Internet_included a owl:Thing ;
+    rdfs:label "Russian Internet included" .
+
+ex:Russian_Internet_users a owl:Thing ;
+    rdfs:label "Russian Internet users" .
+
+ex:Russian_Social_Media a owl:Thing ;
+    rdfs:label "Russian Social Media" .
+
+ex:Russian___pro_Ukrainian___pro_collectives rdfs:label "Russian - pro Ukrainian - pro collectives" ;
+    ex:follow ex:different_strategies .
+
+ex:Russian___pro_Ukrainian___pro_groups rdfs:label "Russian - pro Ukrainian - pro groups" ;
+    ex:adopt ex:different_strategies .
+
+ex:Russian___pro_entities rdfs:label "Russian - pro entities" ;
+    ex:increase ex:attacks .
+
+ex:Russian___pro_groups rdfs:label "Russian - pro groups" ;
+    ex:ddosed ex:Lithuanian_websites ;
+    ex:launch ex:DDoS_attacks ;
+    ex:target ex:websites .
+
+ex:Russian_activism a owl:Thing ;
+    rdfs:label "Russian activism" .
+
+ex:Russian_ambassador rdfs:label "Russian ambassador" ;
+    ex:mock ex:Express .
+
+ex:Russian_authorities a owl:Thing ;
+    rdfs:label "Russian authorities" ;
+    ex:make ex:failed_attempt .
+
+ex:Russian_intelligence a owl:Thing ;
+    rdfs:label "Russian intelligence" .
+
+ex:Russian_intelligence_officers a owl:Thing ;
+    rdfs:label "Russian intelligence officers" .
+
+ex:Russian_media a owl:Thing ;
+    rdfs:label "Russian media" .
+
+ex:Russian_media_sphere a owl:Thing ;
+    rdfs:label "Russian media sphere" .
+
+ex:Russian_online a owl:Thing ;
+    rdfs:label "Russian online" .
+
+ex:Russian_online_activism a owl:Thing ;
+    rdfs:label "Russian online activism" .
+
+ex:Russian_online_media a owl:Thing ;
+    rdfs:label "Russian online media" .
+
+ex:Russian_online_space a owl:Thing ;
+    rdfs:label "Russian online space" .
+
+ex:Russian_social a owl:Thing ;
+    rdfs:label "Russian social" .
+
+ex:Russian_social_networks a owl:Thing ;
+    rdfs:label "Russian social networks" .
+
+ex:Russian_state a owl:Thing ;
+    rdfs:label "Russian state" ;
+    ex:introduce ex:new_constraints .
+
+ex:Russians rdfs:label "Russians" ;
+    ex:shun ex:controlled_TV .
+
+ex:SWP_Comment a ex:ORG ;
+    rdfs:label "SWP Comment" .
+
+ex:S__N_ a ex:PERSON ;
+    rdfs:label "S. N." ;
+    rdfs:comment "Burmese teacher of vipassanā meditation" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q539048> .
+
+ex:Sabanci_University a ex:ORG ;
+    rdfs:label """Sabanci
+University""" .
+
+ex:Samantha rdfs:label "Samantha" ;
+    ex:perform ex:data_annotation .
+
+ex:Sandworm a ex:ORG ;
+    rdfs:label "Sandworm" ;
+    rdfs:comment "marine worm" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q21155> .
+
+ex:Sasahara_K__ a ex:PERSON ;
+    rdfs:label "Sasahara K.," .
+
+ex:Scienti_c a ex:PERSON ;
+    rdfs:label "Scientiﬁc" ;
+    rdfs:comment "scientific journal" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q2261792> .
+
+ex:Secret_Intelligence a owl:Thing ;
+    rdfs:label "Secret Intelligence" .
+
+ex:Secret_Intelligence_Huw a owl:Thing ;
+    rdfs:label "Secret Intelligence Huw" .
+
+ex:Sect_5 a ex:GPE ;
+    rdfs:label "Sect.5" .
+
+ex:Section6 rdfs:label "Section6" ;
+    ex:provide ex:thorough_analysis .
+
+ex:Sectoral_dissection rdfs:label "Sectoral dissection" ;
+    ex:outline ex:sectors .
+
+ex:Security a owl:Thing ;
+    rdfs:label "Security" .
+
+ex:Security_and_Emerging a owl:Thing ;
+    rdfs:label "Security and Emerging" .
+
+ex:Sensitive_data rdfs:label "Sensitive data" ;
+    ex:include ex:political_opinions .
+
+ex:Shah rdfs:label "Shah" ;
+    ex:have ex:modernizing_vision .
+
+ex:Social a owl:Thing ;
+    rdfs:label "Social" .
+
+ex:Social_Protest_Movement a owl:Thing ;
+    rdfs:label "Social Protest Movement" .
+
+ex:Social_media_privacy a owl:Thing ;
+    rdfs:label "Social media privacy" .
+
+ex:Sounding_Board rdfs:label "Sounding Board" ;
+    ex:present ex:critical_view .
+
+ex:Speci_cally a ex:PERSON ;
+    rdfs:label "Speciﬁcally" ;
+    rdfs:comment "category of rating in the ICAA Spanish system for movie ratings" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q27253960> .
+
+ex:Spyware rdfs:label "Spyware" ;
+    ex:collect ex:information .
+
+ex:Stakeholders rdfs:label "Stakeholders" ;
+    ex:encourage ex:radioactive_marking .
+
+ex:StarmWall a ex:PERSON ;
+    rdfs:label "StarmWall" .
+
+ex:State_Dependency rdfs:label "State Dependency" ;
+    ex:reduce ex:Demand .
+
+ex:Stephanie_van rdfs:label "Stephanie van" ;
+    ex:den ex:Berg .
+
+ex:StormWall a ex:ORG ;
+    rdfs:label "StormWall" .
+
+ex:Student_Cyber_Army a ex:ORG ;
+    rdfs:label "Student Cyber Army" .
+
+ex:Supreme_Leader rdfs:label "Supreme Leader" ;
+    ex:have ex:Telegram_channel .
+
+ex:Survey a owl:Thing ;
+    rdfs:label "Survey" ;
+    ex:capture ex:underlying_characteristics .
+
+ex:Svolik rdfs:label "Svolik" ;
+    ex:model ex:actor_contentious_constellations .
+
+ex:Syria rdfs:label "Syria" ;
+    ex:report ex:States_assessment .
+
+ex:T__ a ex:ORG ;
+    rdfs:label "T.," ;
+    rdfs:comment "English army officer and photographer (1822-1905)" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q21289861> .
+
+ex:T_he_successes rdfs:label "T]he successes" ;
+    ex:initiate ex:ernment_crackdown .
+
+ex:Table rdfs:label "Table" ;
+    ex:die ex:Unexpected_Deaths .
+
+ex:Table_1 a ex:PRODUCT ;
+    rdfs:label "Table 1" ;
+    rdfs:comment "2017 film by Jeffrey Blitz" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q20022668> .
+
+ex:Table_2 a ex:LAW ;
+    rdfs:label "Table 2" ;
+    rdfs:comment "concept in epidemiology" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q133461383> .
+
+ex:Table_2_Overlaps a ex:WORK_OF_ART ;
+    rdfs:label "Table 2 Overlaps" .
+
+ex:Table_3 a ex:PRODUCT ;
+    rdfs:label "Table 3" ;
+    rdfs:comment "episode of New Girl" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q111166436> .
+
+ex:Table_3_Distribution_of_DDoS a ex:PRODUCT ;
+    rdfs:label "Table 3 Distribution of DDoS" .
+
+ex:Table_4_Distribution_of_DDoS a ex:ORG ;
+    rdfs:label "Table 4 Distribution of DDoS" .
+
+ex:Table_4_revealsaclearpreferenceforCloud_areasaDDoSprotection a ex:LAW ;
+    rdfs:label """Table 4
+revealsaclearpreferenceforCloudﬂareasaDDoSprotection""" .
+
+ex:Technical_innovation rdfs:label "Technical innovation" ;
+    ex:provide ex:autocrats .
+
+ex:Technoactivism rdfs:label "Technoactivism" ;
+    ex:require ex:technical_extensive_expertise .
+
+ex:Technological_Research_Council a ex:ORG ;
+    rdfs:label "Technological Research Council" .
+
+ex:Telegram_bots a owl:Thing ;
+    rdfs:label "Telegram bots" ;
+    ex:have ex:main_roles .
+
+ex:Telegram_channels a owl:Thing ;
+    rdfs:label "Telegram channels" .
+
+ex:Telegram_chats rdfs:label "Telegram chats" ;
+    ex:become ex:major_tool .
+
+ex:Telegram_platform rdfs:label "Telegram platform" ;
+    ex:have ex:data_fields .
+
+ex:Telegram_users a owl:Thing ;
+    rdfs:label "Telegram users" .
+
+ex:Television rdfs:label "Television" ;
+    ex:remain ex:main_source .
+
+ex:Temporal_analysis rdfs:label "Temporal analysis" ;
+    ex:provide ex:time_understanding .
+
+ex:Theocharis rdfs:label "Theocharis" ;
+    ex:see ex:Van_Deth .
+
+ex:Theorizing_Online_Activism a owl:Thing ;
+    rdfs:label "Theorizing Online Activism" .
+
+ex:Traditional_concepts rdfs:label "Traditional concepts" ;
+    ex:have ex:limited_capacity .
+
+ex:Tranco a ex:ORG ;
+    rdfs:label "Tranco" ;
+    rdfs:comment "municipality in Portugal" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q686868> .
+
+ex:Trickbot rdfs:label "Trickbot" ;
+    ex:take ex:Emotet_Following_Shutdown .
+
+ex:Trump_administration rdfs:label "Trump administration" ;
+    ex:use ex:similar_tactics .
+
+ex:Tsiatsikas a ex:ORG ;
+    rdfs:label "Tsiatsikas" .
+
+ex:Turkey a ex:GPE ;
+    rdfs:label "Turkey" ;
+    rdfs:comment "country in West Asia and Southeast Europe" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q43> .
+
+ex:Twitter rdfs:label "Twitter" ;
+    ex:delete ex:Guardian .
+
+ex:Ukraine_War a owl:Thing ;
+    rdfs:label "Ukraine War" .
+
+ex:Ukraine_con_ict a owl:Thing ;
+    rdfs:label "Ukraine conﬂict" .
+
+ex:Ukraine_crisis a owl:Thing ;
+    rdfs:label "Ukraine crisis" ;
+    ex:bring ex:British_intelligence .
+
+ex:Ukrainian a ex:GPE ;
+    rdfs:label "Ukrainian" ;
+    ex:initiate ex:DDoS_attacks ;
+    rdfs:comment "East Slavic language" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q8798> .
+
+ex:Ukrainian_DDoS_attacks a owl:Thing ;
+    rdfs:label "Ukrainian DDoS attacks" .
+
+ex:Ukrainian___Pro_groups rdfs:label "Ukrainian - Pro groups" ;
+    ex:conduct ex:DDoS_attacks .
+
+ex:Ukrainian___pro_groups rdfs:label "Ukrainian - pro groups" ;
+    ex:include ex:CyberPalyanista,
+        ex:Cyber_Army,
+        ex:Incourse911 .
+
+ex:Ukrainian_government rdfs:label "Ukrainian government" ;
+    ex:establish ex:Army .
+
+ex:Ukrainian_groups rdfs:label "Ukrainian groups" ;
+    ex:exhibit ex:peak_activity .
+
+ex:Understanding a ex:GPE ;
+    rdfs:label "Understanding" ;
+    rdfs:comment "ability to think about and use concepts to deal adequately with an object" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q46744> .
+
+ex:University a owl:Thing ;
+    rdfs:label "University" .
+
+ex:University_Press a owl:Thing ;
+    rdfs:label "University Press" .
+
+ex:Usage_of_DDoS a ex:ORG ;
+    rdfs:label "Usage of DDoS" .
+
+ex:User_group a owl:Thing ;
+    rdfs:label "User group" .
+
+ex:Usmanov rdfs:label "Usmanov" ;
+    ex:bribe ex:Dmitry_Medvedev .
+
+ex:VKontakte rdfs:label "VKontakte" ;
+    ex:dominate ex:networks_market ;
+    ex:offer ex:plat__form .
+
+ex:Value_propositions rdfs:label "Value propositions" ;
+    ex:describe ex:value_exchange .
+
+ex:Values rdfs:label "Values" ;
+    ex:indicate ex:positive_correlation .
+
+ex:Van_Goethem a ex:PERSON ;
+    rdfs:label "Van Goethem" ;
+    rdfs:comment "family name" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q7913351> .
+
+ex:Van_Niekerk a ex:PERSON ;
+    rdfs:label "Van Niekerk" ;
+    rdfs:comment "family name" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q21513516> .
+
+ex:Van_Rijswijk_Deij a ex:PERSON ;
+    rdfs:label "Van Rijswijk-Deij" .
+
+ex:Version_Peer rdfs:label "Version Peer" ;
+    ex:review ex:version_Link .
+
+ex:VirusTotal a ex:ORG ;
+    rdfs:label "VirusTotal" ;
+    rdfs:comment "cybersecurity website" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q164203> .
+
+ex:VirusTotal_s_IoC_Reputation___Enrichment_API a ex:ORG ;
+    rdfs:label """VirusTotal’s IoC
+Reputation & Enrichment API""" .
+
+ex:Vladimir_President_Putin rdfs:label "Vladimir President Putin" ;
+    ex:subject ex:traditional_Russian_media .
+
+ex:WE_ARE_KILLNET a ex:WORK_OF_ART ;
+    rdfs:label "WE ARE KILLNET" .
+
+ex:WHOIS a ex:ORG ;
+    rdfs:label "WHOIS" ;
+    rdfs:comment "computer network protocol" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q590967> .
+
+ex:War a owl:Thing ;
+    rdfs:label "War" .
+
+ex:WaveNet rdfs:label "WaveNet" ;
+    ex:produce ex:synthetic_voices .
+
+ex:Web_Amazon_Services rdfs:label "Web Amazon Services" ;
+    ex:launch ex:Detection_Deepfake_Challenge .
+
+ex:Weekday_distribution rdfs:label "Weekday distribution" ;
+    ex:coordinate ex:expansive_campaign .
+
+ex:West rdfs:label "West" ;
+    ex:hit ex:news_fake_factories .
+
+ex:Western_agents rdfs:label "Western agents" ;
+    ex:seek ex:BBC_News .
+
+ex:Women rdfs:label "Women" ;
+    ex:lead ex:Stereotypes .
+
+ex:Workshop_Report a ex:ORG ;
+    rdfs:label "Workshop Report" ;
+    rdfs:comment "German term for a documentation of a work process" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q628175> .
+
+ex:World_Population_Review_2 a ex:EVENT ;
+    rdfs:label "World Population Review.2" .
+
+ex:Writers rdfs:label "Writers" ;
+    ex:express ex:significant_concerns .
+
+ex:Wulf a owl:Thing ;
+    rdfs:label "Wulf" .
+
+ex:Yandex rdfs:label "Yandex" ;
+    ex:become ex:Internet_Russian_major_giants .
+
+ex:Yarovaya_package rdfs:label "Yarovaya package" ;
+    ex:oblige ex:Service_Providers .
+
+ex:Youth rdfs:label "Youth" ;
+    ex:define ex:Past .
+
+ex:Zhukov a ex:PERSON ;
+    rdfs:label "Zhukov" ;
+    rdfs:comment "family name (Жуков)" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q17060691> .
+
+ex:_0_02 a owl:ObjectProperty ;
+    rdfs:label "0.02" .
+
+ex:_64_Platforms rdfs:label "”64 Platforms" ;
+    ex:adopt ex:policies_65_similar_Center .
+
+ex:__Issue rdfs:label "| Issue" ;
+    ex:unpack ex:European_approach .
+
+ex:_gure_1b rdfs:label "ﬁgure 1b" ;
+    ex:offer ex:detailed_visualization .
+
+ex:abstract_european_commission a owl:Thing ;
+    rdfs:label "abstract european commission" .
+
+ex:access_marketplaces_clearweb a owl:Thing ;
+    rdfs:label "access marketplaces clearweb" .
+
+ex:access_social_media a owl:Thing ;
+    rdfs:label "access social media" .
+
+ex:acm_reference a owl:Thing ;
+    rdfs:label "acm reference" .
+
+ex:acquire a owl:ObjectProperty ;
+    rdfs:label "acquire" .
+
+ex:activism_russia_evolution a owl:Thing ;
+    rdfs:label "activism russia evolution" .
+
+ex:ad_2010_024 a owl:ObjectProperty ;
+    rdfs:label "ad(2010)024" .
+
+ex:adapt a owl:ObjectProperty ;
+    rdfs:label "adapt" .
+
+ex:add a owl:ObjectProperty ;
+    rdfs:label "add" .
+
+ex:additional_sector rdfs:label "additional sector" ;
+    ex:include ex:related_services .
+
+ex:addressed_terms_socio a owl:Thing ;
+    rdfs:label "addressed terms socio" .
+
+ex:adopt a owl:ObjectProperty ;
+    rdfs:label "adopt" .
+
+ex:advise a owl:ObjectProperty ;
+    rdfs:label "advise" .
+
+ex:affect a owl:ObjectProperty ;
+    rdfs:label "affect" .
+
+ex:afford a owl:ObjectProperty ;
+    rdfs:label "afford" .
+
+ex:air_Soviet_force rdfs:label "air Soviet force" ;
+    ex:shoot ex:flight_KAL .
+
+ex:al__gorithms rdfs:label "al­ gorithms" ;
+    ex:enable ex:malicious_actors .
+
+ex:allow a owl:ObjectProperty ;
+    rdfs:label "allow" .
+
+ex:alternative_system rdfs:label "alternative system" ;
+    ex:show ex:comparable_performance .
+
+ex:analyses_protests_belarus a owl:Thing ;
+    rdfs:label "analyses protests belarus" .
+
+ex:analytical_frame rdfs:label "analytical frame" ;
+    ex:facilitate ex:future_explorations .
+
+ex:analytics_firm rdfs:label "analytics firm" ;
+    ex:harvest ex:personal_data .
+
+ex:announce a owl:ObjectProperty ;
+    rdfs:label "announce" .
+
+ex:antilukashenka a owl:Thing ;
+    rdfs:label "antilukashenka" .
+
+ex:apply a owl:ObjectProperty ;
+    rdfs:label "apply" .
+
+ex:approach_tackling_challenges a owl:Thing ;
+    rdfs:label "approach tackling challenges" .
+
+ex:appropriate a owl:ObjectProperty ;
+    rdfs:label "appropriate" .
+
+ex:appropriation_counterpublic_internet a owl:Thing ;
+    rdfs:label "appropriation counterpublic internet" .
+
+ex:article_flowers_tractors a owl:Thing ;
+    rdfs:label "article flowers tractors" .
+
+ex:ask a owl:ObjectProperty ;
+    rdfs:label "ask" .
+
+ex:assign a owl:ObjectProperty ;
+    rdfs:label "assign" .
+
+ex:assume a owl:ObjectProperty ;
+    rdfs:label "assume" .
+
+ex:attack a owl:Thing ;
+    rdfs:label "attack" .
+
+ex:attack_DDoS_strategies rdfs:label "attack DDoS strategies" ;
+    ex:reveal ex:distinct_difference .
+
+ex:attack_study_reveals a owl:Thing ;
+    rdfs:label "attack study reveals" .
+
+ex:attacks_ongoing_russia a owl:Thing ;
+    rdfs:label "attacks ongoing russia" .
+
+ex:attract a owl:ObjectProperty ;
+    rdfs:label "attract" .
+
+ex:attribution_russian_interference a owl:Thing ;
+    rdfs:label "attribution russian interference" .
+
+ex:author a owl:ObjectProperty ;
+    rdfs:label "author" .
+
+ex:author_ahmed_maati a owl:Thing ;
+    rdfs:label "author ahmed maati" .
+
+ex:author_declared_competing a owl:Thing ;
+    rdfs:label "author declared competing" .
+
+ex:authoritarian_contexts rdfs:label "authoritarian contexts" ;
+    ex:breed ex:middle_dependent_class .
+
+ex:authoritarian_contexts_belarus a owl:Thing ;
+    rdfs:label "authoritarian contexts belarus" .
+
+ex:authoritarian_state a owl:Thing ;
+    rdfs:label "authoritarian state" .
+
+ex:authoritarian_state_article a owl:Thing ;
+    rdfs:label "authoritarian state article" .
+
+ex:authors_gwendolyn_sasse a owl:Thing ;
+    rdfs:label "authors gwendolyn sasse" .
+
+ex:autocracies_digitally_transformed a owl:Thing ;
+    rdfs:label "autocracies digitally transformed" .
+
+ex:autocratic_elites rdfs:label "autocratic elites" ;
+    ex:impact ex:authoritarian_politics .
+
+ex:autocrats_instrumentalize_digital a owl:Thing ;
+    rdfs:label "autocrats instrumentalize digital" .
+
+ex:avoid a owl:ObjectProperty ;
+    rdfs:label "avoid" .
+
+ex:ban a owl:ObjectProperty ;
+    rdfs:label "ban" .
+
+ex:base a owl:ObjectProperty ;
+    rdfs:label "base" .
+
+ex:based_researchers rdfs:label "based researchers" ;
+    ex:identify ex:cultural_cluster .
+
+ex:become a owl:ObjectProperty ;
+    rdfs:label "become" .
+
+ex:belarus_survey_based a owl:Thing ;
+    rdfs:label "belarus survey based" .
+
+ex:beyerlein_hipp a owl:Thing ;
+    rdfs:label "beyerlein hipp" .
+
+ex:block a owl:ObjectProperty ;
+    rdfs:label "block" .
+
+ex:bot a owl:Thing ;
+    rdfs:label "bot" .
+
+ex:bot_created_1993 a owl:Thing ;
+    rdfs:label "bot created 1993" .
+
+ex:botmaster_commands_command a owl:Thing ;
+    rdfs:label "botmaster commands command" .
+
+ex:botnet_botnet_analysis a owl:Thing ;
+    rdfs:label "botnet botnet analysis" .
+
+ex:botnet_business_models a owl:Thing ;
+    rdfs:label "botnet business models" .
+
+ex:botnet_takedown a owl:Thing ;
+    rdfs:label "botnet takedown" .
+
+ex:botnet_takedown_attempts a owl:Thing ;
+    rdfs:label "botnet takedown attempts" .
+
+ex:botnet_takedown_efforts a owl:Thing ;
+    rdfs:label "botnet takedown efforts" .
+
+ex:botnet_takedown_methods a owl:Thing ;
+    rdfs:label "botnet takedown methods" .
+
+ex:botnet_takedown_operations a owl:Thing ;
+    rdfs:label "botnet takedown operations" .
+
+ex:botnet_takedowns a owl:Thing ;
+    rdfs:label "botnet takedowns" .
+
+ex:brazil_asian a owl:Thing ;
+    rdfs:label "brazil asian" .
+
+ex:breaches_copyright_contact a owl:Thing ;
+    rdfs:label "breaches copyright contact" .
+
+ex:breakthroughs_field_ml a owl:Thing ;
+    rdfs:label "breakthroughs field ml" .
+
+ex:breed a owl:ObjectProperty ;
+    rdfs:label "breed" .
+
+ex:bribe a owl:ObjectProperty ;
+    rdfs:label "bribe" .
+
+ex:bring a owl:ObjectProperty ;
+    rdfs:label "bring" .
+
+ex:brings_British_intelligence a owl:Thing ;
+    rdfs:label "brings British intelligence" .
+
+ex:britain_deployed_intelligence a owl:Thing ;
+    rdfs:label "britain deployed intelligence" .
+
+ex:broad_concerns rdfs:label "broad concerns" ;
+    ex:shape ex:government_discourse .
+
+ex:broadcast a owl:ObjectProperty ;
+    rdfs:label "broadcast" .
+
+ex:build a owl:ObjectProperty ;
+    rdfs:label "build" .
+
+ex:building_block rdfs:label "building block" ;
+    ex:describe ex:overall_cost ;
+    ex:include ex:maintenance_hardware_costs .
+
+ex:business_models a owl:Thing ;
+    rdfs:label "business models" .
+
+ex:buy a owl:ObjectProperty ;
+    rdfs:label "buy" .
+
+ex:bynet_states_shklovski a owl:Thing ;
+    rdfs:label "bynet states shklovski" .
+
+ex:capture a owl:ObjectProperty ;
+    rdfs:label "capture" .
+
+ex:cause a owl:ObjectProperty ;
+    rdfs:label "cause" .
+
+ex:censor a owl:ObjectProperty ;
+    rdfs:label "censor" .
+
+ex:certain_sectors rdfs:label "certain sectors" ;
+    ex:experience ex:DDoS_attacks .
+
+ex:challenge a owl:ObjectProperty ;
+    rdfs:label "challenge" .
+
+ex:challenges_disinformation_political a owl:Thing ;
+    rdfs:label "challenges disinformation political" .
+
+ex:change a owl:ObjectProperty ;
+    rdfs:label "change" .
+
+ex:changes_authoritarianism_macropolitical a owl:Thing ;
+    rdfs:label "changes authoritarianism macropolitical" .
+
+ex:chapter_digital_activism a owl:Thing ;
+    rdfs:label "chapter digital activism" .
+
+ex:characterize a owl:ObjectProperty ;
+    rdfs:label "characterize" .
+
+ex:choose a owl:ObjectProperty ;
+    rdfs:label "choose" .
+
+ex:chuvashia_tatnet_described a owl:Thing ;
+    rdfs:label "chuvashia tatnet described" .
+
+ex:citing_western_intelligence a owl:Thing ;
+    rdfs:label "citing western intelligence" .
+
+ex:citizenship_basic_rights rdfs:label "citizenship basic rights" ;
+    ex:become ex:theoretical_reflections .
+
+ex:civil_societies rdfs:label "civil societies" ;
+    ex:represent ex:fascinating_continuity .
+
+ex:claim a owl:ObjectProperty ;
+    rdfs:label "claim" .
+
+ex:clark1_kathleen_carley1 a owl:Thing ;
+    rdfs:label "clark1 kathleen carley1" .
+
+ex:cleavage_coalition rdfs:label "cleavage coalition" ;
+    ex:fill ex:streets .
+
+ex:cold_war_predecessors a owl:Thing ;
+    rdfs:label "cold war predecessors" .
+
+ex:collect a owl:ObjectProperty ;
+    rdfs:label "collect" .
+
+ex:collecting_sensitive_information a owl:Thing ;
+    rdfs:label "collecting sensitive information" .
+
+ex:collectives_ukrainian_groups a owl:Thing ;
+    rdfs:label "collectives ukrainian groups" .
+
+ex:combine a owl:ObjectProperty ;
+    rdfs:label "combine" .
+
+ex:commercial_advantage_copies a owl:Thing ;
+    rdfs:label "commercial advantage copies" .
+
+ex:commodify a owl:ObjectProperty ;
+    rdfs:label "commodify" .
+
+ex:commoditization_tools a owl:Thing ;
+    rdfs:label "commoditization tools" .
+
+ex:commons_attribution_germany a owl:Thing ;
+    rdfs:label "commons attribution germany" .
+
+ex:communication_secure_channels rdfs:label "communication secure channels" ;
+    ex:see ex:Section .
+
+ex:communicative_activism a owl:Thing ;
+    rdfs:label "communicative activism" .
+
+ex:communicative_activism_technoactivism a owl:Thing ;
+    rdfs:label "communicative activism technoactivism" .
+
+ex:comparative_analysis rdfs:label "comparative analysis" ;
+    ex:reveal ex:strategic_distinct_preferences .
+
+ex:compile a owl:ObjectProperty ;
+    rdfs:label "compile" .
+
+ex:complex_factors rdfs:label "complex factors" ;
+    ex:produce ex:particular_patterns .
+
+ex:conduct a owl:ObjectProperty ;
+    rdfs:label "conduct" .
+
+ex:confront a owl:ObjectProperty ;
+    rdfs:label "confront" .
+
+ex:constrain a owl:ObjectProperty ;
+    rdfs:label "constrain" .
+
+ex:consume a owl:ObjectProperty ;
+    rdfs:label "consume" .
+
+ex:contact a owl:ObjectProperty ;
+    rdfs:label "contact" .
+
+ex:contain a owl:ObjectProperty ;
+    rdfs:label "contain" .
+
+ex:contentious___Non_Forms rdfs:label "contentious - Non Forms" ;
+    ex:include ex:Forms .
+
+ex:contentious_online_activism a owl:Thing ;
+    rdfs:label "contentious online activism" .
+
+ex:contentious_politics a owl:Thing ;
+    rdfs:label "contentious politics" .
+
+ex:contribution_frontlines_online a owl:Thing ;
+    rdfs:label "contribution frontlines online" .
+
+ex:control a owl:ObjectProperty ;
+    rdfs:label "control" .
+
+ex:coordinate a owl:ObjectProperty ;
+    rdfs:label "coordinate" .
+
+ex:corrupt a owl:ObjectProperty ;
+    rdfs:label "corrupt" .
+
+ex:costumer_segments rdfs:label "costumer segments" ;
+    ex:include ex:substance_users .
+
+ex:counterforces_new_digital a owl:Thing ;
+    rdfs:label "counterforces new digital" .
+
+ex:countries_misuse_digital a owl:Thing ;
+    rdfs:label "countries misuse digital" .
+
+ex:countriesororganizations_bothduringcon_ictsandinpeacetime a owl:Thing ;
+    rdfs:label "countriesororganizations bothduringconﬂictsandinpeacetime" .
+
+ex:cover a owl:ObjectProperty ;
+    rdfs:label "cover" .
+
+ex:covertly_subvert_government a owl:Thing ;
+    rdfs:label "covertly subvert government" .
+
+ex:covid_bot_vs a owl:Thing ;
+    rdfs:label "covid bot vs" .
+
+ex:create a owl:ObjectProperty ;
+    rdfs:label "create" .
+
+ex:criminalising_spread a owl:Thing ;
+    rdfs:label "criminalising spread" .
+
+ex:crisis_accompanied_infodemic a owl:Thing ;
+    rdfs:label "crisis accompanied infodemic" .
+
+ex:cross a owl:ObjectProperty ;
+    rdfs:label "cross" .
+
+ex:cultures_ranging_openly a owl:Thing ;
+    rdfs:label "cultures ranging openly" .
+
+ex:customize a owl:ObjectProperty ;
+    rdfs:label "customize" .
+
+ex:cyber_assault_period a owl:Thing ;
+    rdfs:label "cyber assault period" .
+
+ex:cyber_operations a owl:Thing ;
+    rdfs:label "cyber operations" .
+
+ex:cyberspace_territory_virtual a owl:Thing ;
+    rdfs:label "cyberspace territory virtual" .
+
+ex:cyberwarfare_underscoring_importance a owl:Thing ;
+    rdfs:label "cyberwarfare underscoring importance" .
+
+ex:daily_expenses rdfs:label "daily expenses" ;
+    ex:have ex:money_Purchase .
+
+ex:data_activism a owl:Thing ;
+    rdfs:label "data activism" .
+
+ex:data_political_goals a owl:Thing ;
+    rdfs:label "data political goals" .
+
+ex:data_retrospective_collection rdfs:label "data retrospective collection" ;
+    ex:introduce ex:additional_biases .
+
+ex:data_subject rdfs:label "data subject" ;
+    ex:give ex:informed_specific_explicit_consent .
+
+ex:data_theft_campaigns a owl:Thing ;
+    rdfs:label "data theft campaigns" .
+
+ex:ddos_attacks_majority a owl:Thing ;
+    rdfs:label "ddos attacks majority" .
+
+ex:ddosed a owl:ObjectProperty ;
+    rdfs:label "ddosed" .
+
+ex:debunk a owl:ObjectProperty ;
+    rdfs:label "debunk" .
+
+ex:declare a owl:ObjectProperty ;
+    rdfs:label "declare" .
+
+ex:deep_generative a owl:Thing ;
+    rdfs:label "deep generative" .
+
+ex:deep_generative_model a owl:Thing ;
+    rdfs:label "deep generative model" .
+
+ex:deep_generative_models a owl:Thing ;
+    rdfs:label "deep generative models" .
+
+ex:deep_learning_term a owl:Thing ;
+    rdfs:label "deep learning term" .
+
+ex:deepfake_aggressive_Widespread_detection rdfs:label "deepfake aggressive Widespread detection" ;
+    ex:cover ex:messaging_private_networks .
+
+ex:deepfake_detection_research a owl:Thing ;
+    rdfs:label "deepfake detection research" .
+
+ex:deepfakes_assess_threat a owl:Thing ;
+    rdfs:label "deepfakes assess threat" .
+
+ex:deepfakes_crudely_fake a owl:Thing ;
+    rdfs:label "deepfakes crudely fake" .
+
+ex:deepfakes_july_2020 a owl:Thing ;
+    rdfs:label "deepfakes july 2020" .
+
+ex:define a owl:ObjectProperty ;
+    rdfs:label "define" .
+
+ex:delete a owl:ObjectProperty ;
+    rdfs:label "delete" .
+
+ex:democracies_response_ec a owl:Thing ;
+    rdfs:label "democracies response ec" .
+
+ex:democracy_potential_prodemocratic a owl:Thing ;
+    rdfs:label "democracy potential prodemocratic" .
+
+ex:democracy_social_cybersecurity a owl:Thing ;
+    rdfs:label "democracy social cybersecurity" .
+
+ex:demographic_variables rdfs:label "demographic variables" ;
+    ex:share ex:political_dispositions .
+
+ex:demonstrate a owl:ObjectProperty ;
+    rdfs:label "demonstrate" .
+
+ex:den a owl:ObjectProperty ;
+    rdfs:label "den" .
+
+ex:denote a owl:ObjectProperty ;
+    rdfs:label "denote" .
+
+ex:depict a owl:ObjectProperty ;
+    rdfs:label "depict" .
+
+ex:deplatform a owl:ObjectProperty ;
+    rdfs:label "deplatform" .
+
+ex:deploy a owl:ObjectProperty ;
+    rdfs:label "deploy" .
+
+ex:deprive a owl:ObjectProperty ;
+    rdfs:label "deprive" .
+
+ex:describe a owl:ObjectProperty ;
+    rdfs:label "describe" .
+
+ex:design a owl:ObjectProperty ;
+    rdfs:label "design" .
+
+ex:destroy a owl:ObjectProperty ;
+    rdfs:label "destroy" .
+
+ex:detection a owl:Thing ;
+    rdfs:label "detection" .
+
+ex:detection_systems rdfs:label "detection systems" ;
+    ex:hold ex:deep__fakes ;
+    ex:need ex:constant_updating .
+
+ex:detection_technology_hibit a owl:Thing ;
+    rdfs:label "detection technology hibit" .
+
+ex:develop a owl:ObjectProperty ;
+    rdfs:label "develop" .
+
+ex:did_trend_driven a owl:Thing ;
+    rdfs:label "did trend driven" .
+
+ex:die a owl:ObjectProperty ;
+    rdfs:label "die" .
+
+ex:dif__ferences rdfs:label "dif­ ferences" ;
+    ex:make ex:rigorous_comparisons .
+
+ex:different_factions rdfs:label "different factions" ;
+    ex:have ex:filtering_different_policies .
+
+ex:different_political_regulatory a owl:Thing ;
+    rdfs:label "different political regulatory" .
+
+ex:digital_activism_russia a owl:Thing ;
+    rdfs:label "digital activism russia" .
+
+ex:digital_authoritarianism_transformations a owl:Thing ;
+    rdfs:label "digital authoritarianism transformations" .
+
+ex:digital_innovations rdfs:label "digital innovations" ;
+    ex:require ex:digital_devices .
+
+ex:digital_new_platform rdfs:label "digital new platform" ;
+    ex:assume ex:increasing_importance .
+
+ex:digital_platforms rdfs:label "digital platforms" ;
+    ex:afford ex:Russian_users .
+
+ex:digital_recent_innovations rdfs:label "digital recent innovations" ;
+    ex:offer ex:broad_range .
+
+ex:digital_techniques rdfs:label "digital techniques" ;
+    ex:empower ex:authoritarian_incumbents .
+
+ex:digital_technologies_influence a owl:Thing ;
+    rdfs:label "digital technologies influence" .
+
+ex:digital_technology rdfs:label "digital technology" ;
+    ex:enable ex:new_ways .
+
+ex:digital_tools rdfs:label "digital tools" ;
+    ex:affect ex:perpetual_agenda .
+
+ex:digitization_impact_dictatorships a owl:Thing ;
+    rdfs:label "digitization impact dictatorships" .
+
+ex:discover a owl:ObjectProperty ;
+    rdfs:label "discover" .
+
+ex:disinformation a owl:Thing ;
+    rdfs:label "disinformation" .
+
+ex:disinformation_Bot_users a owl:Thing ;
+    rdfs:label "disinformation Bot users" .
+
+ex:disinformation_Sophisticated_campaigns rdfs:label "disinformation Sophisticated campaigns" ;
+    ex:want ex:deepfakes .
+
+ex:disinformation_actors a owl:Thing ;
+    rdfs:label "disinformation actors" .
+
+ex:disinformation_campaign a owl:Thing ;
+    rdfs:label "disinformation campaign" ;
+    ex:choose ex:deepfakes ;
+    ex:obtain ex:trained___pre_model ;
+    ex:train ex:generative_deep_model ;
+    ex:use ex:generative_model .
+
+ex:disinformation_european_approach a owl:Thing ;
+    rdfs:label "disinformation european approach" .
+
+ex:disinformation_paign rdfs:label "disinformation paign" ;
+    ex:recruit ex:experienced_specialist .
+
+ex:disinformation_resourced_efforts rdfs:label "disinformation resourced efforts" ;
+    ex:afford ex:generative_models .
+
+ex:disinformation_spread a owl:Thing ;
+    rdfs:label "disinformation spread" .
+
+ex:disinformation_spread_covid a owl:Thing ;
+    rdfs:label "disinformation spread covid" .
+
+ex:disinformation_unsophisticated_campaigns rdfs:label "disinformation unsophisticated campaigns" ;
+    ex:adopt ex:deepfakes .
+
+ex:disrupt a owl:ObjectProperty ;
+    rdfs:label "disrupt" .
+
+ex:disseminate a owl:ObjectProperty ;
+    rdfs:label "disseminate" .
+
+ex:dissemination_disinformation_dozen a owl:Thing ;
+    rdfs:label "dissemination disinformation dozen" .
+
+ex:dissidents a owl:Thing ;
+    rdfs:label "dissidents" .
+
+ex:distinction_runet_world a owl:Thing ;
+    rdfs:label "distinction runet world" .
+
+ex:distinguish a owl:ObjectProperty ;
+    rdfs:label "distinguish" .
+
+ex:distort a owl:ObjectProperty ;
+    rdfs:label "distort" .
+
+ex:divulge a owl:ObjectProperty ;
+    rdfs:label "divulge" .
+
+ex:documentation_inconsistent_practices rdfs:label "documentation inconsistent practices" ;
+    ex:hinder ex:analysis .
+
+ex:dod a owl:ObjectProperty ;
+    rdfs:label "dod" .
+
+ex:doi_10_14763 a owl:Thing ;
+    rdfs:label "doi 10 14763" .
+
+ex:doi_10_51593 a owl:Thing ;
+    rdfs:label "doi 10 51593" .
+
+ex:domain_zone_su a owl:Thing ;
+    rdfs:label "domain zone su" .
+
+ex:dominate a owl:ObjectProperty ;
+    rdfs:label "dominate" .
+
+ex:download_infected_media a owl:Thing ;
+    rdfs:label "download infected media" .
+
+ex:dozen_bot_users a owl:Thing ;
+    rdfs:label "dozen bot users" .
+
+ex:draw a owl:ObjectProperty ;
+    rdfs:label "draw" .
+
+ex:drive a owl:ObjectProperty ;
+    rdfs:label "drive" .
+
+ex:driven_fakery rdfs:label "driven fakery" ;
+    ex:produce ex:realistic_depictions .
+
+ex:dub a owl:ObjectProperty ;
+    rdfs:label "dub" .
+
+ex:dwellers_global_political a owl:Thing ;
+    rdfs:label "dwellers global political" .
+
+ex:eastern_theocracy a owl:Thing ;
+    rdfs:label "eastern theocracy" .
+
+ex:economic_groups rdfs:label "economic groups" ;
+    ex:become ex:active_users .
+
+ex:effective_censorship rdfs:label "effective censorship" ;
+    ex:deprive ex:regime_leaders .
+
+ex:effective_detection rdfs:label "effective detection" ;
+    ex:require ex:continuous_maintenance .
+
+ex:elections_benedek_osce a owl:Thing ;
+    rdfs:label "elections benedek osce" .
+
+ex:elections_illustrated_digital a owl:Thing ;
+    rdfs:label "elections illustrated digital" .
+
+ex:elections_special_issue a owl:Thing ;
+    rdfs:label "elections special issue" .
+
+ex:elite_New_actors rdfs:label "elite New actors" ;
+    ex:require ex:higher_levels .
+
+ex:emerging_literature rdfs:label "emerging literature" ;
+    ex:lack ex:theoretical_embeddedness .
+
+ex:emerging_technology_cset a owl:Thing ;
+    rdfs:label "emerging technology cset" .
+
+ex:empirical_research_does a owl:Thing ;
+    rdfs:label "empirical research does" .
+
+ex:employ a owl:ObjectProperty ;
+    rdfs:label "employ" .
+
+ex:empower a owl:ObjectProperty ;
+    rdfs:label "empower" .
+
+ex:enable a owl:ObjectProperty ;
+    rdfs:label "enable" .
+
+ex:encourage a owl:ObjectProperty ;
+    rdfs:label "encourage" .
+
+ex:ends_use_policymak a owl:Thing ;
+    rdfs:label "ends use policymak" .
+
+ex:engage a owl:ObjectProperty ;
+    rdfs:label "engage" .
+
+ex:enhance a owl:ObjectProperty ;
+    rdfs:label "enhance" .
+
+ex:entail a owl:ObjectProperty ;
+    rdfs:label "entail" .
+
+ex:enter a owl:ObjectProperty ;
+    rdfs:label "enter" .
+
+ex:entrusts_platforms a owl:Thing ;
+    rdfs:label "entrusts platforms" .
+
+ex:erative_gen__trained___pre_models rdfs:label "erative gen­ trained - pre models" ;
+    ex:perform ex:routine_simple_transformations .
+
+ex:escalate a owl:ObjectProperty ;
+    rdfs:label "escalate" .
+
+ex:establish a owl:ObjectProperty ;
+    rdfs:label "establish" .
+
+ex:european_approach_code a owl:Thing ;
+    rdfs:label "european approach code" .
+
+ex:ex__amples rdfs:label "ex­ amples" ;
+    ex:provide ex:rough_benchmark .
+
+ex:examine a owl:ObjectProperty ;
+    rdfs:label "examine" .
+
+ex:examine_autocrats a owl:Thing ;
+    rdfs:label "examine autocrats" .
+
+ex:exclude a owl:ObjectProperty ;
+    rdfs:label "exclude" .
+
+ex:exert a owl:ObjectProperty ;
+    rdfs:label "exert" .
+
+ex:exhaustive___non_list rdfs:label "exhaustive - non list" ;
+    ex:include ex:digital_activism .
+
+ex:exhibit a owl:ObjectProperty ;
+    rdfs:label "exhibit" .
+
+ex:existing_overlaps rdfs:label "existing overlaps" ;
+    ex:highlight ex:value_targets .
+
+ex:existing_systems rdfs:label "existing systems" ;
+    ex:demonstrate ex:technical_capacities .
+
+ex:experience a owl:ObjectProperty ;
+    rdfs:label "experience" .
+
+ex:express a owl:ObjectProperty ;
+    rdfs:label "express" .
+
+ex:extensive_review rdfs:label "extensive review" ;
+    ex:improve ex:research__ndings .
+
+ex:f_r_politik a owl:Thing ;
+    rdfs:label "für politik" .
+
+ex:fabricate a owl:ObjectProperty ;
+    rdfs:label "fabricate" .
+
+ex:face a owl:ObjectProperty ;
+    rdfs:label "face" .
+
+ex:face_cyberattacks_country a owl:Thing ;
+    rdfs:label "face cyberattacks country" .
+
+ex:facilitate a owl:ObjectProperty ;
+    rdfs:label "facilitate" .
+
+ex:fellow_king_intelligence a owl:Thing ;
+    rdfs:label "fellow king intelligence" .
+
+ex:fenced_language_barrier a owl:Thing ;
+    rdfs:label "fenced language barrier" .
+
+ex:file a owl:ObjectProperty ;
+    rdfs:label "file" .
+
+ex:fill a owl:ObjectProperty ;
+    rdfs:label "fill" .
+
+ex:filter a owl:ObjectProperty ;
+    rdfs:label "filter" .
+
+ex:filtering a owl:Thing ;
+    rdfs:label "filtering" .
+
+ex:find a owl:ObjectProperty ;
+    rdfs:label "find" .
+
+ex:flagg_tina_huang a owl:Thing ;
+    rdfs:label "flagg tina huang" .
+
+ex:follow a owl:ObjectProperty ;
+    rdfs:label "follow" .
+
+ex:following_section rdfs:label "following section" ;
+    ex:offer ex:conceptual_framework .
+
+ex:forge a owl:ObjectProperty ;
+    rdfs:label "forge" .
+
+ex:form a owl:ObjectProperty ;
+    rdfs:label "form" .
+
+ex:forwarding_users rdfs:label "forwarding users" ;
+    ex:include ex:Bot_users .
+
+ex:fourth_step rdfs:label "fourth step" ;
+    ex:see ex:Section .
+
+ex:frequent_targeting rdfs:label "frequent targeting" ;
+    ex:suggest ex:deliberate_effort .
+
+ex:future_research_background a owl:Thing ;
+    rdfs:label "future research background" .
+
+ex:gain a owl:ObjectProperty ;
+    rdfs:label "gain" .
+
+ex:garbage_protests rdfs:label "garbage protests" ;
+    ex:have ex:sig__government___anti_clear_nificance .
+
+ex:gdpr_area_data a owl:Thing ;
+    rdfs:label "gdpr area data" .
+
+ex:general_rights_copyright a owl:Thing ;
+    rdfs:label "general rights copyright" .
+
+ex:generate a owl:ObjectProperty ;
+    rdfs:label "generate" .
+
+ex:generation_policymakers_analysts a owl:Thing ;
+    rdfs:label "generation policymakers analysts" .
+
+ex:generative a owl:Thing ;
+    rdfs:label "generative" .
+
+ex:generative_deep_models rdfs:label "generative deep models" ;
+    ex:serve ex:malicious_actors .
+
+ex:georgetown_walsh_school a owl:Thing ;
+    rdfs:label "georgetown walsh school" .
+
+ex:georgoulias_et_al a owl:Thing ;
+    rdfs:label "georgoulias et al" .
+
+ex:get a owl:ObjectProperty ;
+    rdfs:label "get" .
+
+ex:give a owl:ObjectProperty ;
+    rdfs:label "give" .
+
+ex:gregory_asmolov_kcl_ac_uk a owl:ObjectProperty ;
+    rdfs:label "gregory.asmolov@kcl.ac.uk" .
+
+ex:gritsenko_et_al a owl:Thing ;
+    rdfs:label "gritsenko et al" .
+
+ex:group_content_moderation a owl:Thing ;
+    rdfs:label "group content moderation" .
+
+ex:grow a owl:ObjectProperty ;
+    rdfs:label "grow" .
+
+ex:hacktivist_group rdfs:label "hacktivist group" ;
+    ex:use ex:DDoS_attacks .
+
+ex:hacktivist_groups_prorussian a owl:Thing ;
+    rdfs:label "hacktivist groups prorussian" .
+
+ex:handle a owl:ObjectProperty ;
+    rdfs:label "handle" .
+
+ex:hardware_components rdfs:label "hardware components" ;
+    ex:design ex:spy_microchips .
+
+ex:harvest a owl:ObjectProperty ;
+    rdfs:label "harvest" .
+
+ex:have a owl:ObjectProperty ;
+    rdfs:label "have" .
+
+ex:health_crisis_world a owl:Thing ;
+    rdfs:label "health crisis world" .
+
+ex:heavily_mediated_state a owl:Thing ;
+    rdfs:label "heavily mediated state" .
+
+ex:help a owl:ObjectProperty ;
+    rdfs:label "help" .
+
+ex:high_rate rdfs:label "high rate" ;
+    ex:re_ect ex:strategic_importance .
+
+ex:highlight a owl:ObjectProperty ;
+    rdfs:label "highlight" .
+
+ex:hinder a owl:ObjectProperty ;
+    rdfs:label "hinder" .
+
+ex:historical_legacy_examines a owl:Thing ;
+    rdfs:label "historical legacy examines" .
+
+ex:hit a owl:ObjectProperty ;
+    rdfs:label "hit" .
+
+ex:hold a owl:ObjectProperty ;
+    rdfs:label "hold" .
+
+ex:https a owl:Thing ;
+    rdfs:label "https" .
+
+ex:https___darkrebel_net_hydra_review_and_tutorial_Manuscript rdfs:label "https://darkrebel.net/hydra-review-and-tutorial Manuscript" ;
+    ex:submit ex:Georgoulias .
+
+ex:https_doi_org a owl:Thing ;
+    rdfs:label "https doi org" .
+
+ex:human_political_rights a owl:Thing ;
+    rdfs:label "human political rights" .
+
+ex:humans_facilitate_spread a owl:Thing ;
+    rdfs:label "humans facilitate spread" .
+
+ex:humdrum_considerations rdfs:label "humdrum considerations" ;
+    ex:provide ex:crucial_hints .
+
+ex:hwang_grounded_threat a owl:Thing ;
+    rdfs:label "hwang grounded threat" .
+
+ex:hybrid_botnets_botnets a owl:Thing ;
+    rdfs:label "hybrid botnets botnets" .
+
+ex:identify a owl:ObjectProperty ;
+    rdfs:label "identify" .
+
+ex:identify_collective_profile a owl:Thing ;
+    rdfs:label "identify collective profile" .
+
+ex:identity_factors rdfs:label "identity factors" ;
+    ex:underpin ex:engagement_Belarus .
+
+ex:ideology_regime_context a owl:Thing ;
+    rdfs:label "ideology regime context" .
+
+ex:illustrate a owl:ObjectProperty ;
+    rdfs:label "illustrate" .
+
+ex:impact a owl:ObjectProperty ;
+    rdfs:label "impact" .
+
+ex:impact_democracy_notable a owl:Thing ;
+    rdfs:label "impact democracy notable" .
+
+ex:impact_dictatorships_remains a owl:Thing ;
+    rdfs:label "impact dictatorships remains" .
+
+ex:implement a owl:ObjectProperty ;
+    rdfs:label "implement" .
+
+ex:important_limitations rdfs:label "important limitations" ;
+    ex:constrain ex:disinformation_campaigns .
+
+ex:improve a owl:ObjectProperty ;
+    rdfs:label "improve" .
+
+ex:inc911 a owl:ObjectProperty ;
+    rdfs:label "inc911" .
+
+ex:incen__tives rdfs:label "incen­ tives" ;
+    ex:lead ex:disinformation_campaigns .
+
+ex:include a owl:ObjectProperty ;
+    rdfs:label "include" .
+
+ex:increase a owl:ObjectProperty ;
+    rdfs:label "increase" .
+
+ex:increasing_ubiquity rdfs:label "increasing ubiquity" ;
+    ex:overstate ex:actual_impact .
+
+ex:indicate a owl:ObjectProperty ;
+    rdfs:label "indicate" .
+
+ex:indiscriminate_violence rdfs:label "indiscriminate violence" ;
+    ex:have ex:opposite_effect .
+
+ex:indonesia_thailand_afflicted a owl:Thing ;
+    rdfs:label "indonesia thailand afflicted" .
+
+ex:induce a owl:ObjectProperty ;
+    rdfs:label "induce" .
+
+ex:influence a owl:ObjectProperty ;
+    rdfs:label "influence" .
+
+ex:influence_online_operations rdfs:label "influence online operations" ;
+    ex:use ex:deepfakes .
+
+ex:information_parties_especially a owl:Thing ;
+    rdfs:label "information parties especially" .
+
+ex:initiate a owl:ObjectProperty ;
+    rdfs:label "initiate" .
+
+ex:inspired_anomaly rdfs:label "inspired anomaly" ;
+    ex:base ex:time_detection .
+
+ex:instrumentalize a owl:ObjectProperty ;
+    rdfs:label "instrumentalize" .
+
+ex:insuf_cient_security rdfs:label "insufﬁcient security" ;
+    ex:persist ex:attacks .
+
+ex:intelligence_advanced a owl:Thing ;
+    rdfs:label "intelligence advanced" .
+
+ex:intelligence_agencies a owl:Thing ;
+    rdfs:label "intelligence agencies" .
+
+ex:intelligence_analysis rdfs:label "intelligence analysis" ;
+    ex:underpin ex:policymaking_process_28 .
+
+ex:intelligence_communities rdfs:label "intelligence communities" ;
+    ex:share ex:intelligence .
+
+ex:intelligence_influence_external a owl:Thing ;
+    rdfs:label "intelligence influence external" .
+
+ex:intelligence_shows_Russia a owl:Thing ;
+    rdfs:label "intelligence shows Russia" .
+
+ex:intentions_novel_recent a owl:Thing ;
+    rdfs:label "intentions novel recent" .
+
+ex:interference_Russian_campaign rdfs:label "interference Russian campaign" ;
+    ex:produce ex:continuous_stream .
+
+ex:internet_called_runet a owl:Thing ;
+    rdfs:label "internet called runet" .
+
+ex:internet_concept a owl:Thing ;
+    rdfs:label "internet concept" .
+
+ex:internet_country_question a owl:Thing ;
+    rdfs:label "internet country question" .
+
+ex:internet_russia_following a owl:Thing ;
+    rdfs:label "internet russia following" .
+
+ex:interview_sample rdfs:label "interview sample" ;
+    ex:cover ex:interesting_segment .
+
+ex:introduce a owl:ObjectProperty ;
+    rdfs:label "introduce" .
+
+ex:introduction_coronavirus_pandemic a owl:Thing ;
+    rdfs:label "introduction coronavirus pandemic" .
+
+ex:introduction_evolution_online a owl:Thing ;
+    rdfs:label "introduction evolution online" .
+
+ex:invade a owl:ObjectProperty ;
+    rdfs:label "invade" .
+
+ex:invading_article_argues a owl:Thing ;
+    rdfs:label "invading article argues" .
+
+ex:investigate a owl:ObjectProperty ;
+    rdfs:label "investigate" .
+
+ex:involve a owl:ObjectProperty ;
+    rdfs:label "involve" .
+
+ex:iran_important_country a owl:Thing ;
+    rdfs:label "iran important country" .
+
+ex:iranian_case_appropriation a owl:Thing ;
+    rdfs:label "iranian case appropriation" .
+
+ex:iranians_online_access a owl:Thing ;
+    rdfs:label "iranians online access" .
+
+ex:iranians_restrictions_private a owl:Thing ;
+    rdfs:label "iranians restrictions private" .
+
+ex:join a owl:ObjectProperty ;
+    rdfs:label "join" .
+
+ex:journal_computational_social a owl:Thing ;
+    rdfs:label "journal computational social" .
+
+ex:journal_internet_regulation a owl:Thing ;
+    rdfs:label "journal internet regulation" .
+
+ex:july_2020_author a owl:Thing ;
+    rdfs:label "july 2020 author" .
+
+ex:kazakhstan_kaznet a owl:Thing ;
+    rdfs:label "kazakhstan kaznet" .
+
+ex:keywords_cyberwarfare_ddos a owl:Thing ;
+    rdfs:label "keywords cyberwarfare ddos" .
+
+ex:keywords_iran_counter a owl:Thing ;
+    rdfs:label "keywords iran counter" .
+
+ex:keywords_telegram_covid a owl:Thing ;
+    rdfs:label "keywords telegram covid" .
+
+ex:king_research_portal a owl:Thing ;
+    rdfs:label "king research portal" .
+
+ex:kiselyova_2003_previously a owl:Thing ;
+    rdfs:label "kiselyova 2003 previously" .
+
+ex:kosinski_et_al a owl:Thing ;
+    rdfs:label "kosinski et al" .
+
+ex:kremlin_remains a owl:Thing ;
+    rdfs:label "kremlin remains" .
+
+ex:kurchatov_institute a owl:Thing ;
+    rdfs:label "kurchatov institute" .
+
+ex:lack a owl:ObjectProperty ;
+    rdfs:label "lack" .
+
+ex:large_scale a owl:Thing ;
+    rdfs:label "large scale" .
+
+ex:launch a owl:ObjectProperty ;
+    rdfs:label "launch" .
+
+ex:lead a owl:ObjectProperty ;
+    rdfs:label "lead" .
+
+ex:leaktivism_wikileaks a owl:Thing ;
+    rdfs:label "leaktivism wikileaks" .
+
+ex:leave a owl:ObjectProperty ;
+    rdfs:label "leave" .
+
+ex:leverage a owl:ObjectProperty ;
+    rdfs:label "leverage" .
+
+ex:like_russia_launched a owl:Thing ;
+    rdfs:label "like russia launched" .
+
+ex:like_ukraine_georgia a owl:Thing ;
+    rdfs:label "like ukraine georgia" .
+
+ex:likely_outpace rdfs:label "likely outpace" ;
+    ex:open ex:political_opposition .
+
+ex:lithuania rdfs:label "lithuania" ;
+    ex:ban ex:goods_transit .
+
+ex:livejournal_banned a owl:Thing ;
+    rdfs:label "livejournal banned" .
+
+ex:livingstone_markham_2016 a owl:Thing ;
+    rdfs:label "livingstone markham 2016" .
+
+ex:london_washington_fallen a owl:Thing ;
+    rdfs:label "london washington fallen" .
+
+ex:lose a owl:ObjectProperty ;
+    rdfs:label "lose" .
+
+ex:love a owl:ObjectProperty ;
+    rdfs:label "love" .
+
+ex:low_cost rdfs:label "low cost" ;
+    ex:attract ex:disinformation_resourced_campaigns .
+
+ex:lukashenka_protest_participants a owl:Thing ;
+    rdfs:label "lukashenka protest participants" .
+
+ex:machinery_manuscript_submitted a owl:Thing ;
+    rdfs:label "machinery manuscript submitted" .
+
+ex:maerz_2016_important a owl:Thing ;
+    rdfs:label "maerz 2016 important" .
+
+ex:major_Russian_Internet a owl:Thing ;
+    rdfs:label "major Russian Internet" .
+
+ex:make a owl:ObjectProperty ;
+    rdfs:label "make" .
+
+ex:malicious_actor rdfs:label "malicious actor" ;
+    ex:build ex:tailored_GAN ;
+    ex:create ex:generative_models .
+
+ex:manage a owl:ObjectProperty ;
+    rdfs:label "manage" .
+
+ex:manifest a owl:ObjectProperty ;
+    rdfs:label "manifest" .
+
+ex:manipulation_Internet_Policy a owl:Thing ;
+    rdfs:label "manipulation Internet Policy" .
+
+ex:manipulation_intervenes rdfs:label "manipulation intervenes" ;
+    ex:cause ex:behavioural_changes .
+
+ex:manner_emigrated_yevgeniya a owl:Thing ;
+    rdfs:label "manner emigrated yevgeniya" .
+
+ex:marginalize a owl:ObjectProperty ;
+    rdfs:label "marginalize" .
+
+ex:mass_domestic_contention rdfs:label "mass domestic contention" ;
+    ex:become ex:frequent_transformation .
+
+ex:mass_mobilization a owl:Thing ;
+    rdfs:label "mass mobilization" .
+
+ex:measure a owl:ObjectProperty ;
+    rdfs:label "measure" .
+
+ex:media_companies rdfs:label "media companies" ;
+    ex:deplatform ex:influence_campaign .
+
+ex:media_cooperation_funded a owl:Thing ;
+    rdfs:label "media cooperation funded" .
+
+ex:media_personalities_dubbed a owl:Thing ;
+    rdfs:label "media personalities dubbed" .
+
+ex:media_social_platforms rdfs:label "media social platforms" ;
+    ex:help ex:learning_process .
+
+ex:media_sphere rdfs:label "media sphere" ;
+    ex:lose ex:oppositional_power .
+
+ex:mena_region_use a owl:Thing ;
+    rdfs:label "mena region use" .
+
+ex:mere_identification rdfs:label "mere identification" ;
+    ex:change ex:public_views .
+
+ex:methodological_consequences a owl:Thing ;
+    rdfs:label "methodological consequences" .
+
+ex:micro_targeted a owl:Thing ;
+    rdfs:label "micro targeted" .
+
+ex:military_action_disinformation a owl:Thing ;
+    rdfs:label "military action disinformation" .
+
+ex:million_monthly_active a owl:Thing ;
+    rdfs:label "million monthly active" .
+
+ex:mirai_botnet_botnet a owl:Thing ;
+    rdfs:label "mirai botnet botnet" .
+
+ex:mobile_network rdfs:label "mobile network" ;
+    ex:cause ex:COVID_19 .
+
+ex:mobilizing_citizens_changed a owl:Thing ;
+    rdfs:label "mobilizing citizens changed" .
+
+ex:mock a owl:ObjectProperty ;
+    rdfs:label "mock" .
+
+ex:mod__generative_els rdfs:label "mod­ generative els" ;
+    ex:distort ex:resulting_video .
+
+ex:models a owl:Thing ;
+    rdfs:label "models" ;
+    ex:spread ex:false_narratives ;
+    ex:train ex:Center .
+
+ex:moderation_decisions rdfs:label "moderation decisions" ;
+    ex:unpack ex:European_approach .
+
+ex:modern_life rdfs:label "modern life" ;
+    ex:give ex:complete_list .
+
+ex:moral_rights_publications a owl:Thing ;
+    rdfs:label "moral rights publications" .
+
+ex:multidimensional_historicity_runet a owl:Thing ;
+    rdfs:label "multidimensional historicity runet" .
+
+ex:nationalities_papers_745 a owl:Thing ;
+    rdfs:label "nationalities papers 745" .
+
+ex:need a owl:ObjectProperty ;
+    rdfs:label "need" .
+
+ex:nenadi__2019_unpacking a owl:Thing ;
+    rdfs:label "nenadić 2019 unpacking" .
+
+ex:network_caused a owl:Thing ;
+    rdfs:label "network caused" .
+
+ex:networks_vpns a owl:Thing ;
+    rdfs:label "networks vpns" .
+
+ex:new_framework_analysis a owl:Thing ;
+    rdfs:label "new framework analysis" .
+
+ex:new_types rdfs:label "new types" ;
+    ex:shape ex:consump__tion .
+
+ex:ng_huixiann_andrew a owl:Thing ;
+    rdfs:label "ng huixiann andrew" .
+
+ex:nology_studies a owl:Thing ;
+    rdfs:label "nology studies" .
+
+ex:non_protesters_article a owl:Thing ;
+    rdfs:label "non protesters article" .
+
+ex:nov_2019_published a owl:Thing ;
+    rdfs:label "nov 2019 published" .
+
+ex:number_coronavirus_related a owl:Thing ;
+    rdfs:label "number coronavirus related" .
+
+ex:numerous_examples_zapatistas a owl:Thing ;
+    rdfs:label "numerous examples zapatistas" .
+
+ex:oblige a owl:ObjectProperty ;
+    rdfs:label "oblige" .
+
+ex:observe a owl:ObjectProperty ;
+    rdfs:label "observe" .
+
+ex:obtain a owl:ObjectProperty ;
+    rdfs:label "obtain" .
+
+ex:offer a owl:ObjectProperty ;
+    rdfs:label "offer" .
+
+ex:offline_activism_characteristics a owl:Thing ;
+    rdfs:label "offline activism characteristics" .
+
+ex:omnipresent_threat_overthrow a owl:Thing ;
+    rdfs:label "omnipresent threat overthrow" .
+
+ex:ongoing_kinetic_war a owl:Thing ;
+    rdfs:label "ongoing kinetic war" .
+
+ex:online a owl:Thing ;
+    rdfs:label "online" .
+
+ex:online_Runet_platforms a owl:Thing ;
+    rdfs:label "online Runet platforms" .
+
+ex:online_activism_includes a owl:Thing ;
+    rdfs:label "online activism includes" .
+
+ex:online_by_Cambridge a owl:Thing ;
+    rdfs:label "online by Cambridge" .
+
+ex:online_disinformation a owl:Thing ;
+    rdfs:label "online disinformation" .
+
+ex:online_disinformation_data a owl:Thing ;
+    rdfs:label "online disinformation data" .
+
+ex:online_media rdfs:label "online media" ;
+    ex:remain ex:inde__pendent .
+
+ex:online_participation_authoritarian a owl:Thing ;
+    rdfs:label "online participation authoritarian" .
+
+ex:online_protest_survey a owl:Thing ;
+    rdfs:label "online protest survey" .
+
+ex:online_sphere rdfs:label "online sphere" ;
+    ex:become ex:major_domain .
+
+ex:open a owl:ObjectProperty ;
+    rdfs:label "open" .
+
+ex:open_access_article a owl:Thing ;
+    rdfs:label "open access article" .
+
+ex:operational_advantage_understood a owl:Thing ;
+    rdfs:label "operational advantage understood" .
+
+ex:opposition_activists_political a owl:Thing ;
+    rdfs:label "opposition activists political" .
+
+ex:orchestrate a owl:ObjectProperty ;
+    rdfs:label "orchestrate" .
+
+ex:order a owl:ObjectProperty ;
+    rdfs:label "order" .
+
+ex:ordinary_citizens rdfs:label "ordinary citizens" ;
+    ex:view ex:basic_rights .
+
+ex:org a owl:Thing ;
+    rdfs:label "org" .
+
+ex:outline a owl:ObjectProperty ;
+    rdfs:label "outline" .
+
+ex:overcome a owl:ObjectProperty ;
+    rdfs:label "overcome" .
+
+ex:overstate a owl:ObjectProperty ;
+    rdfs:label "overstate" .
+
+ex:overturn a owl:ObjectProperty ;
+    rdfs:label "overturn" .
+
+ex:palgrave_handbook_digital a owl:Thing ;
+    rdfs:label "palgrave handbook digital" .
+
+ex:pan_people a owl:Thing ;
+    rdfs:label "pan people" .
+
+ex:particular_dates rdfs:label "particular dates" ;
+    ex:stand ex:_May_12th .
+
+ex:peer_peer_p2p a owl:Thing ;
+    rdfs:label "peer peer p2p" .
+
+ex:penetrate a owl:ObjectProperty ;
+    rdfs:label "penetrate" .
+
+ex:people a owl:Thing ;
+    rdfs:label "people" ;
+    ex:love ex:Imam_Khomeini ;
+    ex:prefer ex:blocked_Telegram ;
+    ex:put ex:social_media .
+
+ex:perform a owl:ObjectProperty ;
+    rdfs:label "perform" .
+
+ex:permitted_copy_republish a owl:Thing ;
+    rdfs:label "permitted copy republish" .
+
+ex:persist a owl:ObjectProperty ;
+    rdfs:label "persist" .
+
+ex:philip_torchinsky_introduction a owl:Thing ;
+    rdfs:label "philip torchinsky introduction" .
+
+ex:plan a owl:ObjectProperty ;
+    rdfs:label "plan" .
+
+ex:platforms_like_telegram a owl:Thing ;
+    rdfs:label "platforms like telegram" .
+
+ex:platforms_metoo_movement a owl:Thing ;
+    rdfs:label "platforms metoo movement" .
+
+ex:platforms_mobile_applications a owl:Thing ;
+    rdfs:label "platforms mobile applications" .
+
+ex:policy_community_cset a owl:Thing ;
+    rdfs:label "policy community cset" .
+
+ex:policy_demands rdfs:label "policy demands" ;
+    ex:enter ex:new_era .
+
+ex:policyreview_info_articles a owl:Thing ;
+    rdfs:label "policyreview info articles" .
+
+ex:political_activism a owl:Thing ;
+    rdfs:label "political activism" .
+
+ex:political_campaign rdfs:label "political campaign" ;
+    ex:face ex:sure_action .
+
+ex:political_effects a owl:Thing ;
+    rdfs:label "political effects" .
+
+ex:political_forces rdfs:label "political forces" ;
+    ex:undergo ex:rapid_shifts .
+
+ex:political_impact_digitization a owl:Thing ;
+    rdfs:label "political impact digitization" .
+
+ex:political_influence a owl:Thing ;
+    rdfs:label "political influence" .
+
+ex:political_innovation rdfs:label "political innovation" ;
+    ex:offer ex:new_ways .
+
+ex:political_institutions rdfs:label "political institutions" ;
+    ex:manage ex:technological_possibilities .
+
+ex:political_manipulation a owl:Thing ;
+    rdfs:label "political manipulation" .
+
+ex:political_manipulation_european a owl:Thing ;
+    rdfs:label "political manipulation european" .
+
+ex:political_manipulation_internet a owl:Thing ;
+    rdfs:label "political manipulation internet" .
+
+ex:political_parties a owl:Thing ;
+    rdfs:label "political parties" ;
+    ex:compile ex:personal_data ;
+    ex:use ex:personal_data .
+
+ex:political_party rdfs:label "political party" ;
+    ex:use ex:data .
+
+ex:political_personal a owl:Thing ;
+    rdfs:label "political personal" .
+
+ex:political_protest rdfs:label "political protest" ;
+    ex:precede ex:media_uptake .
+
+ex:political_rule_technological a owl:Thing ;
+    rdfs:label "political rule technological" .
+
+ex:political_scientists rdfs:label "political scientists" ;
+    ex:lack ex:analytical_tools .
+
+ex:political_significant_developments rdfs:label "political significant developments" ;
+    ex:take ex:military_coup .
+
+ex:political_strong_antagonisms rdfs:label "political strong antagonisms" ;
+    ex:have ex:long_history .
+
+ex:politically_linked a owl:Thing ;
+    rdfs:label "politically linked" .
+
+ex:pop_organized_protests rdfs:label "pop organized protests" ;
+    ex:form ex:human_chains .
+
+ex:popular_dataset rdfs:label "popular dataset" ;
+    ex:produce ex:synthetic_realistic_imagery .
+
+ex:popular_forums rdfs:label "popular forums" ;
+    ex:include ex:Dread .
+
+ex:popular_social_media a owl:Thing ;
+    rdfs:label "popular social media" .
+
+ex:popular_websites rdfs:label "popular websites" ;
+    ex:include ex:online_library .
+
+ex:portal_retained_authors a owl:Thing ;
+    rdfs:label "portal retained authors" .
+
+ex:pose a owl:ObjectProperty ;
+    rdfs:label "pose" .
+
+ex:post a owl:ObjectProperty ;
+    rdfs:label "post" .
+
+ex:posting_patterns_differ a owl:Thing ;
+    rdfs:label "posting patterns differ" .
+
+ex:posture_9_operational_similar_Perpetrators rdfs:label "posture.9 operational similar Perpetrators" ;
+    ex:make ex:invest__significant_ment .
+
+ex:power_ec a owl:Thing ;
+    rdfs:label "power ec" .
+
+ex:power_relations rdfs:label "power relations" ;
+    ex:manifest ex:different_modes .
+
+ex:power_unlike_tool a owl:Thing ;
+    rdfs:label "power unlike tool" .
+
+ex:precede a owl:ObjectProperty ;
+    rdfs:label "precede" .
+
+ex:prefer a owl:ObjectProperty ;
+    rdfs:label "prefer" .
+
+ex:prepare a owl:ObjectProperty ;
+    rdfs:label "prepare" .
+
+ex:present a owl:ObjectProperty ;
+    rdfs:label "present" .
+
+ex:press_effect_dictators4 a owl:Thing ;
+    rdfs:label "press effect dictators4" .
+
+ex:prevail_non_arab a owl:Thing ;
+    rdfs:label "prevail non arab" .
+
+ex:prevalent_arrests rdfs:label "prevalent arrests" ;
+    ex:suppress ex:political_opposition .
+
+ex:proRussian a ex:NORP ;
+    rdfs:label "proRussian" .
+
+ex:proRussian_groups rdfs:label "proRussian groups" ;
+    ex:show ex:limited_overlap .
+
+ex:proUkrainian a ex:NORP ;
+    rdfs:label "proUkrainian" .
+
+ex:pro_Russian a ex:NORP ;
+    rdfs:label "pro-Russian" ;
+    rdfs:comment "political sentiment" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q131717831> .
+
+ex:pro_Russian_DDoS_attacks a owl:Thing ;
+    rdfs:label "pro-Russian DDoS attacks" .
+
+ex:pro_Russian_groups a owl:Thing ;
+    rdfs:label "pro-Russian groups" .
+
+ex:pro_Ukrainian a ex:NORP ;
+    rdfs:label "pro-Ukrainian" ;
+    rdfs:comment "scientific article published in 2023" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q122467019> .
+
+ex:pro_Ukrainian_DDoS_attacks a owl:Thing ;
+    rdfs:label "pro-Ukrainian DDoS attacks" .
+
+ex:pro_Ukrainian_groups a owl:Thing ;
+    rdfs:label "pro-Ukrainian groups" .
+
+ex:process a owl:ObjectProperty ;
+    rdfs:label "process" .
+
+ex:produce a owl:ObjectProperty ;
+    rdfs:label "produce" .
+
+ex:propaganda_Communist___anti_War_body rdfs:label "propaganda Communist - anti War body" ;
+    ex:develop ex:collection_OSINT_global_network .
+
+ex:propagation_disinformation_bot a owl:Thing ;
+    rdfs:label "propagation disinformation bot" .
+
+ex:protection_authorities rdfs:label "protection authorities" ;
+    ex:have ex:enforcement_limited_powers .
+
+ex:protection_media a owl:Thing ;
+    rdfs:label "protection media" .
+
+ex:protest_engagement_Belarus a owl:Thing ;
+    rdfs:label "protest engagement Belarus" .
+
+ex:protest_participation a owl:Thing ;
+    rdfs:label "protest participation" .
+
+ex:protest_sample rdfs:label "protest sample" ;
+    ex:have ex:higher_proportion .
+
+ex:protest_survey a owl:Thing ;
+    rdfs:label "protest survey" .
+
+ex:protester_respondents_survey a owl:Thing ;
+    rdfs:label "protester respondents survey" .
+
+ex:protests_types_online a owl:Thing ;
+    rdfs:label "protests types online" .
+
+ex:protocol_considered_origin a owl:Thing ;
+    rdfs:label "protocol considered origin" .
+
+ex:provide a owl:ObjectProperty ;
+    rdfs:label "provide" .
+
+ex:public_diplomacy a owl:Thing ;
+    rdfs:label "public diplomacy" .
+
+ex:public_dissemination rdfs:label "public dissemination" ;
+    ex:divulge ex:intelligence .
+
+ex:publish a owl:ObjectProperty ;
+    rdfs:label "publish" .
+
+ex:published a owl:Thing ;
+    rdfs:label "published" .
+
+ex:published_online a owl:Thing ;
+    rdfs:label "published online" .
+
+ex:published_online_cambridge a owl:Thing ;
+    rdfs:label "published online cambridge" .
+
+ex:purpose_private_study a owl:Thing ;
+    rdfs:label "purpose private study" .
+
+ex:pursue a owl:ObjectProperty ;
+    rdfs:label "pursue" .
+
+ex:put a owl:ObjectProperty ;
+    rdfs:label "put" .
+
+ex:quantitative_calculations rdfs:label "quantitative calculations" ;
+    ex:have ex:centrality_higher_Fig .
+
+ex:rare_moments_mass a owl:Thing ;
+    rdfs:label "rare moments mass" .
+
+ex:re_ect a owl:ObjectProperty ;
+    rdfs:label "reﬂect" .
+
+ex:recent_commitments rdfs:label "recent commitments" ;
+    ex:have ex:significant_implications .
+
+ex:recent_paper rdfs:label "recent paper" ;
+    ex:claim ex:detection_deepfake_accuracy ;
+    ex:report ex:training_times .
+
+ex:reclaim a owl:ObjectProperty ;
+    rdfs:label "reclaim" .
+
+ex:recruit a owl:ObjectProperty ;
+    rdfs:label "recruit" .
+
+ex:reduce a owl:ObjectProperty ;
+    rdfs:label "reduce" .
+
+ex:reevaluate a owl:ObjectProperty ;
+    rdfs:label "reevaluate" .
+
+ex:regime a owl:Thing ;
+    rdfs:label "regime" ;
+    ex:exert ex:targeted_repression .
+
+ex:regime_capacities rdfs:label "regime capacities" ;
+    ex:penetrate ex:life_private_increase .
+
+ex:regime_coalitions rdfs:label "regime coalitions" ;
+    ex:affect ex:society_state_relations .
+
+ex:regimes_transformational_political a owl:Thing ;
+    rdfs:label "regimes transformational political" .
+
+ex:regulation_private_life a owl:Thing ;
+    rdfs:label "regulation private life" .
+
+ex:release a owl:ObjectProperty ;
+    rdfs:label "release" .
+
+ex:relevant_regulation rdfs:label "relevant regulation" ;
+    ex:set ex:global_standard .
+
+ex:remain a owl:ObjectProperty ;
+    rdfs:label "remain" .
+
+ex:report a owl:ObjectProperty ;
+    rdfs:label "report" .
+
+ex:represent a owl:ObjectProperty ;
+    rdfs:label "represent" .
+
+ex:repression_technology_autocracies a owl:Thing ;
+    rdfs:label "repression technology autocracies" .
+
+ex:repression_unexpectedly_streets a owl:Thing ;
+    rdfs:label "repression unexpectedly streets" .
+
+ex:reproduce a owl:ObjectProperty ;
+    rdfs:label "reproduce" .
+
+ex:republic_use_social a owl:Thing ;
+    rdfs:label "republic use social" .
+
+ex:require a owl:ObjectProperty ;
+    rdfs:label "require" .
+
+ex:requires_framework_fol a owl:Thing ;
+    rdfs:label "requires framework fol" .
+
+ex:resea_rch__profi_les__iran a owl:ObjectProperty ;
+    rdfs:label "resea​rch/​profi​les/​iran" .
+
+ex:research_cent_papers rdfs:label "research cent papers" ;
+    ex:offer ex:useful_details .
+
+ex:research_communities_funding a owl:Thing ;
+    rdfs:label "research communities funding" .
+
+ex:research_distribute a owl:Thing ;
+    rdfs:label "research distribute" .
+
+ex:research_indicated_social a owl:Thing ;
+    rdfs:label "research indicated social" .
+
+ex:research_literature rdfs:label "research literature" ;
+    ex:demonstrate ex:relevant_categories .
+
+ex:research_protesters_democratizing a owl:Thing ;
+    rdfs:label "research protesters democratizing" .
+
+ex:reshape a owl:ObjectProperty ;
+    rdfs:label "reshape" .
+
+ex:resilience_fact_servers a owl:Thing ;
+    rdfs:label "resilience fact servers" .
+
+ex:responsible_propagating_narratives a owl:Thing ;
+    rdfs:label "responsible propagating narratives" .
+
+ex:resulted_nymphosis_activism a owl:Thing ;
+    rdfs:label "resulted nymphosis activism" .
+
+ex:retained_authors_copyright a owl:Thing ;
+    rdfs:label "retained authors copyright" .
+
+ex:rethink a owl:ObjectProperty ;
+    rdfs:label "rethink" .
+
+ex:reveal a owl:ObjectProperty ;
+    rdfs:label "reveal" .
+
+ex:review a owl:ObjectProperty ;
+    rdfs:label "review" .
+
+ex:revolution_massive_impact a owl:Thing ;
+    rdfs:label "revolution massive impact" .
+
+ex:rights_users a owl:Thing ;
+    rdfs:label "rights users" .
+
+ex:risk_centered_broad a owl:Thing ;
+    rdfs:label "risk centered broad" .
+
+ex:rohingyas_myanmar a owl:Thing ;
+    rdfs:label "rohingyas myanmar" .
+
+ex:run a owl:ObjectProperty ;
+    rdfs:label "run" .
+
+ex:runaway_transformation a owl:Thing ;
+    rdfs:label "runaway transformation" .
+
+ex:runet_history_russian a owl:Thing ;
+    rdfs:label "runet history russian" .
+
+ex:runet_internet_russia a owl:Thing ;
+    rdfs:label "runet internet russia" .
+
+ex:runet_object_purpose a owl:Thing ;
+    rdfs:label "runet object purpose" .
+
+ex:russia_enhanced_cyberattacks a owl:Thing ;
+    rdfs:label "russia enhanced cyberattacks" .
+
+ex:russia_ukraine_war a owl:Thing ;
+    rdfs:label "russia ukraine war" .
+
+ex:russian_brothers_today a owl:Thing ;
+    rdfs:label "russian brothers today" .
+
+ex:russian_language_typically a owl:Thing ;
+    rdfs:label "russian language typically" .
+
+ex:russiaukraine_cyberwarfare_sect a owl:Thing ;
+    rdfs:label "russiaukraine cyberwarfare sect" .
+
+ex:russo_ukrainian_war a owl:Thing ;
+    rdfs:label "russo ukrainian war" .
+
+ex:salient_moments rdfs:label "salient moments" ;
+    ex:lose ex:aggre__gates .
+
+ex:sava_s1_published a owl:Thing ;
+    rdfs:label "sava s1 published" .
+
+ex:scope_vigour a owl:Thing ;
+    rdfs:label "scope vigour" .
+
+ex:sec__tion rdfs:label "sec­ tion" ;
+    ex:examine ex:current_strengths .
+
+ex:second_option rdfs:label "second option" ;
+    ex:buy ex:botnet_framework .
+
+ex:secret_intelligence_public a owl:Thing ;
+    rdfs:label "secret intelligence public" .
+
+ex:security_Russian_service rdfs:label "security Russian service" ;
+    ex:require ex:Telegram .
+
+ex:security_apparatus rdfs:label "security apparatus" ;
+    ex:appropriate ex:espionage_advanced_technologies .
+
+ex:security_community_recent a owl:Thing ;
+    rdfs:label "security community recent" .
+
+ex:security_practitioners rdfs:label "security practitioners" ;
+    ex:divulge ex:intelligence .
+
+ex:see a owl:ObjectProperty ;
+    rdfs:label "see" .
+
+ex:seek a owl:ObjectProperty ;
+    rdfs:label "seek" .
+
+ex:seize a owl:ObjectProperty ;
+    rdfs:label "seize" .
+
+ex:serve a owl:ObjectProperty ;
+    rdfs:label "serve" .
+
+ex:service_media rdfs:label "service media" ;
+    ex:provide ex:free_airtime .
+
+ex:service_provider rdfs:label "service provider" ;
+    ex:use ex:data_hardware_probes .
+
+ex:set a owl:ObjectProperty ;
+    rdfs:label "set" .
+
+ex:shape a owl:ObjectProperty ;
+    rdfs:label "shape" .
+
+ex:share a owl:ObjectProperty ;
+    rdfs:label "share" .
+
+ex:shoot a owl:ObjectProperty ;
+    rdfs:label "shoot" .
+
+ex:show a owl:ObjectProperty ;
+    rdfs:label "show" .
+
+ex:shun a owl:ObjectProperty ;
+    rdfs:label "shun" .
+
+ex:sinkhole a owl:ObjectProperty ;
+    rdfs:label "sinkhole" .
+
+ex:social_bots a owl:Thing ;
+    rdfs:label "social bots" .
+
+ex:social_media_activism a owl:Thing ;
+    rdfs:label "social media activism" .
+
+ex:social_media_applications a owl:Thing ;
+    rdfs:label "social media applications" .
+
+ex:social_media_bots a owl:Thing ;
+    rdfs:label "social media bots" .
+
+ex:social_media_platform a owl:Thing ;
+    rdfs:label "social media platform" .
+
+ex:social_media_platforms a owl:Thing ;
+    rdfs:label "social media platforms" .
+
+ex:social_media_played a owl:Thing ;
+    rdfs:label "social media played" .
+
+ex:social_media_sites a owl:Thing ;
+    rdfs:label "social media sites" .
+
+ex:social_movement_organiza a owl:Thing ;
+    rdfs:label "social movement organiza" .
+
+ex:social_practices_iran a owl:Thing ;
+    rdfs:label "social practices iran" .
+
+ex:society_enthusiasts_asmolov a owl:Thing ;
+    rdfs:label "society enthusiasts asmolov" .
+
+ex:socio_demographic a owl:Thing ;
+    rdfs:label "socio demographic" .
+
+ex:sophisticated_actors rdfs:label "sophisticated actors" ;
+    ex:use ex:tailored_deepfakes .
+
+ex:source_intelligence rdfs:label "source intelligence" ;
+    ex:challenge ex:state_monopolies .
+
+ex:sources_argue_used a owl:Thing ;
+    rdfs:label "sources argue used" .
+
+ex:space_deconstructs a owl:Thing ;
+    rdfs:label "space deconstructs" .
+
+ex:sparse_data rdfs:label "sparse data" ;
+    ex:require ex:disinformation_prospective_actor .
+
+ex:spe_cifically_deep a owl:Thing ;
+    rdfs:label "spe cifically deep" .
+
+ex:speak a owl:ObjectProperty ;
+    rdfs:label "speak" .
+
+ex:speci_c_domains rdfs:label "speciﬁc domains" ;
+    ex:face ex:DDoS_repeated_attacks .
+
+ex:sponsored_groups rdfs:label "sponsored groups" ;
+    ex:have ex:leveraged_tools .
+
+ex:spread a owl:ObjectProperty ;
+    rdfs:label "spread" .
+
+ex:spring_ a owl:ObjectProperty ;
+    rdfs:label "spring|" .
+
+ex:stand a owl:ObjectProperty ;
+    rdfs:label "stand" .
+
+ex:startup_companies rdfs:label "startup companies" ;
+    ex:offer ex:detection_services .
+
+ex:state rdfs:label "state" ;
+    ex:remain ex:mobilizing_main_agent .
+
+ex:state_Russian_television rdfs:label "state Russian television" ;
+    ex:share ex:fake_images .
+
+ex:state_pressure rdfs:label "state pressure" ;
+    ex:have ex:longer_history .
+
+ex:state_security rdfs:label "state security" ;
+    ex:acquire ex:Chinese_technologies .
+
+ex:states_chose_use a owl:Thing ;
+    rdfs:label "states chose use" .
+
+ex:strategies_ukraine_cyberwar a owl:Thing ;
+    rdfs:label "strategies ukraine cyberwar" .
+
+ex:strategise a owl:ObjectProperty ;
+    rdfs:label "strategise" .
+
+ex:striking_tactics rdfs:label "striking tactics" ;
+    ex:exert ex:greater_influence .
+
+ex:study a owl:ObjectProperty ;
+    rdfs:label "study" .
+
+ex:subject a owl:ObjectProperty ;
+    rdfs:label "subject" .
+
+ex:submit a owl:ObjectProperty ;
+    rdfs:label "submit" .
+
+ex:suggest a owl:ObjectProperty ;
+    rdfs:label "suggest" .
+
+ex:supplant a owl:ObjectProperty ;
+    rdfs:label "supplant" .
+
+ex:support a owl:ObjectProperty ;
+    rdfs:label "support" .
+
+ex:support_gains rdfs:label "support gains" ;
+    ex:use ex:intelligence .
+
+ex:supporters_opponents_regime a owl:Thing ;
+    rdfs:label "supporters opponents regime" .
+
+ex:suppress a owl:ObjectProperty ;
+    rdfs:label "suppress" .
+
+ex:supreme_court rdfs:label "supreme court" ;
+    ex:overturn ex:nationwide_referendum .
+
+ex:surveillance_Enhanced_capacities rdfs:label "surveillance Enhanced capacities" ;
+    ex:enable ex:autocrats .
+
+ex:surveillance_state a owl:Thing ;
+    rdfs:label "surveillance state" .
+
+ex:surveys_link_article a owl:Thing ;
+    rdfs:label "surveys link article" .
+
+ex:synthetic a owl:Thing ;
+    rdfs:label "synthetic" .
+
+ex:tackling_online_disinformation a owl:Thing ;
+    rdfs:label "tackling online disinformation" .
+
+ex:tadic_et_al a owl:Thing ;
+    rdfs:label "tadic et al" .
+
+ex:tailored_Second_deepfakes rdfs:label "tailored Second deepfakes" ;
+    ex:represent ex:greater_threat .
+
+ex:tain_cer__actors rdfs:label "tain cer­ actors" ;
+    ex:produce ex:synthetic_media .
+
+ex:take a owl:ObjectProperty ;
+    rdfs:label "take" .
+
+ex:takedown a owl:Thing ;
+    rdfs:label "takedown" .
+
+ex:takedown_actors rdfs:label "takedown actors" ;
+    ex:contact ex:ISPs .
+
+ex:takedown_attempts a owl:Thing ;
+    rdfs:label "takedown attempts" .
+
+ex:takedown_attempts_darkweb a owl:Thing ;
+    rdfs:label "takedown attempts darkweb" .
+
+ex:takedown_operations a owl:Thing ;
+    rdfs:label "takedown operations" ;
+    ex:strategise ex:Botnet .
+
+ex:target a owl:ObjectProperty ;
+    rdfs:label "target" .
+
+ex:target_host rdfs:label "target host" ;
+    ex:join ex:Botnet .
+
+ex:target_preferences_russia a owl:Thing ;
+    rdfs:label "target preferences russia" .
+
+ex:targeted a owl:Thing ;
+    rdfs:label "targeted" .
+
+ex:targeted_ukraine a owl:Thing ;
+    rdfs:label "targeted ukraine" .
+
+ex:targeting_voters_based a owl:Thing ;
+    rdfs:label "targeting voters based" .
+
+ex:technical_expertise rdfs:label "technical expertise" ;
+    ex:make ex:major_difference .
+
+ex:technical_literature rdfs:label "technical literature" ;
+    ex:provide ex:critical_insight .
+
+ex:technocrat_outline_dictator a owl:Thing ;
+    rdfs:label "technocrat outline dictator" .
+
+ex:technological_arrangements_socio a owl:Thing ;
+    rdfs:label "technological arrangements socio" .
+
+ex:technological_innovation rdfs:label "technological innovation" ;
+    ex:bring ex:synergy_effects .
+
+ex:technological_new_possibilities rdfs:label "technological new possibilities" ;
+    ex:affect ex:autocratic_politics .
+
+ex:technological_political_cultural a owl:Thing ;
+    rdfs:label "technological political cultural" .
+
+ex:technologically_induced_transformation a owl:Thing ;
+    rdfs:label "technologically induced transformation" .
+
+ex:technologies_influence_political a owl:Thing ;
+    rdfs:label "technologies influence political" .
+
+ex:technology_block rdfs:label "technology block" ;
+    ex:include ex:botnet_applications .
+
+ex:technology_disinformation_risks a owl:Thing ;
+    rdfs:label "technology disinformation risks" .
+
+ex:telegram_pandemics_disinformation a owl:Thing ;
+    rdfs:label "telegram pandemics disinformation" .
+
+ex:tell a owl:ObjectProperty ;
+    rdfs:label "tell" .
+
+ex:the_Black_Sea a ex:LOC ;
+    rdfs:label "the Black Sea" ;
+    rdfs:comment "painting by Ivan Aivazovsky" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q4518724> .
+
+ex:the_Central_Election_Commission a ex:ORG ;
+    rdfs:label "the Central Election Commission" .
+
+ex:the_Cyber_Group_Tracker a ex:ORG ;
+    rdfs:label "the Cyber Group Tracker" .
+
+ex:the_Czech_Republic a ex:GPE ;
+    rdfs:label "the Czech Republic" ;
+    rdfs:comment "institution exercising executive power in Czechia" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q5015587> .
+
+ex:the_Google_Play_Store a ex:ORG ;
+    rdfs:label "the Google Play Store" .
+
+ex:the_Russian_Ministry_of_Construction a ex:ORG ;
+    rdfs:label "the Russian Ministry of Construction" .
+
+ex:the_Russian__Government a ex:ORG ;
+    rdfs:label "the Russian ‘Government" .
+
+ex:the_Russo_Ukraine a ex:EVENT ;
+    rdfs:label "the Russo-Ukraine" .
+
+ex:the_Russo_Ukrainian_War a ex:EVENT ;
+    rdfs:label "the Russo-Ukrainian War" ;
+    rdfs:comment "scientific article published in 2023" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q122165414> .
+
+ex:the__Food_Services a ex:ORG ;
+    rdfs:label "the ‘Food Services" .
+
+ex:the__Food_Services__and__Entertainment a ex:ORG ;
+    rdfs:label "the ‘Food Services’ and ‘Entertainment" .
+
+ex:the__Government a ex:ORG ;
+    rdfs:label "the ‘Government" .
+
+ex:the__Phoenix_Inform__and__Noname05716eng a ex:ORG ;
+    rdfs:label "the ‘Phoenix Inform’ and ‘Noname05716eng" .
+
+ex:theocratic_regime rdfs:label "theocratic regime" ;
+    ex:exert ex:considerable_control .
+
+ex:theories_surrounding_covid a owl:Thing ;
+    rdfs:label "theories surrounding covid" .
+
+ex:therussia_ukrainecon_ictexempli_esthesetypes_cyberattacks a owl:Thing ;
+    rdfs:label "therussia ukraineconﬂictexempliﬁesthesetypes cyberattacks" .
+
+ex:thomas_maguire_assistant a owl:Thing ;
+    rdfs:label "thomas maguire assistant" .
+
+ex:tim_rudner_rex a owl:Thing ;
+    rdfs:label "tim rudner rex" .
+
+ex:tions_eastern_europe a owl:Thing ;
+    rdfs:label "tions eastern europe" .
+
+ex:traditional_media_state a owl:Thing ;
+    rdfs:label "traditional media state" .
+
+ex:train a owl:ObjectProperty ;
+    rdfs:label "train" .
+
+ex:trained_eye rdfs:label "trained eye" ;
+    ex:identify ex:crude_deepfakes .
+
+ex:trained_resulting_model rdfs:label "trained resulting model" ;
+    ex:process ex:unseen_images .
+
+ex:training a owl:Thing ;
+    rdfs:label "training" .
+
+ex:training_data a owl:Thing ;
+    rdfs:label "training data" .
+
+ex:training_sessions_journalists a owl:Thing ;
+    rdfs:label "training sessions journalists" .
+
+ex:transform a owl:ObjectProperty ;
+    rdfs:label "transform" .
+
+ex:transformative_qualitative_change rdfs:label "transformative qualitative change" ;
+    ex:involve ex:new_strategies .
+
+ex:translate_Manuscript rdfs:label "translate Manuscript" ;
+    ex:submit ex:business_Botnet_models .
+
+ex:transnational_repression a owl:Thing ;
+    rdfs:label "transnational repression" .
+
+ex:travel_threatorientated_advice rdfs:label "travel threatorientated advice" ;
+    ex:represent ex:led_simpler_communications .
+
+ex:twitter_instagram_platforms a owl:Thing ;
+    rdfs:label "twitter instagram platforms" .
+
+ex:types_techniques_limit a owl:Thing ;
+    rdfs:label "types techniques limit" .
+
+ex:ukraine_2022_emerged a owl:Thing ;
+    rdfs:label "ukraine 2022 emerged" .
+
+ex:ukraine_ddos_attacks a owl:Thing ;
+    rdfs:label "ukraine ddos attacks" .
+
+ex:ukraine_war_public a owl:Thing ;
+    rdfs:label "ukraine war public" .
+
+ex:undergo a owl:ObjectProperty ;
+    rdfs:label "undergo" .
+
+ex:underpin a owl:ObjectProperty ;
+    rdfs:label "underpin" .
+
+ex:underscore a owl:ObjectProperty ;
+    rdfs:label "underscore" .
+
+ex:understand a owl:ObjectProperty ;
+    rdfs:label "understand" .
+
+ex:understand_different_anti a owl:Thing ;
+    rdfs:label "understand different anti" .
+
+ex:undue_influence_dominant a owl:Thing ;
+    rdfs:label "undue influence dominant" .
+
+ex:uniform_distribution rdfs:label "uniform distribution" ;
+    ex:indicate ex:pressure_continuous_strategy .
+
+ex:union_samizdat a owl:Thing ;
+    rdfs:label "union samizdat" .
+
+ex:university_munich a owl:Thing ;
+    rdfs:label "university munich" .
+
+ex:unpack a owl:ObjectProperty ;
+    rdfs:label "unpack" .
+
+ex:unsolicited_marketing_130 a owl:Thing ;
+    rdfs:label "unsolicited marketing 130" .
+
+ex:use a owl:ObjectProperty ;
+    rdfs:label "use" .
+
+ex:use_intelligence_ukraine a owl:Thing ;
+    rdfs:label "use intelligence ukraine" .
+
+ex:use_profit_making a owl:Thing ;
+    rdfs:label "use profit making" .
+
+ex:used_irc_http a owl:Thing ;
+    rdfs:label "used irc http" .
+
+ex:useful_surveys rdfs:label "useful surveys" ;
+    ex:include ex:Devender_Raahat_Singh .
+
+ex:user rdfs:label "user" ;
+    ex:include ex:human_users .
+
+ex:user_large_base rdfs:label "user large base" ;
+    ex:provide ex:ripe_ground .
+
+ex:users a owl:Thing ;
+    rdfs:label "users" ;
+    ex:discover ex:new_content ;
+    ex:generate ex:discourse_information ;
+    ex:have ex:public_conversations ;
+    ex:post ex:content_Messages,
+        ex:short_text .
+
+ex:users_rq2_topics a owl:Thing ;
+    rdfs:label "users rq2 topics" .
+
+ex:ussr_conceptual_origins a owl:Thing ;
+    rdfs:label "ussr conceptual origins" .
+
+ex:utilise a owl:ObjectProperty ;
+    rdfs:label "utilise" .
+
+ex:utilize a owl:ObjectProperty ;
+    rdfs:label "utilize" .
+
+ex:vaccination___Anti_Islam_Rizza_activist rdfs:label "vaccination - Anti Islam Rizza activist" ;
+    ex:find ex:Journal .
+
+ex:vaccines_study a owl:Thing ;
+    rdfs:label "vaccines study" .
+
+ex:varying_jurisdictions_article a owl:Thing ;
+    rdfs:label "varying jurisdictions article" .
+
+ex:version_chapter a owl:Thing ;
+    rdfs:label "version chapter" .
+
+ex:version_link_dtu a owl:Thing ;
+    rdfs:label "version link dtu" .
+
+ex:victim_domains_affected a owl:Thing ;
+    rdfs:label "victim domains affected" .
+
+ex:view a owl:ObjectProperty ;
+    rdfs:label "view" .
+
+ex:visit a owl:ObjectProperty ;
+    rdfs:label "visit" .
+
+ex:vol_0123456789_https a owl:Thing ;
+    rdfs:label "vol 0123456789 https" .
+
+ex:volker_wulf_uni a owl:Thing ;
+    rdfs:label "volker wulf uni" .
+
+ex:vs_human_disinformation a owl:Thing ;
+    rdfs:label "vs human disinformation" .
+
+ex:vulnerable_sectors_mitigate a owl:Thing ;
+    rdfs:label "vulnerable sectors mitigate" .
+
+ex:want a owl:ObjectProperty ;
+    rdfs:label "want" .
+
+ex:war_public_crucible a owl:Thing ;
+    rdfs:label "war public crucible" .
+
+ex:weapons_mass_destruction a owl:Thing ;
+    rdfs:label "weapons mass destruction" .
+
+ex:web_dark_users rdfs:label "web dark users" ;
+    ex:utilise ex:postal_services .
+
+ex:weigh a owl:ObjectProperty ;
+    rdfs:label "weigh" .
+
+ex:widespread_adoption rdfs:label "widespread adoption" ;
+    ex:provide ex:robust_platform .
+
+ex:witness a owl:ObjectProperty ;
+    rdfs:label "witness" .
+
+ex:young_people rdfs:label "young people" ;
+    ex:adapt ex:social_media ;
+    ex:leave ex:Iran .
+
+ex:younger_members rdfs:label "younger members" ;
+    ex:characterize ex:political_views .
+
+ex:youth_used_virtual a owl:Thing ;
+    rdfs:label "youth used virtual" .
+
+ex:zois_department_social a owl:Thing ;
+    rdfs:label "zois department social" .
+
+ex:Activists rdfs:label "Activists" .
+
+ex:Andromeda_spewing_botnet rdfs:label "Andromeda spewing botnet" .
+
+ex:Army rdfs:label "Army" .
+
+ex:Berg rdfs:label "Berg" .
+
+ex:Bitcoin rdfs:label "Bitcoin" .
+
+ex:Botnets a owl:Thing ;
+    rdfs:label "Botnets" ;
+    ex:perform ex:credential_fraud .
+
+ex:CNN rdfs:label "CNN" .
+
+ex:COVID_19 rdfs:label "COVID-19" .
+
+ex:Cambridge_Analytica rdfs:label "Cambridge Analytica" .
+
+ex:Chinese_technologies rdfs:label "Chinese technologies" .
+
+ex:Click_trajectories rdfs:label "Click trajectories" .
+
+ex:Cloud_are a ex:GPE ;
+    rdfs:label "Cloudﬂare" ;
+    rdfs:comment "American internet infrastructure and website security company" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q4778915> .
+
+ex:Con_ict a ex:PERSON ;
+    rdfs:label "Conﬂict" ;
+    rdfs:comment "friction, disagreement, or discord within a group or between different groups" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q180684> .
+
+ex:Content rdfs:label "Content" .
+
+ex:Coronavirus_Enforcing_Rules rdfs:label "Coronavirus Enforcing Rules" .
+
+ex:CyberPalyanista rdfs:label "CyberPalyanista" .
+
+ex:Cyber_Army a ex:ORG ;
+    rdfs:label "Cyber Army" ;
+    ex:target ex:websites .
+
+ex:Cyber_Commons rdfs:label "Cyber Commons" .
+
+ex:Cybercriminal_Different_Platforms rdfs:label "Cybercriminal Different Platforms" .
+
+ex:DDoS_protection a owl:Thing ;
+    rdfs:label "DDoS protection" .
+
+ex:DDoS_sustained_attacks rdfs:label "DDoS sustained attacks" .
+
+ex:DemSystemPreferable rdfs:label "DemSystemPreferable" .
+
+ex:Demand rdfs:label "Demand" .
+
+ex:Detection_Deepfake_Challenge rdfs:label "Detection Deepfake Challenge" .
+
+ex:Devender_Raahat_Singh rdfs:label "Devender Raahat Singh" .
+
+ex:Dmitry_Medvedev rdfs:label "Dmitry Medvedev" .
+
+ex:Dread rdfs:label "Dread" .
+
+ex:EconSocio05u rdfs:label "EconSocio05u" .
+
+ex:Educ6u rdfs:label "Educ6u" .
+
+ex:Egyptian_experience rdfs:label "Egyptian experience" .
+
+ex:Emotet_Following_Shutdown rdfs:label "Emotet Following Shutdown" .
+
+ex:Emre_Ekmekcioglu1 rdfs:label "Emre Ekmekcioglu1" .
+
+ex:Express rdfs:label "Express" .
+
+ex:FAC a owl:Class ;
+    rdfs:label "FAC" .
+
+ex:FamFinanSit7u rdfs:label "FamFinanSit7u" .
+
+ex:Forms a owl:Thing ;
+    rdfs:label "Forms" ;
+    ex:include ex:hashtag_activism .
+
+ex:FrdsFamAbroad rdfs:label "FrdsFamAbroad" .
+
+ex:Glasius rdfs:label "Glasius" .
+
+ex:GoAbroad__0_03 rdfs:label "GoAbroad 0.03" .
+
+ex:Government_Criticism rdfs:label "Government Criticism" .
+
+ex:Guardian rdfs:label "Guardian" .
+
+ex:Guidance rdfs:label "Guidance" .
+
+ex:Guidelines rdfs:label "Guidelines" .
+
+ex:Higher_Kolozaridi_School rdfs:label "Higher Kolozaridi School" .
+
+ex:Hope rdfs:label "Hope" .
+
+ex:IP_addresses rdfs:label "IP addresses" .
+
+ex:ISPs rdfs:label "ISPs" .
+
+ex:Ian_Goodfellow rdfs:label "Ian Goodfellow" .
+
+ex:Imam_Khomeini rdfs:label "Imam Khomeini" .
+
+ex:Inconsistent_practices rdfs:label "Inconsistent practices" .
+
+ex:Incourse911 rdfs:label "Incourse911" .
+
+ex:Intelligence rdfs:label "Intelligence" ;
+    ex:need ex:Media .
+
+ex:Internet_Filtering a owl:Thing ;
+    rdfs:label "Internet Filtering" ;
+    ex:grow ex:virtual_community .
+
+ex:Internet_Russian_major_giants rdfs:label "Internet Russian major giants" .
+
+ex:Internet_users a owl:Thing ;
+    rdfs:label "Internet users" .
+
+ex:Iran rdfs:label "Iran" .
+
+ex:January rdfs:label "January" .
+
+ex:LOC a owl:Class ;
+    rdfs:label "LOC" .
+
+ex:LangNatvBEL rdfs:label "LangNatvBEL" .
+
+ex:Lithuanian_websites rdfs:label "Lithuanian websites" .
+
+ex:Lives rdfs:label "Lives" .
+
+ex:Lord rdfs:label "Lord" .
+
+ex:MainProblemEcon rdfs:label "MainProblemEcon" .
+
+ex:Media a ex:ORG ;
+    rdfs:label "Media" ;
+    ex:broadcast ex:political_advertising ;
+    ex:need ex:Intelligence ;
+    rdfs:comment "county seat of Delaware County, Pennsylvania, United States" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q1187804> .
+
+ex:Media_Posts rdfs:label "Media Posts" .
+
+ex:Molly_Mckew rdfs:label "Molly Mckew" .
+
+ex:NationBEL rdfs:label "NationBEL" .
+
+ex:Neural_Recurrent_Network rdfs:label "Neural Recurrent Network" .
+
+ex:Oord rdfs:label "Oord" .
+
+ex:Opinion rdfs:label "Opinion" .
+
+ex:P2P_architecture rdfs:label "P2P architecture" .
+
+ex:Page rdfs:label "Page" .
+
+ex:Past rdfs:label "Past" .
+
+ex:Pay rdfs:label "Pay" .
+
+ex:Peluso rdfs:label "Peluso" .
+
+ex:Perspectives rdfs:label "Perspectives" .
+
+ex:Political_Protest rdfs:label "Political Protest" .
+
+ex:Power rdfs:label "Power" .
+
+ex:Protection_Directive rdfs:label "Protection Directive" .
+
+ex:Protest_Class_Paradigm rdfs:label "Protest Class Paradigm" .
+
+ex:Protest_Participants a owl:Thing ;
+    rdfs:label "Protest Participants" .
+
+ex:Psychology_39_S1 rdfs:label "Psychology 39(S1" .
+
+ex:Public_Sphere rdfs:label "Public Sphere" .
+
+ex:Russian a ex:NORP ;
+    rdfs:label "Russian" ;
+    rdfs:comment "East Slavic language" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q7737> .
+
+ex:Russian_users rdfs:label "Russian users" .
+
+ex:Russian_websites rdfs:label "Russian websites" ;
+    ex:face ex:DDoS_sustained_attacks .
+
+ex:Server_shutdown rdfs:label "Server shutdown" .
+
+ex:Service_Providers rdfs:label "Service Providers" .
+
+ex:Simple_Detection_deepfakes rdfs:label "Simple Detection deepfakes" .
+
+ex:Social_Contracts rdfs:label "Social Contracts" .
+
+ex:Sophisticated rdfs:label "Sophisticated" .
+
+ex:Stereotypes rdfs:label "Stereotypes" .
+
+ex:System rdfs:label "System" .
+
+ex:Telegram_account rdfs:label "Telegram account" .
+
+ex:Telegram_channel rdfs:label "Telegram channel" .
+
+ex:TransitionWinners__0_04 rdfs:label "TransitionWinners 0.04" .
+
+ex:UK_claim rdfs:label "UK claim" .
+
+ex:Uber rdfs:label "Uber" .
+
+ex:Ukraine a ex:GPE ;
+    rdfs:label "Ukraine" ;
+    ex:destroy ex:biological_funded_program ;
+    ex:take ex:UK_claim ;
+    ex:witness ex:notable_surge ;
+    rdfs:comment "country in Eastern Europe" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q212> .
+
+ex:Unexpected_Deaths rdfs:label "Unexpected Deaths" .
+
+ex:VPN_servers rdfs:label "VPN servers" .
+
+ex:VPN_services rdfs:label "VPN services" .
+
+ex:VPNs rdfs:label "VPNs" .
+
+ex:Van_Deth rdfs:label "Van Deth" .
+
+ex:Verdoliva rdfs:label "Verdoliva" .
+
+ex:VotedLukashenka_MemberInCivSocOrg_VotedTsikhanouskaya rdfs:label "VotedLukashenka MemberInCivSocOrg VotedTsikhanouskaya" .
+
+ex:VotedTsikhanouskaya rdfs:label "VotedTsikhanouskaya" .
+
+ex:War_Propaganda rdfs:label "War Propaganda" .
+
+ex:Washington_Post rdfs:label "Washington Post" .
+
+ex:Working_Conficker_Group rdfs:label "Working Conficker Group" .
+
+ex:ZeroAccess_notorious_botnet rdfs:label "ZeroAccess notorious botnet" .
+
+ex:_0_00_TransitionLosers rdfs:label "0.00 TransitionLosers" .
+
+ex:_May_12th rdfs:label "-May 12th" .
+
+ex:action a owl:Thing ;
+    rdfs:label "action" .
+
+ex:active_monthly_users rdfs:label "active monthly users" .
+
+ex:active_users rdfs:label "active users" .
+
+ex:actor_contentious_constellations rdfs:label "actor contentious constellations" .
+
+ex:actual_impact rdfs:label "actual impact" .
+
+ex:additional_biases rdfs:label "additional biases" .
+
+ex:aggre__gates rdfs:label "aggre­ gates" .
+
+ex:aggressive_growth rdfs:label "aggressive growth" .
+
+ex:algorithm_concept rdfs:label "algorithm concept" .
+
+ex:analysis rdfs:label "analysis" ;
+    ex:offer ex:concrete_recommendations .
+
+ex:attractive_relative rdfs:label "attractive relative" .
+
+ex:authoritarian_incumbents rdfs:label "authoritarian incumbents" .
+
+ex:authoritarian_politics rdfs:label "authoritarian politics" .
+
+ex:autocratic_politics rdfs:label "autocratic politics" .
+
+ex:based_alternative_power rdfs:label "based alternative power" .
+
+ex:basic_contain_information rdfs:label "basic contain information" .
+
+ex:basic_rights rdfs:label "basic rights" .
+
+ex:behavioural_changes rdfs:label "behavioural changes" .
+
+ex:betweenness_higher_centrality rdfs:label "betweenness higher centrality" .
+
+ex:biological_funded_program rdfs:label "biological funded program" .
+
+ex:blocked_Telegram rdfs:label "blocked Telegram" .
+
+ex:bot_assimilation rdfs:label "bot assimilation" .
+
+ex:botnet_applications rdfs:label "botnet applications" .
+
+ex:botnet_framework rdfs:label "botnet framework" .
+
+ex:bots rdfs:label "bots" ;
+    ex:have ex:limited_capability .
+
+ex:broad_range rdfs:label "broad range" .
+
+ex:business a owl:Thing ;
+    rdfs:label "business" .
+
+ex:careful_measures rdfs:label "careful measures" .
+
+ex:chemical_weapons rdfs:label "chemical weapons" .
+
+ex:close_scrutiny rdfs:label "close scrutiny" .
+
+ex:collection_OSINT_global_network rdfs:label "collection OSINT global network" .
+
+ex:collection_pipeline rdfs:label "collection pipeline" .
+
+ex:comparable_performance rdfs:label "comparable performance" .
+
+ex:complete_list rdfs:label "complete list" .
+
+ex:comprehensive_analysis rdfs:label "comprehensive analysis" .
+
+ex:conceptual_framework rdfs:label "conceptual framework" .
+
+ex:concrete_guidance rdfs:label "concrete guidance" .
+
+ex:concrete_recommendations rdfs:label "concrete recommendations" .
+
+ex:considerable_control rdfs:label "considerable control" .
+
+ex:constant_updating rdfs:label "constant updating" .
+
+ex:consump__tion rdfs:label "consump­ tion" .
+
+ex:content_Messages rdfs:label "content Messages" .
+
+ex:continuous_maintenance rdfs:label "continuous maintenance" .
+
+ex:continuous_stream rdfs:label "continuous stream" .
+
+ex:controlled_TV rdfs:label "controlled TV" .
+
+ex:cooperative_work rdfs:label "cooperative work" .
+
+ex:coordinated_takedown rdfs:label "coordinated takedown" .
+
+ex:country_report rdfs:label "country report" .
+
+ex:credential_Botnets_theft rdfs:label "credential Botnets theft" .
+
+ex:credential_fraud rdfs:label "credential fraud" .
+
+ex:critical_view rdfs:label "critical view" .
+
+ex:crucial_hints rdfs:label "crucial hints" .
+
+ex:crude_deepfakes rdfs:label "crude deepfakes" .
+
+ex:cultural_cluster rdfs:label "cultural cluster" .
+
+ex:cumulative_count rdfs:label "cumulative count" .
+
+ex:current_scope rdfs:label "current scope" .
+
+ex:current_strengths rdfs:label "current strengths" .
+
+ex:darkweb_marketplaces rdfs:label "darkweb marketplaces" .
+
+ex:data a owl:Thing ;
+    rdfs:label "data" ;
+    ex:acquire ex:basic_contain_information .
+
+ex:data_annotation rdfs:label "data annotation" .
+
+ex:data_collection rdfs:label "data collection" .
+
+ex:data_fields rdfs:label "data fields" .
+
+ex:data_hardware_probes rdfs:label "data hardware probes" .
+
+ex:deciding_factors rdfs:label "deciding factors" .
+
+ex:deep__fakes rdfs:label "deep­ fakes" .
+
+ex:defensive_measures rdfs:label "defensive measures" .
+
+ex:deliberate_effort rdfs:label "deliberate effort" .
+
+ex:detailed_analysis rdfs:label "detailed analysis" .
+
+ex:detailed_visualization rdfs:label "detailed visualization" .
+
+ex:detectable_deepfakes rdfs:label "detectable deepfakes" .
+
+ex:detection_deepfake_accuracy rdfs:label "detection deepfake accuracy" .
+
+ex:detection_services rdfs:label "detection services" .
+
+ex:dictatorial_existing_tools rdfs:label "dictatorial existing tools" .
+
+ex:different_addresses rdfs:label "different addresses" .
+
+ex:different_forms rdfs:label "different forms" .
+
+ex:different_kinds rdfs:label "different kinds" .
+
+ex:different_meanings rdfs:label "different meanings" .
+
+ex:different_media rdfs:label "different media" .
+
+ex:different_modes rdfs:label "different modes" .
+
+ex:differing_inputs rdfs:label "differing inputs" .
+
+ex:digital_activism rdfs:label "digital activism" .
+
+ex:digital_advanced_devices rdfs:label "digital advanced devices" .
+
+ex:digital_devices rdfs:label "digital devices" .
+
+ex:discourse_information rdfs:label "discourse information" .
+
+ex:disinformation_prospective_actor rdfs:label "disinformation prospective actor" .
+
+ex:disinformation_resourced_campaigns rdfs:label "disinformation resourced campaigns" .
+
+ex:disinformation_stories rdfs:label "disinformation stories" .
+
+ex:disinformation_themes rdfs:label "disinformation themes" .
+
+ex:dissemination_patterns rdfs:label "dissemination patterns" .
+
+ex:distinct_difference rdfs:label "distinct difference" .
+
+ex:distinctive_traces rdfs:label "distinctive traces" .
+
+ex:diverse_interactions rdfs:label "diverse interactions" .
+
+ex:diverse_set rdfs:label "diverse set" .
+
+ex:domains a owl:Thing ;
+    rdfs:label "domains" ;
+    ex:lack ex:DDoS_protection ;
+    ex:use ex:Cloud_are .
+
+ex:dot_Chinese_org rdfs:label "dot Chinese org" .
+
+ex:economic_decline rdfs:label "economic decline" .
+
+ex:elite___intra_composition rdfs:label "elite - intra composition" .
+
+ex:emptive___pre_exposures rdfs:label "emptive - pre exposures" .
+
+ex:encryption_codes rdfs:label "encryption codes" .
+
+ex:enforcement_authorities rdfs:label "enforcement authorities" .
+
+ex:enforcement_limited_powers rdfs:label "enforcement limited powers" .
+
+ex:engagement_Belarus rdfs:label "engagement Belarus" .
+
+ex:ernment_crackdown rdfs:label "ernment crackdown" .
+
+ex:espionage_advanced_technologies rdfs:label "espionage advanced technologies" .
+
+ex:evident_progress rdfs:label "evident progress" .
+
+ex:evolving_relationship rdfs:label "evolving relationship" .
+
+ex:exiled_opponents rdfs:label "exiled opponents" .
+
+ex:expansive_campaign rdfs:label "expansive campaign" .
+
+ex:experienced_specialist rdfs:label "experienced specialist" .
+
+ex:explicit_interest rdfs:label "explicit interest" .
+
+ex:eye_view rdfs:label "eye view" .
+
+ex:face_images rdfs:label "face images" .
+
+ex:failed_attempt rdfs:label "failed attempt" .
+
+ex:fake_images rdfs:label "fake images" .
+
+ex:fake_operation rdfs:label "fake operation" .
+
+ex:false_information rdfs:label "false information" .
+
+ex:false_narratives rdfs:label "false narratives" .
+
+ex:fascinating_continuity rdfs:label "fascinating continuity" .
+
+ex:fertile_environment rdfs:label "fertile environment" .
+
+ex:fewest_messages rdfs:label "fewest messages" .
+
+ex:filtering_different_policies rdfs:label "filtering different policies" .
+
+ex:flight_KAL rdfs:label "flight KAL" .
+
+ex:follow_video rdfs:label "follow video" .
+
+ex:forged_intelligence rdfs:label "forged intelligence" .
+
+ex:formal_complaint rdfs:label "formal complaint" .
+
+ex:free_airtime rdfs:label "free airtime" .
+
+ex:frequent_transformation rdfs:label "frequent transformation" .
+
+ex:future_explorations rdfs:label "future explorations" .
+
+ex:gender_relationships rdfs:label "gender relationships" .
+
+ex:generative_deep_model rdfs:label "generative deep model" .
+
+ex:generative_model a owl:Thing ;
+    rdfs:label "generative model" .
+
+ex:generative_network rdfs:label "generative network" .
+
+ex:global_operation rdfs:label "global operation" .
+
+ex:global_phenomenon rdfs:label "global phenomenon" .
+
+ex:global_profound_transformations rdfs:label "global profound transformations" .
+
+ex:global_standard rdfs:label "global standard" .
+
+ex:goods_transit rdfs:label "goods transit" .
+
+ex:government_discourse rdfs:label "government discourse" .
+
+ex:grant_program rdfs:label "grant program" .
+
+ex:greater_influence rdfs:label "greater influence" .
+
+ex:greater_threat rdfs:label "greater threat" .
+
+ex:groups a owl:Thing ;
+    rdfs:label "groups" ;
+    ex:coordinate ex:DDoS_attacks ;
+    ex:share ex:common_targets ;
+    ex:target ex:Russian_websites,
+        ex:domains .
+
+ex:hashtag_activism rdfs:label "hashtag activism" .
+
+ex:head_office rdfs:label "head office" .
+
+ex:heat_detailed_map rdfs:label "heat detailed map" .
+
+ex:helpful_datapoints rdfs:label "helpful datapoints" .
+
+ex:higher_levels rdfs:label "higher levels" .
+
+ex:higher_proportion rdfs:label "higher proportion" .
+
+ex:highest_second_rate rdfs:label "highest second rate" .
+
+ex:horizontal_connective_new_modes rdfs:label "horizontal connective new modes" .
+
+ex:human_chains rdfs:label "human chains" .
+
+ex:increasing_importance rdfs:label "increasing importance" .
+
+ex:inde__pendent rdfs:label "inde­ pendent" .
+
+ex:independent_media rdfs:label "independent media" .
+
+ex:influence_campaign rdfs:label "influence campaign" .
+
+ex:influence_operations rdfs:label "influence operations" ;
+    ex:weigh ex:deciding_factors .
+
+ex:information a owl:Thing ;
+    rdfs:label "information" .
+
+ex:information_networks rdfs:label "information networks" .
+
+ex:informational_alternative rdfs:label "informational alternative" .
+
+ex:informed_specific_explicit_consent rdfs:label "informed specific explicit consent" .
+
+ex:ing_includ__companies rdfs:label "ing includ­ companies" .
+
+ex:ing_trend rdfs:label "ing trend" .
+
+ex:insightful_visualization rdfs:label "insightful visualization" .
+
+ex:intellectual_elite rdfs:label "intellectual elite" .
+
+ex:intelligence_private_dissemination rdfs:label "intelligence private dissemination" .
+
+ex:inter_alia rdfs:label "inter alia" .
+
+ex:interactional_patterns rdfs:label "interactional patterns" .
+
+ex:interesting_segment rdfs:label "interesting segment" .
+
+ex:interim_Report rdfs:label "interim Report" .
+
+ex:invest__significant_ment rdfs:label "invest­ significant ment" .
+
+ex:joint_action rdfs:label "joint action" .
+
+ex:key_area rdfs:label "key area" .
+
+ex:language_interpretation rdfs:label "language interpretation" .
+
+ex:language_natural_interpretation rdfs:label "language natural interpretation" .
+
+ex:learning_process rdfs:label "learning process" .
+
+ex:led_simpler_communications rdfs:label "led simpler communications" .
+
+ex:legal_procedures rdfs:label "legal procedures" .
+
+ex:leveraged_tools rdfs:label "leveraged tools" .
+
+ex:life_private_increase rdfs:label "life private increase" .
+
+ex:limited_capability rdfs:label "limited capability" .
+
+ex:limited_capacity rdfs:label "limited capacity" .
+
+ex:limited_overlap rdfs:label "limited overlap" .
+
+ex:limited_understanding rdfs:label "limited understanding" .
+
+ex:literature_review rdfs:label "literature review" .
+
+ex:long_history rdfs:label "long history" .
+
+ex:longer_history rdfs:label "longer history" .
+
+ex:lower_activity rdfs:label "lower activity" .
+
+ex:main_roles rdfs:label "main roles" .
+
+ex:main_source rdfs:label "main source" .
+
+ex:maintenance_hardware_costs rdfs:label "maintenance hardware costs" .
+
+ex:major_difference rdfs:label "major difference" .
+
+ex:major_domain rdfs:label "major domain" .
+
+ex:major_tool rdfs:label "major tool" .
+
+ex:media_applications rdfs:label "media applications" .
+
+ex:media_comments rdfs:label "media comments" .
+
+ex:media_synthetic_techniques rdfs:label "media synthetic techniques" .
+
+ex:media_uptake rdfs:label "media uptake" .
+
+ex:member_states rdfs:label "member states" .
+
+ex:messaging_popular_platform rdfs:label "messaging popular platform" .
+
+ex:messaging_private_networks rdfs:label "messaging private networks" .
+
+ex:middle_dependent_class rdfs:label "middle dependent class" .
+
+ex:military_coup rdfs:label "military coup" .
+
+ex:military_involvement rdfs:label "military involvement" .
+
+ex:military_massive_offensive rdfs:label "military massive offensive" .
+
+ex:mobilizing_main_agent rdfs:label "mobilizing main agent" .
+
+ex:model a owl:ObjectProperty,
+        owl:Thing ;
+    rdfs:label "model" ;
+    ex:gain ex:limited_understanding .
+
+ex:modernizing_vision rdfs:label "modernizing vision" .
+
+ex:money_Purchase rdfs:label "money Purchase" .
+
+ex:nationwide_referendum rdfs:label "nationwide referendum" .
+
+ex:necessary_assets rdfs:label "necessary assets" .
+
+ex:negative_incentives rdfs:label "negative incentives" .
+
+ex:networks_market rdfs:label "networks market" .
+
+ex:new_challenges rdfs:label "new challenges" .
+
+ex:new_constraints rdfs:label "new constraints" .
+
+ex:new_content rdfs:label "new content" .
+
+ex:new_era rdfs:label "new era" .
+
+ex:new_means rdfs:label "new means" .
+
+ex:new_strategies rdfs:label "new strategies" .
+
+ex:news_fake_factories rdfs:label "news fake factories" .
+
+ex:notable_surge rdfs:label "notable surge" .
+
+ex:notifica__push_tions rdfs:label "notifica­ push tions" .
+
+ex:numerous_algorithms rdfs:label "numerous algorithms" .
+
+ex:online_content rdfs:label "online content" .
+
+ex:online_library rdfs:label "online library" .
+
+ex:opinion_messages rdfs:label "opinion messages" .
+
+ex:opposite_effect rdfs:label "opposite effect" .
+
+ex:oppositional_power rdfs:label "oppositional power" .
+
+ex:overall_cost rdfs:label "overall cost" .
+
+ex:overlapping_highest_value rdfs:label "overlapping highest value" .
+
+ex:package_inspection rdfs:label "package inspection" .
+
+ex:paired_models rdfs:label "paired models" .
+
+ex:partial_mobilisation rdfs:label "partial mobilisation" .
+
+ex:particular_patterns rdfs:label "particular patterns" .
+
+ex:peak_activity rdfs:label "peak activity" .
+
+ex:perpetual_agenda rdfs:label "perpetual agenda" .
+
+ex:personal_agenda rdfs:label "personal agenda" .
+
+ex:persuasive_capacity rdfs:label "persuasive capacity" .
+
+ex:photographic_evidence rdfs:label "photographic evidence" .
+
+ex:physical_acquisition rdfs:label "physical acquisition" .
+
+ex:plat__form rdfs:label "plat­ form" .
+
+ex:plat__popular_form rdfs:label "plat­ popular form" .
+
+ex:policies_65_similar_Center rdfs:label "policies.65 similar Center" .
+
+ex:policymaking_process_28 rdfs:label "policymaking process.28" .
+
+ex:political_advertising a owl:Thing ;
+    rdfs:label "political advertising" ;
+    ex:take ex:different_forms .
+
+ex:political_claims rdfs:label "political claims" .
+
+ex:political_dispositions rdfs:label "political dispositions" .
+
+ex:political_function rdfs:label "political function" .
+
+ex:political_new_institutions rdfs:label "political new institutions" .
+
+ex:political_opinions rdfs:label "political opinions" .
+
+ex:political_processes rdfs:label "political processes" .
+
+ex:political_sectors rdfs:label "political sectors" .
+
+ex:political_similar_ambitions rdfs:label "political similar ambitions" .
+
+ex:political_views rdfs:label "political views" .
+
+ex:positive_correlation rdfs:label "positive correlation" .
+
+ex:positive_incentives rdfs:label "positive incentives" .
+
+ex:possible_strategies rdfs:label "possible strategies" .
+
+ex:postal_services rdfs:label "postal services" .
+
+ex:pressure_continuous_strategy rdfs:label "pressure continuous strategy" .
+
+ex:private_discourses rdfs:label "private discourses" .
+
+ex:probability___non_sampling rdfs:label "probability - non sampling" .
+
+ex:prominent_landmarks rdfs:label "prominent landmarks" .
+
+ex:protest_movement rdfs:label "protest movement" ;
+    ex:use ex:media_applications .
+
+ex:protest_wave rdfs:label "protest wave" .
+
+ex:protesters rdfs:label "protesters" ;
+    ex:consume ex:different_media ;
+    ex:have ex:diverse_set ;
+    ex:report ex:political_claims ;
+    ex:use ex:independent_media .
+
+ex:public_conversations rdfs:label "public conversations" .
+
+ex:public_discourse rdfs:label "public discourse" .
+
+ex:public_views rdfs:label "public views" .
+
+ex:push_called_updates rdfs:label "push called updates" .
+
+ex:quality_journalism rdfs:label "quality journalism" .
+
+ex:radioactive_marking rdfs:label "radioactive marking" .
+
+ex:random_addresses rdfs:label "random addresses" .
+
+ex:rapid_shifts rdfs:label "rapid shifts" .
+
+ex:rare_conversation rdfs:label "rare conversation" .
+
+ex:realistic_depictions rdfs:label "realistic depictions" .
+
+ex:red_flag rdfs:label "red flag" .
+
+ex:regime_leaders rdfs:label "regime leaders" .
+
+ex:regimes a owl:Thing ;
+    rdfs:label "regimes" .
+
+ex:regulation rdfs:label "regulation" .
+
+ex:related_services rdfs:label "related services" .
+
+ex:relevant_categories rdfs:label "relevant categories" .
+
+ex:repressive_regimes rdfs:label "repressive regimes" .
+
+ex:reputational_risks rdfs:label "reputational risks" .
+
+ex:research__ndings rdfs:label "research ﬁndings" .
+
+ex:resilience_gains rdfs:label "resilience gains" .
+
+ex:resulting_video rdfs:label "resulting video" .
+
+ex:rich_diversity rdfs:label "rich diversity" .
+
+ex:rich_source rdfs:label "rich source" .
+
+ex:rigorous_comparisons rdfs:label "rigorous comparisons" .
+
+ex:ripe_ground rdfs:label "ripe ground" .
+
+ex:robust_platform rdfs:label "robust platform" .
+
+ex:rough_benchmark rdfs:label "rough benchmark" .
+
+ex:routine_simple_transformations rdfs:label "routine simple transformations" .
+
+ex:sanitised_version rdfs:label "sanitised version" .
+
+ex:satellite_antenna rdfs:label "satellite antenna" .
+
+ex:satellite_dishes rdfs:label "satellite dishes" .
+
+ex:security_inadequate_measures rdfs:label "security inadequate measures" .
+
+ex:service_providers rdfs:label "service providers" .
+
+ex:short_text rdfs:label "short text" .
+
+ex:sig__government___anti_clear_nificance rdfs:label "sig­ government - anti clear nificance" .
+
+ex:signi_cant_activity rdfs:label "signiﬁcant activity" .
+
+ex:significant_concerns rdfs:label "significant concerns" .
+
+ex:significant_implications rdfs:label "significant implications" .
+
+ex:significant_issue rdfs:label "significant issue" .
+
+ex:similar_strategies rdfs:label "similar strategies" .
+
+ex:similar_tactics rdfs:label "similar tactics" .
+
+ex:smaller_increases rdfs:label "smaller increases" .
+
+ex:society_state_relations rdfs:label "society state relations" .
+
+ex:sociopolitical_context rdfs:label "sociopolitical context" .
+
+ex:special_interest rdfs:label "special interest" .
+
+ex:specific_guidance rdfs:label "specific guidance" .
+
+ex:spy_microchips rdfs:label "spy microchips" .
+
+ex:stable_set rdfs:label "stable set" .
+
+ex:standalone_website rdfs:label "standalone website" .
+
+ex:state_monopolies rdfs:label "state monopolies" .
+
+ex:strategic_distinct_preferences rdfs:label "strategic distinct preferences" .
+
+ex:strategic_importance rdfs:label "strategic importance" .
+
+ex:streets rdfs:label "streets" .
+
+ex:strong_success rdfs:label "strong success" .
+
+ex:studca_CybPal_inc911 rdfs:label "studca CybPal inc911" .
+
+ex:substance_users rdfs:label "substance users" .
+
+ex:subtle_details rdfs:label "subtle details" .
+
+ex:sure_action rdfs:label "sure action" .
+
+ex:suspicious_distortions rdfs:label "suspicious distortions" .
+
+ex:symbiotic_relationship rdfs:label "symbiotic relationship" .
+
+ex:synergy_effects rdfs:label "synergy effects" .
+
+ex:synthetic_images rdfs:label "synthetic images" .
+
+ex:synthetic_media a owl:Thing ;
+    rdfs:label "synthetic media" ;
+    ex:contain ex:distinctive_traces ;
+    ex:depict ex:prominent_landmarks .
+
+ex:synthetic_realistic_imagery rdfs:label "synthetic realistic imagery" .
+
+ex:synthetic_voices rdfs:label "synthetic voices" .
+
+ex:tailored_GAN rdfs:label "tailored GAN" .
+
+ex:tailored_deepfakes rdfs:label "tailored deepfakes" .
+
+ex:target_preferences rdfs:label "target preferences" .
+
+ex:targeted_repression rdfs:label "targeted repression" .
+
+ex:targeting_isolated_pattern rdfs:label "targeting isolated pattern" .
+
+ex:technical___non_users rdfs:label "technical - non users" .
+
+ex:technical_capacities rdfs:label "technical capacities" .
+
+ex:technical_extensive_expertise rdfs:label "technical extensive expertise" .
+
+ex:technol__modern_ogy rdfs:label "technol­ modern ogy" .
+
+ex:technological_possibilities rdfs:label "technological possibilities" .
+
+ex:theoretical_embeddedness rdfs:label "theoretical embeddedness" .
+
+ex:theoretical_reflections rdfs:label "theoretical reflections" .
+
+ex:thorough_analysis rdfs:label "thorough analysis" .
+
+ex:time_detection rdfs:label "time detection" .
+
+ex:time_understanding rdfs:label "time understanding" .
+
+ex:tough_questions rdfs:label "tough questions" .
+
+ex:traditional_Russian_media rdfs:label "traditional Russian media" .
+
+ex:trained___pre_model rdfs:label "trained - pre model" .
+
+ex:training_course rdfs:label "training course" .
+
+ex:training_times rdfs:label "training times" .
+
+ex:transient_changes rdfs:label "transient changes" .
+
+ex:transitional_measure rdfs:label "transitional measure" .
+
+ex:under__standing rdfs:label "under­ standing" .
+
+ex:underground_economy rdfs:label "underground economy" .
+
+ex:underlying_characteristics rdfs:label "underlying characteristics" .
+
+ex:undesirable_sites rdfs:label "undesirable sites" .
+
+ex:undesired_narratives rdfs:label "undesired narratives" .
+
+ex:unique_opportunity rdfs:label "unique opportunity" .
+
+ex:unseen_images rdfs:label "unseen images" .
+
+ex:upper_limits rdfs:label "upper limits" .
+
+ex:useful_details rdfs:label "useful details" .
+
+ex:useful_platform rdfs:label "useful platform" .
+
+ex:value_exchange rdfs:label "value exchange" .
+
+ex:value_targets rdfs:label "value targets" .
+
+ex:varied_uses rdfs:label "varied uses" .
+
+ex:virtual_community rdfs:label "virtual community" .
+
+ex:BBC_News rdfs:label "BBC News" .
+
+ex:Bot_users a owl:Thing ;
+    rdfs:label "Bot users" ;
+    ex:author ex:opinion_messages ;
+    ex:have ex:betweenness_higher_centrality .
+
+ex:Botnet a owl:Thing ;
+    rdfs:label "Botnet" ;
+    ex:follow ex:P2P_architecture ;
+    ex:serve ex:personal_agenda ;
+    ex:utilise ex:System .
+
+ex:Brendan_Nyhan rdfs:label "Brendan Nyhan" .
+
+ex:British_intelligence a owl:Thing ;
+    rdfs:label "British intelligence" .
+
+ex:Center a owl:Thing ;
+    rdfs:label "Center" ;
+    ex:define ex:persuasive_capacity ;
+    ex:have ex:wide_range ;
+    ex:present ex:photographic_evidence ;
+    ex:use ex:machine_learning .
+
+ex:Covid_masks rdfs:label "Covid masks" .
+
+ex:DDoS_repeated_attacks rdfs:label "DDoS repeated attacks" .
+
+ex:European_approach a owl:Thing ;
+    rdfs:label "European approach" .
+
+ex:Framework rdfs:label "Framework" .
+
+ex:Georgoulias rdfs:label "Georgoulias" .
+
+ex:Influence_Active_Campaign rdfs:label "Influence Active Campaign" .
+
+ex:LAW a owl:Class ;
+    rdfs:label "LAW" .
+
+ex:ML_models rdfs:label "ML models" ;
+    ex:leave ex:suspicious_distortions .
+
+ex:Real rdfs:label "Real" .
+
+ex:Russia a ex:GPE ;
+    rdfs:label "Russia" ;
+    ex:deploy ex:chemical_weapons ;
+    ex:escalate ex:military_involvement ;
+    ex:have ex:Internet_users ;
+    ex:invade ex:Ukraine ;
+    ex:plan ex:military_massive_offensive ;
+    rdfs:comment "country in Eastern Europe and Northern Asia" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q159> .
+
+ex:Science rdfs:label "Science" .
+
+ex:Section a owl:Thing ;
+    rdfs:label "Section" .
+
+ex:States_assessment rdfs:label "States assessment" .
+
+ex:Technology a owl:Thing ;
+    rdfs:label "Technology" ;
+    ex:reshape ex:Power .
+
+ex:analytical_tools rdfs:label "analytical tools" .
+
+ex:attacks a owl:Thing ;
+    rdfs:label "attacks" ;
+    ex:become ex:prominent_threat ;
+    ex:understand ex:defensive_measures .
+
+ex:business_Botnet_models rdfs:label "business Botnet models" .
+
+ex:centrality_higher_Fig rdfs:label "centrality higher Fig" .
+
+ex:common_targets rdfs:label "common targets" .
+
+ex:critical_insight rdfs:label "critical insight" .
+
+ex:different_strategies rdfs:label "different strategies" .
+
+ex:digital_technologies a owl:Thing ;
+    rdfs:label "digital technologies" ;
+    ex:enable ex:private_discourses ;
+    ex:include ex:digital_advanced_devices ;
+    ex:induce ex:global_profound_transformations ;
+    ex:influence ex:political_processes .
+
+ex:disinformation_campaigns a owl:Thing ;
+    rdfs:label "disinformation campaigns" ;
+    ex:adopt ex:ML_models ;
+    ex:avoid ex:detectable_deepfakes ;
+    ex:confront ex:hostile_environment ;
+    ex:customize ex:deepfakes ;
+    ex:leverage ex:technol__modern_ogy ;
+    ex:spread ex:false_information ;
+    ex:use ex:Technology,
+        ex:deepfakes,
+        ex:media_synthetic_techniques .
+
+ex:generative_models a owl:Thing ;
+    rdfs:label "generative models" .
+
+ex:hostile_environment rdfs:label "hostile environment" .
+
+ex:human_users a owl:Thing ;
+    rdfs:label "human users" ;
+    ex:have ex:centrality_higher_Fig,
+        ex:varied_uses .
+
+ex:internet a owl:Thing ;
+    rdfs:label "internet" ;
+    ex:debunk ex:War_Propaganda ;
+    ex:remain ex:global_phenomenon .
+
+ex:machine_learning rdfs:label "machine learning" .
+
+ex:malicious_actors rdfs:label "malicious actors" ;
+    ex:use ex:ML_models,
+        ex:Technology .
+
+ex:new_ways rdfs:label "new ways" .
+
+ex:prominent_threat rdfs:label "prominent threat" .
+
+ex:reproducibility_crisis rdfs:label "reproducibility crisis" .
+
+ex:unanticipated_unplanned1 rdfs:label "unanticipated unplanned1" .
+
+ex:version_Link rdfs:label "version Link" .
+
+ex:wide_range rdfs:label "wide range" .
+
+ex:Journal rdfs:label "Journal" ;
+    ex:become ex:messaging_popular_platform ;
+    ex:create ex:fertile_environment .
+
+ex:PRODUCT a owl:Class ;
+    rdfs:label "PRODUCT" .
+
+ex:Telegram a ex:ORG ;
+    rdfs:label "Telegram" ;
+    ex:assign ex:different_addresses,
+        ex:random_addresses ;
+    ex:become ex:useful_platform ;
+    ex:give ex:close_scrutiny ;
+    ex:have ex:active_monthly_users ;
+    ex:lack ex:political_similar_ambitions ;
+    ex:provide ex:rich_source ;
+    ex:use ex:push_called_updates ;
+    rdfs:comment "non-profit organization; Telegram messaging service operator" ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q32049814> .
+
+ex:autocrats rdfs:label "autocrats" ;
+    ex:apply ex:similar_strategies ;
+    ex:censor ex:online_content ;
+    ex:employ ex:digital_technologies ;
+    ex:instrumentalize ex:digital_technologies ;
+    ex:marginalize ex:undesired_narratives ;
+    ex:set ex:positive_incentives .
+
+ex:et_al rdfs:label "et al" .
+
+ex:highest_frequency rdfs:label "highest frequency" .
+
+ex:personal_data a owl:Thing ;
+    rdfs:label "personal data" .
+
+ex:political_opposition rdfs:label "political opposition" .
+
+ex:social_media a owl:Thing ;
+    rdfs:label "social media" ;
+    ex:facilitate ex:Political_Protest,
+        ex:Psychology_39_S1 ;
+    ex:have ex:different_meanings,
+        ex:evolving_relationship ;
+    ex:represent ex:information_networks ;
+    ex:shape ex:protest_movement .
+
+ex:websites a owl:Thing ;
+    rdfs:label "websites" ;
+    ex:experience ex:highest_second_rate .
+
+ex:sectors a owl:Thing ;
+    rdfs:label "sectors" ;
+    ex:face ex:DDoS_repeated_attacks .
+
+ex:EVENT a owl:Class ;
+    rdfs:label "EVENT" .
+
+ex:WORK_OF_ART a owl:Class ;
+    rdfs:label "WORK_OF_ART" .
+
+ex:DDoS_attacks a owl:Thing ;
+    rdfs:label "DDoS attacks" .
+
+ex:deepfakes rdfs:label "deepfakes" ;
+    ex:exclude ex:wide_range ;
+    ex:influence ex:public_discourse ;
+    ex:reproduce ex:subtle_details .
+
+ex:intelligence rdfs:label "intelligence" .
+
+ex:NORP a owl:Class ;
+    rdfs:label "NORP" .
+
+ex:GPE a owl:Class ;
+    rdfs:label "GPE" .
+
+ex:PERSON a owl:Class ;
+    rdfs:label "PERSON" .
+
+ex:ORG a owl:Class ;
+    rdfs:label "ORG" .
+

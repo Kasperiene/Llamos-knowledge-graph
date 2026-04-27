@@ -1,0 +1,4684 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="http://llamos-kg.org/young_people">
+  <data key="d0">young people</data>
+</node>
+<node id="http://llamos-kg.org/Iran">
+  <data key="d0">Iran</data>
+</node>
+<node id="http://llamos-kg.org/Contribution">
+  <data key="d0">Contribution</data>
+</node>
+<node id="http://llamos-kg.org/Public_Sphere">
+  <data key="d0">Public Sphere</data>
+</node>
+<node id="http://llamos-kg.org/Aouragh">
+  <data key="d0">Aouragh</data>
+</node>
+<node id="http://llamos-kg.org/different_kinds">
+  <data key="d0">different kinds</data>
+</node>
+<node id="http://llamos-kg.org/Roskomnadzor">
+  <data key="d0">Roskomnadzor</data>
+</node>
+<node id="http://llamos-kg.org/notifica__push_tions">
+  <data key="d0">notifica­ push tions</data>
+</node>
+<node id="http://llamos-kg.org/incen__tives">
+  <data key="d0">incen­ tives</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_campaigns">
+  <data key="d0">disinformation campaigns</data>
+</node>
+<node id="http://llamos-kg.org/Dover">
+  <data key="d0">Dover</data>
+</node>
+<node id="http://llamos-kg.org/symbiotic_relationship">
+  <data key="d0">symbiotic relationship</data>
+</node>
+<node id="http://llamos-kg.org/News">
+  <data key="d0">News</data>
+</node>
+<node id="http://llamos-kg.org/highest_frequency">
+  <data key="d0">highest frequency</data>
+</node>
+<node id="http://llamos-kg.org/popular_dataset">
+  <data key="d0">popular dataset</data>
+</node>
+<node id="http://llamos-kg.org/synthetic_realistic_imagery">
+  <data key="d0">synthetic realistic imagery</data>
+</node>
+<node id="http://llamos-kg.org/Aaron_van">
+  <data key="d0">Aaron van</data>
+</node>
+<node id="http://llamos-kg.org/Oord">
+  <data key="d0">Oord</data>
+</node>
+<node id="http://llamos-kg.org/data">
+  <data key="d0">data</data>
+</node>
+<node id="http://llamos-kg.org/basic_contain_information">
+  <data key="d0">basic contain information</data>
+</node>
+<node id="http://llamos-kg.org/media_companies">
+  <data key="d0">media companies</data>
+</node>
+<node id="http://llamos-kg.org/influence_campaign">
+  <data key="d0">influence campaign</data>
+</node>
+<node id="http://llamos-kg.org/Bo_Katie_Lillis">
+  <data key="d0">Bo Katie Lillis</data>
+</node>
+<node id="http://llamos-kg.org/British_intelligence">
+  <data key="d0">British intelligence</data>
+</node>
+<node id="http://llamos-kg.org/Telegram">
+  <data key="d0">Telegram</data>
+</node>
+<node id="http://llamos-kg.org/random_addresses">
+  <data key="d0">random addresses</data>
+</node>
+<node id="http://llamos-kg.org/younger_members">
+  <data key="d0">younger members</data>
+</node>
+<node id="http://llamos-kg.org/political_views">
+  <data key="d0">political views</data>
+</node>
+<node id="http://llamos-kg.org/WaveNet">
+  <data key="d0">WaveNet</data>
+</node>
+<node id="http://llamos-kg.org/synthetic_voices">
+  <data key="d0">synthetic voices</data>
+</node>
+<node id="http://llamos-kg.org/lithuania">
+  <data key="d0">lithuania</data>
+</node>
+<node id="http://llamos-kg.org/goods_transit">
+  <data key="d0">goods transit</data>
+</node>
+<node id="http://llamos-kg.org/Telegram_chats">
+  <data key="d0">Telegram chats</data>
+</node>
+<node id="http://llamos-kg.org/major_tool">
+  <data key="d0">major tool</data>
+</node>
+<node id="http://llamos-kg.org/useful_surveys">
+  <data key="d0">useful surveys</data>
+</node>
+<node id="http://llamos-kg.org/Devender_Raahat_Singh">
+  <data key="d0">Devender Raahat Singh</data>
+</node>
+<node id="http://llamos-kg.org/Usmanov">
+  <data key="d0">Usmanov</data>
+</node>
+<node id="http://llamos-kg.org/Dmitry_Medvedev">
+  <data key="d0">Dmitry Medvedev</data>
+</node>
+<node id="http://llamos-kg.org/CyberPalyanitsa">
+  <data key="d0">CyberPalyanitsa</data>
+</node>
+<node id="http://llamos-kg.org/websites">
+  <data key="d0">websites</data>
+</node>
+<node id="http://llamos-kg.org/Iraqi_WMD">
+  <data key="d0">Iraqi WMD</data>
+</node>
+<node id="http://llamos-kg.org/reputational_risks">
+  <data key="d0">reputational risks</data>
+</node>
+<node id="http://llamos-kg.org/Putin">
+  <data key="d0">Putin</data>
+</node>
+<node id="http://llamos-kg.org/partial_mobilisation">
+  <data key="d0">partial mobilisation</data>
+</node>
+<node id="http://llamos-kg.org/target_host">
+  <data key="d0">target host</data>
+</node>
+<node id="http://llamos-kg.org/Botnet">
+  <data key="d0">Botnet</data>
+</node>
+<node id="http://llamos-kg.org/digital_innovations">
+  <data key="d0">digital innovations</data>
+</node>
+<node id="http://llamos-kg.org/digital_devices">
+  <data key="d0">digital devices</data>
+</node>
+<node id="http://llamos-kg.org/Online_Activism">
+  <data key="d0">Online Activism</data>
+</node>
+<node id="http://llamos-kg.org/based_alternative_power">
+  <data key="d0">based alternative power</data>
+</node>
+<node id="http://llamos-kg.org/research_cent_papers">
+  <data key="d0">research cent papers</data>
+</node>
+<node id="http://llamos-kg.org/useful_details">
+  <data key="d0">useful details</data>
+</node>
+<node id="http://llamos-kg.org/Researchers">
+  <data key="d0">Researchers</data>
+</node>
+<node id="http://llamos-kg.org/strong_success">
+  <data key="d0">strong success</data>
+</node>
+<node id="http://llamos-kg.org/Manuscript">
+  <data key="d0">Manuscript</data>
+</node>
+<node id="http://llamos-kg.org/business_Botnet_models">
+  <data key="d0">business Botnet models</data>
+</node>
+<node id="http://llamos-kg.org/media_social_platforms">
+  <data key="d0">media social platforms</data>
+</node>
+<node id="http://llamos-kg.org/learning_process">
+  <data key="d0">learning process</data>
+</node>
+<node id="http://llamos-kg.org/Runet">
+  <data key="d0">Runet</data>
+</node>
+<node id="http://llamos-kg.org/rich_diversity">
+  <data key="d0">rich diversity</data>
+</node>
+<node id="http://llamos-kg.org/Ukraine">
+  <data key="d0">Ukraine</data>
+</node>
+<node id="http://llamos-kg.org/UK_claim">
+  <data key="d0">UK claim</data>
+</node>
+<node id="http://llamos-kg.org/Nicolas_Fandos">
+  <data key="d0">Nicolas Fandos</data>
+</node>
+<node id="http://llamos-kg.org/Influence_Active_Campaign">
+  <data key="d0">Influence Active Campaign</data>
+</node>
+<node id="http://llamos-kg.org/Conclusions">
+  <data key="d0">Conclusions</data>
+</node>
+<node id="http://llamos-kg.org/possible_strategies">
+  <data key="d0">possible strategies</data>
+</node>
+<node id="http://llamos-kg.org/Malicious_actors">
+  <data key="d0">Malicious actors</data>
+</node>
+<node id="http://llamos-kg.org/influence_operations">
+  <data key="d0">influence operations</data>
+</node>
+<node id="http://llamos-kg.org/civil_societies">
+  <data key="d0">civil societies</data>
+</node>
+<node id="http://llamos-kg.org/fascinating_continuity">
+  <data key="d0">fascinating continuity</data>
+</node>
+<node id="http://llamos-kg.org/Government">
+  <data key="d0">Government</data>
+</node>
+<node id="http://llamos-kg.org/VPNs">
+  <data key="d0">VPNs</data>
+</node>
+<node id="http://llamos-kg.org/online_sphere">
+  <data key="d0">online sphere</data>
+</node>
+<node id="http://llamos-kg.org/major_domain">
+  <data key="d0">major domain</data>
+</node>
+<node id="http://llamos-kg.org/AVCs">
+  <data key="d0">AVCs</data>
+</node>
+<node id="http://llamos-kg.org/Cybercriminal_Different_Platforms">
+  <data key="d0">Cybercriminal Different Platforms</data>
+</node>
+<node id="http://llamos-kg.org/El_Paquete">
+  <data key="d0">El Paquete</data>
+</node>
+<node id="http://llamos-kg.org/informational_alternative">
+  <data key="d0">informational alternative</data>
+</node>
+<node id="http://llamos-kg.org/Entertainment">
+  <data key="d0">Entertainment</data>
+</node>
+<node id="http://llamos-kg.org/domains">
+  <data key="d0">domains</data>
+</node>
+<node id="http://llamos-kg.org/Cloud_are">
+  <data key="d0">Cloudﬂare</data>
+</node>
+<node id="http://llamos-kg.org/_gure_1b">
+  <data key="d0">ﬁgure 1b</data>
+</node>
+<node id="http://llamos-kg.org/detailed_visualization">
+  <data key="d0">detailed visualization</data>
+</node>
+<node id="http://llamos-kg.org/Akbari">
+  <data key="d0">Akbari</data>
+</node>
+<node id="http://llamos-kg.org/sociopolitical_context">
+  <data key="d0">sociopolitical context</data>
+</node>
+<node id="http://llamos-kg.org/technological_innovation">
+  <data key="d0">technological innovation</data>
+</node>
+<node id="http://llamos-kg.org/synergy_effects">
+  <data key="d0">synergy effects</data>
+</node>
+<node id="http://llamos-kg.org/social_media">
+  <data key="d0">social media</data>
+</node>
+<node id="http://llamos-kg.org/people">
+  <data key="d0">people</data>
+</node>
+<node id="http://llamos-kg.org/Imam_Khomeini">
+  <data key="d0">Imam Khomeini</data>
+</node>
+<node id="http://llamos-kg.org/Figure">
+  <data key="d0">Figure</data>
+</node>
+<node id="http://llamos-kg.org/collection_pipeline">
+  <data key="d0">collection pipeline</data>
+</node>
+<node id="http://llamos-kg.org/Supreme_Leader">
+  <data key="d0">Supreme Leader</data>
+</node>
+<node id="http://llamos-kg.org/Telegram_channel">
+  <data key="d0">Telegram channel</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_Sophisticated_campaigns">
+  <data key="d0">disinformation Sophisticated campaigns</data>
+</node>
+<node id="http://llamos-kg.org/deepfakes">
+  <data key="d0">deepfakes</data>
+</node>
+<node id="http://llamos-kg.org/Digital_tools">
+  <data key="d0">Digital tools</data>
+</node>
+<node id="http://llamos-kg.org/autocrats">
+  <data key="d0">autocrats</data>
+</node>
+<node id="http://llamos-kg.org/mere_identification">
+  <data key="d0">mere identification</data>
+</node>
+<node id="http://llamos-kg.org/public_views">
+  <data key="d0">public views</data>
+</node>
+<node id="http://llamos-kg.org/Fig_7">
+  <data key="d0">Fig.7</data>
+</node>
+<node id="http://llamos-kg.org/cumulative_count">
+  <data key="d0">cumulative count</data>
+</node>
+<node id="http://llamos-kg.org/Iranians">
+  <data key="d0">Iranians</data>
+</node>
+<node id="http://llamos-kg.org/satellite_antenna">
+  <data key="d0">satellite antenna</data>
+</node>
+<node id="http://llamos-kg.org/public_discourse">
+  <data key="d0">public discourse</data>
+</node>
+<node id="http://llamos-kg.org/supreme_court">
+  <data key="d0">supreme court</data>
+</node>
+<node id="http://llamos-kg.org/nationwide_referendum">
+  <data key="d0">nationwide referendum</data>
+</node>
+<node id="http://llamos-kg.org/popular_websites">
+  <data key="d0">popular websites</data>
+</node>
+<node id="http://llamos-kg.org/online_library">
+  <data key="d0">online library</data>
+</node>
+<node id="http://llamos-kg.org/state">
+  <data key="d0">state</data>
+</node>
+<node id="http://llamos-kg.org/mobilizing_main_agent">
+  <data key="d0">mobilizing main agent</data>
+</node>
+<node id="http://llamos-kg.org/Dozen_users">
+  <data key="d0">Dozen users</data>
+</node>
+<node id="http://llamos-kg.org/Journal">
+  <data key="d0">Journal</data>
+</node>
+<node id="http://llamos-kg.org/protest_sample">
+  <data key="d0">protest sample</data>
+</node>
+<node id="http://llamos-kg.org/higher_proportion">
+  <data key="d0">higher proportion</data>
+</node>
+<node id="http://llamos-kg.org/Russian_websites">
+  <data key="d0">Russian websites</data>
+</node>
+<node id="http://llamos-kg.org/DDoS_sustained_attacks">
+  <data key="d0">DDoS sustained attacks</data>
+</node>
+<node id="http://llamos-kg.org/Haydamaki">
+  <data key="d0">Haydamaki</data>
+</node>
+<node id="http://llamos-kg.org/targeting_isolated_pattern">
+  <data key="d0">targeting isolated pattern</data>
+</node>
+<node id="http://llamos-kg.org/political_protest">
+  <data key="d0">political protest</data>
+</node>
+<node id="http://llamos-kg.org/media_uptake">
+  <data key="d0">media uptake</data>
+</node>
+<node id="http://llamos-kg.org/undesired_narratives">
+  <data key="d0">undesired narratives</data>
+</node>
+<node id="http://llamos-kg.org/Globalization">
+  <data key="d0">Globalization</data>
+</node>
+<node id="http://llamos-kg.org/Lives">
+  <data key="d0">Lives</data>
+</node>
+<node id="http://llamos-kg.org/Women">
+  <data key="d0">Women</data>
+</node>
+<node id="http://llamos-kg.org/Stereotypes">
+  <data key="d0">Stereotypes</data>
+</node>
+<node id="http://llamos-kg.org/dif__ferences">
+  <data key="d0">dif­ ferences</data>
+</node>
+<node id="http://llamos-kg.org/rigorous_comparisons">
+  <data key="d0">rigorous comparisons</data>
+</node>
+<node id="http://llamos-kg.org/GANs">
+  <data key="d0">GANs</data>
+</node>
+<node id="http://llamos-kg.org/synthetic_images">
+  <data key="d0">synthetic images</data>
+</node>
+<node id="http://llamos-kg.org/VKontakte">
+  <data key="d0">VKontakte</data>
+</node>
+<node id="http://llamos-kg.org/networks_market">
+  <data key="d0">networks market</data>
+</node>
+<node id="http://llamos-kg.org/mobile_network">
+  <data key="d0">mobile network</data>
+</node>
+<node id="http://llamos-kg.org/COVID_19">
+  <data key="d0">COVID-19</data>
+</node>
+<node id="http://llamos-kg.org/Sectoral_dissection">
+  <data key="d0">Sectoral dissection</data>
+</node>
+<node id="http://llamos-kg.org/sectors">
+  <data key="d0">sectors</data>
+</node>
+<node id="http://llamos-kg.org/FSB">
+  <data key="d0">FSB</data>
+</node>
+<node id="http://llamos-kg.org/political_parties">
+  <data key="d0">political parties</data>
+</node>
+<node id="http://llamos-kg.org/personal_data">
+  <data key="d0">personal data</data>
+</node>
+<node id="http://llamos-kg.org/media_synthetic_techniques">
+  <data key="d0">media synthetic techniques</data>
+</node>
+<node id="http://llamos-kg.org/Disinformation_Dozen">
+  <data key="d0">Disinformation Dozen</data>
+</node>
+<node id="http://llamos-kg.org/fewest_messages">
+  <data key="d0">fewest messages</data>
+</node>
+<node id="http://llamos-kg.org/Figures">
+  <data key="d0">Figures</data>
+</node>
+<node id="http://llamos-kg.org/Technology">
+  <data key="d0">Technology</data>
+</node>
+<node id="http://llamos-kg.org/forwarding_users">
+  <data key="d0">forwarding users</data>
+</node>
+<node id="http://llamos-kg.org/Bot_users">
+  <data key="d0">Bot users</data>
+</node>
+<node id="http://llamos-kg.org/Domain">
+  <data key="d0">Domain</data>
+</node>
+<node id="http://llamos-kg.org/Server_shutdown">
+  <data key="d0">Server shutdown</data>
+</node>
+<node id="http://llamos-kg.org/Internet_Filtering">
+  <data key="d0">Internet Filtering</data>
+</node>
+<node id="http://llamos-kg.org/virtual_community">
+  <data key="d0">virtual community</data>
+</node>
+<node id="http://llamos-kg.org/Brian_Murphy">
+  <data key="d0">Brian Murphy</data>
+</node>
+<node id="http://llamos-kg.org/Center">
+  <data key="d0">Center</data>
+</node>
+<node id="http://llamos-kg.org/formal_complaint">
+  <data key="d0">formal complaint</data>
+</node>
+<node id="http://llamos-kg.org/Revolutionary_Guards">
+  <data key="d0">Revolutionary Guards</data>
+</node>
+<node id="http://llamos-kg.org/VPN_servers">
+  <data key="d0">VPN servers</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_campaign">
+  <data key="d0">disinformation campaign</data>
+</node>
+<node id="http://llamos-kg.org/digital_tools">
+  <data key="d0">digital tools</data>
+</node>
+<node id="http://llamos-kg.org/perpetual_agenda">
+  <data key="d0">perpetual agenda</data>
+</node>
+<node id="http://llamos-kg.org/Russian_authorities">
+  <data key="d0">Russian authorities</data>
+</node>
+<node id="http://llamos-kg.org/failed_attempt">
+  <data key="d0">failed attempt</data>
+</node>
+<node id="http://llamos-kg.org/data_subject">
+  <data key="d0">data subject</data>
+</node>
+<node id="http://llamos-kg.org/informed_specific_explicit_consent">
+  <data key="d0">informed specific explicit consent</data>
+</node>
+<node id="http://llamos-kg.org/Gunitsky_S">
+  <data key="d0">Gunitsky S</data>
+</node>
+<node id="http://llamos-kg.org/Perspectives">
+  <data key="d0">Perspectives</data>
+</node>
+<node id="http://llamos-kg.org/Digitalization">
+  <data key="d0">Digitalization</data>
+</node>
+<node id="http://llamos-kg.org/horizontal_connective_new_modes">
+  <data key="d0">horizontal connective new modes</data>
+</node>
+<node id="http://llamos-kg.org/political_significant_developments">
+  <data key="d0">political significant developments</data>
+</node>
+<node id="http://llamos-kg.org/military_coup">
+  <data key="d0">military coup</data>
+</node>
+<node id="http://llamos-kg.org/Political_Protest">
+  <data key="d0">Political Protest</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_unsophisticated_campaigns">
+  <data key="d0">disinformation unsophisticated campaigns</data>
+</node>
+<node id="http://llamos-kg.org/users">
+  <data key="d0">users</data>
+</node>
+<node id="http://llamos-kg.org/content_Messages">
+  <data key="d0">content Messages</data>
+</node>
+<node id="http://llamos-kg.org/Google">
+  <data key="d0">Google</data>
+</node>
+<node id="http://llamos-kg.org/ing_includ__companies">
+  <data key="d0">ing includ­ companies</data>
+</node>
+<node id="http://llamos-kg.org/insuf_cient_security">
+  <data key="d0">insufﬁcient security</data>
+</node>
+<node id="http://llamos-kg.org/attacks">
+  <data key="d0">attacks</data>
+</node>
+<node id="http://llamos-kg.org/technology_block">
+  <data key="d0">technology block</data>
+</node>
+<node id="http://llamos-kg.org/botnet_applications">
+  <data key="d0">botnet applications</data>
+</node>
+<node id="http://llamos-kg.org/Recommendation">
+  <data key="d0">Recommendation</data>
+</node>
+<node id="http://llamos-kg.org/member_states">
+  <data key="d0">member states</data>
+</node>
+<node id="http://llamos-kg.org/Ukrainian___Pro_groups">
+  <data key="d0">Ukrainian - Pro groups</data>
+</node>
+<node id="http://llamos-kg.org/DDoS_attacks">
+  <data key="d0">DDoS attacks</data>
+</node>
+<node id="http://llamos-kg.org/Chinese_Government">
+  <data key="d0">Chinese Government</data>
+</node>
+<node id="http://llamos-kg.org/Media_Posts">
+  <data key="d0">Media Posts</data>
+</node>
+<node id="http://llamos-kg.org/trained___pre_model">
+  <data key="d0">trained - pre model</data>
+</node>
+<node id="http://llamos-kg.org/Dies">
+  <data key="d0">Dies</data>
+</node>
+<node id="http://llamos-kg.org/Covid_masks">
+  <data key="d0">Covid masks</data>
+</node>
+<node id="http://llamos-kg.org/malicious_actor">
+  <data key="d0">malicious actor</data>
+</node>
+<node id="http://llamos-kg.org/generative_models">
+  <data key="d0">generative models</data>
+</node>
+<node id="http://llamos-kg.org/Traditional_concepts">
+  <data key="d0">Traditional concepts</data>
+</node>
+<node id="http://llamos-kg.org/limited_capacity">
+  <data key="d0">limited capacity</data>
+</node>
+<node id="http://llamos-kg.org/Past_work">
+  <data key="d0">Past work</data>
+</node>
+<node id="http://llamos-kg.org/Framework">
+  <data key="d0">Framework</data>
+</node>
+<node id="http://llamos-kg.org/Network_analysis">
+  <data key="d0">Network analysis</data>
+</node>
+<node id="http://llamos-kg.org/eye_view">
+  <data key="d0">eye view</data>
+</node>
+<node id="http://llamos-kg.org/sanitised_version">
+  <data key="d0">sanitised version</data>
+</node>
+<node id="http://llamos-kg.org/popular_forums">
+  <data key="d0">popular forums</data>
+</node>
+<node id="http://llamos-kg.org/Dread">
+  <data key="d0">Dread</data>
+</node>
+<node id="http://llamos-kg.org/personal_agenda">
+  <data key="d0">personal agenda</data>
+</node>
+<node id="http://llamos-kg.org/Ukrainian">
+  <data key="d0">Ukrainian</data>
+</node>
+<node id="http://llamos-kg.org/broad_concerns">
+  <data key="d0">broad concerns</data>
+</node>
+<node id="http://llamos-kg.org/government_discourse">
+  <data key="d0">government discourse</data>
+</node>
+<node id="http://llamos-kg.org/existing_overlaps">
+  <data key="d0">existing overlaps</data>
+</node>
+<node id="http://llamos-kg.org/value_targets">
+  <data key="d0">value targets</data>
+</node>
+<node id="http://llamos-kg.org/ML_models">
+  <data key="d0">ML models</data>
+</node>
+<node id="http://llamos-kg.org/translate_Manuscript">
+  <data key="d0">translate Manuscript</data>
+</node>
+<node id="http://llamos-kg.org/Proceedings">
+  <data key="d0">Proceedings</data>
+</node>
+<node id="http://llamos-kg.org/cooperative_work">
+  <data key="d0">cooperative work</data>
+</node>
+<node id="http://llamos-kg.org/web_dark_users">
+  <data key="d0">web dark users</data>
+</node>
+<node id="http://llamos-kg.org/postal_services">
+  <data key="d0">postal services</data>
+</node>
+<node id="http://llamos-kg.org/Ned_spokesperson_Price">
+  <data key="d0">Ned spokesperson Price</data>
+</node>
+<node id="http://llamos-kg.org/tough_questions">
+  <data key="d0">tough questions</data>
+</node>
+<node id="http://llamos-kg.org/building_block">
+  <data key="d0">building block</data>
+</node>
+<node id="http://llamos-kg.org/maintenance_hardware_costs">
+  <data key="d0">maintenance hardware costs</data>
+</node>
+<node id="http://llamos-kg.org/Cent">
+  <data key="d0">Cent</data>
+</node>
+<node id="http://llamos-kg.org/Click_trajectories">
+  <data key="d0">Click trajectories</data>
+</node>
+<node id="http://llamos-kg.org/alternative_system">
+  <data key="d0">alternative system</data>
+</node>
+<node id="http://llamos-kg.org/comparable_performance">
+  <data key="d0">comparable performance</data>
+</node>
+<node id="http://llamos-kg.org/China">
+  <data key="d0">China</data>
+</node>
+<node id="http://llamos-kg.org/Russia">
+  <data key="d0">Russia</data>
+</node>
+<node id="http://llamos-kg.org/digital_platforms">
+  <data key="d0">digital platforms</data>
+</node>
+<node id="http://llamos-kg.org/Russian_users">
+  <data key="d0">Russian users</data>
+</node>
+<node id="http://llamos-kg.org/frequent_targeting">
+  <data key="d0">frequent targeting</data>
+</node>
+<node id="http://llamos-kg.org/deliberate_effort">
+  <data key="d0">deliberate effort</data>
+</node>
+<node id="http://llamos-kg.org/International_Journal">
+  <data key="d0">International Journal</data>
+</node>
+<node id="http://llamos-kg.org/target_preferences">
+  <data key="d0">target preferences</data>
+</node>
+<node id="http://llamos-kg.org/ordinary_citizens">
+  <data key="d0">ordinary citizens</data>
+</node>
+<node id="http://llamos-kg.org/basic_rights">
+  <data key="d0">basic rights</data>
+</node>
+<node id="http://llamos-kg.org/models">
+  <data key="d0">models</data>
+</node>
+<node id="http://llamos-kg.org/Russian___pro_groups">
+  <data key="d0">Russian - pro groups</data>
+</node>
+<node id="http://llamos-kg.org/hostile_environment">
+  <data key="d0">hostile environment</data>
+</node>
+<node id="http://llamos-kg.org/Review">
+  <data key="d0">Review</data>
+</node>
+<node id="http://llamos-kg.org/Brendan_Nyhan">
+  <data key="d0">Brendan Nyhan</data>
+</node>
+<node id="http://llamos-kg.org/OpenNet_Initative">
+  <data key="d0">OpenNet Initative</data>
+</node>
+<node id="http://llamos-kg.org/Peluso">
+  <data key="d0">Peluso</data>
+</node>
+<node id="http://llamos-kg.org/Chinese_regime">
+  <data key="d0">Chinese regime</data>
+</node>
+<node id="http://llamos-kg.org/media_comments">
+  <data key="d0">media comments</data>
+</node>
+<node id="http://llamos-kg.org/technological_new_possibilities">
+  <data key="d0">technological new possibilities</data>
+</node>
+<node id="http://llamos-kg.org/autocratic_politics">
+  <data key="d0">autocratic politics</data>
+</node>
+<node id="http://llamos-kg.org/evident_progress">
+  <data key="d0">evident progress</data>
+</node>
+<node id="http://llamos-kg.org/deepfake_aggressive_Widespread_detection">
+  <data key="d0">deepfake aggressive Widespread detection</data>
+</node>
+<node id="http://llamos-kg.org/messaging_private_networks">
+  <data key="d0">messaging private networks</data>
+</node>
+<node id="http://llamos-kg.org/demographic_variables">
+  <data key="d0">demographic variables</data>
+</node>
+<node id="http://llamos-kg.org/political_dispositions">
+  <data key="d0">political dispositions</data>
+</node>
+<node id="http://llamos-kg.org/paired_models">
+  <data key="d0">paired models</data>
+</node>
+<node id="http://llamos-kg.org/blocked_Telegram">
+  <data key="d0">blocked Telegram</data>
+</node>
+<node id="http://llamos-kg.org/P2P_architecture">
+  <data key="d0">P2P architecture</data>
+</node>
+<node id="http://llamos-kg.org/Anon_by">
+  <data key="d0">Anon_by</data>
+</node>
+<node id="http://llamos-kg.org/overlapping_highest_value">
+  <data key="d0">overlapping highest value</data>
+</node>
+<node id="http://llamos-kg.org/similar_strategies">
+  <data key="d0">similar strategies</data>
+</node>
+<node id="http://llamos-kg.org/machine_learning">
+  <data key="d0">machine learning</data>
+</node>
+<node id="http://llamos-kg.org/International_team">
+  <data key="d0">International team</data>
+</node>
+<node id="http://llamos-kg.org/Andromeda_spewing_botnet">
+  <data key="d0">Andromeda spewing botnet</data>
+</node>
+<node id="http://llamos-kg.org/GAN">
+  <data key="d0">GAN</data>
+</node>
+<node id="http://llamos-kg.org/generative_network">
+  <data key="d0">generative network</data>
+</node>
+<node id="http://llamos-kg.org/Ukrainian___pro_groups">
+  <data key="d0">Ukrainian - pro groups</data>
+</node>
+<node id="http://llamos-kg.org/Cyber_Army">
+  <data key="d0">Cyber Army</data>
+</node>
+<node id="http://llamos-kg.org/malicious_actors">
+  <data key="d0">malicious actors</data>
+</node>
+<node id="http://llamos-kg.org/cleavage_coalition">
+  <data key="d0">cleavage coalition</data>
+</node>
+<node id="http://llamos-kg.org/streets">
+  <data key="d0">streets</data>
+</node>
+<node id="http://llamos-kg.org/Botnets">
+  <data key="d0">Botnets</data>
+</node>
+<node id="http://llamos-kg.org/credential_fraud">
+  <data key="d0">credential fraud</data>
+</node>
+<node id="http://llamos-kg.org/subtle_details">
+  <data key="d0">subtle details</data>
+</node>
+<node id="http://llamos-kg.org/Microsoft">
+  <data key="d0">Microsoft</data>
+</node>
+<node id="http://llamos-kg.org/coordinated_takedown">
+  <data key="d0">coordinated takedown</data>
+</node>
+<node id="http://llamos-kg.org/Media">
+  <data key="d0">Media</data>
+</node>
+<node id="http://llamos-kg.org/political_advertising">
+  <data key="d0">political advertising</data>
+</node>
+<node id="http://llamos-kg.org/Instagram_group">
+  <data key="d0">Instagram group</data>
+</node>
+<node id="http://llamos-kg.org/Telegram_account">
+  <data key="d0">Telegram account</data>
+</node>
+<node id="http://llamos-kg.org/mass_domestic_contention">
+  <data key="d0">mass domestic contention</data>
+</node>
+<node id="http://llamos-kg.org/frequent_transformation">
+  <data key="d0">frequent transformation</data>
+</node>
+<node id="http://llamos-kg.org/encryption_codes">
+  <data key="d0">encryption codes</data>
+</node>
+<node id="http://llamos-kg.org/Operation_Ladybird">
+  <data key="d0">Operation Ladybird</data>
+</node>
+<node id="http://llamos-kg.org/enforcement_authorities">
+  <data key="d0">enforcement authorities</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_resourced_efforts">
+  <data key="d0">disinformation resourced efforts</data>
+</node>
+<node id="http://llamos-kg.org/BotBuster_algorithm">
+  <data key="d0">BotBuster algorithm</data>
+</node>
+<node id="http://llamos-kg.org/algorithm_concept">
+  <data key="d0">algorithm concept</data>
+</node>
+<node id="http://llamos-kg.org/support_gains">
+  <data key="d0">support gains</data>
+</node>
+<node id="http://llamos-kg.org/intelligence">
+  <data key="d0">intelligence</data>
+</node>
+<node id="http://llamos-kg.org/package_inspection">
+  <data key="d0">package inspection</data>
+</node>
+<node id="http://llamos-kg.org/Mie_Young_Kim">
+  <data key="d0">Mie Young Kim</data>
+</node>
+<node id="http://llamos-kg.org/groups">
+  <data key="d0">groups</data>
+</node>
+<node id="http://llamos-kg.org/Carl_Friedrich">
+  <data key="d0">Carl Friedrich</data>
+</node>
+<node id="http://llamos-kg.org/inter_alia">
+  <data key="d0">inter alia</data>
+</node>
+<node id="http://llamos-kg.org/CDL">
+  <data key="d0">CDL</data>
+</node>
+<node id="http://llamos-kg.org/Guidelines">
+  <data key="d0">Guidelines</data>
+</node>
+<node id="http://llamos-kg.org/uniform_distribution">
+  <data key="d0">uniform distribution</data>
+</node>
+<node id="http://llamos-kg.org/pressure_continuous_strategy">
+  <data key="d0">pressure continuous strategy</data>
+</node>
+<node id="http://llamos-kg.org/Svolik">
+  <data key="d0">Svolik</data>
+</node>
+<node id="http://llamos-kg.org/actor_contentious_constellations">
+  <data key="d0">actor contentious constellations</data>
+</node>
+<node id="http://llamos-kg.org/Telegram_platform">
+  <data key="d0">Telegram platform</data>
+</node>
+<node id="http://llamos-kg.org/data_fields">
+  <data key="d0">data fields</data>
+</node>
+<node id="http://llamos-kg.org/British_government">
+  <data key="d0">British government</data>
+</node>
+<node id="http://llamos-kg.org/intelligence_private_dissemination">
+  <data key="d0">intelligence private dissemination</data>
+</node>
+<node id="http://llamos-kg.org/Commoditization">
+  <data key="d0">Commoditization</data>
+</node>
+<node id="http://llamos-kg.org/Pay">
+  <data key="d0">Pay</data>
+</node>
+<node id="http://llamos-kg.org/increasing_ubiquity">
+  <data key="d0">increasing ubiquity</data>
+</node>
+<node id="http://llamos-kg.org/actual_impact">
+  <data key="d0">actual impact</data>
+</node>
+<node id="http://llamos-kg.org/push_called_updates">
+  <data key="d0">push called updates</data>
+</node>
+<node id="http://llamos-kg.org/T_he_successes">
+  <data key="d0">T]he successes</data>
+</node>
+<node id="http://llamos-kg.org/ernment_crackdown">
+  <data key="d0">ernment crackdown</data>
+</node>
+<node id="http://llamos-kg.org/emerging_literature">
+  <data key="d0">emerging literature</data>
+</node>
+<node id="http://llamos-kg.org/theoretical_embeddedness">
+  <data key="d0">theoretical embeddedness</data>
+</node>
+<node id="http://llamos-kg.org/West">
+  <data key="d0">West</data>
+</node>
+<node id="http://llamos-kg.org/news_fake_factories">
+  <data key="d0">news fake factories</data>
+</node>
+<node id="http://llamos-kg.org/influence_online_operations">
+  <data key="d0">influence online operations</data>
+</node>
+<node id="http://llamos-kg.org/user">
+  <data key="d0">user</data>
+</node>
+<node id="http://llamos-kg.org/human_users">
+  <data key="d0">human users</data>
+</node>
+<node id="http://llamos-kg.org/Figure9">
+  <data key="d0">Figure9</data>
+</node>
+<node id="http://llamos-kg.org/recent_commitments">
+  <data key="d0">recent commitments</data>
+</node>
+<node id="http://llamos-kg.org/significant_implications">
+  <data key="d0">significant implications</data>
+</node>
+<node id="http://llamos-kg.org/particular_dates">
+  <data key="d0">particular dates</data>
+</node>
+<node id="http://llamos-kg.org/_May_12th">
+  <data key="d0">-May 12th</data>
+</node>
+<node id="http://llamos-kg.org/moderation_decisions">
+  <data key="d0">moderation decisions</data>
+</node>
+<node id="http://llamos-kg.org/European_approach">
+  <data key="d0">European approach</data>
+</node>
+<node id="http://llamos-kg.org/CyberPalyanista">
+  <data key="d0">CyberPalyanista</data>
+</node>
+<node id="http://llamos-kg.org/https___darkrebel_net_hydra_review_and_tutorial_Manuscript">
+  <data key="d0">https://darkrebel.net/hydra-review-and-tutorial Manuscript</data>
+</node>
+<node id="http://llamos-kg.org/Georgoulias">
+  <data key="d0">Georgoulias</data>
+</node>
+<node id="http://llamos-kg.org/defensive_measures">
+  <data key="d0">defensive measures</data>
+</node>
+<node id="http://llamos-kg.org/plat__form">
+  <data key="d0">plat­ form</data>
+</node>
+<node id="http://llamos-kg.org/based_researchers">
+  <data key="d0">based researchers</data>
+</node>
+<node id="http://llamos-kg.org/cultural_cluster">
+  <data key="d0">cultural cluster</data>
+</node>
+<node id="http://llamos-kg.org/Ukrainian_groups">
+  <data key="d0">Ukrainian groups</data>
+</node>
+<node id="http://llamos-kg.org/peak_activity">
+  <data key="d0">peak activity</data>
+</node>
+<node id="http://llamos-kg.org/Arab">
+  <data key="d0">Arab</data>
+</node>
+<node id="http://llamos-kg.org/Egyptian_experience">
+  <data key="d0">Egyptian experience</data>
+</node>
+<node id="http://llamos-kg.org/extensive_review">
+  <data key="d0">extensive review</data>
+</node>
+<node id="http://llamos-kg.org/research__ndings">
+  <data key="d0">research ﬁndings</data>
+</node>
+<node id="http://llamos-kg.org/political_scientists">
+  <data key="d0">political scientists</data>
+</node>
+<node id="http://llamos-kg.org/analytical_tools">
+  <data key="d0">analytical tools</data>
+</node>
+<node id="http://llamos-kg.org/close_scrutiny">
+  <data key="d0">close scrutiny</data>
+</node>
+<node id="http://llamos-kg.org/hardware_components">
+  <data key="d0">hardware components</data>
+</node>
+<node id="http://llamos-kg.org/spy_microchips">
+  <data key="d0">spy microchips</data>
+</node>
+<node id="http://llamos-kg.org/Navalny">
+  <data key="d0">Navalny</data>
+</node>
+<node id="http://llamos-kg.org/standalone_website">
+  <data key="d0">standalone website</data>
+</node>
+<node id="http://llamos-kg.org/protesters">
+  <data key="d0">protesters</data>
+</node>
+<node id="http://llamos-kg.org/political_claims">
+  <data key="d0">political claims</data>
+</node>
+<node id="http://llamos-kg.org/Effects">
+  <data key="d0">Effects</data>
+</node>
+<node id="http://llamos-kg.org/EconSocio05u">
+  <data key="d0">EconSocio05u</data>
+</node>
+<node id="http://llamos-kg.org/power_relations">
+  <data key="d0">power relations</data>
+</node>
+<node id="http://llamos-kg.org/different_modes">
+  <data key="d0">different modes</data>
+</node>
+<node id="http://llamos-kg.org/Deepfake_Videos">
+  <data key="d0">Deepfake Videos</data>
+</node>
+<node id="http://llamos-kg.org/Real">
+  <data key="d0">Real</data>
+</node>
+<node id="http://llamos-kg.org/CyberArmyofRussia_Reborn">
+  <data key="d0">CyberArmyofRussia_Reborn</data>
+</node>
+<node id="http://llamos-kg.org/signi_cant_activity">
+  <data key="d0">signiﬁcant activity</data>
+</node>
+<node id="http://llamos-kg.org/regime_capacities">
+  <data key="d0">regime capacities</data>
+</node>
+<node id="http://llamos-kg.org/life_private_increase">
+  <data key="d0">life private increase</data>
+</node>
+<node id="http://llamos-kg.org/Physical_seizure">
+  <data key="d0">Physical seizure</data>
+</node>
+<node id="http://llamos-kg.org/legal_procedures">
+  <data key="d0">legal procedures</data>
+</node>
+<node id="http://llamos-kg.org/effective_detection">
+  <data key="d0">effective detection</data>
+</node>
+<node id="http://llamos-kg.org/continuous_maintenance">
+  <data key="d0">continuous maintenance</data>
+</node>
+<node id="http://llamos-kg.org/Organizations">
+  <data key="d0">Organizations</data>
+</node>
+<node id="http://llamos-kg.org/business">
+  <data key="d0">business</data>
+</node>
+<node id="http://llamos-kg.org/state_security">
+  <data key="d0">state security</data>
+</node>
+<node id="http://llamos-kg.org/Chinese_technologies">
+  <data key="d0">Chinese technologies</data>
+</node>
+<node id="http://llamos-kg.org/digital_new_platform">
+  <data key="d0">digital new platform</data>
+</node>
+<node id="http://llamos-kg.org/increasing_importance">
+  <data key="d0">increasing importance</data>
+</node>
+<node id="http://llamos-kg.org/key_area">
+  <data key="d0">key area</data>
+</node>
+<node id="http://llamos-kg.org/Military_category">
+  <data key="d0">Military category</data>
+</node>
+<node id="http://llamos-kg.org/aggressive_growth">
+  <data key="d0">aggressive growth</data>
+</node>
+<node id="http://llamos-kg.org/internet">
+  <data key="d0">internet</data>
+</node>
+<node id="http://llamos-kg.org/global_phenomenon">
+  <data key="d0">global phenomenon</data>
+</node>
+<node id="http://llamos-kg.org/security_practitioners">
+  <data key="d0">security practitioners</data>
+</node>
+<node id="http://llamos-kg.org/online_media">
+  <data key="d0">online media</data>
+</node>
+<node id="http://llamos-kg.org/inde__pendent">
+  <data key="d0">inde­ pendent</data>
+</node>
+<node id="http://llamos-kg.org/certain_sectors">
+  <data key="d0">certain sectors</data>
+</node>
+<node id="http://llamos-kg.org/Lord">
+  <data key="d0">Lord</data>
+</node>
+<node id="http://llamos-kg.org/Russian___pro_Ukrainian___pro_collectives">
+  <data key="d0">Russian - pro Ukrainian - pro collectives</data>
+</node>
+<node id="http://llamos-kg.org/different_strategies">
+  <data key="d0">different strategies</data>
+</node>
+<node id="http://llamos-kg.org/erative_gen__trained___pre_models">
+  <data key="d0">erative gen­ trained - pre models</data>
+</node>
+<node id="http://llamos-kg.org/routine_simple_transformations">
+  <data key="d0">routine simple transformations</data>
+</node>
+<node id="http://llamos-kg.org/analysis">
+  <data key="d0">analysis</data>
+</node>
+<node id="http://llamos-kg.org/concrete_recommendations">
+  <data key="d0">concrete recommendations</data>
+</node>
+<node id="http://llamos-kg.org/Youth">
+  <data key="d0">Youth</data>
+</node>
+<node id="http://llamos-kg.org/Past">
+  <data key="d0">Past</data>
+</node>
+<node id="http://llamos-kg.org/MainProblemEcon">
+  <data key="d0">MainProblemEcon</data>
+</node>
+<node id="http://llamos-kg.org/second_option">
+  <data key="d0">second option</data>
+</node>
+<node id="http://llamos-kg.org/botnet_framework">
+  <data key="d0">botnet framework</data>
+</node>
+<node id="http://llamos-kg.org/Institutional_change">
+  <data key="d0">Institutional change</data>
+</node>
+<node id="http://llamos-kg.org/political_new_institutions">
+  <data key="d0">political new institutions</data>
+</node>
+<node id="http://llamos-kg.org/user_large_base">
+  <data key="d0">user large base</data>
+</node>
+<node id="http://llamos-kg.org/ripe_ground">
+  <data key="d0">ripe ground</data>
+</node>
+<node id="http://llamos-kg.org/Shah">
+  <data key="d0">Shah</data>
+</node>
+<node id="http://llamos-kg.org/modernizing_vision">
+  <data key="d0">modernizing vision</data>
+</node>
+<node id="http://llamos-kg.org/Dropbox">
+  <data key="d0">Dropbox</data>
+</node>
+<node id="http://llamos-kg.org/upper_limits">
+  <data key="d0">upper limits</data>
+</node>
+<node id="http://llamos-kg.org/Intimate">
+  <data key="d0">Intimate</data>
+</node>
+<node id="http://llamos-kg.org/gender_relationships">
+  <data key="d0">gender relationships</data>
+</node>
+<node id="http://llamos-kg.org/effective_censorship">
+  <data key="d0">effective censorship</data>
+</node>
+<node id="http://llamos-kg.org/regime_leaders">
+  <data key="d0">regime leaders</data>
+</node>
+<node id="http://llamos-kg.org/surveillance_Enhanced_capacities">
+  <data key="d0">surveillance Enhanced capacities</data>
+</node>
+<node id="http://llamos-kg.org/Figure6">
+  <data key="d0">Figure6</data>
+</node>
+<node id="http://llamos-kg.org/insightful_visualization">
+  <data key="d0">insightful visualization</data>
+</node>
+<node id="http://llamos-kg.org/LiveJournal">
+  <data key="d0">LiveJournal</data>
+</node>
+<node id="http://llamos-kg.org/political_function">
+  <data key="d0">political function</data>
+</node>
+<node id="http://llamos-kg.org/Forms">
+  <data key="d0">Forms</data>
+</node>
+<node id="http://llamos-kg.org/hashtag_activism">
+  <data key="d0">hashtag activism</data>
+</node>
+<node id="http://llamos-kg.org/varied_uses">
+  <data key="d0">varied uses</data>
+</node>
+<node id="http://llamos-kg.org/generative_deep_model">
+  <data key="d0">generative deep model</data>
+</node>
+<node id="http://llamos-kg.org/suspicious_distortions">
+  <data key="d0">suspicious distortions</data>
+</node>
+<node id="http://llamos-kg.org/Cyber_Commons">
+  <data key="d0">Cyber Commons</data>
+</node>
+<node id="http://llamos-kg.org/propaganda_Communist___anti_War_body">
+  <data key="d0">propaganda Communist - anti War body</data>
+</node>
+<node id="http://llamos-kg.org/collection_OSINT_global_network">
+  <data key="d0">collection OSINT global network</data>
+</node>
+<node id="http://llamos-kg.org/state_Russian_television">
+  <data key="d0">state Russian television</data>
+</node>
+<node id="http://llamos-kg.org/fake_images">
+  <data key="d0">fake images</data>
+</node>
+<node id="http://llamos-kg.org/centrality_higher_Fig">
+  <data key="d0">centrality higher Fig</data>
+</node>
+<node id="http://llamos-kg.org/protest_movement">
+  <data key="d0">protest movement</data>
+</node>
+<node id="http://llamos-kg.org/media_applications">
+  <data key="d0">media applications</data>
+</node>
+<node id="http://llamos-kg.org/Medvedev">
+  <data key="d0">Medvedev</data>
+</node>
+<node id="http://llamos-kg.org/head_office">
+  <data key="d0">head office</data>
+</node>
+<node id="http://llamos-kg.org/Blue_nodes">
+  <data key="d0">Blue nodes</data>
+</node>
+<node id="http://llamos-kg.org/betweenness_higher_centrality">
+  <data key="d0">betweenness higher centrality</data>
+</node>
+<node id="http://llamos-kg.org/Paper">
+  <data key="d0">Paper</data>
+</node>
+<node id="http://llamos-kg.org/Verdoliva">
+  <data key="d0">Verdoliva</data>
+</node>
+<node id="http://llamos-kg.org/FUTURE___SCENARIOS">
+  <data key="d0">FUTURE | SCENARIOS</data>
+</node>
+<node id="http://llamos-kg.org/diverse_set">
+  <data key="d0">diverse set</data>
+</node>
+<node id="http://llamos-kg.org/political_sectors">
+  <data key="d0">political sectors</data>
+</node>
+<node id="http://llamos-kg.org/Habermas">
+  <data key="d0">Habermas</data>
+</node>
+<node id="http://llamos-kg.org/explicit_interest">
+  <data key="d0">explicit interest</data>
+</node>
+<node id="http://llamos-kg.org/face_images">
+  <data key="d0">face images</data>
+</node>
+<node id="http://llamos-kg.org/costumer_segments">
+  <data key="d0">costumer segments</data>
+</node>
+<node id="http://llamos-kg.org/substance_users">
+  <data key="d0">substance users</data>
+</node>
+<node id="http://llamos-kg.org/Innovations">
+  <data key="d0">Innovations</data>
+</node>
+<node id="http://llamos-kg.org/Cambridge_Analytica">
+  <data key="d0">Cambridge Analytica</data>
+</node>
+<node id="http://llamos-kg.org/KGB">
+  <data key="d0">KGB</data>
+</node>
+<node id="http://llamos-kg.org/forged_intelligence">
+  <data key="d0">forged intelligence</data>
+</node>
+<node id="http://llamos-kg.org/political_similar_ambitions">
+  <data key="d0">political similar ambitions</data>
+</node>
+<node id="http://llamos-kg.org/different_forms">
+  <data key="d0">different forms</data>
+</node>
+<node id="http://llamos-kg.org/Joshua_Tucker">
+  <data key="d0">Joshua Tucker</data>
+</node>
+<node id="http://llamos-kg.org/Vladimir_President_Putin">
+  <data key="d0">Vladimir President Putin</data>
+</node>
+<node id="http://llamos-kg.org/traditional_Russian_media">
+  <data key="d0">traditional Russian media</data>
+</node>
+<node id="http://llamos-kg.org/Trickbot">
+  <data key="d0">Trickbot</data>
+</node>
+<node id="http://llamos-kg.org/Emotet_Following_Shutdown">
+  <data key="d0">Emotet Following Shutdown</data>
+</node>
+<node id="http://llamos-kg.org/proRussian_groups">
+  <data key="d0">proRussian groups</data>
+</node>
+<node id="http://llamos-kg.org/limited_overlap">
+  <data key="d0">limited overlap</data>
+</node>
+<node id="http://llamos-kg.org/new_content">
+  <data key="d0">new content</data>
+</node>
+<node id="http://llamos-kg.org/analytics_firm">
+  <data key="d0">analytics firm</data>
+</node>
+<node id="http://llamos-kg.org/interference_Russian_campaign">
+  <data key="d0">interference Russian campaign</data>
+</node>
+<node id="http://llamos-kg.org/continuous_stream">
+  <data key="d0">continuous stream</data>
+</node>
+<node id="http://llamos-kg.org/TransitionWinners__0_04">
+  <data key="d0">TransitionWinners 0.04</data>
+</node>
+<node id="http://llamos-kg.org/Emre_Ekmekcioglu1">
+  <data key="d0">Emre Ekmekcioglu1</data>
+</node>
+<node id="http://llamos-kg.org/Russian___pro_Ukrainian___pro_groups">
+  <data key="d0">Russian - pro Ukrainian - pro groups</data>
+</node>
+<node id="http://llamos-kg.org/Procurement">
+  <data key="d0">Procurement</data>
+</node>
+<node id="http://llamos-kg.org/physical_acquisition">
+  <data key="d0">physical acquisition</data>
+</node>
+<node id="http://llamos-kg.org/chemical_weapons">
+  <data key="d0">chemical weapons</data>
+</node>
+<node id="http://llamos-kg.org/Ukraine_crisis">
+  <data key="d0">Ukraine crisis</data>
+</node>
+<node id="http://llamos-kg.org/digital_technologies">
+  <data key="d0">digital technologies</data>
+</node>
+<node id="http://llamos-kg.org/bots">
+  <data key="d0">bots</data>
+</node>
+<node id="http://llamos-kg.org/limited_capability">
+  <data key="d0">limited capability</data>
+</node>
+<node id="http://llamos-kg.org/false_narratives">
+  <data key="d0">false narratives</data>
+</node>
+<node id="http://llamos-kg.org/Protest_surveys">
+  <data key="d0">Protest surveys</data>
+</node>
+<node id="http://llamos-kg.org/probability___non_sampling">
+  <data key="d0">probability - non sampling</data>
+</node>
+<node id="http://llamos-kg.org/technical_expertise">
+  <data key="d0">technical expertise</data>
+</node>
+<node id="http://llamos-kg.org/major_difference">
+  <data key="d0">major difference</data>
+</node>
+<node id="http://llamos-kg.org/fourth_step">
+  <data key="d0">fourth step</data>
+</node>
+<node id="http://llamos-kg.org/Section">
+  <data key="d0">Section</data>
+</node>
+<node id="http://llamos-kg.org/GPT">
+  <data key="d0">GPT</data>
+</node>
+<node id="http://llamos-kg.org/language_interpretation">
+  <data key="d0">language interpretation</data>
+</node>
+<node id="http://llamos-kg.org/common_targets">
+  <data key="d0">common targets</data>
+</node>
+<node id="http://llamos-kg.org/System">
+  <data key="d0">System</data>
+</node>
+<node id="http://llamos-kg.org/CIA_Director">
+  <data key="d0">CIA Director</data>
+</node>
+<node id="http://llamos-kg.org/CNN">
+  <data key="d0">CNN</data>
+</node>
+<node id="http://llamos-kg.org/discourse_information">
+  <data key="d0">discourse information</data>
+</node>
+<node id="http://llamos-kg.org/Media_source">
+  <data key="d0">Media source</data>
+</node>
+<node id="http://llamos-kg.org/VotedLukashenka_MemberInCivSocOrg_VotedTsikhanouskaya">
+  <data key="d0">VotedLukashenka MemberInCivSocOrg VotedTsikhanouskaya</data>
+</node>
+<node id="http://llamos-kg.org/Telegram_bots">
+  <data key="d0">Telegram bots</data>
+</node>
+<node id="http://llamos-kg.org/main_roles">
+  <data key="d0">main roles</data>
+</node>
+<node id="http://llamos-kg.org/Facebook">
+  <data key="d0">Facebook</data>
+</node>
+<node id="http://llamos-kg.org/different_factions">
+  <data key="d0">different factions</data>
+</node>
+<node id="http://llamos-kg.org/filtering_different_policies">
+  <data key="d0">filtering different policies</data>
+</node>
+<node id="http://llamos-kg.org/plat__popular_form">
+  <data key="d0">plat­ popular form</data>
+</node>
+<node id="http://llamos-kg.org/Stephanie_van">
+  <data key="d0">Stephanie van</data>
+</node>
+<node id="http://llamos-kg.org/Berg">
+  <data key="d0">Berg</data>
+</node>
+<node id="http://llamos-kg.org/posture_9_operational_similar_Perpetrators">
+  <data key="d0">posture.9 operational similar Perpetrators</data>
+</node>
+<node id="http://llamos-kg.org/invest__significant_ment">
+  <data key="d0">invest­ significant ment</data>
+</node>
+<node id="http://llamos-kg.org/Key_3_3_6_Resources">
+  <data key="d0">Key 3.3.6 Resources</data>
+</node>
+<node id="http://llamos-kg.org/necessary_assets">
+  <data key="d0">necessary assets</data>
+</node>
+<node id="http://llamos-kg.org/important_limitations">
+  <data key="d0">important limitations</data>
+</node>
+<node id="http://llamos-kg.org/Spyware">
+  <data key="d0">Spyware</data>
+</node>
+<node id="http://llamos-kg.org/information">
+  <data key="d0">information</data>
+</node>
+<node id="http://llamos-kg.org/Gordon_Corera">
+  <data key="d0">Gordon Corera</data>
+</node>
+<node id="http://llamos-kg.org/BBC_News">
+  <data key="d0">BBC News</data>
+</node>
+<node id="http://llamos-kg.org/GPT_labels">
+  <data key="d0">GPT labels</data>
+</node>
+<node id="http://llamos-kg.org/language_natural_interpretation">
+  <data key="d0">language natural interpretation</data>
+</node>
+<node id="http://llamos-kg.org/Demographic_Factors">
+  <data key="d0">Demographic Factors</data>
+</node>
+<node id="http://llamos-kg.org/Protest_Participants">
+  <data key="d0">Protest Participants</data>
+</node>
+<node id="http://llamos-kg.org/daily_expenses">
+  <data key="d0">daily expenses</data>
+</node>
+<node id="http://llamos-kg.org/money_Purchase">
+  <data key="d0">money Purchase</data>
+</node>
+<node id="http://llamos-kg.org/citizenship_basic_rights">
+  <data key="d0">citizenship basic rights</data>
+</node>
+<node id="http://llamos-kg.org/theoretical_reflections">
+  <data key="d0">theoretical reflections</data>
+</node>
+<node id="http://llamos-kg.org/modern_life">
+  <data key="d0">modern life</data>
+</node>
+<node id="http://llamos-kg.org/complete_list">
+  <data key="d0">complete list</data>
+</node>
+<node id="http://llamos-kg.org/_64_Platforms">
+  <data key="d0">”64 Platforms</data>
+</node>
+<node id="http://llamos-kg.org/policies_65_similar_Center">
+  <data key="d0">policies.65 similar Center</data>
+</node>
+<node id="http://llamos-kg.org/exiled_opponents">
+  <data key="d0">exiled opponents</data>
+</node>
+<node id="http://llamos-kg.org/diverse_interactions">
+  <data key="d0">diverse interactions</data>
+</node>
+<node id="http://llamos-kg.org/new_challenges">
+  <data key="d0">new challenges</data>
+</node>
+<node id="http://llamos-kg.org/ex__amples">
+  <data key="d0">ex­ amples</data>
+</node>
+<node id="http://llamos-kg.org/rough_benchmark">
+  <data key="d0">rough benchmark</data>
+</node>
+<node id="http://llamos-kg.org/Theocharis">
+  <data key="d0">Theocharis</data>
+</node>
+<node id="http://llamos-kg.org/Van_Deth">
+  <data key="d0">Van Deth</data>
+</node>
+<node id="http://llamos-kg.org/analytical_frame">
+  <data key="d0">analytical frame</data>
+</node>
+<node id="http://llamos-kg.org/future_explorations">
+  <data key="d0">future explorations</data>
+</node>
+<node id="http://llamos-kg.org/political_processes">
+  <data key="d0">political processes</data>
+</node>
+<node id="http://llamos-kg.org/generative_model">
+  <data key="d0">generative model</data>
+</node>
+<node id="http://llamos-kg.org/regulation">
+  <data key="d0">regulation</data>
+</node>
+<node id="http://llamos-kg.org/humdrum_considerations">
+  <data key="d0">humdrum considerations</data>
+</node>
+<node id="http://llamos-kg.org/crucial_hints">
+  <data key="d0">crucial hints</data>
+</node>
+<node id="http://llamos-kg.org/synthetic_media">
+  <data key="d0">synthetic media</data>
+</node>
+<node id="http://llamos-kg.org/prominent_landmarks">
+  <data key="d0">prominent landmarks</data>
+</node>
+<node id="http://llamos-kg.org/Repression">
+  <data key="d0">Repression</data>
+</node>
+<node id="http://llamos-kg.org/negative_incentives">
+  <data key="d0">negative incentives</data>
+</node>
+<node id="http://llamos-kg.org/political_campaign">
+  <data key="d0">political campaign</data>
+</node>
+<node id="http://llamos-kg.org/sure_action">
+  <data key="d0">sure action</data>
+</node>
+<node id="http://llamos-kg.org/tailored_Second_deepfakes">
+  <data key="d0">tailored Second deepfakes</data>
+</node>
+<node id="http://llamos-kg.org/greater_threat">
+  <data key="d0">greater threat</data>
+</node>
+<node id="http://llamos-kg.org/Incourse911_inc911">
+  <data key="d0">Incourse911(inc911</data>
+</node>
+<node id="http://llamos-kg.org/studca_CybPal_inc911">
+  <data key="d0">studca CybPal inc911</data>
+</node>
+<node id="http://llamos-kg.org/Censorship">
+  <data key="d0">Censorship</data>
+</node>
+<node id="http://llamos-kg.org/Government_Criticism">
+  <data key="d0">Government Criticism</data>
+</node>
+<node id="http://llamos-kg.org/Provided_data">
+  <data key="d0">Provided data</data>
+</node>
+<node id="http://llamos-kg.org/Page">
+  <data key="d0">Page</data>
+</node>
+<node id="http://llamos-kg.org/digital_technology">
+  <data key="d0">digital technology</data>
+</node>
+<node id="http://llamos-kg.org/new_ways">
+  <data key="d0">new ways</data>
+</node>
+<node id="http://llamos-kg.org/Version_Peer">
+  <data key="d0">Version Peer</data>
+</node>
+<node id="http://llamos-kg.org/version_Link">
+  <data key="d0">version Link</data>
+</node>
+<node id="http://llamos-kg.org/vaccination___Anti_Islam_Rizza_activist">
+  <data key="d0">vaccination - Anti Islam Rizza activist</data>
+</node>
+<node id="http://llamos-kg.org/IP_addresses">
+  <data key="d0">IP addresses</data>
+</node>
+<node id="http://llamos-kg.org/service_providers">
+  <data key="d0">service providers</data>
+</node>
+<node id="http://llamos-kg.org/Policymak__ers">
+  <data key="d0">Policymak­ ers</data>
+</node>
+<node id="http://llamos-kg.org/concrete_guidance">
+  <data key="d0">concrete guidance</data>
+</node>
+<node id="http://llamos-kg.org/Nationalities_Papers">
+  <data key="d0">Nationalities Papers</data>
+</node>
+<node id="http://llamos-kg.org/Russian">
+  <data key="d0">Russian</data>
+</node>
+<node id="http://llamos-kg.org/driven_fakery">
+  <data key="d0">driven fakery</data>
+</node>
+<node id="http://llamos-kg.org/realistic_depictions">
+  <data key="d0">realistic depictions</data>
+</node>
+<node id="http://llamos-kg.org/National_Belarus_Awakening">
+  <data key="d0">National Belarus Awakening</data>
+</node>
+<node id="http://llamos-kg.org/Hope">
+  <data key="d0">Hope</data>
+</node>
+<node id="http://llamos-kg.org/Lithuanian_websites">
+  <data key="d0">Lithuanian websites</data>
+</node>
+<node id="http://llamos-kg.org/BotBuster">
+  <data key="d0">BotBuster</data>
+</node>
+<node id="http://llamos-kg.org/speci_c_domains">
+  <data key="d0">speciﬁc domains</data>
+</node>
+<node id="http://llamos-kg.org/DDoS_repeated_attacks">
+  <data key="d0">DDoS repeated attacks</data>
+</node>
+<node id="http://llamos-kg.org/complex_factors">
+  <data key="d0">complex factors</data>
+</node>
+<node id="http://llamos-kg.org/particular_patterns">
+  <data key="d0">particular patterns</data>
+</node>
+<node id="http://llamos-kg.org/recent_paper">
+  <data key="d0">recent paper</data>
+</node>
+<node id="http://llamos-kg.org/training_times">
+  <data key="d0">training times</data>
+</node>
+<node id="http://llamos-kg.org/low_cost">
+  <data key="d0">low cost</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_resourced_campaigns">
+  <data key="d0">disinformation resourced campaigns</data>
+</node>
+<node id="http://llamos-kg.org/fertile_environment">
+  <data key="d0">fertile environment</data>
+</node>
+<node id="http://llamos-kg.org/ing_trend">
+  <data key="d0">ing trend</data>
+</node>
+<node id="http://llamos-kg.org/Simple_Detection_deepfakes">
+  <data key="d0">Simple Detection deepfakes</data>
+</node>
+<node id="http://llamos-kg.org/ZeroAccess_notorious_botnet">
+  <data key="d0">ZeroAccess notorious botnet</data>
+</node>
+<node id="http://llamos-kg.org/Discussion">
+  <data key="d0">Discussion</data>
+</node>
+<node id="http://llamos-kg.org/dissemination_patterns">
+  <data key="d0">dissemination patterns</data>
+</node>
+<node id="http://llamos-kg.org/Preprint">
+  <data key="d0">Preprint</data>
+</node>
+<node id="http://llamos-kg.org/January">
+  <data key="d0">January</data>
+</node>
+<node id="http://llamos-kg.org/Russian___pro_entities">
+  <data key="d0">Russian - pro entities</data>
+</node>
+<node id="http://llamos-kg.org/trained_resulting_model">
+  <data key="d0">trained resulting model</data>
+</node>
+<node id="http://llamos-kg.org/unseen_images">
+  <data key="d0">unseen images</data>
+</node>
+<node id="http://llamos-kg.org/FrdsFamAbroad">
+  <data key="d0">FrdsFamAbroad</data>
+</node>
+<node id="http://llamos-kg.org/Table">
+  <data key="d0">Table</data>
+</node>
+<node id="http://llamos-kg.org/Unexpected_Deaths">
+  <data key="d0">Unexpected Deaths</data>
+</node>
+<node id="http://llamos-kg.org/online_content">
+  <data key="d0">online content</data>
+</node>
+<node id="http://llamos-kg.org/__Issue">
+  <data key="d0">| Issue</data>
+</node>
+<node id="http://llamos-kg.org/Commission">
+  <data key="d0">Commission</data>
+</node>
+<node id="http://llamos-kg.org/specific_guidance">
+  <data key="d0">specific guidance</data>
+</node>
+<node id="http://llamos-kg.org/technical_literature">
+  <data key="d0">technical literature</data>
+</node>
+<node id="http://llamos-kg.org/critical_insight">
+  <data key="d0">critical insight</data>
+</node>
+<node id="http://llamos-kg.org/Trump_administration">
+  <data key="d0">Trump administration</data>
+</node>
+<node id="http://llamos-kg.org/similar_tactics">
+  <data key="d0">similar tactics</data>
+</node>
+<node id="http://llamos-kg.org/Cloudbased_solutions">
+  <data key="d0">Cloudbased solutions</data>
+</node>
+<node id="http://llamos-kg.org/transient_changes">
+  <data key="d0">transient changes</data>
+</node>
+<node id="http://llamos-kg.org/garbage_protests">
+  <data key="d0">garbage protests</data>
+</node>
+<node id="http://llamos-kg.org/sig__government___anti_clear_nificance">
+  <data key="d0">sig­ government - anti clear nificance</data>
+</node>
+<node id="http://llamos-kg.org/Educ6u">
+  <data key="d0">Educ6u</data>
+</node>
+<node id="http://llamos-kg.org/theocratic_regime">
+  <data key="d0">theocratic regime</data>
+</node>
+<node id="http://llamos-kg.org/considerable_control">
+  <data key="d0">considerable control</data>
+</node>
+<node id="http://llamos-kg.org/political_forces">
+  <data key="d0">political forces</data>
+</node>
+<node id="http://llamos-kg.org/rapid_shifts">
+  <data key="d0">rapid shifts</data>
+</node>
+<node id="http://llamos-kg.org/intelligence_analysis">
+  <data key="d0">intelligence analysis</data>
+</node>
+<node id="http://llamos-kg.org/policymaking_process_28">
+  <data key="d0">policymaking process.28</data>
+</node>
+<node id="http://llamos-kg.org/et_al">
+  <data key="d0">et al</data>
+</node>
+<node id="http://llamos-kg.org/political_strong_antagonisms">
+  <data key="d0">political strong antagonisms</data>
+</node>
+<node id="http://llamos-kg.org/long_history">
+  <data key="d0">long history</data>
+</node>
+<node id="http://llamos-kg.org/highest_second_rate">
+  <data key="d0">highest second rate</data>
+</node>
+<node id="http://llamos-kg.org/Technical_innovation">
+  <data key="d0">Technical innovation</data>
+</node>
+<node id="http://llamos-kg.org/fake_operation">
+  <data key="d0">fake operation</data>
+</node>
+<node id="http://llamos-kg.org/digital_advanced_devices">
+  <data key="d0">digital advanced devices</data>
+</node>
+<node id="http://llamos-kg.org/Section6">
+  <data key="d0">Section6</data>
+</node>
+<node id="http://llamos-kg.org/thorough_analysis">
+  <data key="d0">thorough analysis</data>
+</node>
+<node id="http://llamos-kg.org/Recent_work">
+  <data key="d0">Recent work</data>
+</node>
+<node id="http://llamos-kg.org/helpful_datapoints">
+  <data key="d0">helpful datapoints</data>
+</node>
+<node id="http://llamos-kg.org/FakeApp">
+  <data key="d0">FakeApp</data>
+</node>
+<node id="http://llamos-kg.org/technical___non_users">
+  <data key="d0">technical - non users</data>
+</node>
+<node id="http://llamos-kg.org/credential_Botnets_theft">
+  <data key="d0">credential Botnets theft</data>
+</node>
+<node id="http://llamos-kg.org/Red_nodes">
+  <data key="d0">Red nodes</data>
+</node>
+<node id="http://llamos-kg.org/High_costs">
+  <data key="d0">High costs</data>
+</node>
+<node id="http://llamos-kg.org/attractive_relative">
+  <data key="d0">attractive relative</data>
+</node>
+<node id="http://llamos-kg.org/Survey">
+  <data key="d0">Survey</data>
+</node>
+<node id="http://llamos-kg.org/underlying_characteristics">
+  <data key="d0">underlying characteristics</data>
+</node>
+<node id="http://llamos-kg.org/Phoenix_Inform">
+  <data key="d0">Phoenix Inform</data>
+</node>
+<node id="http://llamos-kg.org/lower_activity">
+  <data key="d0">lower activity</data>
+</node>
+<node id="http://llamos-kg.org/DDoS_protection">
+  <data key="d0">DDoS protection</data>
+</node>
+<node id="http://llamos-kg.org/FamFinanSit7u">
+  <data key="d0">FamFinanSit7u</data>
+</node>
+<node id="http://llamos-kg.org/Medical_Online_medical_Discussion">
+  <data key="d0">Medical Online medical Discussion</data>
+</node>
+<node id="http://llamos-kg.org/Writers">
+  <data key="d0">Writers</data>
+</node>
+<node id="http://llamos-kg.org/significant_concerns">
+  <data key="d0">significant concerns</data>
+</node>
+<node id="http://llamos-kg.org/exhaustive___non_list">
+  <data key="d0">exhaustive - non list</data>
+</node>
+<node id="http://llamos-kg.org/digital_activism">
+  <data key="d0">digital activism</data>
+</node>
+<node id="http://llamos-kg.org/English">
+  <data key="d0">English</data>
+</node>
+<node id="http://llamos-kg.org/intellectual_elite">
+  <data key="d0">intellectual elite</data>
+</node>
+<node id="http://llamos-kg.org/Psychology_39_S1">
+  <data key="d0">Psychology 39(S1</data>
+</node>
+<node id="http://llamos-kg.org/biological_funded_program">
+  <data key="d0">biological funded program</data>
+</node>
+<node id="http://llamos-kg.org/detection_systems">
+  <data key="d0">detection systems</data>
+</node>
+<node id="http://llamos-kg.org/constant_updating">
+  <data key="d0">constant updating</data>
+</node>
+<node id="http://llamos-kg.org/Portal_Research_DOI">
+  <data key="d0">Portal Research DOI</data>
+</node>
+<node id="http://llamos-kg.org/Hackers">
+  <data key="d0">Hackers</data>
+</node>
+<node id="http://llamos-kg.org/Bitcoin">
+  <data key="d0">Bitcoin</data>
+</node>
+<node id="http://llamos-kg.org/College_London">
+  <data key="d0">College London</data>
+</node>
+<node id="http://llamos-kg.org/Higher_Kolozaridi_School">
+  <data key="d0">Higher Kolozaridi School</data>
+</node>
+<node id="http://llamos-kg.org/_0_00_TransitionLosers">
+  <data key="d0">0.00 TransitionLosers</data>
+</node>
+<node id="http://llamos-kg.org/Figure3a">
+  <data key="d0">Figure3a</data>
+</node>
+<node id="http://llamos-kg.org/messaging_popular_platform">
+  <data key="d0">messaging popular platform</data>
+</node>
+<node id="http://llamos-kg.org/prevalent_arrests">
+  <data key="d0">prevalent arrests</data>
+</node>
+<node id="http://llamos-kg.org/political_opposition">
+  <data key="d0">political opposition</data>
+</node>
+<node id="http://llamos-kg.org/documentation_inconsistent_practices">
+  <data key="d0">documentation inconsistent practices</data>
+</node>
+<node id="http://llamos-kg.org/detection_deepfake_accuracy">
+  <data key="d0">detection deepfake accuracy</data>
+</node>
+<node id="http://llamos-kg.org/Events">
+  <data key="d0">Events</data>
+</node>
+<node id="http://llamos-kg.org/stable_set">
+  <data key="d0">stable set</data>
+</node>
+<node id="http://llamos-kg.org/additional_sector">
+  <data key="d0">additional sector</data>
+</node>
+<node id="http://llamos-kg.org/related_services">
+  <data key="d0">related services</data>
+</node>
+<node id="http://llamos-kg.org/Colin_Powell">
+  <data key="d0">Colin Powell</data>
+</node>
+<node id="http://llamos-kg.org/communication_secure_channels">
+  <data key="d0">communication secure channels</data>
+</node>
+<node id="http://llamos-kg.org/striking_tactics">
+  <data key="d0">striking tactics</data>
+</node>
+<node id="http://llamos-kg.org/greater_influence">
+  <data key="d0">greater influence</data>
+</node>
+<node id="http://llamos-kg.org/tailored_GAN">
+  <data key="d0">tailored GAN</data>
+</node>
+<node id="http://llamos-kg.org/ERGA">
+  <data key="d0">ERGA</data>
+</node>
+<node id="http://llamos-kg.org/interim_Report">
+  <data key="d0">interim Report</data>
+</node>
+<node id="http://llamos-kg.org/security_Russian_service">
+  <data key="d0">security Russian service</data>
+</node>
+<node id="http://llamos-kg.org/Actors">
+  <data key="d0">Actors</data>
+</node>
+<node id="http://llamos-kg.org/Glasius">
+  <data key="d0">Glasius</data>
+</node>
+<node id="http://llamos-kg.org/deep__fakes">
+  <data key="d0">deep­ fakes</data>
+</node>
+<node id="http://llamos-kg.org/inspired_anomaly">
+  <data key="d0">inspired anomaly</data>
+</node>
+<node id="http://llamos-kg.org/time_detection">
+  <data key="d0">time detection</data>
+</node>
+<node id="http://llamos-kg.org/Control_Study">
+  <data key="d0">Control Study</data>
+</node>
+<node id="http://llamos-kg.org/Protest_Class_Paradigm">
+  <data key="d0">Protest Class Paradigm</data>
+</node>
+<node id="http://llamos-kg.org/Yarovaya_package">
+  <data key="d0">Yarovaya package</data>
+</node>
+<node id="http://llamos-kg.org/Service_Providers">
+  <data key="d0">Service Providers</data>
+</node>
+<node id="http://llamos-kg.org/Keywords">
+  <data key="d0">Keywords</data>
+</node>
+<node id="http://llamos-kg.org/unanticipated_unplanned1">
+  <data key="d0">unanticipated unplanned1</data>
+</node>
+<node id="http://llamos-kg.org/active_monthly_users">
+  <data key="d0">active monthly users</data>
+</node>
+<node id="http://llamos-kg.org/sponsored_groups">
+  <data key="d0">sponsored groups</data>
+</node>
+<node id="http://llamos-kg.org/leveraged_tools">
+  <data key="d0">leveraged tools</data>
+</node>
+<node id="http://llamos-kg.org/political_institutions">
+  <data key="d0">political institutions</data>
+</node>
+<node id="http://llamos-kg.org/technological_possibilities">
+  <data key="d0">technological possibilities</data>
+</node>
+<node id="http://llamos-kg.org/state_pressure">
+  <data key="d0">state pressure</data>
+</node>
+<node id="http://llamos-kg.org/longer_history">
+  <data key="d0">longer history</data>
+</node>
+<node id="http://llamos-kg.org/opinion_messages">
+  <data key="d0">opinion messages</data>
+</node>
+<node id="http://llamos-kg.org/elite_New_actors">
+  <data key="d0">elite New actors</data>
+</node>
+<node id="http://llamos-kg.org/higher_levels">
+  <data key="d0">higher levels</data>
+</node>
+<node id="http://llamos-kg.org/Abstract">
+  <data key="d0">Abstract</data>
+</node>
+<node id="http://llamos-kg.org/military_massive_offensive">
+  <data key="d0">military massive offensive</data>
+</node>
+<node id="http://llamos-kg.org/following_section">
+  <data key="d0">following section</data>
+</node>
+<node id="http://llamos-kg.org/conceptual_framework">
+  <data key="d0">conceptual framework</data>
+</node>
+<node id="http://llamos-kg.org/Neural_Recurrent_Network">
+  <data key="d0">Neural Recurrent Network</data>
+</node>
+<node id="http://llamos-kg.org/short_text">
+  <data key="d0">short text</data>
+</node>
+<node id="http://llamos-kg.org/security_apparatus">
+  <data key="d0">security apparatus</data>
+</node>
+<node id="http://llamos-kg.org/espionage_advanced_technologies">
+  <data key="d0">espionage advanced technologies</data>
+</node>
+<node id="http://llamos-kg.org/intelligence_communities">
+  <data key="d0">intelligence communities</data>
+</node>
+<node id="http://llamos-kg.org/Data_Accessibility">
+  <data key="d0">Data Accessibility</data>
+</node>
+<node id="http://llamos-kg.org/Content">
+  <data key="d0">Content</data>
+</node>
+<node id="http://llamos-kg.org/mod__generative_els">
+  <data key="d0">mod­ generative els</data>
+</node>
+<node id="http://llamos-kg.org/resulting_video">
+  <data key="d0">resulting video</data>
+</node>
+<node id="http://llamos-kg.org/Cyber_Attacks">
+  <data key="d0">Cyber Attacks</data>
+</node>
+<node id="http://llamos-kg.org/Sophisticated">
+  <data key="d0">Sophisticated</data>
+</node>
+<node id="http://llamos-kg.org/Distribution">
+  <data key="d0">Distribution</data>
+</node>
+<node id="http://llamos-kg.org/Results">
+  <data key="d0">Results</data>
+</node>
+<node id="http://llamos-kg.org/security_inadequate_measures">
+  <data key="d0">security inadequate measures</data>
+</node>
+<node id="http://llamos-kg.org/air_Soviet_force">
+  <data key="d0">air Soviet force</data>
+</node>
+<node id="http://llamos-kg.org/flight_KAL">
+  <data key="d0">flight KAL</data>
+</node>
+<node id="http://llamos-kg.org/Capabilities_Tracking">
+  <data key="d0">Capabilities Tracking</data>
+</node>
+<node id="http://llamos-kg.org/GoAbroad__0_03">
+  <data key="d0">GoAbroad 0.03</data>
+</node>
+<node id="http://llamos-kg.org/regime_coalitions">
+  <data key="d0">regime coalitions</data>
+</node>
+<node id="http://llamos-kg.org/society_state_relations">
+  <data key="d0">society state relations</data>
+</node>
+<node id="http://llamos-kg.org/European_Commission">
+  <data key="d0">European Commission</data>
+</node>
+<node id="http://llamos-kg.org/Guidance">
+  <data key="d0">Guidance</data>
+</node>
+<node id="http://llamos-kg.org/Figure8">
+  <data key="d0">Figure8</data>
+</node>
+<node id="http://llamos-kg.org/detailed_analysis">
+  <data key="d0">detailed analysis</data>
+</node>
+<node id="http://llamos-kg.org/sec__tion">
+  <data key="d0">sec­ tion</data>
+</node>
+<node id="http://llamos-kg.org/current_strengths">
+  <data key="d0">current strengths</data>
+</node>
+<node id="http://llamos-kg.org/Related_work">
+  <data key="d0">Related work</data>
+</node>
+<node id="http://llamos-kg.org/literature_review">
+  <data key="d0">literature review</data>
+</node>
+<node id="http://llamos-kg.org/likely_outpace">
+  <data key="d0">likely outpace</data>
+</node>
+<node id="http://llamos-kg.org/Humans">
+  <data key="d0">Humans</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_stories">
+  <data key="d0">disinformation stories</data>
+</node>
+<node id="http://llamos-kg.org/quantitative_calculations">
+  <data key="d0">quantitative calculations</data>
+</node>
+<node id="http://llamos-kg.org/Intelligence">
+  <data key="d0">Intelligence</data>
+</node>
+<node id="http://llamos-kg.org/Value_propositions">
+  <data key="d0">Value propositions</data>
+</node>
+<node id="http://llamos-kg.org/value_exchange">
+  <data key="d0">value exchange</data>
+</node>
+<node id="http://llamos-kg.org/R_d_EG">
+  <data key="d0">Rød EG</data>
+</node>
+<node id="http://llamos-kg.org/Activists">
+  <data key="d0">Activists</data>
+</node>
+<node id="http://llamos-kg.org/NationBEL">
+  <data key="d0">NationBEL</data>
+</node>
+<node id="http://llamos-kg.org/wide_range">
+  <data key="d0">wide range</data>
+</node>
+<node id="http://llamos-kg.org/Drone">
+  <data key="d0">Drone</data>
+</node>
+<node id="http://llamos-kg.org/Coronavirus_Enforcing_Rules">
+  <data key="d0">Coronavirus Enforcing Rules</data>
+</node>
+<node id="http://llamos-kg.org/Digital_technology">
+  <data key="d0">Digital technology</data>
+</node>
+<node id="http://llamos-kg.org/new_means">
+  <data key="d0">new means</data>
+</node>
+<node id="http://llamos-kg.org/OpenNet_Initiative">
+  <data key="d0">OpenNet Initiative</data>
+</node>
+<node id="http://llamos-kg.org/country_report">
+  <data key="d0">country report</data>
+</node>
+<node id="http://llamos-kg.org/Recent_literature">
+  <data key="d0">Recent literature</data>
+</node>
+<node id="http://llamos-kg.org/under__standing">
+  <data key="d0">under­ standing</data>
+</node>
+<node id="http://llamos-kg.org/protection_authorities">
+  <data key="d0">protection authorities</data>
+</node>
+<node id="http://llamos-kg.org/enforcement_limited_powers">
+  <data key="d0">enforcement limited powers</data>
+</node>
+<node id="http://llamos-kg.org/Belarusian_context">
+  <data key="d0">Belarusian context</data>
+</node>
+<node id="http://llamos-kg.org/economic_decline">
+  <data key="d0">economic decline</data>
+</node>
+<node id="http://llamos-kg.org/source_intelligence">
+  <data key="d0">source intelligence</data>
+</node>
+<node id="http://llamos-kg.org/state_monopolies">
+  <data key="d0">state monopolies</data>
+</node>
+<node id="http://llamos-kg.org/autocratic_elites">
+  <data key="d0">autocratic elites</data>
+</node>
+<node id="http://llamos-kg.org/authoritarian_politics">
+  <data key="d0">authoritarian politics</data>
+</node>
+<node id="http://llamos-kg.org/Mark">
+  <data key="d0">Mark</data>
+</node>
+<node id="http://llamos-kg.org/interactional_patterns">
+  <data key="d0">interactional patterns</data>
+</node>
+<node id="http://llamos-kg.org/generative_deep_models">
+  <data key="d0">generative deep models</data>
+</node>
+<node id="http://llamos-kg.org/underground_economy">
+  <data key="d0">underground economy</data>
+</node>
+<node id="http://llamos-kg.org/comparative_analysis">
+  <data key="d0">comparative analysis</data>
+</node>
+<node id="http://llamos-kg.org/strategic_distinct_preferences">
+  <data key="d0">strategic distinct preferences</data>
+</node>
+<node id="http://llamos-kg.org/Sounding_Board">
+  <data key="d0">Sounding Board</data>
+</node>
+<node id="http://llamos-kg.org/critical_view">
+  <data key="d0">critical view</data>
+</node>
+<node id="http://llamos-kg.org/Matthew_Hutson">
+  <data key="d0">Matthew Hutson</data>
+</node>
+<node id="http://llamos-kg.org/Science">
+  <data key="d0">Science</data>
+</node>
+<node id="http://llamos-kg.org/comprehensive_analysis">
+  <data key="d0">comprehensive analysis</data>
+</node>
+<node id="http://llamos-kg.org/political_party">
+  <data key="d0">political party</data>
+</node>
+<node id="http://llamos-kg.org/startup_companies">
+  <data key="d0">startup companies</data>
+</node>
+<node id="http://llamos-kg.org/detection_services">
+  <data key="d0">detection services</data>
+</node>
+<node id="http://llamos-kg.org/Clandestine_acts">
+  <data key="d0">Clandestine acts</data>
+</node>
+<node id="http://llamos-kg.org/data_retrospective_collection">
+  <data key="d0">data retrospective collection</data>
+</node>
+<node id="http://llamos-kg.org/additional_biases">
+  <data key="d0">additional biases</data>
+</node>
+<node id="http://llamos-kg.org/DemSystemPreferable">
+  <data key="d0">DemSystemPreferable</data>
+</node>
+<node id="http://llamos-kg.org/sparse_data">
+  <data key="d0">sparse data</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_prospective_actor">
+  <data key="d0">disinformation prospective actor</data>
+</node>
+<node id="http://llamos-kg.org/Power">
+  <data key="d0">Power</data>
+</node>
+<node id="http://llamos-kg.org/service_provider">
+  <data key="d0">service provider</data>
+</node>
+<node id="http://llamos-kg.org/data_hardware_probes">
+  <data key="d0">data hardware probes</data>
+</node>
+<node id="http://llamos-kg.org/Declarations_Con_ict">
+  <data key="d0">Declarations Conﬂict</data>
+</node>
+<node id="http://llamos-kg.org/Con_ict">
+  <data key="d0">Conﬂict</data>
+</node>
+<node id="http://llamos-kg.org/Temporal_analysis">
+  <data key="d0">Temporal analysis</data>
+</node>
+<node id="http://llamos-kg.org/time_understanding">
+  <data key="d0">time understanding</data>
+</node>
+<node id="http://llamos-kg.org/independent_media">
+  <data key="d0">independent media</data>
+</node>
+<node id="http://llamos-kg.org/Syria">
+  <data key="d0">Syria</data>
+</node>
+<node id="http://llamos-kg.org/States_assessment">
+  <data key="d0">States assessment</data>
+</node>
+<node id="http://llamos-kg.org/Economic_Governance">
+  <data key="d0">Economic Governance</data>
+</node>
+<node id="http://llamos-kg.org/Social_Contracts">
+  <data key="d0">Social Contracts</data>
+</node>
+<node id="http://llamos-kg.org/global_profound_transformations">
+  <data key="d0">global profound transformations</data>
+</node>
+<node id="http://llamos-kg.org/widespread_adoption">
+  <data key="d0">widespread adoption</data>
+</node>
+<node id="http://llamos-kg.org/robust_platform">
+  <data key="d0">robust platform</data>
+</node>
+<node id="http://llamos-kg.org/Deeptrace">
+  <data key="d0">Deeptrace</data>
+</node>
+<node id="http://llamos-kg.org/model">
+  <data key="d0">model</data>
+</node>
+<node id="http://llamos-kg.org/Russian_ambassador">
+  <data key="d0">Russian ambassador</data>
+</node>
+<node id="http://llamos-kg.org/Express">
+  <data key="d0">Express</data>
+</node>
+<node id="http://llamos-kg.org/Edward_Wong">
+  <data key="d0">Edward Wong</data>
+</node>
+<node id="http://llamos-kg.org/Botmasters">
+  <data key="d0">Botmasters</data>
+</node>
+<node id="http://llamos-kg.org/darkweb_marketplaces">
+  <data key="d0">darkweb marketplaces</data>
+</node>
+<node id="http://llamos-kg.org/dot_Chinese_org">
+  <data key="d0">dot Chinese org</data>
+</node>
+<node id="http://llamos-kg.org/regime">
+  <data key="d0">regime</data>
+</node>
+<node id="http://llamos-kg.org/targeted_repression">
+  <data key="d0">targeted repression</data>
+</node>
+<node id="http://llamos-kg.org/Incourse911">
+  <data key="d0">Incourse911</data>
+</node>
+<node id="http://llamos-kg.org/Belarus">
+  <data key="d0">Belarus</data>
+</node>
+<node id="http://llamos-kg.org/false_information">
+  <data key="d0">false information</data>
+</node>
+<node id="http://llamos-kg.org/VPN_services">
+  <data key="d0">VPN services</data>
+</node>
+<node id="http://llamos-kg.org/distinctive_traces">
+  <data key="d0">distinctive traces</data>
+</node>
+<node id="http://llamos-kg.org/Artificial_intelligence">
+  <data key="d0">Artificial intelligence</data>
+</node>
+<node id="http://llamos-kg.org/Yandex">
+  <data key="d0">Yandex</data>
+</node>
+<node id="http://llamos-kg.org/Internet_Russian_major_giants">
+  <data key="d0">Internet Russian major giants</data>
+</node>
+<node id="http://llamos-kg.org/State_Dependency">
+  <data key="d0">State Dependency</data>
+</node>
+<node id="http://llamos-kg.org/Demand">
+  <data key="d0">Demand</data>
+</node>
+<node id="http://llamos-kg.org/interview_sample">
+  <data key="d0">interview sample</data>
+</node>
+<node id="http://llamos-kg.org/interesting_segment">
+  <data key="d0">interesting segment</data>
+</node>
+<node id="http://llamos-kg.org/Twitter">
+  <data key="d0">Twitter</data>
+</node>
+<node id="http://llamos-kg.org/Guardian">
+  <data key="d0">Guardian</data>
+</node>
+<node id="http://llamos-kg.org/Values">
+  <data key="d0">Values</data>
+</node>
+<node id="http://llamos-kg.org/positive_correlation">
+  <data key="d0">positive correlation</data>
+</node>
+<node id="http://llamos-kg.org/Television">
+  <data key="d0">Television</data>
+</node>
+<node id="http://llamos-kg.org/main_source">
+  <data key="d0">main source</data>
+</node>
+<node id="http://llamos-kg.org/limited_understanding">
+  <data key="d0">limited understanding</data>
+</node>
+<node id="http://llamos-kg.org/Inconsistent_documentation">
+  <data key="d0">Inconsistent documentation</data>
+</node>
+<node id="http://llamos-kg.org/significant_issue">
+  <data key="d0">significant issue</data>
+</node>
+<node id="http://llamos-kg.org/public_dissemination">
+  <data key="d0">public dissemination</data>
+</node>
+<node id="http://llamos-kg.org/Biden_administration">
+  <data key="d0">Biden administration</data>
+</node>
+<node id="http://llamos-kg.org/information_networks">
+  <data key="d0">information networks</data>
+</node>
+<node id="http://llamos-kg.org/salient_moments">
+  <data key="d0">salient moments</data>
+</node>
+<node id="http://llamos-kg.org/aggre__gates">
+  <data key="d0">aggre­ gates</data>
+</node>
+<node id="http://llamos-kg.org/Dictators">
+  <data key="d0">Dictators</data>
+</node>
+<node id="http://llamos-kg.org/detectable_deepfakes">
+  <data key="d0">detectable deepfakes</data>
+</node>
+<node id="http://llamos-kg.org/resilience_gains">
+  <data key="d0">resilience gains</data>
+</node>
+<node id="http://llamos-kg.org/Author_s">
+  <data key="d0">Author(s</data>
+</node>
+<node id="http://llamos-kg.org/prominent_threat">
+  <data key="d0">prominent threat</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_themes">
+  <data key="d0">disinformation themes</data>
+</node>
+<node id="http://llamos-kg.org/Changes">
+  <data key="d0">Changes</data>
+</node>
+<node id="http://llamos-kg.org/elite___intra_composition">
+  <data key="d0">elite - intra composition</data>
+</node>
+<node id="http://llamos-kg.org/takedown_operations">
+  <data key="d0">takedown operations</data>
+</node>
+<node id="http://llamos-kg.org/Ukrainian_government">
+  <data key="d0">Ukrainian government</data>
+</node>
+<node id="http://llamos-kg.org/Army">
+  <data key="d0">Army</data>
+</node>
+<node id="http://llamos-kg.org/new_types">
+  <data key="d0">new types</data>
+</node>
+<node id="http://llamos-kg.org/consump__tion">
+  <data key="d0">consump­ tion</data>
+</node>
+<node id="http://llamos-kg.org/travel_threatorientated_advice">
+  <data key="d0">travel threatorientated advice</data>
+</node>
+<node id="http://llamos-kg.org/led_simpler_communications">
+  <data key="d0">led simpler communications</data>
+</node>
+<node id="http://llamos-kg.org/Western_agents">
+  <data key="d0">Western agents</data>
+</node>
+<node id="http://llamos-kg.org/Observers">
+  <data key="d0">Observers</data>
+</node>
+<node id="http://llamos-kg.org/protest_wave">
+  <data key="d0">protest wave</data>
+</node>
+<node id="http://llamos-kg.org/Britain">
+  <data key="d0">Britain</data>
+</node>
+<node id="http://llamos-kg.org/careful_measures">
+  <data key="d0">careful measures</data>
+</node>
+<node id="http://llamos-kg.org/Sensitive_data">
+  <data key="d0">Sensitive data</data>
+</node>
+<node id="http://llamos-kg.org/political_opinions">
+  <data key="d0">political opinions</data>
+</node>
+<node id="http://llamos-kg.org/different_media">
+  <data key="d0">different media</data>
+</node>
+<node id="http://llamos-kg.org/indiscriminate_violence">
+  <data key="d0">indiscriminate violence</data>
+</node>
+<node id="http://llamos-kg.org/opposite_effect">
+  <data key="d0">opposite effect</data>
+</node>
+<node id="http://llamos-kg.org/high_rate">
+  <data key="d0">high rate</data>
+</node>
+<node id="http://llamos-kg.org/strategic_importance">
+  <data key="d0">strategic importance</data>
+</node>
+<node id="http://llamos-kg.org/evolving_relationship">
+  <data key="d0">evolving relationship</data>
+</node>
+<node id="http://llamos-kg.org/India">
+  <data key="d0">India</data>
+</node>
+<node id="http://llamos-kg.org/regimes">
+  <data key="d0">regimes</data>
+</node>
+<node id="http://llamos-kg.org/CCDH">
+  <data key="d0">CCDH</data>
+</node>
+<node id="http://llamos-kg.org/data_collection">
+  <data key="d0">data collection</data>
+</node>
+<node id="http://llamos-kg.org/authoritarian_contexts">
+  <data key="d0">authoritarian contexts</data>
+</node>
+<node id="http://llamos-kg.org/middle_dependent_class">
+  <data key="d0">middle dependent class</data>
+</node>
+<node id="http://llamos-kg.org/Capacity_Deepfakes">
+  <data key="d0">Capacity Deepfakes</data>
+</node>
+<node id="http://llamos-kg.org/unique_opportunity">
+  <data key="d0">unique opportunity</data>
+</node>
+<node id="http://llamos-kg.org/overall_cost">
+  <data key="d0">overall cost</data>
+</node>
+<node id="http://llamos-kg.org/trained_eye">
+  <data key="d0">trained eye</data>
+</node>
+<node id="http://llamos-kg.org/crude_deepfakes">
+  <data key="d0">crude deepfakes</data>
+</node>
+<node id="http://llamos-kg.org/Weekday_distribution">
+  <data key="d0">Weekday distribution</data>
+</node>
+<node id="http://llamos-kg.org/expansive_campaign">
+  <data key="d0">expansive campaign</data>
+</node>
+<node id="http://llamos-kg.org/reproducibility_crisis">
+  <data key="d0">reproducibility crisis</data>
+</node>
+<node id="http://llamos-kg.org/Inconsistent_practices">
+  <data key="d0">Inconsistent practices</data>
+</node>
+<node id="http://llamos-kg.org/Working_Conficker_Group">
+  <data key="d0">Working Conficker Group</data>
+</node>
+<node id="http://llamos-kg.org/digital_recent_innovations">
+  <data key="d0">digital recent innovations</data>
+</node>
+<node id="http://llamos-kg.org/broad_range">
+  <data key="d0">broad range</data>
+</node>
+<node id="http://llamos-kg.org/digital_techniques">
+  <data key="d0">digital techniques</data>
+</node>
+<node id="http://llamos-kg.org/authoritarian_incumbents">
+  <data key="d0">authoritarian incumbents</data>
+</node>
+<node id="http://llamos-kg.org/media_sphere">
+  <data key="d0">media sphere</data>
+</node>
+<node id="http://llamos-kg.org/oppositional_power">
+  <data key="d0">oppositional power</data>
+</node>
+<node id="http://llamos-kg.org/Council">
+  <data key="d0">Council</data>
+</node>
+<node id="http://llamos-kg.org/quality_journalism">
+  <data key="d0">quality journalism</data>
+</node>
+<node id="http://llamos-kg.org/Chinese_government">
+  <data key="d0">Chinese government</data>
+</node>
+<node id="http://llamos-kg.org/undesirable_sites">
+  <data key="d0">undesirable sites</data>
+</node>
+<node id="http://llamos-kg.org/Russian_state">
+  <data key="d0">Russian state</data>
+</node>
+<node id="http://llamos-kg.org/new_constraints">
+  <data key="d0">new constraints</data>
+</node>
+<node id="http://llamos-kg.org/political_innovation">
+  <data key="d0">political innovation</data>
+</node>
+<node id="http://llamos-kg.org/hacktivist_group">
+  <data key="d0">hacktivist group</data>
+</node>
+<node id="http://llamos-kg.org/INTERPOL">
+  <data key="d0">INTERPOL</data>
+</node>
+<node id="http://llamos-kg.org/global_operation">
+  <data key="d0">global operation</data>
+</node>
+<node id="http://llamos-kg.org/Peer_sinkholing">
+  <data key="d0">Peer sinkholing</data>
+</node>
+<node id="http://llamos-kg.org/bot_assimilation">
+  <data key="d0">bot assimilation</data>
+</node>
+<node id="http://llamos-kg.org/policy_demands">
+  <data key="d0">policy demands</data>
+</node>
+<node id="http://llamos-kg.org/new_era">
+  <data key="d0">new era</data>
+</node>
+<node id="http://llamos-kg.org/Technoactivism">
+  <data key="d0">Technoactivism</data>
+</node>
+<node id="http://llamos-kg.org/technical_extensive_expertise">
+  <data key="d0">technical extensive expertise</data>
+</node>
+<node id="http://llamos-kg.org/LangNatvBEL">
+  <data key="d0">LangNatvBEL</data>
+</node>
+<node id="http://llamos-kg.org/existing_systems">
+  <data key="d0">existing systems</data>
+</node>
+<node id="http://llamos-kg.org/technical_capacities">
+  <data key="d0">technical capacities</data>
+</node>
+<node id="http://llamos-kg.org/Research">
+  <data key="d0">Research</data>
+</node>
+<node id="http://llamos-kg.org/repressive_regimes">
+  <data key="d0">repressive regimes</data>
+</node>
+<node id="http://llamos-kg.org/current_scope">
+  <data key="d0">current scope</data>
+</node>
+<node id="http://llamos-kg.org/relevant_regulation">
+  <data key="d0">relevant regulation</data>
+</node>
+<node id="http://llamos-kg.org/global_standard">
+  <data key="d0">global standard</data>
+</node>
+<node id="http://llamos-kg.org/identity_factors">
+  <data key="d0">identity factors</data>
+</node>
+<node id="http://llamos-kg.org/engagement_Belarus">
+  <data key="d0">engagement Belarus</data>
+</node>
+<node id="http://llamos-kg.org/EDPS">
+  <data key="d0">EDPS</data>
+</node>
+<node id="http://llamos-kg.org/Opinion">
+  <data key="d0">Opinion</data>
+</node>
+<node id="http://llamos-kg.org/Great_Chinese_Firewall">
+  <data key="d0">Great Chinese Firewall</data>
+</node>
+<node id="http://llamos-kg.org/numerous_algorithms">
+  <data key="d0">numerous algorithms</data>
+</node>
+<node id="http://llamos-kg.org/VotedTsikhanouskaya">
+  <data key="d0">VotedTsikhanouskaya</data>
+</node>
+<node id="http://llamos-kg.org/technol__modern_ogy">
+  <data key="d0">technol­ modern ogy</data>
+</node>
+<node id="http://llamos-kg.org/service_media">
+  <data key="d0">service media</data>
+</node>
+<node id="http://llamos-kg.org/free_airtime">
+  <data key="d0">free airtime</data>
+</node>
+<node id="http://llamos-kg.org/CoP">
+  <data key="d0">CoP</data>
+</node>
+<node id="http://llamos-kg.org/transitional_measure">
+  <data key="d0">transitional measure</data>
+</node>
+<node id="http://llamos-kg.org/Samantha">
+  <data key="d0">Samantha</data>
+</node>
+<node id="http://llamos-kg.org/data_annotation">
+  <data key="d0">data annotation</data>
+</node>
+<node id="http://llamos-kg.org/different_addresses">
+  <data key="d0">different addresses</data>
+</node>
+<node id="http://llamos-kg.org/Web_Amazon_Services">
+  <data key="d0">Web Amazon Services</data>
+</node>
+<node id="http://llamos-kg.org/Detection_Deepfake_Challenge">
+  <data key="d0">Detection Deepfake Challenge</data>
+</node>
+<node id="http://llamos-kg.org/Mozilla">
+  <data key="d0">Mozilla</data>
+</node>
+<node id="http://llamos-kg.org/action">
+  <data key="d0">action</data>
+</node>
+<node id="http://llamos-kg.org/Internet_users">
+  <data key="d0">Internet users</data>
+</node>
+<node id="http://llamos-kg.org/special_interest">
+  <data key="d0">special interest</data>
+</node>
+<node id="http://llamos-kg.org/MIT_Press">
+  <data key="d0">MIT Press</data>
+</node>
+<node id="http://llamos-kg.org/Ian_Goodfellow">
+  <data key="d0">Ian Goodfellow</data>
+</node>
+<node id="http://llamos-kg.org/deciding_factors">
+  <data key="d0">deciding factors</data>
+</node>
+<node id="http://llamos-kg.org/tain_cer__actors">
+  <data key="d0">tain cer­ actors</data>
+</node>
+<node id="http://llamos-kg.org/Gerasimov_Doctrine">
+  <data key="d0">Gerasimov Doctrine</data>
+</node>
+<node id="http://llamos-kg.org/Molly_Mckew">
+  <data key="d0">Molly Mckew</data>
+</node>
+<node id="http://llamos-kg.org/Digital_popularity_21_capabilities">
+  <data key="d0">Digital popularity.21 capabilities</data>
+</node>
+<node id="http://llamos-kg.org/dictatorial_existing_tools">
+  <data key="d0">dictatorial existing tools</data>
+</node>
+<node id="http://llamos-kg.org/pop_organized_protests">
+  <data key="d0">pop organized protests</data>
+</node>
+<node id="http://llamos-kg.org/human_chains">
+  <data key="d0">human chains</data>
+</node>
+<node id="http://llamos-kg.org/Draft">
+  <data key="d0">Draft</data>
+</node>
+<node id="http://llamos-kg.org/training_course">
+  <data key="d0">training course</data>
+</node>
+<node id="http://llamos-kg.org/persuasive_capacity">
+  <data key="d0">persuasive capacity</data>
+</node>
+<node id="http://llamos-kg.org/different_meanings">
+  <data key="d0">different meanings</data>
+</node>
+<node id="http://llamos-kg.org/Richard_Chief_Moore">
+  <data key="d0">Richard Chief Moore</data>
+</node>
+<node id="http://llamos-kg.org/emptive___pre_exposures">
+  <data key="d0">emptive - pre exposures</data>
+</node>
+<node id="http://llamos-kg.org/takedown_actors">
+  <data key="d0">takedown actors</data>
+</node>
+<node id="http://llamos-kg.org/ISPs">
+  <data key="d0">ISPs</data>
+</node>
+<node id="http://llamos-kg.org/Russians">
+  <data key="d0">Russians</data>
+</node>
+<node id="http://llamos-kg.org/controlled_TV">
+  <data key="d0">controlled TV</data>
+</node>
+<node id="http://llamos-kg.org/Analysis">
+  <data key="d0">Analysis</data>
+</node>
+<node id="http://llamos-kg.org/heat_detailed_map">
+  <data key="d0">heat detailed map</data>
+</node>
+<node id="http://llamos-kg.org/useful_platform">
+  <data key="d0">useful platform</data>
+</node>
+<node id="http://llamos-kg.org/al__gorithms">
+  <data key="d0">al­ gorithms</data>
+</node>
+<node id="http://llamos-kg.org/notable_surge">
+  <data key="d0">notable surge</data>
+</node>
+<node id="http://llamos-kg.org/Stakeholders">
+  <data key="d0">Stakeholders</data>
+</node>
+<node id="http://llamos-kg.org/radioactive_marking">
+  <data key="d0">radioactive marking</data>
+</node>
+<node id="http://llamos-kg.org/GDPR">
+  <data key="d0">GDPR</data>
+</node>
+<node id="http://llamos-kg.org/Protection_Directive">
+  <data key="d0">Protection Directive</data>
+</node>
+<node id="http://llamos-kg.org/public_conversations">
+  <data key="d0">public conversations</data>
+</node>
+<node id="http://llamos-kg.org/Dmitry_Gudkov">
+  <data key="d0">Dmitry Gudkov</data>
+</node>
+<node id="http://llamos-kg.org/Uber">
+  <data key="d0">Uber</data>
+</node>
+<node id="http://llamos-kg.org/Islamic_Republic">
+  <data key="d0">Islamic Republic</data>
+</node>
+<node id="http://llamos-kg.org/satellite_dishes">
+  <data key="d0">satellite dishes</data>
+</node>
+<node id="http://llamos-kg.org/research_literature">
+  <data key="d0">research literature</data>
+</node>
+<node id="http://llamos-kg.org/relevant_categories">
+  <data key="d0">relevant categories</data>
+</node>
+<node id="http://llamos-kg.org/economic_groups">
+  <data key="d0">economic groups</data>
+</node>
+<node id="http://llamos-kg.org/active_users">
+  <data key="d0">active users</data>
+</node>
+<node id="http://llamos-kg.org/Belarusian_distinguishing_protesters">
+  <data key="d0">Belarusian distinguishing protesters</data>
+</node>
+<node id="http://llamos-kg.org/positive_incentives">
+  <data key="d0">positive incentives</data>
+</node>
+<node id="http://llamos-kg.org/smaller_increases">
+  <data key="d0">smaller increases</data>
+</node>
+<node id="http://llamos-kg.org/Glossary_Center">
+  <data key="d0">Glossary Center</data>
+</node>
+<node id="http://llamos-kg.org/rare_conversation">
+  <data key="d0">rare conversation</data>
+</node>
+<node id="http://llamos-kg.org/Washington_Post">
+  <data key="d0">Washington Post</data>
+</node>
+<node id="http://llamos-kg.org/Authoritarianism">
+  <data key="d0">Authoritarianism</data>
+</node>
+<node id="http://llamos-kg.org/Intelligence_Joint_Committee">
+  <data key="d0">Intelligence Joint Committee</data>
+</node>
+<node id="http://llamos-kg.org/manipulation_intervenes">
+  <data key="d0">manipulation intervenes</data>
+</node>
+<node id="http://llamos-kg.org/behavioural_changes">
+  <data key="d0">behavioural changes</data>
+</node>
+<node id="http://llamos-kg.org/disinformation_paign">
+  <data key="d0">disinformation paign</data>
+</node>
+<node id="http://llamos-kg.org/experienced_specialist">
+  <data key="d0">experienced specialist</data>
+</node>
+<node id="http://llamos-kg.org/contentious___Non_Forms">
+  <data key="d0">contentious - Non Forms</data>
+</node>
+<node id="http://llamos-kg.org/Examples">
+  <data key="d0">Examples</data>
+</node>
+<node id="http://llamos-kg.org/joint_action">
+  <data key="d0">joint action</data>
+</node>
+<node id="http://llamos-kg.org/War_Propaganda">
+  <data key="d0">War Propaganda</data>
+</node>
+<node id="http://llamos-kg.org/Lukashenka___Anti_protesters">
+  <data key="d0">Lukashenka - Anti protesters</data>
+</node>
+<node id="http://llamos-kg.org/red_flag">
+  <data key="d0">red flag</data>
+</node>
+<node id="http://llamos-kg.org/photographic_evidence">
+  <data key="d0">photographic evidence</data>
+</node>
+<node id="http://llamos-kg.org/rich_source">
+  <data key="d0">rich source</data>
+</node>
+<node id="http://llamos-kg.org/attack_DDoS_strategies">
+  <data key="d0">attack DDoS strategies</data>
+</node>
+<node id="http://llamos-kg.org/distinct_difference">
+  <data key="d0">distinct difference</data>
+</node>
+<node id="http://llamos-kg.org/sophisticated_actors">
+  <data key="d0">sophisticated actors</data>
+</node>
+<node id="http://llamos-kg.org/tailored_deepfakes">
+  <data key="d0">tailored deepfakes</data>
+</node>
+<node id="http://llamos-kg.org/Pavel_Durov">
+  <data key="d0">Pavel Durov</data>
+</node>
+<node id="http://llamos-kg.org/grant_program">
+  <data key="d0">grant program</data>
+</node>
+<node id="http://llamos-kg.org/transformative_qualitative_change">
+  <data key="d0">transformative qualitative change</data>
+</node>
+<node id="http://llamos-kg.org/new_strategies">
+  <data key="d0">new strategies</data>
+</node>
+<node id="http://llamos-kg.org/private_discourses">
+  <data key="d0">private discourses</data>
+</node>
+<node id="http://llamos-kg.org/differing_inputs">
+  <data key="d0">differing inputs</data>
+</node>
+<node id="http://llamos-kg.org/follow_video">
+  <data key="d0">follow video</data>
+</node>
+<node id="http://llamos-kg.org/military_involvement">
+  <data key="d0">military involvement</data>
+</node>
+<edge source="http://llamos-kg.org/young_people" target="http://llamos-kg.org/Iran" id="0">
+  <data key="d1">leave</data>
+</edge>
+<edge source="http://llamos-kg.org/young_people" target="http://llamos-kg.org/social_media" id="0">
+  <data key="d1">adapt</data>
+</edge>
+<edge source="http://llamos-kg.org/Contribution" target="http://llamos-kg.org/Public_Sphere" id="0">
+  <data key="d1">rethink</data>
+</edge>
+<edge source="http://llamos-kg.org/Aouragh" target="http://llamos-kg.org/different_kinds" id="0">
+  <data key="d1">distinguish</data>
+</edge>
+<edge source="http://llamos-kg.org/Roskomnadzor" target="http://llamos-kg.org/notifica__push_tions" id="0">
+  <data key="d1">block</data>
+</edge>
+<edge source="http://llamos-kg.org/Roskomnadzor" target="http://llamos-kg.org/service_providers" id="0">
+  <data key="d1">tell</data>
+</edge>
+<edge source="http://llamos-kg.org/incen__tives" target="http://llamos-kg.org/disinformation_campaigns" id="0">
+  <data key="d1">lead</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/media_synthetic_techniques" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/Technology" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/ML_models" id="0">
+  <data key="d1">adopt</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/hostile_environment" id="0">
+  <data key="d1">confront</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/deepfakes" id="0">
+  <data key="d1">customize</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/deepfakes" id="1">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/false_information" id="0">
+  <data key="d1">spread</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/detectable_deepfakes" id="0">
+  <data key="d1">avoid</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaigns" target="http://llamos-kg.org/technol__modern_ogy" id="0">
+  <data key="d1">leverage</data>
+</edge>
+<edge source="http://llamos-kg.org/Dover" target="http://llamos-kg.org/symbiotic_relationship" id="0">
+  <data key="d1">highlight</data>
+</edge>
+<edge source="http://llamos-kg.org/News" target="http://llamos-kg.org/highest_frequency" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/popular_dataset" target="http://llamos-kg.org/synthetic_realistic_imagery" id="0">
+  <data key="d1">produce</data>
+</edge>
+<edge source="http://llamos-kg.org/Aaron_van" target="http://llamos-kg.org/Oord" id="0">
+  <data key="d1">den</data>
+</edge>
+<edge source="http://llamos-kg.org/Aaron_van" target="http://llamos-kg.org/Lord" id="0">
+  <data key="d1">den</data>
+</edge>
+<edge source="http://llamos-kg.org/data" target="http://llamos-kg.org/basic_contain_information" id="0">
+  <data key="d1">acquire</data>
+</edge>
+<edge source="http://llamos-kg.org/media_companies" target="http://llamos-kg.org/influence_campaign" id="0">
+  <data key="d1">deplatform</data>
+</edge>
+<edge source="http://llamos-kg.org/Bo_Katie_Lillis" target="http://llamos-kg.org/British_intelligence" id="0">
+  <data key="d1">bring</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram" target="http://llamos-kg.org/random_addresses" id="0">
+  <data key="d1">assign</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram" target="http://llamos-kg.org/push_called_updates" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram" target="http://llamos-kg.org/close_scrutiny" id="0">
+  <data key="d1">give</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram" target="http://llamos-kg.org/political_similar_ambitions" id="0">
+  <data key="d1">lack</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram" target="http://llamos-kg.org/active_monthly_users" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram" target="http://llamos-kg.org/different_addresses" id="0">
+  <data key="d1">assign</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram" target="http://llamos-kg.org/useful_platform" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram" target="http://llamos-kg.org/rich_source" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/younger_members" target="http://llamos-kg.org/political_views" id="0">
+  <data key="d1">characterize</data>
+</edge>
+<edge source="http://llamos-kg.org/WaveNet" target="http://llamos-kg.org/synthetic_voices" id="0">
+  <data key="d1">produce</data>
+</edge>
+<edge source="http://llamos-kg.org/lithuania" target="http://llamos-kg.org/goods_transit" id="0">
+  <data key="d1">ban</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram_chats" target="http://llamos-kg.org/major_tool" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/useful_surveys" target="http://llamos-kg.org/Devender_Raahat_Singh" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Usmanov" target="http://llamos-kg.org/Dmitry_Medvedev" id="0">
+  <data key="d1">bribe</data>
+</edge>
+<edge source="http://llamos-kg.org/CyberPalyanitsa" target="http://llamos-kg.org/websites" id="0">
+  <data key="d1">target</data>
+</edge>
+<edge source="http://llamos-kg.org/websites" target="http://llamos-kg.org/highest_second_rate" id="0">
+  <data key="d1">experience</data>
+</edge>
+<edge source="http://llamos-kg.org/Iraqi_WMD" target="http://llamos-kg.org/reputational_risks" id="0">
+  <data key="d1">underscore</data>
+</edge>
+<edge source="http://llamos-kg.org/Putin" target="http://llamos-kg.org/partial_mobilisation" id="0">
+  <data key="d1">order</data>
+</edge>
+<edge source="http://llamos-kg.org/target_host" target="http://llamos-kg.org/Botnet" id="0">
+  <data key="d1">join</data>
+</edge>
+<edge source="http://llamos-kg.org/Botnet" target="http://llamos-kg.org/personal_agenda" id="0">
+  <data key="d1">serve</data>
+</edge>
+<edge source="http://llamos-kg.org/Botnet" target="http://llamos-kg.org/P2P_architecture" id="0">
+  <data key="d1">follow</data>
+</edge>
+<edge source="http://llamos-kg.org/Botnet" target="http://llamos-kg.org/System" id="0">
+  <data key="d1">utilise</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_innovations" target="http://llamos-kg.org/digital_devices" id="0">
+  <data key="d1">require</data>
+</edge>
+<edge source="http://llamos-kg.org/Online_Activism" target="http://llamos-kg.org/based_alternative_power" id="0">
+  <data key="d1">add</data>
+</edge>
+<edge source="http://llamos-kg.org/research_cent_papers" target="http://llamos-kg.org/useful_details" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/Researchers" target="http://llamos-kg.org/strong_success" id="0">
+  <data key="d1">report</data>
+</edge>
+<edge source="http://llamos-kg.org/Researchers" target="http://llamos-kg.org/special_interest" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/Manuscript" target="http://llamos-kg.org/business_Botnet_models" id="0">
+  <data key="d1">submit</data>
+</edge>
+<edge source="http://llamos-kg.org/Manuscript" target="http://llamos-kg.org/Georgoulias" id="0">
+  <data key="d1">submit</data>
+</edge>
+<edge source="http://llamos-kg.org/media_social_platforms" target="http://llamos-kg.org/learning_process" id="0">
+  <data key="d1">help</data>
+</edge>
+<edge source="http://llamos-kg.org/Runet" target="http://llamos-kg.org/rich_diversity" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/Runet" target="http://llamos-kg.org/new_challenges" id="0">
+  <data key="d1">create</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukraine" target="http://llamos-kg.org/UK_claim" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukraine" target="http://llamos-kg.org/biological_funded_program" id="0">
+  <data key="d1">destroy</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukraine" target="http://llamos-kg.org/notable_surge" id="0">
+  <data key="d1">witness</data>
+</edge>
+<edge source="http://llamos-kg.org/Nicolas_Fandos" target="http://llamos-kg.org/Influence_Active_Campaign" id="0">
+  <data key="d1">identify</data>
+</edge>
+<edge source="http://llamos-kg.org/Conclusions" target="http://llamos-kg.org/possible_strategies" id="0">
+  <data key="d1">reveal</data>
+</edge>
+<edge source="http://llamos-kg.org/Malicious_actors" target="http://llamos-kg.org/influence_operations" id="0">
+  <data key="d1">enhance</data>
+</edge>
+<edge source="http://llamos-kg.org/Malicious_actors" target="http://llamos-kg.org/hostile_environment" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/influence_operations" target="http://llamos-kg.org/deciding_factors" id="0">
+  <data key="d1">weigh</data>
+</edge>
+<edge source="http://llamos-kg.org/civil_societies" target="http://llamos-kg.org/fascinating_continuity" id="0">
+  <data key="d1">represent</data>
+</edge>
+<edge source="http://llamos-kg.org/Government" target="http://llamos-kg.org/VPNs" id="0">
+  <data key="d1">block</data>
+</edge>
+<edge source="http://llamos-kg.org/Government" target="http://llamos-kg.org/sanitised_version" id="0">
+  <data key="d1">publish</data>
+</edge>
+<edge source="http://llamos-kg.org/Government" target="http://llamos-kg.org/encryption_codes" id="0">
+  <data key="d1">change</data>
+</edge>
+<edge source="http://llamos-kg.org/Government" target="http://llamos-kg.org/package_inspection" id="0">
+  <data key="d1">appropriate</data>
+</edge>
+<edge source="http://llamos-kg.org/online_sphere" target="http://llamos-kg.org/major_domain" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/AVCs" target="http://llamos-kg.org/Cybercriminal_Different_Platforms" id="0">
+  <data key="d1">understand</data>
+</edge>
+<edge source="http://llamos-kg.org/El_Paquete" target="http://llamos-kg.org/informational_alternative" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/Entertainment" target="http://llamos-kg.org/highest_frequency" id="0">
+  <data key="d1">experience</data>
+</edge>
+<edge source="http://llamos-kg.org/Entertainment" target="http://llamos-kg.org/smaller_increases" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/domains" target="http://llamos-kg.org/Cloud_are" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/domains" target="http://llamos-kg.org/DDoS_protection" id="0">
+  <data key="d1">lack</data>
+</edge>
+<edge source="http://llamos-kg.org/_gure_1b" target="http://llamos-kg.org/detailed_visualization" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/Akbari" target="http://llamos-kg.org/sociopolitical_context" id="0">
+  <data key="d1">describe</data>
+</edge>
+<edge source="http://llamos-kg.org/technological_innovation" target="http://llamos-kg.org/synergy_effects" id="0">
+  <data key="d1">bring</data>
+</edge>
+<edge source="http://llamos-kg.org/social_media" target="http://llamos-kg.org/Political_Protest" id="0">
+  <data key="d1">facilitate</data>
+</edge>
+<edge source="http://llamos-kg.org/social_media" target="http://llamos-kg.org/Psychology_39_S1" id="0">
+  <data key="d1">facilitate</data>
+</edge>
+<edge source="http://llamos-kg.org/social_media" target="http://llamos-kg.org/information_networks" id="0">
+  <data key="d1">represent</data>
+</edge>
+<edge source="http://llamos-kg.org/social_media" target="http://llamos-kg.org/evolving_relationship" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/social_media" target="http://llamos-kg.org/protest_movement" id="0">
+  <data key="d1">shape</data>
+</edge>
+<edge source="http://llamos-kg.org/social_media" target="http://llamos-kg.org/different_meanings" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/people" target="http://llamos-kg.org/Imam_Khomeini" id="0">
+  <data key="d1">love</data>
+</edge>
+<edge source="http://llamos-kg.org/people" target="http://llamos-kg.org/blocked_Telegram" id="0">
+  <data key="d1">prefer</data>
+</edge>
+<edge source="http://llamos-kg.org/people" target="http://llamos-kg.org/social_media" id="0">
+  <data key="d1">put</data>
+</edge>
+<edge source="http://llamos-kg.org/Figure" target="http://llamos-kg.org/collection_pipeline" id="0">
+  <data key="d1">illustrate</data>
+</edge>
+<edge source="http://llamos-kg.org/Supreme_Leader" target="http://llamos-kg.org/Telegram_channel" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_Sophisticated_campaigns" target="http://llamos-kg.org/deepfakes" id="0">
+  <data key="d1">want</data>
+</edge>
+<edge source="http://llamos-kg.org/deepfakes" target="http://llamos-kg.org/public_discourse" id="0">
+  <data key="d1">influence</data>
+</edge>
+<edge source="http://llamos-kg.org/deepfakes" target="http://llamos-kg.org/subtle_details" id="0">
+  <data key="d1">reproduce</data>
+</edge>
+<edge source="http://llamos-kg.org/deepfakes" target="http://llamos-kg.org/wide_range" id="0">
+  <data key="d1">exclude</data>
+</edge>
+<edge source="http://llamos-kg.org/Digital_tools" target="http://llamos-kg.org/autocrats" id="0">
+  <data key="d1">enable</data>
+</edge>
+<edge source="http://llamos-kg.org/Digital_tools" target="http://llamos-kg.org/exiled_opponents" id="0">
+  <data key="d1">enable</data>
+</edge>
+<edge source="http://llamos-kg.org/autocrats" target="http://llamos-kg.org/undesired_narratives" id="0">
+  <data key="d1">marginalize</data>
+</edge>
+<edge source="http://llamos-kg.org/autocrats" target="http://llamos-kg.org/similar_strategies" id="0">
+  <data key="d1">apply</data>
+</edge>
+<edge source="http://llamos-kg.org/autocrats" target="http://llamos-kg.org/digital_technologies" id="0">
+  <data key="d1">employ</data>
+</edge>
+<edge source="http://llamos-kg.org/autocrats" target="http://llamos-kg.org/digital_technologies" id="1">
+  <data key="d1">instrumentalize</data>
+</edge>
+<edge source="http://llamos-kg.org/autocrats" target="http://llamos-kg.org/online_content" id="0">
+  <data key="d1">censor</data>
+</edge>
+<edge source="http://llamos-kg.org/autocrats" target="http://llamos-kg.org/positive_incentives" id="0">
+  <data key="d1">set</data>
+</edge>
+<edge source="http://llamos-kg.org/mere_identification" target="http://llamos-kg.org/public_views" id="0">
+  <data key="d1">change</data>
+</edge>
+<edge source="http://llamos-kg.org/Fig_7" target="http://llamos-kg.org/cumulative_count" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/Iranians" target="http://llamos-kg.org/satellite_antenna" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Iranians" target="http://llamos-kg.org/internet" id="0">
+  <data key="d1">appropriate</data>
+</edge>
+<edge source="http://llamos-kg.org/Iranians" target="http://llamos-kg.org/Internet_Filtering" id="0">
+  <data key="d1">overcome</data>
+</edge>
+<edge source="http://llamos-kg.org/supreme_court" target="http://llamos-kg.org/nationwide_referendum" id="0">
+  <data key="d1">overturn</data>
+</edge>
+<edge source="http://llamos-kg.org/popular_websites" target="http://llamos-kg.org/online_library" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/state" target="http://llamos-kg.org/mobilizing_main_agent" id="0">
+  <data key="d1">remain</data>
+</edge>
+<edge source="http://llamos-kg.org/Dozen_users" target="http://llamos-kg.org/Journal" id="0">
+  <data key="d1">observe</data>
+</edge>
+<edge source="http://llamos-kg.org/Journal" target="http://llamos-kg.org/fertile_environment" id="0">
+  <data key="d1">create</data>
+</edge>
+<edge source="http://llamos-kg.org/Journal" target="http://llamos-kg.org/messaging_popular_platform" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/protest_sample" target="http://llamos-kg.org/higher_proportion" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian_websites" target="http://llamos-kg.org/DDoS_sustained_attacks" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/Haydamaki" target="http://llamos-kg.org/targeting_isolated_pattern" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/political_protest" target="http://llamos-kg.org/media_uptake" id="0">
+  <data key="d1">precede</data>
+</edge>
+<edge source="http://llamos-kg.org/Globalization" target="http://llamos-kg.org/Lives" id="0">
+  <data key="d1">reshape</data>
+</edge>
+<edge source="http://llamos-kg.org/Women" target="http://llamos-kg.org/Stereotypes" id="0">
+  <data key="d1">lead</data>
+</edge>
+<edge source="http://llamos-kg.org/dif__ferences" target="http://llamos-kg.org/rigorous_comparisons" id="0">
+  <data key="d1">make</data>
+</edge>
+<edge source="http://llamos-kg.org/GANs" target="http://llamos-kg.org/synthetic_images" id="0">
+  <data key="d1">generate</data>
+</edge>
+<edge source="http://llamos-kg.org/GANs" target="http://llamos-kg.org/paired_models" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/GANs" target="http://llamos-kg.org/key_area" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/GANs" target="http://llamos-kg.org/face_images" id="0">
+  <data key="d1">produce</data>
+</edge>
+<edge source="http://llamos-kg.org/VKontakte" target="http://llamos-kg.org/networks_market" id="0">
+  <data key="d1">dominate</data>
+</edge>
+<edge source="http://llamos-kg.org/VKontakte" target="http://llamos-kg.org/plat__form" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/mobile_network" target="http://llamos-kg.org/COVID_19" id="0">
+  <data key="d1">cause</data>
+</edge>
+<edge source="http://llamos-kg.org/Sectoral_dissection" target="http://llamos-kg.org/sectors" id="0">
+  <data key="d1">outline</data>
+</edge>
+<edge source="http://llamos-kg.org/sectors" target="http://llamos-kg.org/DDoS_repeated_attacks" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/FSB" target="http://llamos-kg.org/Telegram" id="0">
+  <data key="d1">ask</data>
+</edge>
+<edge source="http://llamos-kg.org/FSB" target="http://llamos-kg.org/Telegram" id="1">
+  <data key="d1">require</data>
+</edge>
+<edge source="http://llamos-kg.org/FSB" target="http://llamos-kg.org/formal_complaint" id="0">
+  <data key="d1">file</data>
+</edge>
+<edge source="http://llamos-kg.org/political_parties" target="http://llamos-kg.org/personal_data" id="0">
+  <data key="d1">compile</data>
+</edge>
+<edge source="http://llamos-kg.org/political_parties" target="http://llamos-kg.org/personal_data" id="1">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Disinformation_Dozen" target="http://llamos-kg.org/fewest_messages" id="0">
+  <data key="d1">post</data>
+</edge>
+<edge source="http://llamos-kg.org/Disinformation_Dozen" target="http://llamos-kg.org/Journal" id="0">
+  <data key="d1">post</data>
+</edge>
+<edge source="http://llamos-kg.org/Disinformation_Dozen" target="http://llamos-kg.org/disinformation_themes" id="0">
+  <data key="d1">initiate</data>
+</edge>
+<edge source="http://llamos-kg.org/Figures" target="http://llamos-kg.org/sectors" id="0">
+  <data key="d1">demonstrate</data>
+</edge>
+<edge source="http://llamos-kg.org/Technology" target="http://llamos-kg.org/Power" id="0">
+  <data key="d1">reshape</data>
+</edge>
+<edge source="http://llamos-kg.org/forwarding_users" target="http://llamos-kg.org/Bot_users" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Bot_users" target="http://llamos-kg.org/betweenness_higher_centrality" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Bot_users" target="http://llamos-kg.org/opinion_messages" id="0">
+  <data key="d1">author</data>
+</edge>
+<edge source="http://llamos-kg.org/Domain" target="http://llamos-kg.org/Server_shutdown" id="0">
+  <data key="d1">sinkhole</data>
+</edge>
+<edge source="http://llamos-kg.org/Internet_Filtering" target="http://llamos-kg.org/virtual_community" id="0">
+  <data key="d1">grow</data>
+</edge>
+<edge source="http://llamos-kg.org/Brian_Murphy" target="http://llamos-kg.org/Center" id="0">
+  <data key="d1">need</data>
+</edge>
+<edge source="http://llamos-kg.org/Center" target="http://llamos-kg.org/machine_learning" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Center" target="http://llamos-kg.org/wide_range" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Center" target="http://llamos-kg.org/persuasive_capacity" id="0">
+  <data key="d1">define</data>
+</edge>
+<edge source="http://llamos-kg.org/Center" target="http://llamos-kg.org/photographic_evidence" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/Revolutionary_Guards" target="http://llamos-kg.org/VPN_servers" id="0">
+  <data key="d1">run</data>
+</edge>
+<edge source="http://llamos-kg.org/Revolutionary_Guards" target="http://llamos-kg.org/political_sectors" id="0">
+  <data key="d1">enter</data>
+</edge>
+<edge source="http://llamos-kg.org/Revolutionary_Guards" target="http://llamos-kg.org/VPN_services" id="0">
+  <data key="d1">implement</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaign" target="http://llamos-kg.org/deepfakes" id="0">
+  <data key="d1">choose</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaign" target="http://llamos-kg.org/trained___pre_model" id="0">
+  <data key="d1">obtain</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaign" target="http://llamos-kg.org/generative_deep_model" id="0">
+  <data key="d1">train</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_campaign" target="http://llamos-kg.org/generative_model" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_tools" target="http://llamos-kg.org/perpetual_agenda" id="0">
+  <data key="d1">affect</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian_authorities" target="http://llamos-kg.org/failed_attempt" id="0">
+  <data key="d1">make</data>
+</edge>
+<edge source="http://llamos-kg.org/data_subject" target="http://llamos-kg.org/informed_specific_explicit_consent" id="0">
+  <data key="d1">give</data>
+</edge>
+<edge source="http://llamos-kg.org/Gunitsky_S" target="http://llamos-kg.org/Perspectives" id="0">
+  <data key="d1">corrupt</data>
+</edge>
+<edge source="http://llamos-kg.org/Gunitsky_S" target="http://llamos-kg.org/Cyber_Commons" id="0">
+  <data key="d1">corrupt</data>
+</edge>
+<edge source="http://llamos-kg.org/Gunitsky_S" target="http://llamos-kg.org/social_media" id="0">
+  <data key="d1">corrupt</data>
+</edge>
+<edge source="http://llamos-kg.org/Digitalization" target="http://llamos-kg.org/horizontal_connective_new_modes" id="0">
+  <data key="d1">enable</data>
+</edge>
+<edge source="http://llamos-kg.org/political_significant_developments" target="http://llamos-kg.org/military_coup" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_unsophisticated_campaigns" target="http://llamos-kg.org/deepfakes" id="0">
+  <data key="d1">adopt</data>
+</edge>
+<edge source="http://llamos-kg.org/users" target="http://llamos-kg.org/content_Messages" id="0">
+  <data key="d1">post</data>
+</edge>
+<edge source="http://llamos-kg.org/users" target="http://llamos-kg.org/new_content" id="0">
+  <data key="d1">discover</data>
+</edge>
+<edge source="http://llamos-kg.org/users" target="http://llamos-kg.org/discourse_information" id="0">
+  <data key="d1">generate</data>
+</edge>
+<edge source="http://llamos-kg.org/users" target="http://llamos-kg.org/short_text" id="0">
+  <data key="d1">post</data>
+</edge>
+<edge source="http://llamos-kg.org/users" target="http://llamos-kg.org/public_conversations" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Google" target="http://llamos-kg.org/ing_includ__companies" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/Google" target="http://llamos-kg.org/evident_progress" id="0">
+  <data key="d1">make</data>
+</edge>
+<edge source="http://llamos-kg.org/insuf_cient_security" target="http://llamos-kg.org/attacks" id="0">
+  <data key="d1">persist</data>
+</edge>
+<edge source="http://llamos-kg.org/attacks" target="http://llamos-kg.org/defensive_measures" id="0">
+  <data key="d1">understand</data>
+</edge>
+<edge source="http://llamos-kg.org/attacks" target="http://llamos-kg.org/prominent_threat" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/technology_block" target="http://llamos-kg.org/botnet_applications" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Recommendation" target="http://llamos-kg.org/member_states" id="0">
+  <data key="d1">advise</data>
+</edge>
+<edge source="http://llamos-kg.org/Recommendation" target="http://llamos-kg.org/Simple_Detection_deepfakes" id="0">
+  <data key="d1">commodify</data>
+</edge>
+<edge source="http://llamos-kg.org/Recommendation" target="http://llamos-kg.org/Inconsistent_practices" id="0">
+  <data key="d1">encourage</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukrainian___Pro_groups" target="http://llamos-kg.org/DDoS_attacks" id="0">
+  <data key="d1">conduct</data>
+</edge>
+<edge source="http://llamos-kg.org/Chinese_Government" target="http://llamos-kg.org/Media_Posts" id="0">
+  <data key="d1">fabricate</data>
+</edge>
+<edge source="http://llamos-kg.org/Dies" target="http://llamos-kg.org/Covid_masks" id="0">
+  <data key="d1">dod</data>
+</edge>
+<edge source="http://llamos-kg.org/malicious_actor" target="http://llamos-kg.org/generative_models" id="0">
+  <data key="d1">create</data>
+</edge>
+<edge source="http://llamos-kg.org/malicious_actor" target="http://llamos-kg.org/tailored_GAN" id="0">
+  <data key="d1">build</data>
+</edge>
+<edge source="http://llamos-kg.org/Traditional_concepts" target="http://llamos-kg.org/limited_capacity" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Past_work" target="http://llamos-kg.org/Framework" id="0">
+  <data key="d1">develop</data>
+</edge>
+<edge source="http://llamos-kg.org/Network_analysis" target="http://llamos-kg.org/eye_view" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/popular_forums" target="http://llamos-kg.org/Dread" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukrainian" target="http://llamos-kg.org/DDoS_attacks" id="0">
+  <data key="d1">initiate</data>
+</edge>
+<edge source="http://llamos-kg.org/broad_concerns" target="http://llamos-kg.org/government_discourse" id="0">
+  <data key="d1">shape</data>
+</edge>
+<edge source="http://llamos-kg.org/existing_overlaps" target="http://llamos-kg.org/value_targets" id="0">
+  <data key="d1">highlight</data>
+</edge>
+<edge source="http://llamos-kg.org/ML_models" target="http://llamos-kg.org/suspicious_distortions" id="0">
+  <data key="d1">leave</data>
+</edge>
+<edge source="http://llamos-kg.org/translate_Manuscript" target="http://llamos-kg.org/business_Botnet_models" id="0">
+  <data key="d1">submit</data>
+</edge>
+<edge source="http://llamos-kg.org/Proceedings" target="http://llamos-kg.org/cooperative_work" id="0">
+  <data key="d1">support</data>
+</edge>
+<edge source="http://llamos-kg.org/web_dark_users" target="http://llamos-kg.org/postal_services" id="0">
+  <data key="d1">utilise</data>
+</edge>
+<edge source="http://llamos-kg.org/Ned_spokesperson_Price" target="http://llamos-kg.org/tough_questions" id="0">
+  <data key="d1">outline</data>
+</edge>
+<edge source="http://llamos-kg.org/Ned_spokesperson_Price" target="http://llamos-kg.org/fake_operation" id="0">
+  <data key="d1">outline</data>
+</edge>
+<edge source="http://llamos-kg.org/building_block" target="http://llamos-kg.org/maintenance_hardware_costs" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/building_block" target="http://llamos-kg.org/overall_cost" id="0">
+  <data key="d1">describe</data>
+</edge>
+<edge source="http://llamos-kg.org/Cent" target="http://llamos-kg.org/Click_trajectories" id="0">
+  <data key="d1">hit</data>
+</edge>
+<edge source="http://llamos-kg.org/Cent" target="http://llamos-kg.org/Botnets" id="0">
+  <data key="d1">hit</data>
+</edge>
+<edge source="http://llamos-kg.org/Cent" target="http://llamos-kg.org/credential_Botnets_theft" id="0">
+  <data key="d1">hit</data>
+</edge>
+<edge source="http://llamos-kg.org/Cent" target="http://llamos-kg.org/underground_economy" id="0">
+  <data key="d1">hit</data>
+</edge>
+<edge source="http://llamos-kg.org/alternative_system" target="http://llamos-kg.org/comparable_performance" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/China" target="http://llamos-kg.org/Russia" id="0">
+  <data key="d1">ask</data>
+</edge>
+<edge source="http://llamos-kg.org/China" target="http://llamos-kg.org/current_scope" id="0">
+  <data key="d1">highlight</data>
+</edge>
+<edge source="http://llamos-kg.org/Russia" target="http://llamos-kg.org/Ukraine" id="0">
+  <data key="d1">invade</data>
+</edge>
+<edge source="http://llamos-kg.org/Russia" target="http://llamos-kg.org/chemical_weapons" id="0">
+  <data key="d1">deploy</data>
+</edge>
+<edge source="http://llamos-kg.org/Russia" target="http://llamos-kg.org/military_massive_offensive" id="0">
+  <data key="d1">plan</data>
+</edge>
+<edge source="http://llamos-kg.org/Russia" target="http://llamos-kg.org/Internet_users" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Russia" target="http://llamos-kg.org/military_involvement" id="0">
+  <data key="d1">escalate</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_platforms" target="http://llamos-kg.org/Russian_users" id="0">
+  <data key="d1">afford</data>
+</edge>
+<edge source="http://llamos-kg.org/frequent_targeting" target="http://llamos-kg.org/deliberate_effort" id="0">
+  <data key="d1">suggest</data>
+</edge>
+<edge source="http://llamos-kg.org/International_Journal" target="http://llamos-kg.org/target_preferences" id="0">
+  <data key="d1">examine</data>
+</edge>
+<edge source="http://llamos-kg.org/International_Journal" target="http://llamos-kg.org/Emre_Ekmekcioglu1" id="0">
+  <data key="d1">examine</data>
+</edge>
+<edge source="http://llamos-kg.org/ordinary_citizens" target="http://llamos-kg.org/basic_rights" id="0">
+  <data key="d1">view</data>
+</edge>
+<edge source="http://llamos-kg.org/models" target="http://llamos-kg.org/Center" id="0">
+  <data key="d1">train</data>
+</edge>
+<edge source="http://llamos-kg.org/models" target="http://llamos-kg.org/false_narratives" id="0">
+  <data key="d1">spread</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian___pro_groups" target="http://llamos-kg.org/DDoS_attacks" id="0">
+  <data key="d1">launch</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian___pro_groups" target="http://llamos-kg.org/Lithuanian_websites" id="0">
+  <data key="d1">ddosed</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian___pro_groups" target="http://llamos-kg.org/websites" id="0">
+  <data key="d1">target</data>
+</edge>
+<edge source="http://llamos-kg.org/Review" target="http://llamos-kg.org/Brendan_Nyhan" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/Review" target="http://llamos-kg.org/et_al" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/OpenNet_Initative" target="http://llamos-kg.org/Peluso" id="0">
+  <data key="d1">resea​rch/​profi​les/​iran</data>
+</edge>
+<edge source="http://llamos-kg.org/Chinese_regime" target="http://llamos-kg.org/media_comments" id="0">
+  <data key="d1">forge</data>
+</edge>
+<edge source="http://llamos-kg.org/technological_new_possibilities" target="http://llamos-kg.org/autocratic_politics" id="0">
+  <data key="d1">affect</data>
+</edge>
+<edge source="http://llamos-kg.org/deepfake_aggressive_Widespread_detection" target="http://llamos-kg.org/messaging_private_networks" id="0">
+  <data key="d1">cover</data>
+</edge>
+<edge source="http://llamos-kg.org/demographic_variables" target="http://llamos-kg.org/political_dispositions" id="0">
+  <data key="d1">share</data>
+</edge>
+<edge source="http://llamos-kg.org/Anon_by" target="http://llamos-kg.org/overlapping_highest_value" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/International_team" target="http://llamos-kg.org/Andromeda_spewing_botnet" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/GAN" target="http://llamos-kg.org/generative_network" id="0">
+  <data key="d1">produce</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukrainian___pro_groups" target="http://llamos-kg.org/Cyber_Army" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukrainian___pro_groups" target="http://llamos-kg.org/CyberPalyanista" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukrainian___pro_groups" target="http://llamos-kg.org/Incourse911" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Cyber_Army" target="http://llamos-kg.org/websites" id="0">
+  <data key="d1">target</data>
+</edge>
+<edge source="http://llamos-kg.org/malicious_actors" target="http://llamos-kg.org/Technology" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/malicious_actors" target="http://llamos-kg.org/ML_models" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/cleavage_coalition" target="http://llamos-kg.org/streets" id="0">
+  <data key="d1">fill</data>
+</edge>
+<edge source="http://llamos-kg.org/Botnets" target="http://llamos-kg.org/credential_fraud" id="0">
+  <data key="d1">perform</data>
+</edge>
+<edge source="http://llamos-kg.org/Microsoft" target="http://llamos-kg.org/coordinated_takedown" id="0">
+  <data key="d1">orchestrate</data>
+</edge>
+<edge source="http://llamos-kg.org/Microsoft" target="http://llamos-kg.org/IP_addresses" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/Microsoft" target="http://llamos-kg.org/ZeroAccess_notorious_botnet" id="0">
+  <data key="d1">disrupt</data>
+</edge>
+<edge source="http://llamos-kg.org/Microsoft" target="http://llamos-kg.org/dot_Chinese_org" id="0">
+  <data key="d1">seize</data>
+</edge>
+<edge source="http://llamos-kg.org/Microsoft" target="http://llamos-kg.org/Working_Conficker_Group" id="0">
+  <data key="d1">create</data>
+</edge>
+<edge source="http://llamos-kg.org/Media" target="http://llamos-kg.org/political_advertising" id="0">
+  <data key="d1">broadcast</data>
+</edge>
+<edge source="http://llamos-kg.org/Media" target="http://llamos-kg.org/Intelligence" id="0">
+  <data key="d1">need</data>
+</edge>
+<edge source="http://llamos-kg.org/political_advertising" target="http://llamos-kg.org/different_forms" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/Instagram_group" target="http://llamos-kg.org/Telegram_account" id="0">
+  <data key="d1">set</data>
+</edge>
+<edge source="http://llamos-kg.org/mass_domestic_contention" target="http://llamos-kg.org/frequent_transformation" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/Operation_Ladybird" target="http://llamos-kg.org/enforcement_authorities" id="0">
+  <data key="d1">involve</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_resourced_efforts" target="http://llamos-kg.org/generative_models" id="0">
+  <data key="d1">afford</data>
+</edge>
+<edge source="http://llamos-kg.org/BotBuster_algorithm" target="http://llamos-kg.org/algorithm_concept" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/support_gains" target="http://llamos-kg.org/intelligence" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Mie_Young_Kim" target="http://llamos-kg.org/groups" id="0">
+  <data key="d1">investigate</data>
+</edge>
+<edge source="http://llamos-kg.org/groups" target="http://llamos-kg.org/common_targets" id="0">
+  <data key="d1">share</data>
+</edge>
+<edge source="http://llamos-kg.org/groups" target="http://llamos-kg.org/domains" id="0">
+  <data key="d1">target</data>
+</edge>
+<edge source="http://llamos-kg.org/groups" target="http://llamos-kg.org/DDoS_attacks" id="0">
+  <data key="d1">coordinate</data>
+</edge>
+<edge source="http://llamos-kg.org/groups" target="http://llamos-kg.org/Russian_websites" id="0">
+  <data key="d1">target</data>
+</edge>
+<edge source="http://llamos-kg.org/Carl_Friedrich" target="http://llamos-kg.org/inter_alia" id="0">
+  <data key="d1">define</data>
+</edge>
+<edge source="http://llamos-kg.org/CDL" target="http://llamos-kg.org/Guidelines" id="0">
+  <data key="d1">ad(2010)024</data>
+</edge>
+<edge source="http://llamos-kg.org/uniform_distribution" target="http://llamos-kg.org/pressure_continuous_strategy" id="0">
+  <data key="d1">indicate</data>
+</edge>
+<edge source="http://llamos-kg.org/Svolik" target="http://llamos-kg.org/actor_contentious_constellations" id="0">
+  <data key="d1">model</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram_platform" target="http://llamos-kg.org/data_fields" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/British_government" target="http://llamos-kg.org/intelligence_private_dissemination" id="0">
+  <data key="d1">pursue</data>
+</edge>
+<edge source="http://llamos-kg.org/British_government" target="http://llamos-kg.org/resilience_gains" id="0">
+  <data key="d1">pursue</data>
+</edge>
+<edge source="http://llamos-kg.org/Commoditization" target="http://llamos-kg.org/Pay" id="0">
+  <data key="d1">measure</data>
+</edge>
+<edge source="http://llamos-kg.org/increasing_ubiquity" target="http://llamos-kg.org/actual_impact" id="0">
+  <data key="d1">overstate</data>
+</edge>
+<edge source="http://llamos-kg.org/T_he_successes" target="http://llamos-kg.org/ernment_crackdown" id="0">
+  <data key="d1">initiate</data>
+</edge>
+<edge source="http://llamos-kg.org/emerging_literature" target="http://llamos-kg.org/theoretical_embeddedness" id="0">
+  <data key="d1">lack</data>
+</edge>
+<edge source="http://llamos-kg.org/West" target="http://llamos-kg.org/news_fake_factories" id="0">
+  <data key="d1">hit</data>
+</edge>
+<edge source="http://llamos-kg.org/influence_online_operations" target="http://llamos-kg.org/deepfakes" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/user" target="http://llamos-kg.org/human_users" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/human_users" target="http://llamos-kg.org/varied_uses" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/human_users" target="http://llamos-kg.org/centrality_higher_Fig" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Figure9" target="http://llamos-kg.org/sectors" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/recent_commitments" target="http://llamos-kg.org/significant_implications" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/particular_dates" target="http://llamos-kg.org/_May_12th" id="0">
+  <data key="d1">stand</data>
+</edge>
+<edge source="http://llamos-kg.org/moderation_decisions" target="http://llamos-kg.org/European_approach" id="0">
+  <data key="d1">unpack</data>
+</edge>
+<edge source="http://llamos-kg.org/https___darkrebel_net_hydra_review_and_tutorial_Manuscript" target="http://llamos-kg.org/Georgoulias" id="0">
+  <data key="d1">submit</data>
+</edge>
+<edge source="http://llamos-kg.org/based_researchers" target="http://llamos-kg.org/cultural_cluster" id="0">
+  <data key="d1">identify</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukrainian_groups" target="http://llamos-kg.org/peak_activity" id="0">
+  <data key="d1">exhibit</data>
+</edge>
+<edge source="http://llamos-kg.org/Arab" target="http://llamos-kg.org/Egyptian_experience" id="0">
+  <data key="d1">spring|</data>
+</edge>
+<edge source="http://llamos-kg.org/extensive_review" target="http://llamos-kg.org/research__ndings" id="0">
+  <data key="d1">improve</data>
+</edge>
+<edge source="http://llamos-kg.org/political_scientists" target="http://llamos-kg.org/analytical_tools" id="0">
+  <data key="d1">lack</data>
+</edge>
+<edge source="http://llamos-kg.org/hardware_components" target="http://llamos-kg.org/spy_microchips" id="0">
+  <data key="d1">design</data>
+</edge>
+<edge source="http://llamos-kg.org/Navalny" target="http://llamos-kg.org/standalone_website" id="0">
+  <data key="d1">launch</data>
+</edge>
+<edge source="http://llamos-kg.org/Navalny" target="http://llamos-kg.org/follow_video" id="0">
+  <data key="d1">publish</data>
+</edge>
+<edge source="http://llamos-kg.org/protesters" target="http://llamos-kg.org/political_claims" id="0">
+  <data key="d1">report</data>
+</edge>
+<edge source="http://llamos-kg.org/protesters" target="http://llamos-kg.org/diverse_set" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/protesters" target="http://llamos-kg.org/independent_media" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/protesters" target="http://llamos-kg.org/different_media" id="0">
+  <data key="d1">consume</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/EconSocio05u" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/MainProblemEcon" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/TransitionWinners__0_04" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/FrdsFamAbroad" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/Educ6u" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/FamFinanSit7u" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/_0_00_TransitionLosers" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/GoAbroad__0_03" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/NationBEL" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/DemSystemPreferable" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/LangNatvBEL" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/Effects" target="http://llamos-kg.org/VotedTsikhanouskaya" id="0">
+  <data key="d1">0.02</data>
+</edge>
+<edge source="http://llamos-kg.org/power_relations" target="http://llamos-kg.org/different_modes" id="0">
+  <data key="d1">manifest</data>
+</edge>
+<edge source="http://llamos-kg.org/Deepfake_Videos" target="http://llamos-kg.org/Real" id="0">
+  <data key="d1">get</data>
+</edge>
+<edge source="http://llamos-kg.org/CyberArmyofRussia_Reborn" target="http://llamos-kg.org/signi_cant_activity" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/CyberArmyofRussia_Reborn" target="http://llamos-kg.org/diverse_interactions" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/regime_capacities" target="http://llamos-kg.org/life_private_increase" id="0">
+  <data key="d1">penetrate</data>
+</edge>
+<edge source="http://llamos-kg.org/Physical_seizure" target="http://llamos-kg.org/legal_procedures" id="0">
+  <data key="d1">require</data>
+</edge>
+<edge source="http://llamos-kg.org/effective_detection" target="http://llamos-kg.org/continuous_maintenance" id="0">
+  <data key="d1">require</data>
+</edge>
+<edge source="http://llamos-kg.org/Organizations" target="http://llamos-kg.org/business" id="0">
+  <data key="d1">rethink</data>
+</edge>
+<edge source="http://llamos-kg.org/state_security" target="http://llamos-kg.org/Chinese_technologies" id="0">
+  <data key="d1">acquire</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_new_platform" target="http://llamos-kg.org/increasing_importance" id="0">
+  <data key="d1">assume</data>
+</edge>
+<edge source="http://llamos-kg.org/Military_category" target="http://llamos-kg.org/aggressive_growth" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/internet" target="http://llamos-kg.org/global_phenomenon" id="0">
+  <data key="d1">remain</data>
+</edge>
+<edge source="http://llamos-kg.org/internet" target="http://llamos-kg.org/War_Propaganda" id="0">
+  <data key="d1">debunk</data>
+</edge>
+<edge source="http://llamos-kg.org/security_practitioners" target="http://llamos-kg.org/intelligence" id="0">
+  <data key="d1">divulge</data>
+</edge>
+<edge source="http://llamos-kg.org/online_media" target="http://llamos-kg.org/inde__pendent" id="0">
+  <data key="d1">remain</data>
+</edge>
+<edge source="http://llamos-kg.org/certain_sectors" target="http://llamos-kg.org/DDoS_attacks" id="0">
+  <data key="d1">experience</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian___pro_Ukrainian___pro_collectives" target="http://llamos-kg.org/different_strategies" id="0">
+  <data key="d1">follow</data>
+</edge>
+<edge source="http://llamos-kg.org/erative_gen__trained___pre_models" target="http://llamos-kg.org/routine_simple_transformations" id="0">
+  <data key="d1">perform</data>
+</edge>
+<edge source="http://llamos-kg.org/analysis" target="http://llamos-kg.org/concrete_recommendations" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/Youth" target="http://llamos-kg.org/Past" id="0">
+  <data key="d1">define</data>
+</edge>
+<edge source="http://llamos-kg.org/second_option" target="http://llamos-kg.org/botnet_framework" id="0">
+  <data key="d1">buy</data>
+</edge>
+<edge source="http://llamos-kg.org/Institutional_change" target="http://llamos-kg.org/political_new_institutions" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/user_large_base" target="http://llamos-kg.org/ripe_ground" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/Shah" target="http://llamos-kg.org/modernizing_vision" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Dropbox" target="http://llamos-kg.org/upper_limits" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Intimate" target="http://llamos-kg.org/gender_relationships" id="0">
+  <data key="d1">cross</data>
+</edge>
+<edge source="http://llamos-kg.org/effective_censorship" target="http://llamos-kg.org/regime_leaders" id="0">
+  <data key="d1">deprive</data>
+</edge>
+<edge source="http://llamos-kg.org/surveillance_Enhanced_capacities" target="http://llamos-kg.org/autocrats" id="0">
+  <data key="d1">enable</data>
+</edge>
+<edge source="http://llamos-kg.org/Figure6" target="http://llamos-kg.org/insightful_visualization" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/LiveJournal" target="http://llamos-kg.org/political_function" id="0">
+  <data key="d1">lose</data>
+</edge>
+<edge source="http://llamos-kg.org/LiveJournal" target="http://llamos-kg.org/plat__popular_form" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/Forms" target="http://llamos-kg.org/hashtag_activism" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/propaganda_Communist___anti_War_body" target="http://llamos-kg.org/collection_OSINT_global_network" id="0">
+  <data key="d1">develop</data>
+</edge>
+<edge source="http://llamos-kg.org/state_Russian_television" target="http://llamos-kg.org/fake_images" id="0">
+  <data key="d1">share</data>
+</edge>
+<edge source="http://llamos-kg.org/protest_movement" target="http://llamos-kg.org/media_applications" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Medvedev" target="http://llamos-kg.org/head_office" id="0">
+  <data key="d1">visit</data>
+</edge>
+<edge source="http://llamos-kg.org/Blue_nodes" target="http://llamos-kg.org/human_users" id="0">
+  <data key="d1">represent</data>
+</edge>
+<edge source="http://llamos-kg.org/Paper" target="http://llamos-kg.org/Verdoliva" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/FUTURE___SCENARIOS" target="http://llamos-kg.org/machine_learning" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Habermas" target="http://llamos-kg.org/explicit_interest" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/costumer_segments" target="http://llamos-kg.org/substance_users" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Innovations" target="http://llamos-kg.org/Cambridge_Analytica" id="0">
+  <data key="d1">allow</data>
+</edge>
+<edge source="http://llamos-kg.org/KGB" target="http://llamos-kg.org/forged_intelligence" id="0">
+  <data key="d1">disseminate</data>
+</edge>
+<edge source="http://llamos-kg.org/KGB" target="http://llamos-kg.org/Washington_Post" id="0">
+  <data key="d1">help</data>
+</edge>
+<edge source="http://llamos-kg.org/Joshua_Tucker" target="http://llamos-kg.org/Brendan_Nyhan" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/Joshua_Tucker" target="http://llamos-kg.org/et_al" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/Vladimir_President_Putin" target="http://llamos-kg.org/traditional_Russian_media" id="0">
+  <data key="d1">subject</data>
+</edge>
+<edge source="http://llamos-kg.org/Trickbot" target="http://llamos-kg.org/Emotet_Following_Shutdown" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/proRussian_groups" target="http://llamos-kg.org/limited_overlap" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/analytics_firm" target="http://llamos-kg.org/personal_data" id="0">
+  <data key="d1">harvest</data>
+</edge>
+<edge source="http://llamos-kg.org/interference_Russian_campaign" target="http://llamos-kg.org/continuous_stream" id="0">
+  <data key="d1">produce</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian___pro_Ukrainian___pro_groups" target="http://llamos-kg.org/different_strategies" id="0">
+  <data key="d1">adopt</data>
+</edge>
+<edge source="http://llamos-kg.org/Procurement" target="http://llamos-kg.org/physical_acquisition" id="0">
+  <data key="d1">describe</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukraine_crisis" target="http://llamos-kg.org/British_intelligence" id="0">
+  <data key="d1">bring</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_technologies" target="http://llamos-kg.org/political_processes" id="0">
+  <data key="d1">influence</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_technologies" target="http://llamos-kg.org/digital_advanced_devices" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_technologies" target="http://llamos-kg.org/global_profound_transformations" id="0">
+  <data key="d1">induce</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_technologies" target="http://llamos-kg.org/private_discourses" id="0">
+  <data key="d1">enable</data>
+</edge>
+<edge source="http://llamos-kg.org/bots" target="http://llamos-kg.org/limited_capability" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Protest_surveys" target="http://llamos-kg.org/probability___non_sampling" id="0">
+  <data key="d1">employ</data>
+</edge>
+<edge source="http://llamos-kg.org/technical_expertise" target="http://llamos-kg.org/major_difference" id="0">
+  <data key="d1">make</data>
+</edge>
+<edge source="http://llamos-kg.org/fourth_step" target="http://llamos-kg.org/Section" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/GPT" target="http://llamos-kg.org/language_interpretation" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/CIA_Director" target="http://llamos-kg.org/CNN" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/CIA_Director" target="http://llamos-kg.org/rare_conversation" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Media_source" target="http://llamos-kg.org/VotedLukashenka_MemberInCivSocOrg_VotedTsikhanouskaya" id="0">
+  <data key="d1">denote</data>
+</edge>
+<edge source="http://llamos-kg.org/Telegram_bots" target="http://llamos-kg.org/main_roles" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Facebook" target="http://llamos-kg.org/Influence_Active_Campaign" id="0">
+  <data key="d1">identify</data>
+</edge>
+<edge source="http://llamos-kg.org/Facebook" target="http://llamos-kg.org/regulation" id="0">
+  <data key="d1">need</data>
+</edge>
+<edge source="http://llamos-kg.org/different_factions" target="http://llamos-kg.org/filtering_different_policies" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Stephanie_van" target="http://llamos-kg.org/Berg" id="0">
+  <data key="d1">den</data>
+</edge>
+<edge source="http://llamos-kg.org/posture_9_operational_similar_Perpetrators" target="http://llamos-kg.org/invest__significant_ment" id="0">
+  <data key="d1">make</data>
+</edge>
+<edge source="http://llamos-kg.org/Key_3_3_6_Resources" target="http://llamos-kg.org/necessary_assets" id="0">
+  <data key="d1">describe</data>
+</edge>
+<edge source="http://llamos-kg.org/important_limitations" target="http://llamos-kg.org/disinformation_campaigns" id="0">
+  <data key="d1">constrain</data>
+</edge>
+<edge source="http://llamos-kg.org/Spyware" target="http://llamos-kg.org/information" id="0">
+  <data key="d1">collect</data>
+</edge>
+<edge source="http://llamos-kg.org/Gordon_Corera" target="http://llamos-kg.org/BBC_News" id="0">
+  <data key="d1">seek</data>
+</edge>
+<edge source="http://llamos-kg.org/GPT_labels" target="http://llamos-kg.org/language_natural_interpretation" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/Demographic_Factors" target="http://llamos-kg.org/Protest_Participants" id="0">
+  <data key="d1">highlight</data>
+</edge>
+<edge source="http://llamos-kg.org/daily_expenses" target="http://llamos-kg.org/money_Purchase" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/citizenship_basic_rights" target="http://llamos-kg.org/theoretical_reflections" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/modern_life" target="http://llamos-kg.org/complete_list" id="0">
+  <data key="d1">give</data>
+</edge>
+<edge source="http://llamos-kg.org/_64_Platforms" target="http://llamos-kg.org/policies_65_similar_Center" id="0">
+  <data key="d1">adopt</data>
+</edge>
+<edge source="http://llamos-kg.org/ex__amples" target="http://llamos-kg.org/rough_benchmark" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/Theocharis" target="http://llamos-kg.org/Van_Deth" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/analytical_frame" target="http://llamos-kg.org/future_explorations" id="0">
+  <data key="d1">facilitate</data>
+</edge>
+<edge source="http://llamos-kg.org/humdrum_considerations" target="http://llamos-kg.org/crucial_hints" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/synthetic_media" target="http://llamos-kg.org/prominent_landmarks" id="0">
+  <data key="d1">depict</data>
+</edge>
+<edge source="http://llamos-kg.org/synthetic_media" target="http://llamos-kg.org/distinctive_traces" id="0">
+  <data key="d1">contain</data>
+</edge>
+<edge source="http://llamos-kg.org/Repression" target="http://llamos-kg.org/negative_incentives" id="0">
+  <data key="d1">entail</data>
+</edge>
+<edge source="http://llamos-kg.org/political_campaign" target="http://llamos-kg.org/sure_action" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/tailored_Second_deepfakes" target="http://llamos-kg.org/greater_threat" id="0">
+  <data key="d1">represent</data>
+</edge>
+<edge source="http://llamos-kg.org/Incourse911_inc911" target="http://llamos-kg.org/studca_CybPal_inc911" id="0">
+  <data key="d1">inc911</data>
+</edge>
+<edge source="http://llamos-kg.org/Censorship" target="http://llamos-kg.org/Government_Criticism" id="0">
+  <data key="d1">allow</data>
+</edge>
+<edge source="http://llamos-kg.org/Provided_data" target="http://llamos-kg.org/Page" id="0">
+  <data key="d1">demonstrate</data>
+</edge>
+<edge source="http://llamos-kg.org/Provided_data" target="http://llamos-kg.org/ing_trend" id="0">
+  <data key="d1">demonstrate</data>
+</edge>
+<edge source="http://llamos-kg.org/Provided_data" target="http://llamos-kg.org/et_al" id="0">
+  <data key="d1">demonstrate</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_technology" target="http://llamos-kg.org/new_ways" id="0">
+  <data key="d1">enable</data>
+</edge>
+<edge source="http://llamos-kg.org/Version_Peer" target="http://llamos-kg.org/version_Link" id="0">
+  <data key="d1">review</data>
+</edge>
+<edge source="http://llamos-kg.org/vaccination___Anti_Islam_Rizza_activist" target="http://llamos-kg.org/Journal" id="0">
+  <data key="d1">find</data>
+</edge>
+<edge source="http://llamos-kg.org/Policymak__ers" target="http://llamos-kg.org/concrete_guidance" id="0">
+  <data key="d1">lack</data>
+</edge>
+<edge source="http://llamos-kg.org/Nationalities_Papers" target="http://llamos-kg.org/Russian" id="0">
+  <data key="d1">declare</data>
+</edge>
+<edge source="http://llamos-kg.org/driven_fakery" target="http://llamos-kg.org/realistic_depictions" id="0">
+  <data key="d1">produce</data>
+</edge>
+<edge source="http://llamos-kg.org/National_Belarus_Awakening" target="http://llamos-kg.org/Hope" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/BotBuster" target="http://llamos-kg.org/bots" id="0">
+  <data key="d1">identify</data>
+</edge>
+<edge source="http://llamos-kg.org/BotBuster" target="http://llamos-kg.org/differing_inputs" id="0">
+  <data key="d1">handle</data>
+</edge>
+<edge source="http://llamos-kg.org/speci_c_domains" target="http://llamos-kg.org/DDoS_repeated_attacks" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/complex_factors" target="http://llamos-kg.org/particular_patterns" id="0">
+  <data key="d1">produce</data>
+</edge>
+<edge source="http://llamos-kg.org/recent_paper" target="http://llamos-kg.org/training_times" id="0">
+  <data key="d1">report</data>
+</edge>
+<edge source="http://llamos-kg.org/recent_paper" target="http://llamos-kg.org/detection_deepfake_accuracy" id="0">
+  <data key="d1">claim</data>
+</edge>
+<edge source="http://llamos-kg.org/low_cost" target="http://llamos-kg.org/disinformation_resourced_campaigns" id="0">
+  <data key="d1">attract</data>
+</edge>
+<edge source="http://llamos-kg.org/Discussion" target="http://llamos-kg.org/dissemination_patterns" id="0">
+  <data key="d1">study</data>
+</edge>
+<edge source="http://llamos-kg.org/Preprint" target="http://llamos-kg.org/January" id="0">
+  <data key="d1">submit</data>
+</edge>
+<edge source="http://llamos-kg.org/Preprint" target="http://llamos-kg.org/Neural_Recurrent_Network" id="0">
+  <data key="d1">draw</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian___pro_entities" target="http://llamos-kg.org/attacks" id="0">
+  <data key="d1">increase</data>
+</edge>
+<edge source="http://llamos-kg.org/trained_resulting_model" target="http://llamos-kg.org/unseen_images" id="0">
+  <data key="d1">process</data>
+</edge>
+<edge source="http://llamos-kg.org/Table" target="http://llamos-kg.org/Unexpected_Deaths" id="0">
+  <data key="d1">die</data>
+</edge>
+<edge source="http://llamos-kg.org/__Issue" target="http://llamos-kg.org/European_approach" id="0">
+  <data key="d1">unpack</data>
+</edge>
+<edge source="http://llamos-kg.org/Commission" target="http://llamos-kg.org/specific_guidance" id="0">
+  <data key="d1">prepare</data>
+</edge>
+<edge source="http://llamos-kg.org/technical_literature" target="http://llamos-kg.org/critical_insight" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/Trump_administration" target="http://llamos-kg.org/similar_tactics" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Cloudbased_solutions" target="http://llamos-kg.org/transient_changes" id="0">
+  <data key="d1">involve</data>
+</edge>
+<edge source="http://llamos-kg.org/garbage_protests" target="http://llamos-kg.org/sig__government___anti_clear_nificance" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/theocratic_regime" target="http://llamos-kg.org/considerable_control" id="0">
+  <data key="d1">exert</data>
+</edge>
+<edge source="http://llamos-kg.org/political_forces" target="http://llamos-kg.org/rapid_shifts" id="0">
+  <data key="d1">undergo</data>
+</edge>
+<edge source="http://llamos-kg.org/intelligence_analysis" target="http://llamos-kg.org/policymaking_process_28" id="0">
+  <data key="d1">underpin</data>
+</edge>
+<edge source="http://llamos-kg.org/political_strong_antagonisms" target="http://llamos-kg.org/long_history" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Technical_innovation" target="http://llamos-kg.org/autocrats" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/Section6" target="http://llamos-kg.org/thorough_analysis" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/Recent_work" target="http://llamos-kg.org/helpful_datapoints" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/FakeApp" target="http://llamos-kg.org/technical___non_users" id="0">
+  <data key="d1">enable</data>
+</edge>
+<edge source="http://llamos-kg.org/Red_nodes" target="http://llamos-kg.org/Bot_users" id="0">
+  <data key="d1">represent</data>
+</edge>
+<edge source="http://llamos-kg.org/High_costs" target="http://llamos-kg.org/attractive_relative" id="0">
+  <data key="d1">make</data>
+</edge>
+<edge source="http://llamos-kg.org/Survey" target="http://llamos-kg.org/underlying_characteristics" id="0">
+  <data key="d1">capture</data>
+</edge>
+<edge source="http://llamos-kg.org/Phoenix_Inform" target="http://llamos-kg.org/lower_activity" id="0">
+  <data key="d1">exhibit</data>
+</edge>
+<edge source="http://llamos-kg.org/Phoenix_Inform" target="http://llamos-kg.org/common_targets" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/Medical_Online_medical_Discussion" target="http://llamos-kg.org/Covid_masks" id="0">
+  <data key="d1">dod</data>
+</edge>
+<edge source="http://llamos-kg.org/Writers" target="http://llamos-kg.org/significant_concerns" id="0">
+  <data key="d1">express</data>
+</edge>
+<edge source="http://llamos-kg.org/exhaustive___non_list" target="http://llamos-kg.org/digital_activism" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/English" target="http://llamos-kg.org/intellectual_elite" id="0">
+  <data key="d1">speak</data>
+</edge>
+<edge source="http://llamos-kg.org/detection_systems" target="http://llamos-kg.org/constant_updating" id="0">
+  <data key="d1">need</data>
+</edge>
+<edge source="http://llamos-kg.org/detection_systems" target="http://llamos-kg.org/deep__fakes" id="0">
+  <data key="d1">hold</data>
+</edge>
+<edge source="http://llamos-kg.org/Portal_Research_DOI" target="http://llamos-kg.org/version_Link" id="0">
+  <data key="d1">review</data>
+</edge>
+<edge source="http://llamos-kg.org/Hackers" target="http://llamos-kg.org/Bitcoin" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/College_London" target="http://llamos-kg.org/Higher_Kolozaridi_School" id="0">
+  <data key="d1">gregory.asmolov@kcl.ac.uk</data>
+</edge>
+<edge source="http://llamos-kg.org/Figure3a" target="http://llamos-kg.org/sectors" id="0">
+  <data key="d1">illustrate</data>
+</edge>
+<edge source="http://llamos-kg.org/prevalent_arrests" target="http://llamos-kg.org/political_opposition" id="0">
+  <data key="d1">suppress</data>
+</edge>
+<edge source="http://llamos-kg.org/documentation_inconsistent_practices" target="http://llamos-kg.org/analysis" id="0">
+  <data key="d1">hinder</data>
+</edge>
+<edge source="http://llamos-kg.org/Events" target="http://llamos-kg.org/stable_set" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/additional_sector" target="http://llamos-kg.org/related_services" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Colin_Powell" target="http://llamos-kg.org/intelligence" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/communication_secure_channels" target="http://llamos-kg.org/Section" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/striking_tactics" target="http://llamos-kg.org/greater_influence" id="0">
+  <data key="d1">exert</data>
+</edge>
+<edge source="http://llamos-kg.org/ERGA" target="http://llamos-kg.org/interim_Report" id="0">
+  <data key="d1">release</data>
+</edge>
+<edge source="http://llamos-kg.org/security_Russian_service" target="http://llamos-kg.org/Telegram" id="0">
+  <data key="d1">require</data>
+</edge>
+<edge source="http://llamos-kg.org/Actors" target="http://llamos-kg.org/Glasius" id="0">
+  <data key="d1">engage</data>
+</edge>
+<edge source="http://llamos-kg.org/inspired_anomaly" target="http://llamos-kg.org/time_detection" id="0">
+  <data key="d1">base</data>
+</edge>
+<edge source="http://llamos-kg.org/Control_Study" target="http://llamos-kg.org/Protest_Class_Paradigm" id="0">
+  <data key="d1">reevaluate</data>
+</edge>
+<edge source="http://llamos-kg.org/Yarovaya_package" target="http://llamos-kg.org/Service_Providers" id="0">
+  <data key="d1">oblige</data>
+</edge>
+<edge source="http://llamos-kg.org/Keywords" target="http://llamos-kg.org/unanticipated_unplanned1" id="0">
+  <data key="d1">witness</data>
+</edge>
+<edge source="http://llamos-kg.org/sponsored_groups" target="http://llamos-kg.org/leveraged_tools" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/political_institutions" target="http://llamos-kg.org/technological_possibilities" id="0">
+  <data key="d1">manage</data>
+</edge>
+<edge source="http://llamos-kg.org/state_pressure" target="http://llamos-kg.org/longer_history" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/elite_New_actors" target="http://llamos-kg.org/higher_levels" id="0">
+  <data key="d1">require</data>
+</edge>
+<edge source="http://llamos-kg.org/Abstract" target="http://llamos-kg.org/analytical_tools" id="0">
+  <data key="d1">lack</data>
+</edge>
+<edge source="http://llamos-kg.org/following_section" target="http://llamos-kg.org/conceptual_framework" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/security_apparatus" target="http://llamos-kg.org/espionage_advanced_technologies" id="0">
+  <data key="d1">appropriate</data>
+</edge>
+<edge source="http://llamos-kg.org/intelligence_communities" target="http://llamos-kg.org/intelligence" id="0">
+  <data key="d1">share</data>
+</edge>
+<edge source="http://llamos-kg.org/Data_Accessibility" target="http://llamos-kg.org/Content" id="0">
+  <data key="d1">drive</data>
+</edge>
+<edge source="http://llamos-kg.org/mod__generative_els" target="http://llamos-kg.org/resulting_video" id="0">
+  <data key="d1">distort</data>
+</edge>
+<edge source="http://llamos-kg.org/Cyber_Attacks" target="http://llamos-kg.org/Sophisticated" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/Distribution" target="http://llamos-kg.org/highest_frequency" id="0">
+  <data key="d1">experience</data>
+</edge>
+<edge source="http://llamos-kg.org/Results" target="http://llamos-kg.org/security_inadequate_measures" id="0">
+  <data key="d1">highlight</data>
+</edge>
+<edge source="http://llamos-kg.org/Results" target="http://llamos-kg.org/comprehensive_analysis" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/air_Soviet_force" target="http://llamos-kg.org/flight_KAL" id="0">
+  <data key="d1">shoot</data>
+</edge>
+<edge source="http://llamos-kg.org/Capabilities_Tracking" target="http://llamos-kg.org/critical_insight" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/regime_coalitions" target="http://llamos-kg.org/society_state_relations" id="0">
+  <data key="d1">affect</data>
+</edge>
+<edge source="http://llamos-kg.org/European_Commission" target="http://llamos-kg.org/Guidance" id="0">
+  <data key="d1">publish</data>
+</edge>
+<edge source="http://llamos-kg.org/Figure8" target="http://llamos-kg.org/detailed_analysis" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/sec__tion" target="http://llamos-kg.org/current_strengths" id="0">
+  <data key="d1">examine</data>
+</edge>
+<edge source="http://llamos-kg.org/Related_work" target="http://llamos-kg.org/literature_review" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/likely_outpace" target="http://llamos-kg.org/political_opposition" id="0">
+  <data key="d1">open</data>
+</edge>
+<edge source="http://llamos-kg.org/Humans" target="http://llamos-kg.org/disinformation_stories" id="0">
+  <data key="d1">share</data>
+</edge>
+<edge source="http://llamos-kg.org/quantitative_calculations" target="http://llamos-kg.org/centrality_higher_Fig" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Intelligence" target="http://llamos-kg.org/Media" id="0">
+  <data key="d1">need</data>
+</edge>
+<edge source="http://llamos-kg.org/Value_propositions" target="http://llamos-kg.org/value_exchange" id="0">
+  <data key="d1">describe</data>
+</edge>
+<edge source="http://llamos-kg.org/R_d_EG" target="http://llamos-kg.org/Activists" id="0">
+  <data key="d1">empower</data>
+</edge>
+<edge source="http://llamos-kg.org/Drone" target="http://llamos-kg.org/Coronavirus_Enforcing_Rules" id="0">
+  <data key="d1">speak</data>
+</edge>
+<edge source="http://llamos-kg.org/Digital_technology" target="http://llamos-kg.org/new_means" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/OpenNet_Initiative" target="http://llamos-kg.org/country_report" id="0">
+  <data key="d1">publish</data>
+</edge>
+<edge source="http://llamos-kg.org/Recent_literature" target="http://llamos-kg.org/under__standing" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/protection_authorities" target="http://llamos-kg.org/enforcement_limited_powers" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Belarusian_context" target="http://llamos-kg.org/economic_decline" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/source_intelligence" target="http://llamos-kg.org/state_monopolies" id="0">
+  <data key="d1">challenge</data>
+</edge>
+<edge source="http://llamos-kg.org/autocratic_elites" target="http://llamos-kg.org/authoritarian_politics" id="0">
+  <data key="d1">impact</data>
+</edge>
+<edge source="http://llamos-kg.org/Mark" target="http://llamos-kg.org/interactional_patterns" id="0">
+  <data key="d1">identify</data>
+</edge>
+<edge source="http://llamos-kg.org/generative_deep_models" target="http://llamos-kg.org/malicious_actors" id="0">
+  <data key="d1">serve</data>
+</edge>
+<edge source="http://llamos-kg.org/comparative_analysis" target="http://llamos-kg.org/strategic_distinct_preferences" id="0">
+  <data key="d1">reveal</data>
+</edge>
+<edge source="http://llamos-kg.org/Sounding_Board" target="http://llamos-kg.org/critical_view" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/Matthew_Hutson" target="http://llamos-kg.org/Science" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/Matthew_Hutson" target="http://llamos-kg.org/reproducibility_crisis" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/political_party" target="http://llamos-kg.org/data" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/startup_companies" target="http://llamos-kg.org/detection_services" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/Clandestine_acts" target="http://llamos-kg.org/political_opposition" id="0">
+  <data key="d1">open</data>
+</edge>
+<edge source="http://llamos-kg.org/data_retrospective_collection" target="http://llamos-kg.org/additional_biases" id="0">
+  <data key="d1">introduce</data>
+</edge>
+<edge source="http://llamos-kg.org/sparse_data" target="http://llamos-kg.org/disinformation_prospective_actor" id="0">
+  <data key="d1">require</data>
+</edge>
+<edge source="http://llamos-kg.org/service_provider" target="http://llamos-kg.org/data_hardware_probes" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Declarations_Con_ict" target="http://llamos-kg.org/Con_ict" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/Temporal_analysis" target="http://llamos-kg.org/time_understanding" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/Syria" target="http://llamos-kg.org/States_assessment" id="0">
+  <data key="d1">report</data>
+</edge>
+<edge source="http://llamos-kg.org/Economic_Governance" target="http://llamos-kg.org/Social_Contracts" id="0">
+  <data key="d1">rethink</data>
+</edge>
+<edge source="http://llamos-kg.org/widespread_adoption" target="http://llamos-kg.org/robust_platform" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/Deeptrace" target="http://llamos-kg.org/model" id="0">
+  <data key="d1">follow</data>
+</edge>
+<edge source="http://llamos-kg.org/model" target="http://llamos-kg.org/limited_understanding" id="0">
+  <data key="d1">gain</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian_ambassador" target="http://llamos-kg.org/Express" id="0">
+  <data key="d1">mock</data>
+</edge>
+<edge source="http://llamos-kg.org/Edward_Wong" target="http://llamos-kg.org/Russia" id="0">
+  <data key="d1">ask</data>
+</edge>
+<edge source="http://llamos-kg.org/Botmasters" target="http://llamos-kg.org/darkweb_marketplaces" id="0">
+  <data key="d1">utilize</data>
+</edge>
+<edge source="http://llamos-kg.org/regime" target="http://llamos-kg.org/targeted_repression" id="0">
+  <data key="d1">exert</data>
+</edge>
+<edge source="http://llamos-kg.org/Belarus" target="http://llamos-kg.org/unanticipated_unplanned1" id="0">
+  <data key="d1">witness</data>
+</edge>
+<edge source="http://llamos-kg.org/Artificial_intelligence" target="http://llamos-kg.org/Science" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/Artificial_intelligence" target="http://llamos-kg.org/reproducibility_crisis" id="0">
+  <data key="d1">face</data>
+</edge>
+<edge source="http://llamos-kg.org/Yandex" target="http://llamos-kg.org/Internet_Russian_major_giants" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/State_Dependency" target="http://llamos-kg.org/Demand" id="0">
+  <data key="d1">reduce</data>
+</edge>
+<edge source="http://llamos-kg.org/interview_sample" target="http://llamos-kg.org/interesting_segment" id="0">
+  <data key="d1">cover</data>
+</edge>
+<edge source="http://llamos-kg.org/Twitter" target="http://llamos-kg.org/Guardian" id="0">
+  <data key="d1">delete</data>
+</edge>
+<edge source="http://llamos-kg.org/Values" target="http://llamos-kg.org/positive_correlation" id="0">
+  <data key="d1">indicate</data>
+</edge>
+<edge source="http://llamos-kg.org/Television" target="http://llamos-kg.org/main_source" id="0">
+  <data key="d1">remain</data>
+</edge>
+<edge source="http://llamos-kg.org/Inconsistent_documentation" target="http://llamos-kg.org/significant_issue" id="0">
+  <data key="d1">pose</data>
+</edge>
+<edge source="http://llamos-kg.org/public_dissemination" target="http://llamos-kg.org/intelligence" id="0">
+  <data key="d1">divulge</data>
+</edge>
+<edge source="http://llamos-kg.org/Biden_administration" target="http://llamos-kg.org/intelligence" id="0">
+  <data key="d1">release</data>
+</edge>
+<edge source="http://llamos-kg.org/salient_moments" target="http://llamos-kg.org/aggre__gates" id="0">
+  <data key="d1">lose</data>
+</edge>
+<edge source="http://llamos-kg.org/Dictators" target="http://llamos-kg.org/internet" id="0">
+  <data key="d1">control</data>
+</edge>
+<edge source="http://llamos-kg.org/Author_s" target="http://llamos-kg.org/prominent_threat" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/Changes" target="http://llamos-kg.org/elite___intra_composition" id="0">
+  <data key="d1">impact</data>
+</edge>
+<edge source="http://llamos-kg.org/takedown_operations" target="http://llamos-kg.org/Botnet" id="0">
+  <data key="d1">strategise</data>
+</edge>
+<edge source="http://llamos-kg.org/Ukrainian_government" target="http://llamos-kg.org/Army" id="0">
+  <data key="d1">establish</data>
+</edge>
+<edge source="http://llamos-kg.org/new_types" target="http://llamos-kg.org/consump__tion" id="0">
+  <data key="d1">shape</data>
+</edge>
+<edge source="http://llamos-kg.org/travel_threatorientated_advice" target="http://llamos-kg.org/led_simpler_communications" id="0">
+  <data key="d1">represent</data>
+</edge>
+<edge source="http://llamos-kg.org/Western_agents" target="http://llamos-kg.org/BBC_News" id="0">
+  <data key="d1">seek</data>
+</edge>
+<edge source="http://llamos-kg.org/Observers" target="http://llamos-kg.org/protest_wave" id="0">
+  <data key="d1">dub</data>
+</edge>
+<edge source="http://llamos-kg.org/Britain" target="http://llamos-kg.org/careful_measures" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/Britain" target="http://llamos-kg.org/intelligence" id="0">
+  <data key="d1">deploy</data>
+</edge>
+<edge source="http://llamos-kg.org/Sensitive_data" target="http://llamos-kg.org/political_opinions" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/indiscriminate_violence" target="http://llamos-kg.org/opposite_effect" id="0">
+  <data key="d1">have</data>
+</edge>
+<edge source="http://llamos-kg.org/high_rate" target="http://llamos-kg.org/strategic_importance" id="0">
+  <data key="d1">reﬂect</data>
+</edge>
+<edge source="http://llamos-kg.org/India" target="http://llamos-kg.org/regimes" id="0">
+  <data key="d1">demonstrate</data>
+</edge>
+<edge source="http://llamos-kg.org/CCDH" target="http://llamos-kg.org/data_collection" id="0">
+  <data key="d1">perform</data>
+</edge>
+<edge source="http://llamos-kg.org/authoritarian_contexts" target="http://llamos-kg.org/middle_dependent_class" id="0">
+  <data key="d1">breed</data>
+</edge>
+<edge source="http://llamos-kg.org/Capacity_Deepfakes" target="http://llamos-kg.org/unique_opportunity" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/trained_eye" target="http://llamos-kg.org/crude_deepfakes" id="0">
+  <data key="d1">identify</data>
+</edge>
+<edge source="http://llamos-kg.org/Weekday_distribution" target="http://llamos-kg.org/expansive_campaign" id="0">
+  <data key="d1">coordinate</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_recent_innovations" target="http://llamos-kg.org/broad_range" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/digital_techniques" target="http://llamos-kg.org/authoritarian_incumbents" id="0">
+  <data key="d1">empower</data>
+</edge>
+<edge source="http://llamos-kg.org/media_sphere" target="http://llamos-kg.org/oppositional_power" id="0">
+  <data key="d1">lose</data>
+</edge>
+<edge source="http://llamos-kg.org/Council" target="http://llamos-kg.org/quality_journalism" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Chinese_government" target="http://llamos-kg.org/undesirable_sites" id="0">
+  <data key="d1">filter</data>
+</edge>
+<edge source="http://llamos-kg.org/Russian_state" target="http://llamos-kg.org/new_constraints" id="0">
+  <data key="d1">introduce</data>
+</edge>
+<edge source="http://llamos-kg.org/political_innovation" target="http://llamos-kg.org/new_ways" id="0">
+  <data key="d1">offer</data>
+</edge>
+<edge source="http://llamos-kg.org/hacktivist_group" target="http://llamos-kg.org/DDoS_attacks" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/INTERPOL" target="http://llamos-kg.org/global_operation" id="0">
+  <data key="d1">support</data>
+</edge>
+<edge source="http://llamos-kg.org/Peer_sinkholing" target="http://llamos-kg.org/bot_assimilation" id="0">
+  <data key="d1">affect</data>
+</edge>
+<edge source="http://llamos-kg.org/policy_demands" target="http://llamos-kg.org/new_era" id="0">
+  <data key="d1">enter</data>
+</edge>
+<edge source="http://llamos-kg.org/Technoactivism" target="http://llamos-kg.org/technical_extensive_expertise" id="0">
+  <data key="d1">require</data>
+</edge>
+<edge source="http://llamos-kg.org/existing_systems" target="http://llamos-kg.org/technical_capacities" id="0">
+  <data key="d1">demonstrate</data>
+</edge>
+<edge source="http://llamos-kg.org/Research" target="http://llamos-kg.org/repressive_regimes" id="0">
+  <data key="d1">show</data>
+</edge>
+<edge source="http://llamos-kg.org/relevant_regulation" target="http://llamos-kg.org/global_standard" id="0">
+  <data key="d1">set</data>
+</edge>
+<edge source="http://llamos-kg.org/identity_factors" target="http://llamos-kg.org/engagement_Belarus" id="0">
+  <data key="d1">underpin</data>
+</edge>
+<edge source="http://llamos-kg.org/EDPS" target="http://llamos-kg.org/Opinion" id="0">
+  <data key="d1">publish</data>
+</edge>
+<edge source="http://llamos-kg.org/Great_Chinese_Firewall" target="http://llamos-kg.org/numerous_algorithms" id="0">
+  <data key="d1">combine</data>
+</edge>
+<edge source="http://llamos-kg.org/service_media" target="http://llamos-kg.org/free_airtime" id="0">
+  <data key="d1">provide</data>
+</edge>
+<edge source="http://llamos-kg.org/CoP" target="http://llamos-kg.org/transitional_measure" id="0">
+  <data key="d1">represent</data>
+</edge>
+<edge source="http://llamos-kg.org/Samantha" target="http://llamos-kg.org/data_annotation" id="0">
+  <data key="d1">perform</data>
+</edge>
+<edge source="http://llamos-kg.org/Web_Amazon_Services" target="http://llamos-kg.org/Detection_Deepfake_Challenge" id="0">
+  <data key="d1">launch</data>
+</edge>
+<edge source="http://llamos-kg.org/Mozilla" target="http://llamos-kg.org/action" id="0">
+  <data key="d1">take</data>
+</edge>
+<edge source="http://llamos-kg.org/MIT_Press" target="http://llamos-kg.org/Ian_Goodfellow" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/tain_cer__actors" target="http://llamos-kg.org/synthetic_media" id="0">
+  <data key="d1">produce</data>
+</edge>
+<edge source="http://llamos-kg.org/Gerasimov_Doctrine" target="http://llamos-kg.org/Molly_Mckew" id="0">
+  <data key="d1">see</data>
+</edge>
+<edge source="http://llamos-kg.org/Digital_popularity_21_capabilities" target="http://llamos-kg.org/dictatorial_existing_tools" id="0">
+  <data key="d1">supplant</data>
+</edge>
+<edge source="http://llamos-kg.org/pop_organized_protests" target="http://llamos-kg.org/human_chains" id="0">
+  <data key="d1">form</data>
+</edge>
+<edge source="http://llamos-kg.org/Draft" target="http://llamos-kg.org/training_course" id="0">
+  <data key="d1">launch</data>
+</edge>
+<edge source="http://llamos-kg.org/Richard_Chief_Moore" target="http://llamos-kg.org/emptive___pre_exposures" id="0">
+  <data key="d1">highlight</data>
+</edge>
+<edge source="http://llamos-kg.org/takedown_actors" target="http://llamos-kg.org/ISPs" id="0">
+  <data key="d1">contact</data>
+</edge>
+<edge source="http://llamos-kg.org/Russians" target="http://llamos-kg.org/controlled_TV" id="0">
+  <data key="d1">shun</data>
+</edge>
+<edge source="http://llamos-kg.org/Analysis" target="http://llamos-kg.org/heat_detailed_map" id="0">
+  <data key="d1">present</data>
+</edge>
+<edge source="http://llamos-kg.org/al__gorithms" target="http://llamos-kg.org/malicious_actors" id="0">
+  <data key="d1">enable</data>
+</edge>
+<edge source="http://llamos-kg.org/Stakeholders" target="http://llamos-kg.org/radioactive_marking" id="0">
+  <data key="d1">encourage</data>
+</edge>
+<edge source="http://llamos-kg.org/GDPR" target="http://llamos-kg.org/Protection_Directive" id="0">
+  <data key="d1">supplant</data>
+</edge>
+<edge source="http://llamos-kg.org/Dmitry_Gudkov" target="http://llamos-kg.org/Uber" id="0">
+  <data key="d1">develop</data>
+</edge>
+<edge source="http://llamos-kg.org/Islamic_Republic" target="http://llamos-kg.org/satellite_dishes" id="0">
+  <data key="d1">ban</data>
+</edge>
+<edge source="http://llamos-kg.org/research_literature" target="http://llamos-kg.org/relevant_categories" id="0">
+  <data key="d1">demonstrate</data>
+</edge>
+<edge source="http://llamos-kg.org/economic_groups" target="http://llamos-kg.org/active_users" id="0">
+  <data key="d1">become</data>
+</edge>
+<edge source="http://llamos-kg.org/Belarusian_distinguishing_protesters" target="http://llamos-kg.org/protesters" id="0">
+  <data key="d1">form</data>
+</edge>
+<edge source="http://llamos-kg.org/Glossary_Center" target="http://llamos-kg.org/Real" id="0">
+  <data key="d1">get</data>
+</edge>
+<edge source="http://llamos-kg.org/Authoritarianism" target="http://llamos-kg.org/Framework" id="0">
+  <data key="d1">transform</data>
+</edge>
+<edge source="http://llamos-kg.org/Intelligence_Joint_Committee" target="http://llamos-kg.org/States_assessment" id="0">
+  <data key="d1">report</data>
+</edge>
+<edge source="http://llamos-kg.org/manipulation_intervenes" target="http://llamos-kg.org/behavioural_changes" id="0">
+  <data key="d1">cause</data>
+</edge>
+<edge source="http://llamos-kg.org/disinformation_paign" target="http://llamos-kg.org/experienced_specialist" id="0">
+  <data key="d1">recruit</data>
+</edge>
+<edge source="http://llamos-kg.org/contentious___Non_Forms" target="http://llamos-kg.org/Forms" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Examples" target="http://llamos-kg.org/joint_action" id="0">
+  <data key="d1">include</data>
+</edge>
+<edge source="http://llamos-kg.org/Lukashenka___Anti_protesters" target="http://llamos-kg.org/red_flag" id="0">
+  <data key="d1">reclaim</data>
+</edge>
+<edge source="http://llamos-kg.org/attack_DDoS_strategies" target="http://llamos-kg.org/distinct_difference" id="0">
+  <data key="d1">reveal</data>
+</edge>
+<edge source="http://llamos-kg.org/sophisticated_actors" target="http://llamos-kg.org/tailored_deepfakes" id="0">
+  <data key="d1">use</data>
+</edge>
+<edge source="http://llamos-kg.org/Pavel_Durov" target="http://llamos-kg.org/grant_program" id="0">
+  <data key="d1">announce</data>
+</edge>
+<edge source="http://llamos-kg.org/transformative_qualitative_change" target="http://llamos-kg.org/new_strategies" id="0">
+  <data key="d1">involve</data>
+</edge>
+</graph></graphml>

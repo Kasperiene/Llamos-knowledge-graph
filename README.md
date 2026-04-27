@@ -1,5 +1,36 @@
 # Llamos-knowledge-graph
 
+A multi-agent pipeline that reads scientific papers and builds a knowledge graph of concepts, entities, and relations.
+
+## Quick Start
+
+```bash
+pip install -r requirements.txt
+
+# Download papers (topic search → free PDFs)
+python tools/paper_downloader.py "Russian cyber groups Telegram" data/papers/my_topic
+
+# Run full pipeline on a single document
+python main.py data/papers/my_topic/paper.pdf
+
+# Visualise result in Gephi
+# Open: data/output/knowledge_graph.graphml
+```
+
+## Gephi Visualisation
+
+1. Download [Gephi](https://gephi.org/) (free)
+2. Open Gephi → **File → Open** → select `data/output/knowledge_graph.graphml`
+3. Run **Layout → ForceAtlas2** (click Run, wait ~30s, click Stop)
+4. Go to **Appearance → Nodes → Size → Ranking** → select `PageRank` attribute
+5. Go to **Appearance → Nodes → Color → Partition** → select `community`
+6. Enable **Labels** to show node names
+7. Export as PNG/SVG via **File → Export → SVG/PDF/PNG**
+
+Communities will appear as colour clusters; node size reflects importance (PageRank).
+
+---
+
 ## Pipeline
 
 - **Paper Reader Agent**

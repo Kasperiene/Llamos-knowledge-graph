@@ -1,0 +1,33 @@
+# Agent 1 — Data Ingestion
+pymupdf>=1.24.0          # PDF parsing
+python-docx>=1.1.0       # DOCX parsing
+beautifulsoup4>=4.12.0   # HTML parsing
+lxml>=5.0.0              # HTML parser backend
+pytesseract>=0.3.10      # OCR
+pdf2image>=1.17.0        # PDF → image for OCR
+
+# Agent 2 — Semantic Embedding
+sentence-transformers>=3.0.0
+
+# Agent 3 — Concept Extraction
+spacy>=3.7.0
+keybert>=0.8.0
+yake>=0.4.8
+
+# Agent 4 — Relation Extraction
+# transformers>=4.40.0  # optional: enable use_rebel=True for REBEL model
+
+# Agent 5 — Entity Linking
+requests>=2.31.0
+
+# Agent 6 — Relation Validation
+# (uses spaCy from Agent 3)
+
+# Agent 7 — Ontology Builder
+rdflib>=7.0.0
+
+# Agent 8 — KG Construction
+networkx>=3.3
+
+# Agent 9 — Graph Enrichment
+python-louvain>=0.16   # community detection

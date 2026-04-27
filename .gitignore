@@ -1,3 +1,9 @@
+# Project-specific
+data/papers/
+data/input/
+data/output/raw_concepts.json
+data/output/raw_relations.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
