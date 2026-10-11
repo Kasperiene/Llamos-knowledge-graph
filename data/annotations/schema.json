@@ -1,0 +1,77 @@
+{
+  "_comment": "Human annotation schema for identity leadership papers. Fill every field; use null only when the information is genuinely absent from the paper.",
+
+  "paper_id":           "<filename_without_ext>",
+  "annotator":          "<your name>",
+  "annotation_date":    "YYYY-MM-DD",
+  "annotation_time_minutes": null,
+
+  "metadata": {
+    "title":      "<full paper title>",
+    "authors":    ["Last, First", "Last, First"],
+    "year":       0,
+    "journal":    "<journal or book title>",
+    "doi":        null,
+    "paper_type": "<empirical | theoretical | review | mixed>"
+  },
+
+  "research_design": {
+    "_comment": "Fill only for empirical papers; null for theoretical/review.",
+    "methodology":       "<quantitative | qualitative | mixed | null>",
+    "study_type":        "<cross-sectional | longitudinal | experimental | RCT | meta-analysis | qualitative | other | null>",
+    "number_of_studies": 1,
+    "data_collection":   "<survey | interview | observation | secondary | experiment | other | null>"
+  },
+
+  "sample": {
+    "_comment": "Per study if multiple studies; use the main/combined sample.",
+    "total_n":               null,
+    "population":            "<e.g. university students, employees, professional athletes>",
+    "country":               null,
+    "age_mean":              null,
+    "age_range":             null,
+    "gender_percent_female": null
+  },
+
+  "constructs": {
+    "_comment": "List every measured/manipulated construct. type: IL=identity leadership, SI=social identity, leadership, individual, group, other.",
+    "independent_variables": [
+      {
+        "name":              "<construct name>",
+        "type":              "<IL | SI | leadership | individual | group | other>",
+        "measure":           "<scale name or null>",
+        "items":             null,
+        "reliability_alpha": null
+      }
+    ],
+    "dependent_variables": [
+      {
+        "name":              "<construct name>",
+        "type":              "<IL | SI | leadership | individual | group | other>",
+        "measure":           "<scale name or null>",
+        "items":             null,
+        "reliability_alpha": null
+      }
+    ],
+    "mediators":   [],
+    "moderators":  []
+  },
+
+  "hypotheses": [
+    {
+      "id":        "H1",
+      "statement": "<hypothesis as stated or paraphrased>",
+      "supported": null
+    }
+  ],
+
+  "key_findings": [
+    "<one sentence per main finding>"
+  ],
+
+  "theoretical_framework": [
+    "<e.g. Social Identity Theory, Identity Leadership Model, Self-Categorization Theory>"
+  ],
+
+  "notes": "<anything ambiguous, unusual, or worth flagging for LLM comparison>"
+}
