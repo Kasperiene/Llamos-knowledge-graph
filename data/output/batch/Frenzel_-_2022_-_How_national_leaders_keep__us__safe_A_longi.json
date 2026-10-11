@@ -1,0 +1,570 @@
+{
+  "paper_id": "Frenzel_-_2022_-_How_national_leaders_keep__us__safe_A_longi",
+  "filename": "Frenzel - 2022 - How national leaders keep ‘us’ safe A longitudinal, four-nation study exploring the role of identity le.pdf",
+  "title": "How national leaders keep ‘us’ safe: A longitudinal, four-nation study exploring the role of identity leadership as a predictor of adherence to COVID-19 non-pharmaceutical interventions",
+  "authors": [],
+  "doi": "",
+  "abstract": "Objectives To investigate whether citizens’ adherence to health-protective non-pharmaceutical interventions (NPIs) during the COVID-19 pandemic is predicted by identity leadership, wherein leaders are perceived to create a sense of shared national identity. Design Observational two-wave study. Hypotheses testing was conducted with structural equation modelling. Setting Data collection during the COVID-19 pandemic in China, Germany, Israel and the USA in April/May 2020 and four weeks later. Participants Adults in China (n=548, 66.6% women), Germany (n=182, 78% women), Israel (n=198, 51.0% women) and the USA (n=108, 58.3% women). Measures Identity leadership (assessed by the four-item Identity Leadership Inventory Short-Form) at Time 1, perceived shared national identification (PSNI; assessed with four items) and adherence to health-protective NPIs (assessed with 10 items that describe different healthprotective interventions; for example, wearing face masks) at Time 2. Results Identity leadership was positively associated with PSNI (95% CI 0.11 to 0.30, p<0.001) in all countries. This, in turn, was related to more adherence to healthprotective NPIs in all countries (95% CI 0.03 to 0.36, 0.001≤p≤0.017) except Israel (95% CI −0.03 to 0.27, p=0.119). In Germany, the more people saw Chancellor Merkel as engaging in identity leadership, the more they adhered to health-protective NPIs (95% CI 0.04 to 0.18, p=0.002). In the USA, in contrast, the more people perceived President Trump as engaging in identity leadership, the less they adhered to health-protective NPIs (95% CI −0.17 to −0.04, p=0.002). Conclusions National leaders can make a difference by promoting a sense of shared identity among their citizens because people are more inclined to follow health-protective NPIs to the extent that they feel part of a united ‘us’. However, the content of identity leadership (perceptions of what it means to be a nation’s citizen)",
+  "word_count": 7198,
+  "sections": [
+    "How national leaders keep ‘us’ safe: A longitudinal, four-nation study exploring the role of identity leadership as a predictor of adherence to COVID-19 non-pharmaceutical interventions",
+    "Check for updates",
+    "STRENGTHS AND LIMITATIONS OF THIS STUDY",
+    "INTRODUCTION",
+    "METHODS",
+    "Design and setting",
+    "PARTICIPANT RECRUITMENTS",
+    "MEASURES",
+    "STATISTICAL ANALYSIS",
+    "Patient and public involvement",
+    "RESULTS",
+    "Descriptive analyses",
+    "Hypothesis testing",
+    "DISCUSSION",
+    "Strengths and weaknesses",
+    "What can (national) leaders do right?",
+    "Future research implications",
+    "CONCLUSION",
+    "Author affiliations",
+    "ORCID iDs"
+  ],
+  "top_concepts": [
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9666,
+      "frequency": 134
+    },
+    {
+      "text": "shared national identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9208,
+      "frequency": 153
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8567,
+      "frequency": 140
+    },
+    {
+      "text": "identity leadership adherence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7424,
+      "frequency": 181
+    },
+    {
+      "text": "national identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7895,
+      "frequency": 124
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8399,
+      "frequency": 78
+    },
+    {
+      "text": "national leaders identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7197,
+      "frequency": 140
+    },
+    {
+      "text": "pandemic predicted identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7599,
+      "frequency": 85
+    },
+    {
+      "text": "shared national identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7401,
+      "frequency": 86
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7959,
+      "frequency": 56
+    },
+    {
+      "text": "health-protective NPIs",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7685,
+      "frequency": 61
+    },
+    {
+      "text": "predictor adherence covid",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7763,
+      "frequency": 52
+    },
+    {
+      "text": "shared national",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7101,
+      "frequency": 75
+    },
+    {
+      "text": "leadership adhered health",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7035,
+      "frequency": 77
+    },
+    {
+      "text": "identity design observational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6625,
+      "frequency": 82
+    },
+    {
+      "text": "healthprotective npis countries",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7094,
+      "frequency": 56
+    },
+    {
+      "text": "hypothesis countries national",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6647,
+      "frequency": 68
+    },
+    {
+      "text": "adherence",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6652,
+      "frequency": 47
+    },
+    {
+      "text": "PSNI",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7262,
+      "frequency": 25
+    },
+    {
+      "text": "shared group membership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6136,
+      "frequency": 37
+    },
+    {
+      "text": "end conducted study",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6489,
+      "frequency": 28
+    },
+    {
+      "text": "leaders’ identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4446,
+      "frequency": 138
+    },
+    {
+      "text": "NPIs",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6108,
+      "frequency": 34
+    },
+    {
+      "text": "national",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5622,
+      "frequency": 46
+    },
+    {
+      "text": "people lead cope",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6109,
+      "frequency": 31
+    },
+    {
+      "text": "israel usa attrition",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5861,
+      "frequency": 32
+    },
+    {
+      "text": "associated psni 95",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5802,
+      "frequency": 30
+    },
+    {
+      "text": "different social university",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.559,
+      "frequency": 29
+    },
+    {
+      "text": "Time",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5553,
+      "frequency": 28
+    },
+    {
+      "text": "perceived shared national",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3988,
+      "frequency": 92
+    },
+    {
+      "text": "stages pandemic new",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6508,
+      "frequency": 11
+    },
+    {
+      "text": "Germany",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5625,
+      "frequency": 17
+    },
+    {
+      "text": "66 women germany",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5367,
+      "frequency": 17
+    },
+    {
+      "text": "adults china",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6061,
+      "frequency": 11
+    },
+    {
+      "text": "permissions published bmj",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6526,
+      "frequency": 8
+    },
+    {
+      "text": "crucially important factor",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5788,
+      "frequency": 11
+    },
+    {
+      "text": "USA",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5461,
+      "frequency": 13
+    },
+    {
+      "text": "behaviours non pharmaceutical",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6153,
+      "frequency": 9
+    },
+    {
+      "text": "national identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.348,
+      "frequency": 57
+    },
+    {
+      "text": "infection self isolation",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6136,
+      "frequency": 7
+    },
+    {
+      "text": "standard living political",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5966,
+      "frequency": 7
+    },
+    {
+      "text": "haslam nina",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.4869,
+      "frequency": 11
+    },
+    {
+      "text": "Israel",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4151,
+      "frequency": 18
+    },
+    {
+      "text": "citizen strengths limitations",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6027,
+      "frequency": 4
+    },
+    {
+      "text": "safe longitudinal fournation",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.588,
+      "frequency": 4
+    },
+    {
+      "text": "gender parenthood",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5839,
+      "frequency": 4
+    },
+    {
+      "text": "adherence to health-protective",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1748,
+      "frequency": 319
+    },
+    {
+      "text": "China",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3999,
+      "frequency": 10
+    },
+    {
+      "text": "thousands employees 30",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5488,
+      "frequency": 4
+    },
+    {
+      "text": "19 deaths",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5266,
+      "frequency": 4
+    }
+  ],
+  "relations": [
+    {
+      "head": "people",
+      "type": "see",
+      "tail": "Chancellor Merkel",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "people",
+      "type": "perceive",
+      "tail": "President Trump",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "national leaders",
+      "type": "create",
+      "tail": "social environment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "People",
+      "type": "perceive",
+      "tail": "national shared higher identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSNI",
+      "type": "predict",
+      "tail": "reported adherence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "people",
+      "type": "provide",
+      "tail": "informed consent",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "native speakers",
+      "type": "translate",
+      "tail": "English original items",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "higher scores",
+      "type": "indicate",
+      "tail": "stronger perception",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "higher scores",
+      "type": "indicate",
+      "tail": "stronger adherence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model fit",
+      "type": "suggest",
+      "tail": "countryspecific effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "German Chinese participants",
+      "type": "report",
+      "tail": "adherence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Results",
+      "type": "model)</td></tr><tr><td></td><td",
+      "tail": "subsample Adherence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Results",
+      "type": "model)</td></tr><tr><td></td><td",
+      "tail": "IL</td><td>0.21",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "strengthen",
+      "tail": "relational identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "people",
+      "type": "perceive",
+      "tail": "national shared identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "promote",
+      "tail": "destructive norms",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "correlational nature",
+      "type": "preclude",
+      "tail": "causal inference",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "German regions",
+      "type": "report",
+      "tail": "infection higher rates",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "contribute",
+      "tail": "adherence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research Future implications",
+      "type": "set",
+      "tail": "important agenda",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader given promotes",
+      "type": "have",
+      "tail": "significant bearing",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "KAZGUU Narikbayev University",
+      "type": "perform",
+      "tail": "data analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "AB",
+      "type": "make",
+      "tail": "critical revision",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "listed authors",
+      "type": "meet",
+      "tail": "authorship criteria",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "give",
+      "tail": "informed consent",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "National identity",
+      "type": "predict",
+      "tail": "health support",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 26,
+  "elapsed_s": 88.2
+}

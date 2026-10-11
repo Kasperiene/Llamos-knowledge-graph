@@ -1,0 +1,654 @@
+{
+  "paper_id": "Gill_-_2015_-_Elite_identity_and_status_anxiety_An_interpret",
+  "filename": "Gill - 2015 - Elite identity and status anxiety An interpretative phenomenological analysis of management consultants.pdf",
+  "title": "Alternative formats If you require this document in an alternative format, please contact: openaccess@bath.ac.uk",
+  "authors": [],
+  "doi": "10.1177/1350508413514287",
+  "abstract": "Abstract. Critical management scholars have emphasised that organizations’ attempts to regulate employees’ identities can prompt the reproduction or transformation of self-identity. The emotional consequences of identity regulation, however, remain largely unexamined. This paper explores the experiences of eight management consultants in the British office of a global consulting firm over several months. Interviews and observations were analysed according to the principles of interpretative phenomenological analysis. The results of the study highlight consultants’ identification with an organizationally inspired elite discourse alongside high levels of commitment and the presence of a counter-intuitive yet significant status anxiety. Drawing on psychological and sociological theories that connect identity and anxiety, this article suggests that the continual promotion of an elite identity within the consulting firm leaves many of the consultants feeling acutely anxious about their status.",
+  "word_count": 10873,
+  "sections": [
+    "Alternative formats If you require this document in an alternative format, please contact: openaccess@bath.ac.uk",
+    "Elite identity and status anxiety: An interpretative phenomenological analysis of management consultants",
+    "Elite identity and status anxiety: An interpretative phenomenological analysis of management consultants",
+    "Introduction",
+    "Self-identity, status and identity regulation",
+    "Status anxiety and identity",
+    "Please insert Figure 1 about here",
+    "Methodology",
+    "Participants and data collection",
+    "Context of the study",
+    "Findings",
+    "The construction of an elite identity and status",
+    "Commitment to consulting",
+    "Status anxiety",
+    "Discussion",
+    "Elite identity as regulation",
+    "Consequences of identity regulation: status anxiety",
+    "Broader implications",
+    "Future research and conclusion",
+    "Acknowledgements"
+  ],
+  "top_concepts": [
+    {
+      "text": "Elite identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8989,
+      "frequency": 226
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9156,
+      "frequency": 151
+    },
+    {
+      "text": "identity regulation",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8778,
+      "frequency": 181
+    },
+    {
+      "text": "status anxiety",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.896,
+      "frequency": 157
+    },
+    {
+      "text": "elite social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.803,
+      "frequency": 265
+    },
+    {
+      "text": "identity anxiety article",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7745,
+      "frequency": 249
+    },
+    {
+      "text": "elite identity consulting",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.761,
+      "frequency": 271
+    },
+    {
+      "text": "identity work",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7977,
+      "frequency": 193
+    },
+    {
+      "text": "organizations regulation identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7734,
+      "frequency": 186
+    },
+    {
+      "text": "status anxiety interpretative",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.782,
+      "frequency": 172
+    },
+    {
+      "text": "anxiety",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8442,
+      "frequency": 93
+    },
+    {
+      "text": "researchers identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7327,
+      "frequency": 165
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7067,
+      "frequency": 190
+    },
+    {
+      "text": "theories connect identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.732,
+      "frequency": 155
+    },
+    {
+      "text": "regulation anxiety paper",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7157,
+      "frequency": 139
+    },
+    {
+      "text": "management consultants organization",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6728,
+      "frequency": 147
+    },
+    {
+      "text": "consultants",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.759,
+      "frequency": 78
+    },
+    {
+      "text": "anxiety employees alvesson",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6974,
+      "frequency": 108
+    },
+    {
+      "text": "leaves consultants feeling",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7147,
+      "frequency": 80
+    },
+    {
+      "text": "phenomenological analysis management",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6989,
+      "frequency": 75
+    },
+    {
+      "text": "management consultants",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.633,
+      "frequency": 119
+    },
+    {
+      "text": "Elite",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.694,
+      "frequency": 75
+    },
+    {
+      "text": "firm studies identified",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6808,
+      "frequency": 68
+    },
+    {
+      "text": "status",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.686,
+      "frequency": 64
+    },
+    {
+      "text": "status distinctions alvesson",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6288,
+      "frequency": 71
+    },
+    {
+      "text": "uk elite",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5941,
+      "frequency": 76
+    },
+    {
+      "text": "consulting firm",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5756,
+      "frequency": 82
+    },
+    {
+      "text": "firm",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6767,
+      "frequency": 37
+    },
+    {
+      "text": "suffering contemporary organizational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6675,
+      "frequency": 33
+    },
+    {
+      "text": "unexamined studies organizations",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6488,
+      "frequency": 30
+    },
+    {
+      "text": "elite consulting firm",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4242,
+      "frequency": 157
+    },
+    {
+      "text": "contributing factors experiences",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6567,
+      "frequency": 20
+    },
+    {
+      "text": "approach emphasising role",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6236,
+      "frequency": 21
+    },
+    {
+      "text": "work",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5059,
+      "frequency": 42
+    },
+    {
+      "text": "centre mental",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6047,
+      "frequency": 20
+    },
+    {
+      "text": "authors identities czarniawski",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5537,
+      "frequency": 27
+    },
+    {
+      "text": "sociological literature focuses",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6416,
+      "frequency": 15
+    },
+    {
+      "text": "university oxford saïd",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5703,
+      "frequency": 22
+    },
+    {
+      "text": "management",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4538,
+      "frequency": 41
+    },
+    {
+      "text": "employment professions competitive",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6369,
+      "frequency": 10
+    },
+    {
+      "text": "believe document breaches",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.598,
+      "frequency": 10
+    },
+    {
+      "text": "external socialidentities internal",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7132,
+      "frequency": 6
+    },
+    {
+      "text": "workplace adopting",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6323,
+      "frequency": 7
+    },
+    {
+      "text": "published version gill",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6368,
+      "frequency": 6
+    },
+    {
+      "text": "consulting firms",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3103,
+      "frequency": 54
+    },
+    {
+      "text": "regimes rests belief",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6054,
+      "frequency": 4
+    },
+    {
+      "text": "consulting",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2807,
+      "frequency": 45
+    },
+    {
+      "text": "Organization",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3029,
+      "frequency": 28
+    },
+    {
+      "text": "identity constructions",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1759,
+      "frequency": 157
+    },
+    {
+      "text": "social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2373,
+      "frequency": 39
+    }
+  ],
+  "relations": [
+    {
+      "head": "corporate regulation",
+      "type": "reduce",
+      "tail": "anxiety",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity work",
+      "type": "connect",
+      "tail": "external socialidentities",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social positions",
+      "type": "change",
+      "tail": "given identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity",
+      "type": "undergo",
+      "tail": "constant work",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Alvesson",
+      "type": "describe",
+      "tail": "identity regulation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Researchers",
+      "type": "investigate",
+      "tail": "discursive specific mechanisms",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Collinson",
+      "type": "describe",
+      "tail": "anxiety",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "elite identity",
+      "type": "provide",
+      "tail": "high standards",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social factors",
+      "type": "drive",
+      "tail": "anxiety",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Psychologists",
+      "type": "examine",
+      "tail": "generalized anxiety",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Jensen",
+      "type": "employ",
+      "tail": "related definition",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "status",
+      "type": "produce",
+      "tail": "anxiety",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "stress occupational literature",
+      "type": "examine",
+      "tail": "countless examples",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Researchers",
+      "type": "intimate",
+      "tail": "consultants",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "IPA",
+      "type": "seek",
+      "tail": "theoretical saturation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "IPA",
+      "type": "have",
+      "tail": "sample size",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "structured - Semi interviews",
+      "type": "facilitate",
+      "tail": "exploratory discussions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "large fees",
+      "type": "enable",
+      "tail": "Firm X",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Firm X",
+      "type": "communicate",
+      "tail": "corporate values",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "I’m",
+      "type": "concern",
+      "tail": "P03",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "consultants",
+      "type": "describe",
+      "tail": "significant anxiety",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "negotiated values",
+      "type": "provide",
+      "tail": "supervisory force",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "consultants",
+      "type": "organize",
+      "tail": "social curricular - extra activities",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "elite discourses",
+      "type": "have",
+      "tail": "strong presence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Powell",
+      "type": "cause",
+      "tail": "psychological difficulties",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "tentative nature",
+      "type": "give",
+      "tail": "sample small size",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "consultants",
+      "type": "set",
+      "tail": "unachievable target",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "consultants",
+      "type": "derive",
+      "tail": "significant sense",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Consultants",
+      "type": "derive",
+      "tail": "significant identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "consulting firms",
+      "type": "construct",
+      "tail": "elite identities",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "elite identity",
+      "type": "promote",
+      "tail": "higher levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "competitive environment",
+      "type": "drive",
+      "tail": "higher rates",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "wider society",
+      "type": "bear",
+      "tail": "financial burden",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "anxiety",
+      "type": "remain",
+      "tail": "significant underexplored consequence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Previous studies",
+      "type": "identify",
+      "tail": "different ways",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Collinson",
+      "type": "manage",
+      "tail": "Shop floor",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Robertson",
+      "type": "explore",
+      "tail": "lived experience",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Starks",
+      "type": "choose",
+      "tail": "Method",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 38,
+  "elapsed_s": 74.8
+}

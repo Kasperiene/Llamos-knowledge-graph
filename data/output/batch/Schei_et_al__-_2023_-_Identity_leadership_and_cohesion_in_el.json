@@ -1,0 +1,606 @@
+{
+  "paper_id": "Schei_et_al__-_2023_-_Identity_leadership_and_cohesion_in_el",
+  "filename": "Schei et al. - 2023 - Identity leadership and cohesion in elite sport T.pdf",
+  "title": "Identity leadership and cohesion in elite sport: The mediating role of intra-team communication",
+  "authors": [],
+  "doi": "",
+  "abstract": "One perspective on leadership that has recently gained increased attention in sport is identity leadership; however, research on elite sport teams is still in its infancy. Thus, the main purpose of this research is to investigate identity leadership in elite team sports in relation to task cohesion, and subsequently to explore the mediating role of the intra-team communication dimensions of acceptance and distinctiveness. A cross-sectional design was employed and 441 elite athletes from division 1 and division 2 in handball and ice hockey participated in the present study. Structural equation modeling was used to assess relationships between identity leadership and task cohesion, and the mediating role of acceptance and distinctiveness. Results revealed that identity leadership positively predicted task cohesion, and that this relationship was mediated by intrateam communication acceptance. In conclusion, findings in the present study expand our understanding of performance-related benefits of identity leadership in elite sport.",
+  "word_count": 7170,
+  "sections": [
+    "Identity leadership and cohesion in elite sport: The mediating role of intra-team communication",
+    "A R T I C L E I N F O",
+    "1. Introduction",
+    "2. Materials and methods",
+    "2.1. Participants",
+    "2.2. Procedure",
+    "2.3. Measures",
+    "2.4. Statistical analyses",
+    "2.5. Preliminary analyses",
+    "3. Results",
+    "3.1. Testing the indirect effect",
+    "4. Discussion",
+    "Declaration of competing interest",
+    "Appendix A. Supplementary data"
+  ],
+  "top_concepts": [
+    {
+      "text": "Identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9649,
+      "frequency": 236
+    },
+    {
+      "text": "social identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8868,
+      "frequency": 292
+    },
+    {
+      "text": "leadership sport identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8353,
+      "frequency": 281
+    },
+    {
+      "text": "Social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8674,
+      "frequency": 186
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8678,
+      "frequency": 130
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7775,
+      "frequency": 193
+    },
+    {
+      "text": "leadership cohesion elite",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7645,
+      "frequency": 195
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8284,
+      "frequency": 106
+    },
+    {
+      "text": "task cohesion",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8089,
+      "frequency": 102
+    },
+    {
+      "text": "teams leadership factors",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7658,
+      "frequency": 127
+    },
+    {
+      "text": "sports contexts cohesion",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8268,
+      "frequency": 83
+    },
+    {
+      "text": "identity adaptive outcomes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.722,
+      "frequency": 135
+    },
+    {
+      "text": "elite sport mediating",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7686,
+      "frequency": 92
+    },
+    {
+      "text": "research elite team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7292,
+      "frequency": 110
+    },
+    {
+      "text": "youth sport research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7482,
+      "frequency": 69
+    },
+    {
+      "text": "group influence athletes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7916,
+      "frequency": 51
+    },
+    {
+      "text": "associated team identification",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7386,
+      "frequency": 68
+    },
+    {
+      "text": "role intra team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7315,
+      "frequency": 68
+    },
+    {
+      "text": "mediated intrateam communication",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7357,
+      "frequency": 52
+    },
+    {
+      "text": "cohesion linked increased",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7167,
+      "frequency": 58
+    },
+    {
+      "text": "sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7431,
+      "frequency": 45
+    },
+    {
+      "text": "belonging group influence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7415,
+      "frequency": 42
+    },
+    {
+      "text": "cohesion",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6662,
+      "frequency": 53
+    },
+    {
+      "text": "social network analysis",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6301,
+      "frequency": 67
+    },
+    {
+      "text": "mediating role acceptance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7328,
+      "frequency": 36
+    },
+    {
+      "text": "goals social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6505,
+      "frequency": 57
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5959,
+      "frequency": 59
+    },
+    {
+      "text": "study structural equation",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6369,
+      "frequency": 44
+    },
+    {
+      "text": "Sport Exerc",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.623,
+      "frequency": 45
+    },
+    {
+      "text": "dynamics sports 14",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.659,
+      "frequency": 36
+    },
+    {
+      "text": "elite team sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4623,
+      "frequency": 140
+    },
+    {
+      "text": "collective efficacy professional",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7016,
+      "frequency": 23
+    },
+    {
+      "text": "team sports",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5,
+      "frequency": 88
+    },
+    {
+      "text": "coach engagement principles",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7225,
+      "frequency": 20
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3944,
+      "frequency": 201
+    },
+    {
+      "text": "Social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4971,
+      "frequency": 56
+    },
+    {
+      "text": "purpose research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6568,
+      "frequency": 18
+    },
+    {
+      "text": "Leadership Social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3207,
+      "frequency": 292
+    },
+    {
+      "text": "handball ice",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6305,
+      "frequency": 11
+    },
+    {
+      "text": "Sports",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.455,
+      "frequency": 29
+    },
+    {
+      "text": "team sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3333,
+      "frequency": 104
+    },
+    {
+      "text": "communication",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3743,
+      "frequency": 44
+    },
+    {
+      "text": "mediation abstract perspective",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6786,
+      "frequency": 5
+    },
+    {
+      "text": "sports teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3333,
+      "frequency": 46
+    },
+    {
+      "text": "task",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3048,
+      "frequency": 49
+    },
+    {
+      "text": "anecdotal evidence 29",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6784,
+      "frequency": 3
+    },
+    {
+      "text": "commonly defined dynamic",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5913,
+      "frequency": 4
+    },
+    {
+      "text": "elite team sports",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1934,
+      "frequency": 124
+    },
+    {
+      "text": "halmstad university",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5577,
+      "frequency": 3
+    },
+    {
+      "text": "sweden articleinfo keywords",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.603,
+      "frequency": 2
+    }
+  ],
+  "relations": [
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "task cohesion",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "create",
+      "tail": "sports successful groups",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "youth coaches",
+      "type": "use",
+      "tail": "specific behaviors",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "find",
+      "tail": "task cohesion",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity prototypicality",
+      "type": "predict",
+      "tail": "task cohesion",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "affect",
+      "tail": "key outcomes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "influence",
+      "tail": "communication",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Higher scores",
+      "type": "suggest",
+      "tail": "task team cohesiveness",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model fit",
+      "type": "evaluate",
+      "tail": "fit comparative index",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model fit",
+      "type": "evaluate",
+      "tail": "square mean error",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "path analysis",
+      "type": "include",
+      "tail": "exogenous factor",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "independent clusters",
+      "type": "model",
+      "tail": "factor analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership order model",
+      "type": "yield",
+      "tail": "fit acceptable close indices",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "have",
+      "tail": "significant positive strong correlation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CI",
+      "type": "indicate",
+      "tail": "significant paths",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "structural model",
+      "type": "yield",
+      "tail": "acceptable model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "structural model",
+      "type": "yield",
+      "tail": "3 2",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "structural model",
+      "type": "yield",
+      "tail": "0 1",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "mediator proposed acceptance",
+      "type": "predict",
+      "tail": "task cohesion",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "mediator acceptance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "identify",
+      "tail": "positive relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Previous research",
+      "type": "find",
+      "tail": "positive relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "shared identity",
+      "type": "have",
+      "tail": "distinct implication",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "mutual sharing",
+      "type": "require",
+      "tail": "open communication",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social identity",
+      "type": "promote",
+      "tail": "shared agreement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team",
+      "type": "develop",
+      "tail": "shared form",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "elite teams",
+      "type": "have",
+      "tail": "verbal distinctive patterns",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "limited research",
+      "type": "investigate",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "sample size",
+      "type": "comprise",
+      "tail": "elite athletes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "elite coaches",
+      "type": "integrate",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "M.K. Erikstad",
+      "type": "need",
+      "tail": "prospective study",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "communication",
+      "type": "mediate",
+      "tail": "athlete leadership",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 32,
+  "elapsed_s": 56.9
+}

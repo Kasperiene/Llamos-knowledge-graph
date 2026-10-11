@@ -1,0 +1,561 @@
+{
+  "paper_id": "Stevens_et_al__-_2020_-_Leading_Us_to_Be_Active_A_Two-Wave_T",
+  "filename": "Stevens et al. - 2020 - Leading Us to Be Active A Two-Wave Test of Relati.pdf",
+  "title": "Leading ‘us’ to be active: A two-wave test of relationships between identity leadership, group identification, and attendance",
+  "authors": [],
+  "doi": "10.1037/spy0000164",
+  "abstract": "Although physical activity participation has numerous physiological and psychological benefits, inactivity rates remain high, and a greater understanding of the factors that drive participation is needed. Growing evidence indicates that (1) the strength of individuals’ social identification as a member of a particular physical activity group (e.g., an exercise group or sports team) is positively associated with their group-relevant participation, and (2) physical activity leaders (e.g., exercise group leaders, coaches, and captains) can foster members’ identification, and thus their greater group-relevant participation. Extending previous crosssectional research, we examined relationships over time between sports group members’ perceptions of their leaders’ engagement in identity leadership, their group identification, and attendance. Participants (N = 186) from amateur sports teams completed measures of identity leadership, group identification, and attendance on two occasions, eight weeks apart. Lagged regressions indicated that perceptions of leaders’ engagement in identity leadership at Time 1 predicted members’ group identification at Time 2, controlling for their group identification at Time 1; and members’ group identification at Time 2 was associated with their attendance at Time 2, controlling for their attendance at Time 1. Mediation analysis demonstrated a significant indirect effect of perceptions of leaders’ engagement in identity leadership on group members’ attendance through greater group identification. Findings provide evidence of the participation-related benefits of forming, and maintaining, strong social identities in physical activity settings, and point to the role leaders can play in fostering members’ sustained identification and participation. Key words: Leadership; Social Identity; Group Identification; Attendance; Mediation The physiological and psychological benefits of physical activity are well documented and include reduced risk of contracting several non-communicable diseases (e.g., heart disease, Type 2 diabetes, colon and breast cancers) and improved cognitive functioning, self-esteem, and mood (Biddle, Mutrie, & Gorely, 2015). Despite these benefits, and numerous public health campaigns to increase population awareness of physical activity benefits and guidelines (e.g., ‘Change4Life’ and ‘Live Well’), physical inactivity levels remain high. Recent global statistics indicate that over a quarter of adults (27.5%) worldwide are insufficiently active (Guthold, Stevens, Riley, & Bull, 2018), while substantially higher rates of insufficient activity (>90%) have been reported from objective accelerometer data (Tucker, Welk, & Beyler, 2011). Recent attempts to understand and promote physical activity have been characterized by an increasingly broad approach, with various individual, environmental, policy, and social factors considered (e.g., see Bauman et al., 2012; Garcia, Healy, & Rice, 2016). Within this research, promising preliminary evidence has emerged for the benefits of individuals developing strong social identities in physical activity settings (Stevens et al., 2017). More specifically, a positive relationship has been observed between the strength of individuals’ sense of social identity (or group identification) as a member of a particular physical activity group and their participation in group-relevant activities (e.g., their participation in group training sessions and events; Stevens, Rees, & Polman, 2018; Strachan, Shields, Glassford, & Beatty, 2012). Building on this, recent research further suggests that, by engaging in identity leadership (Haslam, Reicher, & Platow, 2011), physical activity leaders can foster group members’ group identification and thereby facilitate greater rates of attendance in group sessions (Stevens, Rees, Coffee, et al., 2018). The present study sought to build on this research—which, to date, has relied on cross-sectional designs—by examining relationships between identity leadership, group identification, and attendance over time. In particular, the study focused on these relationships in the context of a structured form of physical activity: amateur sport. The most recent data suggest that over 15 million adults aged 16 and over in the United Kingdom (34.2% of all adults) engage in physical activity through sport at least twice a month (28 days; Sport England, 2018), and that over 3 million of those are aged 16- 24 (equivalent to 49.2% of this population). Given these statistics, gaining a greater understanding of the factors that drive physical activity participation through sport (particularly in young adults) represents an important avenue for research.",
+  "word_count": 8812,
+  "sections": [
+    "Running head: IDENTITY LEADERSHIP AND ATTENDANCE",
+    "Theoretical Framework",
+    "The Present Research",
+    "Methods",
+    "Participants and Procedure",
+    "Measures",
+    "Analytic Strategy",
+    "Power Analyses",
+    "Results",
+    "Preliminary analysis",
+    "Main Analyses",
+    "Tests of H1: Relationship between identity leadership and group identification",
+    "Test of H2: Relationship between group identification and attendance",
+    "Tests of H3: Indirect effect of identity leadership on attendance through group",
+    "Sensitivity Analyses",
+    "Discussion",
+    "Limitations and Future Research",
+    "Conclusion"
+  ],
+  "top_concepts": [
+    {
+      "text": "members’ group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9468,
+      "frequency": 281
+    },
+    {
+      "text": "group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9749,
+      "frequency": 236
+    },
+    {
+      "text": "IDENTITY LEADERSHIP",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9155,
+      "frequency": 160
+    },
+    {
+      "text": "greater group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8264,
+      "frequency": 261
+    },
+    {
+      "text": "group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8755,
+      "frequency": 153
+    },
+    {
+      "text": "time",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8976,
+      "frequency": 112
+    },
+    {
+      "text": "running group identification",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7431,
+      "frequency": 241
+    },
+    {
+      "text": "leaders exercise group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7646,
+      "frequency": 191
+    },
+    {
+      "text": "identity leadership members",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7756,
+      "frequency": 170
+    },
+    {
+      "text": "group identification Step",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7143,
+      "frequency": 249
+    },
+    {
+      "text": "group members perceptions",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7213,
+      "frequency": 185
+    },
+    {
+      "text": "identities physical activity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7938,
+      "frequency": 100
+    },
+    {
+      "text": "group members’ group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6143,
+      "frequency": 351
+    },
+    {
+      "text": "identification attendance mediation",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7188,
+      "frequency": 142
+    },
+    {
+      "text": "identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7965,
+      "frequency": 83
+    },
+    {
+      "text": "leadership attendance leading",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7298,
+      "frequency": 108
+    },
+    {
+      "text": "identification facilitate greater",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7167,
+      "frequency": 109
+    },
+    {
+      "text": "members’ group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6227,
+      "frequency": 198
+    },
+    {
+      "text": "IDENTITY",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7072,
+      "frequency": 99
+    },
+    {
+      "text": "physical activity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6934,
+      "frequency": 94
+    },
+    {
+      "text": "grouprelevant activity researchers",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.772,
+      "frequency": 47
+    },
+    {
+      "text": "Social Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.578,
+      "frequency": 139
+    },
+    {
+      "text": "social identities consequences",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7215,
+      "frequency": 49
+    },
+    {
+      "text": "identification at Time",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5067,
+      "frequency": 267
+    },
+    {
+      "text": "confirmed importance social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6859,
+      "frequency": 50
+    },
+    {
+      "text": "sports team positively",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6608,
+      "frequency": 56
+    },
+    {
+      "text": "participants’ group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4785,
+      "frequency": 247
+    },
+    {
+      "text": "research suggests",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6628,
+      "frequency": 39
+    },
+    {
+      "text": "LEADERSHIP",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5734,
+      "frequency": 61
+    },
+    {
+      "text": "participation related benefits",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7166,
+      "frequency": 25
+    },
+    {
+      "text": "subsequent group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4255,
+      "frequency": 245
+    },
+    {
+      "text": "sport recent data",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6715,
+      "frequency": 30
+    },
+    {
+      "text": "group members’ attendance",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4071,
+      "frequency": 244
+    },
+    {
+      "text": "focused relationships context",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6542,
+      "frequency": 24
+    },
+    {
+      "text": "physiological psychological benefits",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7005,
+      "frequency": 18
+    },
+    {
+      "text": "congruent behaviors promote",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7021,
+      "frequency": 17
+    },
+    {
+      "text": "observed strength individuals",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7073,
+      "frequency": 16
+    },
+    {
+      "text": "group members’",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3826,
+      "frequency": 198
+    },
+    {
+      "text": "physical activity leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4206,
+      "frequency": 119
+    },
+    {
+      "text": "attendance Mark Stevens",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.43,
+      "frequency": 48
+    },
+    {
+      "text": "psychological association paper",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6979,
+      "frequency": 9
+    },
+    {
+      "text": "inactivity levels remain",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6629,
+      "frequency": 9
+    },
+    {
+      "text": "million adults aged",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6091,
+      "frequency": 10
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2724,
+      "frequency": 148
+    },
+    {
+      "text": "health campaigns",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6117,
+      "frequency": 6
+    },
+    {
+      "text": "attendance at Time",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.182,
+      "frequency": 230
+    },
+    {
+      "text": "ATTENDANCE",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2394,
+      "frequency": 46
+    },
+    {
+      "text": "guidelines change4life live",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5992,
+      "frequency": 2
+    },
+    {
+      "text": "physical activity group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1411,
+      "frequency": 247
+    },
+    {
+      "text": "tajfel turner",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.4777,
+      "frequency": 2
+    }
+  ],
+  "relations": [
+    {
+      "head": "activity participation",
+      "type": "have",
+      "tail": "physiological numerous benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "activity leaders",
+      "type": "foster",
+      "tail": "identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Mediation analysis",
+      "type": "demonstrate",
+      "tail": "indirect significant effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "activity leaders",
+      "type": "foster",
+      "tail": "group members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "activity leaders",
+      "type": "foster",
+      "tail": "group identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "recent research",
+      "type": "examine",
+      "tail": "greater rates",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "sectional - cross designs",
+      "type": "produce",
+      "tail": "biased estimates",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "wave designs",
+      "type": "provide",
+      "tail": "rigorous analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Stevens",
+      "type": "represent",
+      "tail": "important advancement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Figure",
+      "type": "provide",
+      "tail": "schematic overview",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CI",
+      "type": "cross",
+      "tail": "Zhao",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "size estimates",
+      "type": "indicate",
+      "tail": "N",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "outlier cases",
+      "type": "have",
+      "tail": "substantial influence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity impresarioship",
+      "type": "predict",
+      "tail": "group identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "provide",
+      "tail": "robust evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "activity leaders",
+      "type": "promote",
+      "tail": "greater attendance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "mediation analyses",
+      "type": "offer",
+      "tail": "nuanced guidance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "provide",
+      "tail": "rigorous test",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different groups",
+      "type": "face",
+      "tail": "perceived lack",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "informal leaders",
+      "type": "fulfil",
+      "tail": "leadership important roles",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "physical based activity",
+      "type": "randomize",
+      "tail": "controlled trial",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Team identification",
+      "type": "reduce",
+      "tail": "social loafing",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Active",
+      "type": "live",
+      "tail": "Adult Survey",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "promote",
+      "tail": "attendance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Categorization Theory",
+      "type": "rediscover",
+      "tail": "Social Group",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 25,
+  "elapsed_s": 76.3
+}

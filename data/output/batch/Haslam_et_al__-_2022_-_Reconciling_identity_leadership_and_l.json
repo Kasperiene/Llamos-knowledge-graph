@@ -1,0 +1,599 @@
+{
+  "paper_id": "Haslam_et_al__-_2022_-_Reconciling_identity_leadership_and_l",
+  "filename": "Haslam et al. - 2022 - Reconciling identity leadership and leader identit.pdf",
+  "title": "Reconciling identity leadership and leader identity: A dual-identity framework",
+  "authors": [],
+  "doi": "",
+  "abstract": "Research exploring the powerful links between leadership and identity has burgeoned in recent years but cohered around two distinct approaches. Research on identity leadership, the main focus of this special issue, sees leadership as a group process that centers on leaders’ ability to represent, advance, create and embed a social identity that they share with the collectives they lead —a sense of “us as a group”. Research on leader identity sees leadership as a process that is advanced by individuals who have a well-developed personal understanding of themselves as leaders—a sense of “me as a leader”. This article explores the nature and implications of these divergent approaches, focusing on their specification of profiles, processes, pathways, products, and philosophies that have distinct implications for theory and practice. We formalize our observations in a series of propositions and also outline a dual-identity framework with the potential to integrate the two approaches. Key words: leader identity, identity leadership, social identity, self-categorization",
+  "word_count": 17547,
+  "sections": [
+    "Reconciling identity leadership and leader identity: A dual-identity framework",
+    "Reconciling identity leadership and leader identity: A dual-identity framework",
+    "Two approaches to identity and leadership",
+    "Identity leadership",
+    "Leader identity",
+    "Divergence in approaches to identity and leadership",
+    "Distinct leadership profiles",
+    "Distinct leadership processes",
+    "Distinct leadership pathways",
+    "Distinct leadership products",
+    "Table 1. Measures of identity leadership and leader identity",
+    "Distinct leadership philosophies",
+    "leader development",
+    "Conclusion"
+  ],
+  "top_concepts": [
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.95,
+      "frequency": 590
+    },
+    {
+      "text": "Social Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9542,
+      "frequency": 517
+    },
+    {
+      "text": "leader identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9375,
+      "frequency": 463
+    },
+    {
+      "text": "reconciling identity leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8721,
+      "frequency": 594
+    },
+    {
+      "text": "identity leadership haslam",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8164,
+      "frequency": 606
+    },
+    {
+      "text": "social identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7843,
+      "frequency": 788
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8951,
+      "frequency": 319
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8927,
+      "frequency": 271
+    },
+    {
+      "text": "leader identity dual",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8129,
+      "frequency": 465
+    },
+    {
+      "text": "Social Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8922,
+      "frequency": 242
+    },
+    {
+      "text": "social identity theory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7785,
+      "frequency": 539
+    },
+    {
+      "text": "theories social identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7445,
+      "frequency": 521
+    },
+    {
+      "text": "Leadership Quarterly",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8214,
+      "frequency": 271
+    },
+    {
+      "text": "identity motivated group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7617,
+      "frequency": 399
+    },
+    {
+      "text": "Social Psychology Bulletin",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8063,
+      "frequency": 242
+    },
+    {
+      "text": "identity framework associated",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7365,
+      "frequency": 338
+    },
+    {
+      "text": "Social Psychology Review",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.764,
+      "frequency": 256
+    },
+    {
+      "text": "Social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7947,
+      "frequency": 198
+    },
+    {
+      "text": "leadership customarily defined",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7381,
+      "frequency": 284
+    },
+    {
+      "text": "understand leadership process",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.721,
+      "frequency": 300
+    },
+    {
+      "text": "framework leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7273,
+      "frequency": 276
+    },
+    {
+      "text": "identity increased factor",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7032,
+      "frequency": 324
+    },
+    {
+      "text": "group research leader",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6754,
+      "frequency": 266
+    },
+    {
+      "text": "formulate dual identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6508,
+      "frequency": 322
+    },
+    {
+      "text": "leader",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7441,
+      "frequency": 144
+    },
+    {
+      "text": "leadership quarterly accepted",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6522,
+      "frequency": 272
+    },
+    {
+      "text": "leader profiles psychological",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.718,
+      "frequency": 161
+    },
+    {
+      "text": "leadership haslam gaffney",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6414,
+      "frequency": 289
+    },
+    {
+      "text": "influential social psychological",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6654,
+      "frequency": 217
+    },
+    {
+      "text": "Applied Social Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6347,
+      "frequency": 255
+    },
+    {
+      "text": "number publications identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5992,
+      "frequency": 331
+    },
+    {
+      "text": "followers think leaders",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6874,
+      "frequency": 98
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4773,
+      "frequency": 528
+    },
+    {
+      "text": "distinct approaches research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.654,
+      "frequency": 77
+    },
+    {
+      "text": "psychology university queensland",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6034,
+      "frequency": 62
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3865,
+      "frequency": 594
+    },
+    {
+      "text": "categorization theory sct",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6504,
+      "frequency": 32
+    },
+    {
+      "text": "leader identity development",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3688,
+      "frequency": 488
+    },
+    {
+      "text": "Experimental Social Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4044,
+      "frequency": 250
+    },
+    {
+      "text": "leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4801,
+      "frequency": 79
+    },
+    {
+      "text": "groups terms",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6077,
+      "frequency": 28
+    },
+    {
+      "text": "self primarily defined",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5962,
+      "frequency": 30
+    },
+    {
+      "text": "Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5196,
+      "frequency": 44
+    },
+    {
+      "text": "Haslam",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6269,
+      "frequency": 16
+    },
+    {
+      "text": "differences seek shed",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5876,
+      "frequency": 18
+    },
+    {
+      "text": "practitioners divergent",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6411,
+      "frequency": 8
+    },
+    {
+      "text": "rise phenomena altruism",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6602,
+      "frequency": 7
+    },
+    {
+      "text": "Social Psychology Quarterly",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2602,
+      "frequency": 242
+    },
+    {
+      "text": "framework alexander",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6081,
+      "frequency": 6
+    },
+    {
+      "text": "diverse politics religion",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5877,
+      "frequency": 6
+    }
+  ],
+  "relations": [
+    {
+      "head": "Research",
+      "type": "see",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership research",
+      "type": "see",
+      "tail": "movement emerge",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Tajfel",
+      "type": "see",
+      "tail": "Ellemers",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social identity",
+      "type": "have",
+      "tail": "ranging implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social identity",
+      "type": "make",
+      "tail": "group behavior",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group prototypicality",
+      "type": "predict",
+      "tail": "behavioral impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Steffens",
+      "type": "see",
+      "tail": "et Haslam al",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Lord",
+      "type": "see",
+      "tail": "Kark",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "develop",
+      "tail": "clear narrative",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "cogito sum",
+      "type": "princep",
+      "tail": "ergo sum",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "have",
+      "tail": "strong sense",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "et Haslam al",
+      "type": "find",
+      "tail": "low correlation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader identity",
+      "type": "focus",
+      "tail": "inter)personal processes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "encounter",
+      "tail": "divergent reactions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "contribute",
+      "tail": "et al",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity group fusion",
+      "type": "contribute",
+      "tail": "et al",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "have",
+      "tail": "strong sense",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Note",
+      "type": "have",
+      "tail": "integrative impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity group fusion",
+      "type": "have",
+      "tail": "integrative impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leader",
+      "type": "have",
+      "tail": "disintegrative impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity group fission",
+      "type": "have",
+      "tail": "disintegrative impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "have",
+      "tail": "developmental trajectory",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "bring",
+      "tail": "personal identities",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Public values",
+      "type": "counterbalance",
+      "tail": "economic individualism",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "narcissistic CEOs",
+      "type": "construct",
+      "tail": "professional worlds",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leadership",
+      "type": "become",
+      "tail": "leader",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Divided groups",
+      "type": "need",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "contextual factors",
+      "type": "shape",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "pursue",
+      "tail": "leadership specific opportunities",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity economics",
+      "type": "meet",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Inferences",
+      "type": "predict",
+      "tail": "election outcomes",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 31,
+  "elapsed_s": 79.8
+}

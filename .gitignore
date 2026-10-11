@@ -211,3 +211,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS
+.DS_Store
+
+# Large regeneratable output files
+data/output/knowledge_graph.json
+data/output/knowledge_graph.ttl
+data/output/knowledge_graph.graphml
+data/output/knowledge_graph_gephi.graphml
+data/output/cermine_raw.xml

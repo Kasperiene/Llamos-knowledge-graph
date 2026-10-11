@@ -1,0 +1,695 @@
+{
+  "paper_id": "Roodt_-_2021_-_Subgroup_Formation_in_Diverse_Virtual_Teams_T",
+  "filename": "Roodt - 2021 - Subgroup Formation in Diverse Virtual Teams The Moderating Role of Identity Leadership.pdf",
+  "title": "Subgroup Formation in Diverse Virtual Teams: The Moderating Role of Identity Leadership",
+  "authors": [
+    "FIGURE 1",
+    "Proposed relationships among the selected variables."
+  ],
+  "doi": "10.3389/fpsyg.2021.722650",
+  "abstract": "Conclusion: This study provides first evidence to the importance of the team leader’s role as a manager of a shared social identity in virtual teams where perceived differences can lead to subgroup splits, as identity leaders may hinder the emergence of subgroups in virtual teams.",
+  "word_count": 14043,
+  "sections": [
+    "Subgroup Formation in Diverse Virtual Teams: The Moderating Role of Identity Leadership",
+    "INTRODUCTION",
+    "DIVERSITY, SUBGROUP FORMATION,AND LEADERSHIP IN VIRTUAL TEAMS",
+    "Perceived Diversity and Diversity Effects in Virtual Teams",
+    "Subgroup Formation in Virtual Teams",
+    "Leaders as Identity Creators in Virtual Teams: The Social Identity Approach to Leadership",
+    "THE PRESENT STUDY",
+    "Perceived Diversity Hypotheses",
+    "Identity Leadership Hypotheses",
+    "MATERIALS AND METHODS",
+    "Participants",
+    "Perceived Team Diversity",
+    "Subgroup Formation",
+    "Identity Leadership",
+    "Team Outcomes (Team Performance and Team Satisfaction)",
+    "Control Variables",
+    "Data Analysis Procedure",
+    "RESULTS",
+    "Correlational Analysis",
+    "Prediction of Team Performance and Team Satisfaction",
+    "Identity Leadership as a Moderator",
+    "DISCUSSION",
+    "Implications",
+    "Limitations",
+    "Future Research",
+    "CONCLUSION",
+    "DATA AVAILABILITY STATEMENT",
+    "ETHICS STATEMENT",
+    "AUTHOR CONTRIBUTIONS",
+    "FUNDING"
+  ],
+  "top_concepts": [
+    {
+      "text": "virtual team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.903,
+      "frequency": 403
+    },
+    {
+      "text": "virtual team members",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8627,
+      "frequency": 472
+    },
+    {
+      "text": "Virtual Teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9266,
+      "frequency": 210
+    },
+    {
+      "text": "virtual team outcomes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7882,
+      "frequency": 413
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8507,
+      "frequency": 243
+    },
+    {
+      "text": "virtual teams diversity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8074,
+      "frequency": 318
+    },
+    {
+      "text": "diversity team performance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7676,
+      "frequency": 396
+    },
+    {
+      "text": "subgroups virtual teams",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8207,
+      "frequency": 248
+    },
+    {
+      "text": "perceived diversity identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7707,
+      "frequency": 354
+    },
+    {
+      "text": "team members",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7846,
+      "frequency": 312
+    },
+    {
+      "text": "perceived diversity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.817,
+      "frequency": 227
+    },
+    {
+      "text": "team satisfaction perceived",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7399,
+      "frequency": 388
+    },
+    {
+      "text": "diversity effects virtual",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7728,
+      "frequency": 291
+    },
+    {
+      "text": "social identity virtual",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7453,
+      "frequency": 344
+    },
+    {
+      "text": "formation leadership virtual",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7502,
+      "frequency": 264
+    },
+    {
+      "text": "perception differences team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7273,
+      "frequency": 288
+    },
+    {
+      "text": "virtual team performance",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6732,
+      "frequency": 448
+    },
+    {
+      "text": "virtual team leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6708,
+      "frequency": 437
+    },
+    {
+      "text": "moderated perceived subgroup",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7444,
+      "frequency": 198
+    },
+    {
+      "text": "Perceived Team Diversity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6392,
+      "frequency": 470
+    },
+    {
+      "text": "identity leadership moderated",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7417,
+      "frequency": 194
+    },
+    {
+      "text": "face diversity subgroup",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.737,
+      "frequency": 177
+    },
+    {
+      "text": "teams identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7369,
+      "frequency": 177
+    },
+    {
+      "text": "team satisfaction",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6017,
+      "frequency": 269
+    },
+    {
+      "text": "perceived team performance",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.552,
+      "frequency": 407
+    },
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6309,
+      "frequency": 184
+    },
+    {
+      "text": "teams moderating role",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7325,
+      "frequency": 88
+    },
+    {
+      "text": "Virtual",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.607,
+      "frequency": 160
+    },
+    {
+      "text": "Diverse Virtual Teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5567,
+      "frequency": 230
+    },
+    {
+      "text": "hofmann et al",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6,
+      "frequency": 118
+    },
+    {
+      "text": "performance related outcomes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6644,
+      "frequency": 66
+    },
+    {
+      "text": "Teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6809,
+      "frequency": 50
+    },
+    {
+      "text": "Subgroup Formation",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5623,
+      "frequency": 116
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5041,
+      "frequency": 184
+    },
+    {
+      "text": "factors moderating relationship",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6903,
+      "frequency": 41
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5305,
+      "frequency": 127
+    },
+    {
+      "text": "team performance",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4539,
+      "frequency": 288
+    },
+    {
+      "text": "formation attempt gain",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6289,
+      "frequency": 54
+    },
+    {
+      "text": "leaders hinder emergence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6571,
+      "frequency": 45
+    },
+    {
+      "text": "perceived subgroup formation",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4517,
+      "frequency": 235
+    },
+    {
+      "text": "2016 previous research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6553,
+      "frequency": 40
+    },
+    {
+      "text": "organizational psychology institute",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6908,
+      "frequency": 26
+    },
+    {
+      "text": "perceived",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4439,
+      "frequency": 119
+    },
+    {
+      "text": "diversity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4103,
+      "frequency": 108
+    },
+    {
+      "text": "different importance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6212,
+      "frequency": 19
+    },
+    {
+      "text": "pandemic interactions people",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6101,
+      "frequency": 19
+    },
+    {
+      "text": "global virtual teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.335,
+      "frequency": 223
+    },
+    {
+      "text": "cultural nationality functional",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.656,
+      "frequency": 9
+    },
+    {
+      "text": "participated online survey",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6536,
+      "frequency": 8
+    },
+    {
+      "text": "organizations increasingly globalized",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6531,
+      "frequency": 8
+    }
+  ],
+  "relations": [
+    {
+      "head": "perceived diversity",
+      "type": "have",
+      "tail": "negative influence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Literature",
+      "type": "show",
+      "tail": "positive aspects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "build",
+      "tail": "common identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Differences",
+      "type": "activate",
+      "tail": "intergroup bias",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Diversity Perceived # Hypotheses",
+      "type": "sum",
+      "tail": "common challenges",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Earlier studies",
+      "type": "show",
+      "tail": "categorical minimal cues",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "subgroup Perceived formation",
+      "type": "moderate",
+      "tail": "negative relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "subgroup Perceived formation",
+      "type": "moderate",
+      "tail": "H2b",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "rate",
+      "tail": "subgroup formation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity leadership",
+      "type": "moderate",
+      "tail": "# MATERIALS",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "rate",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "have",
+      "tail": "average age",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "exclude",
+      "tail": "team leader",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Tabachnick",
+      "type": "see",
+      "tail": "Kannan",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Data",
+      "type": "exclude",
+      "tail": "RESULTS # Assumptions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Negative associations",
+      "type": "perceive",
+      "tail": "diversity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "perceived diversity",
+      "type": "predict",
+      "tail": "subgroup formation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "diversity",
+      "type": "have",
+      "tail": "negative influence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "conceive",
+      "tail": "entire team",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "categorize",
+      "tail": "dissimilar individuals",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "perceived heightened diversity",
+      "type": "have",
+      "tail": "negative impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "B</td><td></td><td",
+      "type": "b</td><td",
+      "tail": "% CI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "subgroup formation",
+      "type": "predict",
+      "tail": "team satisfaction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# # Implications",
+      "type": "have",
+      "tail": "interesting implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "have",
+      "tail": "interesting implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "extend",
+      "tail": "previous research",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team leader",
+      "type": "take",
+      "tail": "et al",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "SE",
+      "type": "b</td><td",
+      "tail": "% CI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "SE",
+      "type": "b</td><td",
+      "tail": "confidence interval",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team",
+      "type": "gain",
+      "tail": "extensive experiences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "broad range",
+      "type": "preclude",
+      "tail": "objective assessment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group composition",
+      "type": "affect",
+      "tail": "individual member",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "emergent leaders",
+      "type": "gain",
+      "tail": "social support",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different dimensions",
+      "type": "perceive",
+      "tail": "diversity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Grigoryan",
+      "type": "see",
+      "tail": "et al",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present research",
+      "type": "provide",
+      "tail": "initial insights",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present research",
+      "type": "have",
+      "tail": "important implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CONTRIBUTIONS AUTHOR HR",
+      "type": "develop",
+      "tail": "study concept",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Philipps FUNDING University",
+      "type": "provide",
+      "tail": "financial support",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "colocated subgroups",
+      "type": "impair",
+      "tail": "group functioning",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "enhance",
+      "tail": "work engagement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Categorization Theory",
+      "type": "rediscover",
+      "tail": "Social Group",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 58,
+  "relation_count": 42,
+  "elapsed_s": 99.9
+}

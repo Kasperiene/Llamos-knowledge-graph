@@ -1,0 +1,564 @@
+{
+  "paper_id": "Haslam_-_2023_-_Developing_engaged_and__teamful__leaders_A_r",
+  "filename": "Haslam - 2023 - Developing engaged and ‘teamful’ leaders A randomized controlled trial of the 5R identity leadership pro.pdf",
+  "title": "Developing engaged and ‘teamful’ leaders: A randomized controlled trial of the 5R identity leadership program",
+  "authors": [],
+  "doi": "10.1371/journal.pone.0286263",
+  "abstract": "The social identity approach to leadership argues that leaders’ capacity to influence and inspire others is grounded in a shared sense of social identity (or ‘us-ness’) that those leaders create, advance, represent, and embed for the groups they lead. The approach therefore argues that a key task for leaders is to develop insights and skills of (social) identity leadership that allow them to motivate and mobilize groups and transform them into a potent social and organizational force. In contrast to other approaches and programs which focus on leaders’ leader identity (their ‘I-ness’), the 5R leadership development program supports the development of leaders’ social identity by raising awareness of the importance of social identity (‘we-ness’) for leadership and taking leaders through structured activities that help them build engaged and inclusive teams. The present research assessed the benefits of facilitated and learner self-directed versions of the 5R program (Ns = 27, 22 respectively) relative to a no-treatment control (N = 27). Results (including those of an intention-to-treat analysis; N = 76) indicated that, relative to leaders in the control condition, those who participated in both forms of 5R reported large increases in identity leadership knowledge, as well as medium-sized increases in both team engagement (a compound factor comprised of team identification, team OCB, team efficacy, and work engagement) and ‘teamfulness’ (comprised of team reflexivity, team psychological safety, team goal clarity, and inclusive team climate). We reflect on the importance of teamfulness for leadership and team functioning and on the value of programs that help leaders develop this.",
+  "word_count": 13082,
+  "sections": [
+    "Developing engaged and ‘teamful’ leaders: A randomized controlled trial of the 5R identity leadership program",
+    "OPEN ACCESS",
+    "Introduction",
+    "Developing identity leadership",
+    "The present study",
+    "Method",
+    "Participants and design",
+    "Procedure",
+    "Readying",
+    "Measures",
+    "Results",
+    "Tests of H1",
+    "Tests of H2",
+    "Tests of H3",
+    "Intention to treat",
+    "Qualitative data",
+    "Discussion",
+    "Limitations and future research",
+    "Concluding comment",
+    "Acknowledgments",
+    "Author Contributions"
+  ],
+  "top_concepts": [
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9466,
+      "frequency": 239
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9098,
+      "frequency": 201
+    },
+    {
+      "text": "5r identity leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8011,
+      "frequency": 295
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8651,
+      "frequency": 131
+    },
+    {
+      "text": "leader identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8186,
+      "frequency": 164
+    },
+    {
+      "text": "leadership development program",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7792,
+      "frequency": 191
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8356,
+      "frequency": 108
+    },
+    {
+      "text": "identity leadership program",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6745,
+      "frequency": 297
+    },
+    {
+      "text": "Social identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6531,
+      "frequency": 309
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6888,
+      "frequency": 212
+    },
+    {
+      "text": "work identity entrepreneurs",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7196,
+      "frequency": 152
+    },
+    {
+      "text": "team identification team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6884,
+      "frequency": 174
+    },
+    {
+      "text": "leadership program plos",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6894,
+      "frequency": 170
+    },
+    {
+      "text": "reflexivity team psychological",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7493,
+      "frequency": 99
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7218,
+      "frequency": 83
+    },
+    {
+      "text": "social identities important",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7048,
+      "frequency": 82
+    },
+    {
+      "text": "teamful leaders randomized",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7533,
+      "frequency": 61
+    },
+    {
+      "text": "leadership development",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6337,
+      "frequency": 133
+    },
+    {
+      "text": "identity leadership knowledge",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5517,
+      "frequency": 253
+    },
+    {
+      "text": "leaders develop introduction",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.719,
+      "frequency": 66
+    },
+    {
+      "text": "social force approach",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6663,
+      "frequency": 82
+    },
+    {
+      "text": "studies manipulated leaders",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7065,
+      "frequency": 62
+    },
+    {
+      "text": "work engagement teamfulness",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7486,
+      "frequency": 46
+    },
+    {
+      "text": "Haslam",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7199,
+      "frequency": 53
+    },
+    {
+      "text": "program supports development",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6423,
+      "frequency": 86
+    },
+    {
+      "text": "group process requires",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.651,
+      "frequency": 42
+    },
+    {
+      "text": "group success reviews",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6708,
+      "frequency": 33
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4311,
+      "frequency": 242
+    },
+    {
+      "text": "program",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5748,
+      "frequency": 58
+    },
+    {
+      "text": "psychological safety collective",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6714,
+      "frequency": 31
+    },
+    {
+      "text": "randomized controlled trial",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6928,
+      "frequency": 27
+    },
+    {
+      "text": "distinctive contributions group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6593,
+      "frequency": 32
+    },
+    {
+      "text": "benefits facilitated learner",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6278,
+      "frequency": 38
+    },
+    {
+      "text": "engagement compound factor",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6876,
+      "frequency": 25
+    },
+    {
+      "text": "social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5049,
+      "frequency": 70
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3954,
+      "frequency": 215
+    },
+    {
+      "text": "leader identity pursuit",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4053,
+      "frequency": 170
+    },
+    {
+      "text": "2023 school psychology",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6447,
+      "frequency": 22
+    },
+    {
+      "text": "social identity mapping",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3638,
+      "frequency": 204
+    },
+    {
+      "text": "leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4767,
+      "frequency": 53
+    },
+    {
+      "text": "behavior followers extent",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6774,
+      "frequency": 12
+    },
+    {
+      "text": "benefits transparency peer",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6231,
+      "frequency": 12
+    },
+    {
+      "text": "haslamid1 jordan reutas1",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5832,
+      "frequency": 13
+    },
+    {
+      "text": "community researchers",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.655,
+      "frequency": 8
+    },
+    {
+      "text": "luong1 kim peters2",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5852,
+      "frequency": 11
+    },
+    {
+      "text": "prototypicality established causal",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6012,
+      "frequency": 8
+    },
+    {
+      "text": "viable framework practitioners",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6642,
+      "frequency": 5
+    },
+    {
+      "text": "kingdom published 25",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5398,
+      "frequency": 6
+    },
+    {
+      "text": "champions 16 contribute",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5998,
+      "frequency": 3
+    },
+    {
+      "text": "leader",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2649,
+      "frequency": 33
+    }
+  ],
+  "relations": [
+    {
+      "head": "burgeoning body",
+      "type": "support",
+      "tail": "key tenets",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ASPIRe model",
+      "type": "provide",
+      "tail": "viable framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "program",
+      "type": "have",
+      "tail": "core modules",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "regression analysis",
+      "type": "indicate",
+      "tail": "response relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "display",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "perceive",
+      "tail": "program",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "provide",
+      "tail": "demographic details",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ANOVA",
+      "type": "compare",
+      "tail": "facilitated conditions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Similar analysis",
+      "type": "reveal",
+      "tail": "significant interaction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "t Follow tests",
+      "type": "indicate",
+      "tail": "sized effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "measures ANOVA",
+      "type": "compare",
+      "tail": "facilitated conditions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "facilitated conditions",
+      "type": "reveal",
+      "tail": "main effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "t tests",
+      "type": "support",
+      "tail": "H1",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "t h",
+      "type": "r",
+      "tail": "sized effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different participants",
+      "type": "facilitate",
+      "tail": "different sections",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Impact",
+      "type": "increase",
+      "tail": "personal colspan=1",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Impact",
+      "type": "increase",
+      "tail": "Rewards",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Factor analysis",
+      "type": "support",
+      "tail": "conceptual aggregation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "negotiate",
+      "tail": "organizational complexity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "sister program",
+      "type": "provide",
+      "tail": "good template",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Steffens NK",
+      "type": "enhance",
+      "tail": "work engagement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Peters KO",
+      "type": "steffen",
+      "tail": "N.",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "selfcategorization theory",
+      "type": "rediscover",
+      "tail": "social group",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "socialidentity intervention",
+      "type": "improve",
+      "tail": "mental health",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group membership",
+      "type": "improve",
+      "tail": "mental health",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 25,
+  "elapsed_s": 92.7
+}

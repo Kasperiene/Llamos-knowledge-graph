@@ -1,0 +1,80 @@
+{
+  "parser": "pdfplumber",
+  "time_seconds": 8.35,
+  "peak_ram_mb": 166.6,
+  "word_count": 13678,
+  "title": "Boosting school staff well‐being and engagement through identity leadership: The mediating role of organizational climate",
+  "authors": [],
+  "doi": "10.1111/(ISSN)2044-8325',",
+  "keywords": "",
+  "abstract": "",
+  "sections": [
+    "A RTICL E",
+    "K EY WOR DS",
+    "METHOD",
+    "ELBAT",
+    "RESULTS",
+    "RMRS",
+    "DISCUSSION",
+    "CONCLUSION",
+    "AUTHOR CONTRIBUTIONS",
+    "ACKNOWLEDGEMENTS",
+    "CONFLICT OF INTEREST STATEMENT",
+    "DATA AVAILABILITY STATEMENT",
+    "ORCID",
+    "REFERENCES",
+    "SUPPORTING INFORMATION"
+  ],
+  "table_count": 34,
+  "tables_sample": [
+    {
+      "page": 5,
+      "rows": 2,
+      "cols": 1,
+      "sample": [
+        [
+          ""
+        ],
+        [
+          "FIGURE 1 The hypothesized mediation model."
+        ]
+      ]
+    },
+    {
+      "page": 7,
+      "rows": 14,
+      "cols": 2,
+      "sample": [
+        [
+          "egA",
+          "ssim\nn"
+        ],
+        [
+          null,
+          "sraey\n94>"
+        ]
+      ]
+    },
+    {
+      "page": 7,
+      "rows": 14,
+      "cols": 1,
+      "sample": [
+        [
+          "1943"
+        ],
+        [
+          "%6.42"
+        ]
+      ]
+    }
+  ],
+  "reference_count": 401,
+  "references_sample": [
+    "Al- Kurdi, O. F., El- Haddadeh, R., & Eldabi, T. (2020). The role of organisational climate in managing knowledge sharing",
+    "among academics in higher education. International Journal of Information Management, 50, 217–227. https:// doi. org/ 10. 1016/j.",
+    "ijinfo mgt.2 019.0 5.0 18",
+    "Antony, M. M., Bieling, P. J., Cox, B. J., Enns, M. W., & Swinson, R. P. (1998). Psychometric properties of the 42- item and 21item versions of the depression anxiety stress scales in clinical groups and a community sample. Psychological Assessment,",
+    "10(2), 176–181. https:// doi. org/ 10. 1037/ 1040- 3590. 10.2. 176"
+  ]
+}

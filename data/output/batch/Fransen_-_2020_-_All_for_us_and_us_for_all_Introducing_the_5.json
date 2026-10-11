@@ -1,0 +1,756 @@
+{
+  "paper_id": "Fransen_-_2020_-_All_for_us_and_us_for_all_Introducing_the_5",
+  "filename": "Fransen - 2020 - All for us and us for all Introducing the 5R Shared Leadership Program.pdf",
+  "title": "All for us and us for all: Introducing the 5R Shared Leadership Program",
+  "authors": [],
+  "doi": "10.1016/j.psychsport.2020.101762",
+  "abstract": "While most leadership programs seek to develop the leadership qualities of the formal team leader, programs that aim to develop the leadership qualities of team members are rare. This article draws on insights from organisational and sport psychology to develop and introduce a new leadership development program — the 5R Shared Leadership Program $( 5 R ^ { S } )$ — that (1) implements a structure of shared leadership (through Shared Leadership Mapping) and (2) further develops participants’ leadership potential (through the 5R’s of Readying, Reflecting, Representing, Realising, and Reporting). More specifically, being a close intertwinement of shared leadership theorising and the social identity approach to leadership, $5 R ^ { S }$ helps leaders in the team to create, embody, advance, and embed a collective sense of ‘us’ in their teams. In this article, we aim to shed light on the underpinning theoretical foundation of $5 R ^ { S } ,$ while also sharing insights about how $5 R ^ { S }$ can be delivered in practice. Furthermore, to provide initial insight into the applicability of $5 R ^ { S }$ in both organisational and sport contexts, we conducted a longitudinal qualitative comparison study. This involved collecting qualitative data from two initial implementations: with an organisational team $( N = 1 6 )$ and a sport team $( N = 1 6 )$ . A critical reflection on these initial implementations of $5 { R } ^ { S }$ leads to recommendations for future efforts to develop shared leadership in organisational and sporting teams. In particular, we highlight the importance of explaining the nature of shared leadership at the start of the program and of having multiple follow-up sessions for participants. In conclusion, by helping leaders in the team to develop and mobilise a sense of ‘us-ness’, $5 R ^ { S }$ gives leaders and their teams the tools to create the best possible version of ‘us’. ##",
+  "word_count": 15217,
+  "sections": [
+    "Journal Pre-proof",
+    "Author statement",
+    "Running Head: THE 5R SHARED LEADERSHIP PROGRAM",
+    "All for us and us for all: Introducing the 5R Shared Leadership Program",
+    "Authors list:",
+    "Other authors:",
+    "All for us and us for all: Introducing the 5R Shared Leadership Program",
+    "The Best of Both Worlds: Towards a Hybrid Leadership Approach",
+    "Where Traditional Vertical Leadership Falls Short",
+    "The Added Value of Shared Leadership",
+    "Towards a Hybrid Leadership Approach",
+    "$5 R ^ { S }$ – Part 1: Shared Leadership Mapping as a Basis for Leader Identification",
+    "Enabling Consensual Support for Leaders",
+    "Shared Leadership Across and Within Roles",
+    "Shared Leadership Mapping",
+    "Leader Appointment",
+    "$5 R ^ { S }$ – Part 2: Leadership Development through Building a Shared Sense of ‘Us’",
+    "Developing Leaders’ Capacity to Engage in Identity Leadership",
+    "Overview of 5RS",
+    "The Five Phases of 5RS",
+    "The Importance of a Bottom-up Approach",
+    "Qualitative Insights on the Implementation of $5 R ^ { S }$",
+    "Participants",
+    "Procedure",
+    "5RS – Part 1: Shared Leadership Mapping",
+    "Leader Appointment",
+    "Leader Acceptance",
+    "Role Diversity",
+    "5RS – Part 2: Leadership Development through Building a Shared Sense of ‘Us’",
+    "The Second Workshop – Representing and Realising",
+    "A Critical Reflection of the Strengths and Weaknesses of the $5 R ^ { S }$ Program",
+    "Key Points for Improvement",
+    "Limitations of the Qualitative Research Design Inspiring Future Research",
+    "Conclusion",
+    "Figure 1. The 5R Shared Leadership Program, adapted from the original 5R Program",
+    "(Haslam et al., 2017).",
+    "Highlights",
+    "Declaration of interests"
+  ],
+  "top_concepts": [
+    {
+      "text": "Shared Leadership Mapping",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9686,
+      "frequency": 438
+    },
+    {
+      "text": "Shared Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9705,
+      "frequency": 416
+    },
+    {
+      "text": "Shared Leadership Program",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9367,
+      "frequency": 464
+    },
+    {
+      "text": "shared leadership structure",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8376,
+      "frequency": 444
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8989,
+      "frequency": 264
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8874,
+      "frequency": 283
+    },
+    {
+      "text": "team members",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8481,
+      "frequency": 344
+    },
+    {
+      "text": "5r shared leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7709,
+      "frequency": 438
+    },
+    {
+      "text": "Organisational team member",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7515,
+      "frequency": 344
+    },
+    {
+      "text": "shared team identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7022,
+      "frequency": 491
+    },
+    {
+      "text": "Leadership Mapping",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.705,
+      "frequency": 286
+    },
+    {
+      "text": "organisational team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6853,
+      "frequency": 320
+    },
+    {
+      "text": "Shared",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7327,
+      "frequency": 152
+    },
+    {
+      "text": "team ensley et",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6172,
+      "frequency": 362
+    },
+    {
+      "text": "leadership roles",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.64,
+      "frequency": 288
+    },
+    {
+      "text": "sport team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6086,
+      "frequency": 349
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6188,
+      "frequency": 261
+    },
+    {
+      "text": "leadership team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5288,
+      "frequency": 547
+    },
+    {
+      "text": "psychology sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7373,
+      "frequency": 86
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6379,
+      "frequency": 126
+    },
+    {
+      "text": "sense teams article",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7068,
+      "frequency": 74
+    },
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5147,
+      "frequency": 320
+    },
+    {
+      "text": "pearce et al",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6247,
+      "frequency": 84
+    },
+    {
+      "text": "team member",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4684,
+      "frequency": 307
+    },
+    {
+      "text": "research suggests organisations",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6607,
+      "frequency": 52
+    },
+    {
+      "text": "program moves traditional",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6437,
+      "frequency": 57
+    },
+    {
+      "text": "Leadership Program",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4513,
+      "frequency": 312
+    },
+    {
+      "text": "perpetual runners research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6934,
+      "frequency": 39
+    },
+    {
+      "text": "journal pre proof",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6746,
+      "frequency": 23
+    },
+    {
+      "text": "leadership structure",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3672,
+      "frequency": 292
+    },
+    {
+      "text": "important predictor",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.611,
+      "frequency": 25
+    },
+    {
+      "text": "article fransen haslam",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6218,
+      "frequency": 21
+    },
+    {
+      "text": "leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4199,
+      "frequency": 96
+    },
+    {
+      "text": "Sport team member",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3217,
+      "frequency": 373
+    },
+    {
+      "text": "sessions participants conclusion",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6221,
+      "frequency": 19
+    },
+    {
+      "text": "mertens conducting intervention",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6157,
+      "frequency": 19
+    },
+    {
+      "text": "shared team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2948,
+      "frequency": 435
+    },
+    {
+      "text": "exercise 2020 doi",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6455,
+      "frequency": 13
+    },
+    {
+      "text": "reviewing editing clifford",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5858,
+      "frequency": 16
+    },
+    {
+      "text": "teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4307,
+      "frequency": 48
+    },
+    {
+      "text": "conceptualisation methodology manuscript",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6684,
+      "frequency": 10
+    },
+    {
+      "text": "article note",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6586,
+      "frequency": 7
+    },
+    {
+      "text": "common goal northouse",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6198,
+      "frequency": 8
+    },
+    {
+      "text": "models centre",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5923,
+      "frequency": 8
+    },
+    {
+      "text": "corresponding author katrien",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6025,
+      "frequency": 6
+    },
+    {
+      "text": "coach sport team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2086,
+      "frequency": 368
+    },
+    {
+      "text": "sport teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2564,
+      "frequency": 114
+    },
+    {
+      "text": "reference psyspo",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6346,
+      "frequency": 4
+    },
+    {
+      "text": "interdisciplinary perspectives deal",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6284,
+      "frequency": 4
+    },
+    {
+      "text": "uk school",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5448,
+      "frequency": 4
+    }
+  ],
+  "relations": [
+    {
+      "head": "Psychology",
+      "type": "receive",
+      "tail": "Date",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "help",
+      "tail": "leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "declining performance",
+      "type": "coach",
+      "tail": "Alex Ferguson",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Zhu",
+      "type": "identify",
+      "tail": "key communalities",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "shared leadership",
+      "type": "involve",
+      "tail": "lateral influence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "future thinking",
+      "type": "encompass",
+      "tail": "shared vertical facets",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "vertical leadership",
+      "type": "have",
+      "tail": "independent impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "face",
+      "tail": "time pressures",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "have",
+      "tail": "formal leader",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "shared identity",
+      "type": "build",
+      "tail": "leadership capacity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team member",
+      "type": "perform",
+      "tail": "leadership functions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "perform",
+      "tail": "leadership distinct functions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Fransen",
+      "type": "identify",
+      "tail": "leadership distinct roles",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "single person",
+      "type": "occupy",
+      "tail": "leadership roles",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leadership Mapping",
+      "type": "involve",
+      "tail": "team members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Figure",
+      "type": "present",
+      "tail": "leadership resulting network",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Mapping process",
+      "type": "produce",
+      "tail": "quantitative output",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Indegree centrality",
+      "type": "become",
+      "tail": "standard measure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "network measures",
+      "type": "characterise",
+      "tail": "leadership structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "network density",
+      "type": "capture",
+      "tail": "leadership average quality",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "appointed leaders",
+      "type": "develop",
+      "tail": "leadership potential",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "influence",
+      "tail": "teams",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "R ^",
+      "type": "incorporate",
+      "tail": "main elements",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "5R program",
+      "type": "introduce",
+      "tail": "organisational members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "sport teams",
+      "type": "have",
+      "tail": "structured subgroups",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team",
+      "type": "identify",
+      "tail": "related goals",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team",
+      "type": "identify",
+      "tail": "motivationalrelated goals",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "data collection",
+      "type": "have",
+      "tail": "fold - aim",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "qualitative obtained data",
+      "type": "underpin",
+      "tail": "critical reflection",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "qualitative obtained data",
+      "type": "underpin",
+      "tail": "# 5RS",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "organisational team",
+      "type": "outline",
+      "tail": "core values",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "reflection phase",
+      "type": "contribute",
+      "tail": "team development",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "core values",
+      "type": "have",
+      "tail": "added strong value",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Second Workshop",
+      "type": "include",
+      "tail": "Representing",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Perceived Strengths",
+      "type": "implement",
+      "tail": "Leadership Structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "engaging athletes",
+      "type": "nurture",
+      "tail": "life important skills",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "experience",
+      "tail": "team strengthened identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team",
+      "type": "need",
+      "tail": "clear framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "sport coach Head team",
+      "type": "help",
+      "tail": "team",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "organisational participating team",
+      "type": "have",
+      "tail": "high degree",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "report",
+      "tail": "positive experiences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "experience",
+      "tail": "team strengthened identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "future research",
+      "type": "enhance",
+      "tail": "research fidelity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Mertens",
+      "type": "conduct",
+      "tail": "intervention initial study",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership vertical shared structure",
+      "type": "have",
+      "tail": "unique advantages",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "R ^",
+      "type": "help",
+      "tail": "leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Motivation",
+      "type": "lead",
+      "tail": "proximal model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "share",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Jackson",
+      "type": "revisit",
+      "tail": "meta analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Qualitative data",
+      "type": "evidence",
+      "tail": "# # Declaration",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 50,
+  "elapsed_s": 104.7
+}

@@ -1,0 +1,832 @@
+{
+  "paper_id": "Hou_-_2021_-_Linking_Identity_Leadership_and_Team_Performanc",
+  "filename": "Hou - 2021 - Linking Identity Leadership and Team Performance The Role of Group-Based Pride and Leader Political Skill.pdf",
+  "title": "Linking Identity Leadership and Team Performance: The Role of Group-Based Pride and Leader Political Skill",
+  "authors": [],
+  "doi": "10.3389/fpsyg.2021.676945",
+  "abstract": "(2021) Linking Identity Leadership and Team Performance: The Role of Group-Based Pride and Leader Political Skill. Front. Psychol. 12:676945. doi: 10.3389/fpsyg.2021.676945",
+  "word_count": 9270,
+  "sections": [
+    "Linking Identity Leadership and Team Performance: The Role of Group-Based Pride and Leader Political Skill",
+    "INTRODUCTION",
+    "THEORY AND HYPOTHESES",
+    "The Social Identity Approach",
+    "Identity Leadership and Group-Based Pride",
+    "Group-Based Pride and Team Performance",
+    "The Moderating Effect of Leader Political Skill",
+    "METHODS",
+    "Participants and Procedures",
+    "Measures",
+    "Identity Leadership",
+    "Group-Based Pride",
+    "Team Performance",
+    "Leader Political Skill",
+    "Control Variables",
+    "Analytic Procedure Data Aggregation",
+    "Analytical Framework",
+    "RESULTS",
+    "Confirmatory Factor Analyses",
+    "Descriptive Statistics",
+    "Test of Mediation",
+    "Test of Moderated Mediation",
+    "DISCUSSION",
+    "Theoretical Implications",
+    "Practical Implications",
+    "LIMITATIONS AND FUTURE DIRECTIONS",
+    "DATA AVAILABILITY STATEMENT",
+    "AUTHOR CONTRIBUTIONS",
+    "ETHICS STATEMENT",
+    "FUNDING"
+  ],
+  "top_concepts": [
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9559,
+      "frequency": 288
+    },
+    {
+      "text": "Leader Political Skill",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9384,
+      "frequency": 187
+    },
+    {
+      "text": "identity leadership affects",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8256,
+      "frequency": 294
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8172,
+      "frequency": 251
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8262,
+      "frequency": 234
+    },
+    {
+      "text": "Team Performance",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8542,
+      "frequency": 164
+    },
+    {
+      "text": "Group-Based Pride",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8611,
+      "frequency": 147
+    },
+    {
+      "text": "social identity important",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7623,
+      "frequency": 242
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8151,
+      "frequency": 167
+    },
+    {
+      "text": "identity group members",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.723,
+      "frequency": 272
+    },
+    {
+      "text": "skill association identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.733,
+      "frequency": 225
+    },
+    {
+      "text": "leadership behavior team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7009,
+      "frequency": 260
+    },
+    {
+      "text": "research global identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7269,
+      "frequency": 200
+    },
+    {
+      "text": "Team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7674,
+      "frequency": 136
+    },
+    {
+      "text": "pride leader political",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7002,
+      "frequency": 197
+    },
+    {
+      "text": "Leader Political",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.755,
+      "frequency": 132
+    },
+    {
+      "text": "Political Skill",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.761,
+      "frequency": 124
+    },
+    {
+      "text": "performance traditionally leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7273,
+      "frequency": 149
+    },
+    {
+      "text": "predicts team performance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7061,
+      "frequency": 166
+    },
+    {
+      "text": "group based pride",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7042,
+      "frequency": 148
+    },
+    {
+      "text": "key determinant leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7172,
+      "frequency": 125
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7149,
+      "frequency": 121
+    },
+    {
+      "text": "construct affects team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6723,
+      "frequency": 144
+    },
+    {
+      "text": "considered political skill",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6662,
+      "frequency": 128
+    },
+    {
+      "text": "group empirical studies",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6952,
+      "frequency": 100
+    },
+    {
+      "text": "mediating role group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6838,
+      "frequency": 107
+    },
+    {
+      "text": "group membership affects",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6952,
+      "frequency": 97
+    },
+    {
+      "text": "leader prototypicality developed",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7307,
+      "frequency": 76
+    },
+    {
+      "text": "identity leadership behaviors",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5301,
+      "frequency": 302
+    },
+    {
+      "text": "theory hypotheses social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6396,
+      "frequency": 82
+    },
+    {
+      "text": "global identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4404,
+      "frequency": 295
+    },
+    {
+      "text": "achieve influence recent",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6431,
+      "frequency": 37
+    },
+    {
+      "text": "explain influence mechanism",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5968,
+      "frequency": 35
+    },
+    {
+      "text": "turner 1982 leader",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5142,
+      "frequency": 63
+    },
+    {
+      "text": "University Business School",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7979,
+      "frequency": 11
+    },
+    {
+      "text": "group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.424,
+      "frequency": 82
+    },
+    {
+      "text": "Leeds University Business",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.723,
+      "frequency": 10
+    },
+    {
+      "text": "Leader",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4118,
+      "frequency": 63
+    },
+    {
+      "text": "Group-Based",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3875,
+      "frequency": 82
+    },
+    {
+      "text": "Pride",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.401,
+      "frequency": 65
+    },
+    {
+      "text": "team members",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2941,
+      "frequency": 159
+    },
+    {
+      "text": "using cross cultural",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6157,
+      "frequency": 8
+    },
+    {
+      "text": "emotional value significance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.636,
+      "frequency": 7
+    },
+    {
+      "text": "collective goals chemers",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6348,
+      "frequency": 7
+    },
+    {
+      "text": "Linking Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2446,
+      "frequency": 290
+    },
+    {
+      "text": "identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2571,
+      "frequency": 184
+    },
+    {
+      "text": "Business School",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6743,
+      "frequency": 4
+    },
+    {
+      "text": "Huaibei Normal University",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4908,
+      "frequency": 9
+    },
+    {
+      "text": "organizational citizenship",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6449,
+      "frequency": 4
+    },
+    {
+      "text": "chinese graduate school",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5704,
+      "frequency": 5
+    }
+  ],
+  "relations": [
+    {
+      "head": "identity global leadership",
+      "type": "affect",
+      "tail": "team performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "team performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "political skill",
+      "type": "moderate",
+      "tail": "indirect effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "affect",
+      "tail": "team performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Initial research",
+      "type": "examine",
+      "tail": "job satisfaction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "provide",
+      "tail": "theoretical appropriate framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity Approach",
+      "type": "offer",
+      "tail": "theoretical framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group membership",
+      "type": "affect",
+      "tail": "self concept",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "experience",
+      "tail": "based emotions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "share",
+      "tail": "social identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "shared sense",
+      "type": "enable",
+      "tail": "group members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "form",
+      "tail": "shared sense",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "based pride",
+      "type": "reflect",
+      "tail": "positive evaluation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Existing studies",
+      "type": "suggest",
+      "tail": "pride based originates",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "internalize",
+      "tail": "group membership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Different emotions",
+      "type": "promote",
+      "tail": "distinct types",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "pride",
+      "type": "promote",
+      "tail": "team performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "groupbased pride",
+      "type": "offer",
+      "tail": "necessary motivation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Individuals",
+      "type": "perceive",
+      "tail": "group",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "pride",
+      "type": "spur",
+      "tail": "team members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "based pride",
+      "type": "offer",
+      "tail": "necessary motivation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "based pride",
+      "type": "enhance",
+      "tail": "ingroup favoritism",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "pride condition",
+      "type": "improve",
+      "tail": "perceived importance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "inspire",
+      "tail": "pride",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Political skill",
+      "type": "include",
+      "tail": "critical dimensions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "skilled leaders",
+      "type": "use",
+      "tail": "social astuteness",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leaders",
+      "type": "use",
+      "tail": "influence tactics",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Hypothesis",
+      "type": "moderate",
+      "tail": "positive relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current study",
+      "type": "propose",
+      "tail": "mediation moderated integrated model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Figure",
+      "type": "summarize",
+      "tail": "theoretical model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Hypothesis",
+      "type": "moderate",
+      "tail": "indirect effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "report",
+      "tail": "demographic information",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team supervisors",
+      "type": "assess",
+      "tail": "demographic information",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team supervisors",
+      "type": "report",
+      "tail": "political skill",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership item scale",
+      "type": "have",
+      "tail": "fit good index",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "pride based scale",
+      "type": "have",
+      "tail": "structural high validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Team Performance # leaders",
+      "type": "assess",
+      "tail": "team performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CFA results",
+      "type": "indicate",
+      "tail": "Control # Variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "skill political scale",
+      "type": "have",
+      "tail": "structural good validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "factor hypothesized model",
+      "type": "yield",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "based pride",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "based pride",
+      "type": "predict",
+      "tail": "team performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "show",
+      "tail": "0 5",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity leadership",
+      "type": "promote",
+      "tail": "team members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "based pride",
+      "type": "provide",
+      "tail": "necessary motivation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "have",
+      "tail": "strong effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "political leader skill",
+      "type": "strengthen",
+      "tail": "indirect effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "enhance",
+      "tail": "team performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leader",
+      "type": "age</td><td>-0.01</td><td>0.01</td><td>0.01</td><td>0.01</td></tr><tr><td",
+      "tail": "Identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current study",
+      "type": "expand",
+      "tail": "previous work",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "need",
+      "tail": "boundary conditions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "provide",
+      "tail": "feasible pathway",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Researchers",
+      "type": "use",
+      "tail": "early interventions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "political skill",
+      "type": "have",
+      "tail": "moderating different effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Future research",
+      "type": "use",
+      "tail": "Leadership Inventory",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "GZ",
+      "type": "organize",
+      "tail": "data collection",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "LH",
+      "type": "carry",
+      "tail": "data analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "BL",
+      "type": "provide",
+      "tail": "constructive suggestions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Guilt",
+      "type": "predict",
+      "tail": "distinct intentions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different emotions",
+      "type": "predict",
+      "tail": "distinct intentions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity economics",
+      "type": "meet",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Categorization Theory",
+      "type": "rediscover",
+      "tail": "Social Group",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 62,
+  "elapsed_s": 76.4
+}

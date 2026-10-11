@@ -1,0 +1,508 @@
+{
+  "paper_id": "Alvesson_-_2020_-_The_Problematizing_Review_A_Counterpoint_t",
+  "filename": "Alvesson - 2020 - The Problematizing Review A Counterpoint to Elsbach and Van Knippenberg’s Argument for Integrative Rev.pdf",
+  "title": "A counterpoint to Elsbach and Van Knippenberg’s argument for integrative reviews",
+  "authors": [],
+  "doi": "",
+  "abstract": "In this paper we provide a counterpoint to conventional views on integrative reviews in knowledge development, as exemplified by Elsbach and Van Knippenberg (2020). First, we critique their proposed integrative review by identifying and problematizing several key assumptions underlying it, particularly their idea that the integrative review can simply build on existing studies and lead the way to knowledge. Second, based on this critique, we propose as an alternative the problematizing review, which is based on the following four core principles: the ideal of reflexivity, reading more broadly but selectively, not accumulating but problematizing, and the concept that ‘less is more’. In contrast to the integrative review, which regards reviews as a ‘building exercise’, the problematizing review regards reviews as an ‘opening up exercise’ that enables researchers to imagine how to rethink existing literature in ways that generate new and ‘better’ ways of thinking about specific phenomena. Key words: knowledge development, literature review, problematization, reflexivity Systematically going through existing studies within a specific area is a vital part of almost all research. Many researchers find ambitious and systematic literature reviews highly beneficial, as they help them to get a better grasp of a specific domain of research. Although literature reviews are also carried out in individual research papers, as a way of establishing an area for contribution (Locke and Golden-Biddle, 1997), this is typically done in a selective and rather superficial and simplistic way. This is because summarizing existing work in a few pages encourages arbitrary divisions and rather crude ways of representing sometimes highly complex studies. More thorough, ambitious and comprehensive literature reviews of a research domain in the form of review articles, handbooks and monographs are therefore welcome. Elsbach and Van Knippenberg (2020) (hereafter E&K) argue that ‘integrative reviews’ are among the most useful vehicles for advancing knowledge and furthering research in a research domain. It is, however, important to keep in mind that there are many different types of literature review and that these have varying purposes (e.g. Post, Sarala, Gattrell and Prescott, 2020; Snyder, 2019). Sometimes they are represented as ‘critical reviews’, ‘theoretical reviews’, ‘systematic reviews’ or ‘semi-systematic’ reviews (Hoon and Baluch, 2019). Most distinctions are not clear-cut, and we believe that some of the defining characteristics of E&K’s take on ‘integrative review’ may in practice be difficult to uphold, such as their idea that the integrative review can simply build on existing studies and point the way to knowledge. Nevertheless, we regard E&K’s paper as valuable and solid, and find that it contains much of relevance to review authors working within a specific research tradition. Our basic view of knowledge and doing research is, however, rather different from theirs. Instead of seeing reviews as a way to generate ‘representative description[s] of a field’ (E&K, p. 1) and then building on them to further our knowledge of phenomena, we are more interested in reviews that enable researchers to critically interrogate and reimagine existing literature in order to generate new and ‘better’ ways of thinking about specific phenomena. We are therefore more inclined to see a review as an ‘opening up’ rather than a ‘building exercise’, as a catalyst for starting up new conversations rather than just continuing old ones (Patriotta, 2017). In order to open up and start a new conversation about the review phenomenon, we first identify and problematize some key assumptions and knowledge claims made by E&K and then suggest the problematizing review as an alternative to their integrative review for knowledge advancement.",
+  "word_count": 8099,
+  "sections": [
+    "Manuscript version: Author’s Accepted Manuscript",
+    "Persistent WRAP URL:",
+    "How to cite:",
+    "Copyright and reuse:",
+    "Publisher’s statement:",
+    "A counterpoint to Elsbach and Van Knippenberg’s argument for integrative reviews",
+    "CRITICAL REFLECTION ON THE INTEGRATIVE REVIEW",
+    "Treating the review domain as more or less given",
+    "Privileging hegemonic ambiguous big concepts",
+    "Following the jigsaw-puzzle metaphor",
+    "Assuming an accumulation view of knowledge",
+    "Advocating a (near) full stock inventory",
+    "Assuming author neutrality",
+    "Believing that review articles are a good thing",
+    "Summing up",
+    "AN ALTERNATIVE: THE PROBLEMATIZING REVIEW",
+    "The ideal of reflexivity",
+    "Reading more broadly but selectively",
+    "Not accumulating but problematizing",
+    "Less is more",
+    "FINAL REMARKS"
+  ],
+  "top_concepts": [
+    {
+      "text": "problematizing review",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.887,
+      "frequency": 135
+    },
+    {
+      "text": "review",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9241,
+      "frequency": 105
+    },
+    {
+      "text": "integrative review",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8147,
+      "frequency": 129
+    },
+    {
+      "text": "review domain",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7344,
+      "frequency": 143
+    },
+    {
+      "text": "review articles",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7366,
+      "frequency": 117
+    },
+    {
+      "text": "relevance review authors",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7324,
+      "frequency": 119
+    },
+    {
+      "text": "review article",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7291,
+      "frequency": 111
+    },
+    {
+      "text": "problematizing review counterpoint",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6866,
+      "frequency": 138
+    },
+    {
+      "text": "review authors",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.687,
+      "frequency": 118
+    },
+    {
+      "text": "research domain important",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6783,
+      "frequency": 99
+    },
+    {
+      "text": "studies",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7939,
+      "frequency": 44
+    },
+    {
+      "text": "management studies",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7043,
+      "frequency": 68
+    },
+    {
+      "text": "warwick research archive",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7273,
+      "frequency": 55
+    },
+    {
+      "text": "Alvesson and Sandberg",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4923,
+      "frequency": 378
+    },
+    {
+      "text": "reviews knowledge development",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7346,
+      "frequency": 51
+    },
+    {
+      "text": "argument integrative reviews",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7396,
+      "frequency": 47
+    },
+    {
+      "text": "systematic literature reviews",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7238,
+      "frequency": 48
+    },
+    {
+      "text": "expansion management studies",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6635,
+      "frequency": 69
+    },
+    {
+      "text": "publication suggest integrative",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7825,
+      "frequency": 34
+    },
+    {
+      "text": "Research",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7056,
+      "frequency": 51
+    },
+    {
+      "text": "research questions examined",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6924,
+      "frequency": 54
+    },
+    {
+      "text": "accumulation view knowledge",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7092,
+      "frequency": 47
+    },
+    {
+      "text": "review author",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4783,
+      "frequency": 120
+    },
+    {
+      "text": "research domain",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5058,
+      "frequency": 89
+    },
+    {
+      "text": "domain",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5981,
+      "frequency": 38
+    },
+    {
+      "text": "version author accepted",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6543,
+      "frequency": 24
+    },
+    {
+      "text": "work stay relevant",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6377,
+      "frequency": 21
+    },
+    {
+      "text": "published version",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7111,
+      "frequency": 14
+    },
+    {
+      "text": "concepts following jigsaw",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6315,
+      "frequency": 19
+    },
+    {
+      "text": "van knippenberg argument",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6579,
+      "frequency": 15
+    },
+    {
+      "text": "problematization reflexivity systematically",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6974,
+      "frequency": 12
+    },
+    {
+      "text": "integrative reviews",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.475,
+      "frequency": 45
+    },
+    {
+      "text": "reviews",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5775,
+      "frequency": 21
+    },
+    {
+      "text": "leadership ethnicity conflict",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5857,
+      "frequency": 20
+    },
+    {
+      "text": "content changed way",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6002,
+      "frequency": 18
+    },
+    {
+      "text": "Oxford University Press",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5407,
+      "frequency": 23
+    },
+    {
+      "text": "warwick business",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6119,
+      "frequency": 9
+    },
+    {
+      "text": "development exemplified elsbach",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5965,
+      "frequency": 9
+    },
+    {
+      "text": "clear risk incorporated",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5702,
+      "frequency": 10
+    },
+    {
+      "text": "core principles",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5899,
+      "frequency": 9
+    },
+    {
+      "text": "business administration",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6332,
+      "frequency": 7
+    },
+    {
+      "text": "Accepted Manuscript",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6999,
+      "frequency": 5
+    },
+    {
+      "text": "existing studies",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.308,
+      "frequency": 63
+    },
+    {
+      "text": "Alvesson",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5919,
+      "frequency": 6
+    },
+    {
+      "text": "knowledge",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3556,
+      "frequency": 27
+    },
+    {
+      "text": "team wrap",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6092,
+      "frequency": 5
+    },
+    {
+      "text": "problematizing",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2781,
+      "frequency": 30
+    },
+    {
+      "text": "management",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2585,
+      "frequency": 24
+    },
+    {
+      "text": "literature reviews",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2222,
+      "frequency": 42
+    },
+    {
+      "text": "educational profit purposes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6052,
+      "frequency": 2
+    }
+  ],
+  "relations": [
+    {
+      "head": "item repository page",
+      "type": "contain",
+      "tail": "# Copyright",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Copyright ©",
+      "type": "belong",
+      "tail": "copyright owners",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "problematizing review",
+      "type": "regard",
+      "tail": "reviews",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "integrative reviews",
+      "type": "mean",
+      "tail": "focused approach",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research studies",
+      "type": "lack",
+      "tail": "real value",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "inventory near ideal",
+      "type": "exacerbate",
+      "tail": "mentioned problems",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "review author",
+      "type": "identify",
+      "tail": "studies",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "studies",
+      "type": "have",
+      "tail": "fundamental weaknesses",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "varied credibility",
+      "type": "suggest",
+      "tail": "# #",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "reflexive principle",
+      "type": "mean",
+      "tail": "systematic effort",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Crossan",
+      "type": "cover",
+      "tail": "studies",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "relevant work",
+      "type": "encourage",
+      "tail": "broader perspective",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "critical analysis",
+      "type": "involve",
+      "tail": "careful examination",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "problematizing methodology",
+      "type": "include",
+      "tail": "following principles",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "good review",
+      "type": "help",
+      "tail": "commonsense established understandings",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "problematizing review",
+      "type": "reinforce",
+      "tail": "knowledge conventional development",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Crossan",
+      "type": "advocate",
+      "tail": "systematic review",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 17,
+  "elapsed_s": 80.8
+}

@@ -1,0 +1,648 @@
+{
+  "paper_id": "IL_and_Work_Engagement_A__Laguia",
+  "filename": "IL and Work Engagement A. Laguia.pdf",
+  "title": "Structure of the ILI Identity Leadership and Work Engagement in Spain: A Cross-Cultural Adaptation of the Identity Validity Leadership Inventory\\*",
+  "authors": [],
+  "doi": "10.11144/Javeriana.upsy20.ilwe",
+  "abstract": "Este artículo describe la adaptación y validación del Identity Leadership Inventory (ILI) en contextos organizacionales en España. Asimismo, este estudio explora empíricamente la relación positiva entre este estilo de liderazgo y el work engagement de los seguidores, mediada por el afecto positivo y negativo en el trabajo. Un total de 854 empleados (53.6% mujeres, 46.4% hombres; M = 40.7 años, SD = 11.5, 1974) cumplimentaron un cuestionario online. Se realizaron análisis descriptivos y factoriales confirmatorios. Los resultados indicaron que la versión española del ILI presenta adecuadas propiedades psicométricas. Las cuatro dimensiones obtenidas en otros paises (prototipicidad de la identidad, promoción de la identidad, emprendimiento de la identidad y establecimiento de la identidad) fueron replicadas en nuestra muestra. Unicamente el emprendimiento de la identidad se relacionó significativamente con el afecto positivo y negativo en el trabajo de los seguidores, los cuales, a su vez, se relacionaron con el engagement reportado. Concluimos, por tanto, que la versión española del ILI mide adecuadamente el liderazgo en las organizaciones desde la perspectiva de la identidad social. Futuros estudios se pueden apoyar en este instrumento para valorar y promover este estilo de liderazgo.",
+  "word_count": 5772,
+  "sections": [
+    "Structure of the ILI Identity Leadership and Work Engagement in Spain: A Cross-Cultural Adaptation of the Identity Validity Leadership Inventory\\*",
+    "Conceptual framework",
+    "THE SOCIAL IDENTITY APPROACH TO LEADERSHIP AND FOLLOWERSHIP",
+    "DIMENSIONS oF IDENTITY LEADERSHIP",
+    "Hypothesis development",
+    "STRUCTURE oF THE ILI",
+    "H2. Leader identity facets will be positively related to followers' work engagement.",
+    "MEaSuRes",
+    "PROCEDURE",
+    "Results",
+    "DEscriPtive Analysis",
+    "Table 1",
+    "Mean, standard deviation, asymmetry, and kurtosis of the 15-item Identity Leadership Inventory (ILI)",
+    "CONVERGENT VALIDITY AND RELIaBILITY",
+    "PREDICTIVE VALIDITY",
+    "Table 4",
+    "Discussion",
+    "IMPLICATIONS",
+    "LIMITATIONS AND RECOMMENDATIONS FOR FUTURE RESEARCH",
+    "Conclusions",
+    "Additional information"
+  ],
+  "top_concepts": [
+    {
+      "text": "identity leadership work",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8255,
+      "frequency": 219
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.851,
+      "frequency": 163
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8111,
+      "frequency": 171
+    },
+    {
+      "text": "Educación a Distancia",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.884,
+      "frequency": 102
+    },
+    {
+      "text": "leaders identity prototypicality",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8014,
+      "frequency": 109
+    },
+    {
+      "text": "followership dimensions identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7656,
+      "frequency": 112
+    },
+    {
+      "text": "structure ili identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7196,
+      "frequency": 135
+    },
+    {
+      "text": "2017 social identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7206,
+      "frequency": 129
+    },
+    {
+      "text": "adaptation identity validity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7381,
+      "frequency": 111
+    },
+    {
+      "text": "Work Engagement",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7778,
+      "frequency": 76
+    },
+    {
+      "text": "leadership outcomes ili",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7226,
+      "frequency": 104
+    },
+    {
+      "text": "identidad work engagement",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7613,
+      "frequency": 81
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7252,
+      "frequency": 96
+    },
+    {
+      "text": "validity leadership inventory",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7317,
+      "frequency": 88
+    },
+    {
+      "text": "countries identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6926,
+      "frequency": 99
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6546,
+      "frequency": 129
+    },
+    {
+      "text": "Nacional de Educación",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8838,
+      "frequency": 32
+    },
+    {
+      "text": "ILI Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5891,
+      "frequency": 196
+    },
+    {
+      "text": "model leadership important",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6725,
+      "frequency": 87
+    },
+    {
+      "text": "social organizational psychologists",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7173,
+      "frequency": 47
+    },
+    {
+      "text": "liderazgo identitario social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7278,
+      "frequency": 39
+    },
+    {
+      "text": "positive negative affect",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6145,
+      "frequency": 75
+    },
+    {
+      "text": "conceptual framework social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7038,
+      "frequency": 35
+    },
+    {
+      "text": "membership haslam et",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5913,
+      "frequency": 68
+    },
+    {
+      "text": "ili spain",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6624,
+      "frequency": 35
+    },
+    {
+      "text": "paradigms group level",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6978,
+      "frequency": 26
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4655,
+      "frequency": 138
+    },
+    {
+      "text": "Molero Universidad Nacional",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8445,
+      "frequency": 11
+    },
+    {
+      "text": "Universidad Nacional",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8989,
+      "frequency": 9
+    },
+    {
+      "text": "Pontificia Universidad Javeriana",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9415,
+      "frequency": 7
+    },
+    {
+      "text": "Moriano Universidad Nacional",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8147,
+      "frequency": 10
+    },
+    {
+      "text": "2014 facets related",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5692,
+      "frequency": 33
+    },
+    {
+      "text": "spain sample employees",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.71,
+      "frequency": 14
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4629,
+      "frequency": 67
+    },
+    {
+      "text": "relevant outcomes prototypicality",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6914,
+      "frequency": 15
+    },
+    {
+      "text": "van Dick",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5197,
+      "frequency": 39
+    },
+    {
+      "text": "leader influence steffens",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.654,
+      "frequency": 16
+    },
+    {
+      "text": "contextos organizacionales en",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7051,
+      "frequency": 12
+    },
+    {
+      "text": "reliability Universidad Nacional",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.687,
+      "frequency": 13
+    },
+    {
+      "text": "ILI",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5212,
+      "frequency": 33
+    },
+    {
+      "text": "role different",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.663,
+      "frequency": 13
+    },
+    {
+      "text": "Fernando Molero Universidad",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7088,
+      "frequency": 8
+    },
+    {
+      "text": "Universidad Javeriana Data",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.596,
+      "frequency": 12
+    },
+    {
+      "text": "2018 aim study",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6352,
+      "frequency": 9
+    },
+    {
+      "text": "influence development measurement",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.672,
+      "frequency": 7
+    },
+    {
+      "text": "nacional educación distancia",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6151,
+      "frequency": 8
+    },
+    {
+      "text": "identity entrepreneurship",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2711,
+      "frequency": 107
+    },
+    {
+      "text": "Procedure Pontificia Universidad",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4961,
+      "frequency": 8
+    },
+    {
+      "text": "identity leadership factor",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2005,
+      "frequency": 174
+    },
+    {
+      "text": "universitas psychologica vol",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6571,
+      "frequency": 2
+    }
+  ],
+  "relations": [
+    {
+      "head": "Spanish version",
+      "type": "have",
+      "tail": "psychometric adequate properties",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Spanish version",
+      "type": "measure",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Future studies",
+      "type": "build",
+      "tail": "# Keywords",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Future studies",
+      "type": "build",
+      "tail": "# Resumen",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Este artículo",
+      "type": "describe",
+      "tail": "Leadership y adaptación Inventory",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Las cuatro",
+      "type": "dimension",
+      "tail": "fueron replicadas",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "pueden apoyar",
+      "type": "instrumento",
+      "tail": "para valorar",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "pueden apoyar",
+      "type": "instrumento",
+      "tail": "promover este",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "item ILI",
+      "type": "have",
+      "tail": "factorial adequate structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity impresarioship",
+      "type": "have",
+      "tail": "positive significant impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity perceived prototypicality",
+      "type": "have",
+      "tail": "significant - non impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership adequate management",
+      "type": "foster",
+      "tail": "positive affect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "positive increased affect",
+      "type": "mediate",
+      "tail": "positive relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "negative reduced affect",
+      "type": "mediate",
+      "tail": "positive relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "negative reduced affect",
+      "type": "mediate",
+      "tail": "Valencian Community",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "work",
+      "tail": "# MEaSuRes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "remaining items",
+      "type": "measure",
+      "tail": "identity impresarioship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "acceptable adjustment",
+      "type": "have",
+      "tail": "CFI values",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI4</td><td",
+      "type": "miembro",
+      "tail": "del grupo",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "significa ser",
+      "type": "miembro",
+      "tail": "del grupo",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Promueve los",
+      "type": "interese",
+      "tail": "del miembros grupo</td><td></td><td>3.50",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Tiene los",
+      "type": "interese",
+      "tail": "cuando presentes actua",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "una Crea sensacion",
+      "type": "dentro",
+      "tail": "del grupo",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "los sobre e",
+      "type": "ideale",
+      "tail": "del grupo",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "shapes . [ members&#x27",
+      "type": "actividade",
+      "tail": "al unen grupo</td><td></td><td>2.84",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "devices activities",
+      "type": "arrange",
+      "tail": "del miembros grupo",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "illustrate",
+      "tail": "fit indices",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Convergent validity",
+      "type": "represent",
+      "tail": "common variance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "positive affect",
+      "type": "have",
+      "tail": "direct stronger link",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Falk",
+      "type": "substantiate",
+      "tail": "predictive validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Different types",
+      "type": "foster",
+      "tail": "work engagement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Spanish version",
+      "type": "have",
+      "tail": "factorial satisfactory validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different facets",
+      "type": "have",
+      "tail": "unique impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "enhance",
+      "tail": "work engagement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Data https://doi.org/10.2224/sbp.2014.42.8.1267 analysis",
+      "type": "note",
+      "tail": "Research article",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Descriptive analysis",
+      "type": "note",
+      "tail": "Correspondence author",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Author",
+      "type": "note",
+      "tail": "Correspondence author",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 37,
+  "elapsed_s": 119.9
+}

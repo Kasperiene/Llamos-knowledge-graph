@@ -1,0 +1,651 @@
+{
+  "paper_id": "Steffens_et_al__-_2019_-_Putting_the__we__into_workout_The_a",
+  "filename": "Steffens et al. - 2019 - Putting the ‘we’ into workout The association of .pdf",
+  "title": "Putting the ‘we’ into workout: The association of identity leadership with exercise class attendance and effort, and the mediating role of group identification and comfort",
+  "authors": [],
+  "doi": "",
+  "abstract": "This research examined how identity leadership displayed by group exercise instructors is associated with exercisers’ class attendance and in-class effort. Group exercise participants assessed their instructors’ engagement in identity leadership at baseline before indicating their comfort in the exercise environment, identification with the exercise group, class attendance, and in-class effort four weeks later. Results indicated positive associations between instructors’ identity leadership and exercisers’ group identification and comfort in the exercise environment four weeks later. Furthermore, results provided evidence of indirec effects. First, identity leadership was associated with members’ more frequent class attendance through their stronger group identification. Second, identity leadership was associated with members’ greater in-class effort through (a) their stronger group identification, and (b) their greater comfort. These relationships remained significant when accounting for the effect of established motivational predictors (i.e., competence and autonomy). These results point to the role that instructors’ leadership plays in promoting physical activity by suggesting that instructors’ engagement in identity leadership is associated with exercisers’ group-related experiences which, in turn, are a basis for group exercise participation. Physical activity has several physiological and psychological health benefits. For example, it can reduce the risk—and assist in the treatment—of various metabolic, cardiovascular, and psychiatric diseases including type 2 diabetes, coronary heart disease, anxiety, and depression (Biddle, Mutrie & Gorely, 2015; Pedersen & Saltin, 2015). Despite these benefits, physical inactivity rates are high, with recent statistics indicating that over a quarter of adults (27.5%) worldwide are insufficiently active (Guthold, Stevens, Riley, & Bull, 2018). As a result, physical inactivity has not only become a leading cause of death worldwide (Kohl et al., 2012) but also exerts a significant economic burden on society. For example, global healthcare costs associated with physical inactivity are approximately INT\\$53.8 billion per year (Ding et al. 2016). This has led researchers to identify physical inactivity as one of the 21st century’s most important public health problems (Blair, Sallis, Hutber, & Archer, 2012). It also means that efforts to understand the most effective ways to promote individuals’ engagement in, and maintenance of, physical activity (e.g., in structured exercise settings) have practical as well as theoretical importance. Extending recent evidence for the impact of physical activity leaders on group members’ behaviors (Ntoumanis et al., 2017; Stevens et al., 2018), in the present research we examined the potential for instructors of group exercise classes to enhance members’ engagement in exercise by engaging in (social) identity leadership—that is, by creating and promoting of a sense of “we” and “us” among group members (for reviews, see Haslam; Reicher, & Platow, 2011; Steffens et al., 2014). Although the identity leadership approach has been the focus of considerable research in organizational settings (e.g., see Steffens Haslam, Kerschreiter, Schuh, & van Dick, 2014; van Dick et al., 2018), only recently has identity leadership been proposed as a way to promote favorable outcomes among physical activity group members (Stevens et al., 2017). As a result, we have little knowledge of (a) the extent to which identity leadership is a useful means to promote physical activity, (b) the settings in which it may be effective in promoting engagement in physical activity, and (c) the mechanisms that may explain its effectiveness. This last point is particularly important, in light of calls for researchers to strive to identify the mechanisms that underpin the effectiveness of group-based physical activity environments (Estabrooks, Harden, & Burke, 2012). We addressed these issues in a study of group exercise participants that focused on the unfolding relationship between these participants’ perceptions of their group exercise instructors’ identity leadership and their own subsequent class attendance, and in-class effort. Furthermore, we examined two potential mediators of these relationships: the role played by participants’ perception of comfort in the exercise environment and participants’ identification with the exercise group.",
+  "word_count": 11575,
+  "sections": [
+    "Please cite this article as:",
+    "Social Identity Leadership and Engagement in Group Exercise",
+    "Group Identification, Comfort, and Engagement in Group Exercise",
+    "The Present Research",
+    "Method",
+    "Participants",
+    "Procedure",
+    "Measures",
+    "Results",
+    "Preliminary Analysis",
+    "Main Analyses",
+    "Sensitivity Analyses",
+    "Discussion",
+    "Implications for Theory and Practice",
+    "Limitations and Future Research",
+    "Conclusion",
+    "Tables and Figures"
+  ],
+  "top_concepts": [
+    {
+      "text": "group exercise",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9219,
+      "frequency": 301
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9297,
+      "frequency": 199
+    },
+    {
+      "text": "group exercise class",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8303,
+      "frequency": 337
+    },
+    {
+      "text": "group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.891,
+      "frequency": 198
+    },
+    {
+      "text": "group exercise physical",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7871,
+      "frequency": 331
+    },
+    {
+      "text": "group exercise instructors’",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7605,
+      "frequency": 322
+    },
+    {
+      "text": "identity leadership exercisers",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8228,
+      "frequency": 203
+    },
+    {
+      "text": "exercise",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8274,
+      "frequency": 158
+    },
+    {
+      "text": "exercise leaders engagement",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7853,
+      "frequency": 183
+    },
+    {
+      "text": "instructors’ identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7574,
+      "frequency": 220
+    },
+    {
+      "text": "exercise environment identification",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7462,
+      "frequency": 234
+    },
+    {
+      "text": "group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7976,
+      "frequency": 143
+    },
+    {
+      "text": "exercise instructors’ identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6821,
+      "frequency": 292
+    },
+    {
+      "text": "members identification group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7171,
+      "frequency": 213
+    },
+    {
+      "text": "workout association identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7898,
+      "frequency": 121
+    },
+    {
+      "text": "importance social identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7387,
+      "frequency": 168
+    },
+    {
+      "text": "benefits associated identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.741,
+      "frequency": 145
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7215,
+      "frequency": 165
+    },
+    {
+      "text": "group class attendance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6761,
+      "frequency": 204
+    },
+    {
+      "text": "effects greater group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6888,
+      "frequency": 179
+    },
+    {
+      "text": "identification comfort psychology",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7384,
+      "frequency": 122
+    },
+    {
+      "text": "engage group related",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6938,
+      "frequency": 151
+    },
+    {
+      "text": "exercise group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6096,
+      "frequency": 301
+    },
+    {
+      "text": "group exercise instructors",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.604,
+      "frequency": 317
+    },
+    {
+      "text": "group exercise classes",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5955,
+      "frequency": 315
+    },
+    {
+      "text": "Group exercise participants",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5754,
+      "frequency": 336
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7028,
+      "frequency": 113
+    },
+    {
+      "text": "exercisers perceived comfort",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7472,
+      "frequency": 76
+    },
+    {
+      "text": "identification associated increase",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7018,
+      "frequency": 81
+    },
+    {
+      "text": "leadership useful means",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6625,
+      "frequency": 94
+    },
+    {
+      "text": "Social Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5425,
+      "frequency": 251
+    },
+    {
+      "text": "group exercise environments",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4936,
+      "frequency": 305
+    },
+    {
+      "text": "behavior effect exercisers",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7833,
+      "frequency": 32
+    },
+    {
+      "text": "sport contexts benefits",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7379,
+      "frequency": 35
+    },
+    {
+      "text": "effort stronger",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6646,
+      "frequency": 49
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5601,
+      "frequency": 86
+    },
+    {
+      "text": "instructors associated",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6498,
+      "frequency": 41
+    },
+    {
+      "text": "team members influences",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7259,
+      "frequency": 24
+    },
+    {
+      "text": "mediators relationships role",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6664,
+      "frequency": 31
+    },
+    {
+      "text": "study examined health",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6568,
+      "frequency": 30
+    },
+    {
+      "text": "membership transforms psychology",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7119,
+      "frequency": 16
+    },
+    {
+      "text": "meta analytic evidence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6414,
+      "frequency": 22
+    },
+    {
+      "text": "exercise class",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3514,
+      "frequency": 194
+    },
+    {
+      "text": "exercise group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3137,
+      "frequency": 356
+    },
+    {
+      "text": "inactivity leading cause",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6986,
+      "frequency": 7
+    },
+    {
+      "text": "identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.369,
+      "frequency": 55
+    },
+    {
+      "text": "group exercise environment",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2404,
+      "frequency": 322
+    },
+    {
+      "text": "exercisers’ group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2452,
+      "frequency": 216
+    },
+    {
+      "text": "comfort",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3156,
+      "frequency": 55
+    },
+    {
+      "text": "al 2012 exerts",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5864,
+      "frequency": 3
+    }
+  ],
+  "relations": [
+    {
+      "head": "Results",
+      "type": "indicate",
+      "tail": "positive associations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "associate",
+      "tail": "greater effort",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Physical activity",
+      "type": "have",
+      "tail": "physiological benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "physical inactivity",
+      "type": "become",
+      "tail": "leading cause",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Benefits",
+      "type": "include",
+      "tail": "work increased effort",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present research",
+      "type": "seek",
+      "tail": "Group Identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "analytic evidence",
+      "type": "demonstrate",
+      "tail": "additional benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group shared membership",
+      "type": "attenuate",
+      "tail": "core disgust",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "exercise environments",
+      "type": "have",
+      "tail": "prominent features",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "exercise behaviors",
+      "type": "see",
+      "tail": "Ng",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Gyms",
+      "type": "post",
+      "tail": "survey link",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "indicate",
+      "tail": "exercise general history",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "validation scale study",
+      "type": "demonstrate",
+      "tail": "internal high consistency",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Higher scores",
+      "type": "indicate",
+      "tail": "stronger identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "contemporary scales",
+      "type": "assess",
+      "tail": "comfort",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Higher scores",
+      "type": "indicate",
+      "tail": "greater comfort",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Previous research",
+      "type": "indicate",
+      "tail": "internal high consistency",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "composite reliability",
+      "type": "reveal",
+      "tail": "acceptable value",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "composite reliability",
+      "type": "reveal",
+      "tail": "Supporting Main # H1",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "have",
+      "tail": "indirect stronger effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group identification",
+      "type": "remain",
+      "tail": "significant predictor",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "2 5",
+      "type": "remain",
+      "tail": "significant predictors",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Analysis",
+      "type": "yield",
+      "tail": "indirect significant effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "perceive",
+      "tail": "group",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present findings",
+      "type": "have",
+      "tail": "important implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present research",
+      "type": "contribute",
+      "tail": "Stevens",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present findings",
+      "type": "extend",
+      "tail": "sectional - cross previous work",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current study",
+      "type": "cover",
+      "tail": "new ground",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current study",
+      "type": "cover",
+      "tail": "perceived comfort",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present research",
+      "type": "provide",
+      "tail": "alternative approach",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present sample",
+      "type": "report",
+      "tail": "high levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present research",
+      "type": "adopt",
+      "tail": "unidimensional approach",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "have",
+      "tail": "strong impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "exercise instructors",
+      "type": "display",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Social identity",
+      "type": "shape",
+      "tail": "olfactory judgments",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": ". D.",
+      "type": "guard",
+      "tail": "outside dichotomy",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Group",
+      "type": "build",
+      "tail": "social identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "enhance",
+      "tail": "work engagement",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 38,
+  "elapsed_s": 78.4
+}

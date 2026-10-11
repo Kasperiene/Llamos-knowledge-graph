@@ -1,0 +1,727 @@
+{
+  "paper_id": "Fransen_-_2022_-_Unlocking_the_power_of__us__Longitudinal_ev",
+  "filename": "Fransen - 2022 - Unlocking the power of ‘us’ Longitudinal evidence that identity leadership predicts team functioning an.pdf",
+  "title": "Unlocking the Power of ‘Us’: Longitudinal Evidence that Identity Leadership Predicts Team Functioning and Athlete Well-Being",
+  "authors": [],
+  "doi": "10.1080/02640414.2023.2193005",
+  "abstract": "The social identity approach has become an important framework for understanding effective leadership. The present study is the first to longitudinally examine the relative impact of coaches’ and athlete leaders’ identity leadership on athletes’ identification with their team, as well as the subsequent relationships with key team and individual outcomes. To investigate these research questions, 18 sport teams (N = 279) completed a questionnaire early and late in their season competition. To analyse these data, we conducted structural equation modelling and controlled both for baseline values and the nested structure of our data. Results revealed that it was mainly the identity leadership of athlete leaders (and not of the coach) early in the season that predicted athletes’ team identification later in the season. This increased team identification in turn fed into both team outcomes (i.e., task climate, team resilience, team performance) and individual outcomes (i.e., well-being, burnout, and individual performance). The mediating role of team identification suggests that by building a shared sense of ‘we’, athlete leaders can improve the team’s effectiveness and enhance athletes’ well-being. Accordingly, we conclude that empowering athlete leaders and strengthening their identity leadership skills is an important way to unlock sport teams’ full potential.",
+  "word_count": 12971,
+  "sections": [
+    "Unlocking the Power of ‘Us’: Longitudinal Evidence that Identity Leadership Predicts Team Functioning and Athlete Well-Being",
+    "Unlocking the Power of ‘Us’: Longitudinal Evidence that Identity Leadership Predicts Team Functioning and Athlete Well-Being",
+    "Leaders as Key Drivers of a Shared Team Identity",
+    "The Present Study",
+    "RQ1: Does Early-Season Identity Leadership Predict Late-Season Team Identification?",
+    "RQ2 and RQ3: Does Team Identification Mediate Leaders’ Impact on Team and Individual Outcomes?",
+    "Procedure",
+    "Participants",
+    "Measures",
+    "Identity Leadership",
+    "Team Identification",
+    "Task Climate",
+    "Team Resilience",
+    "Well-Being",
+    "Burnout",
+    "Individual and Team Performance",
+    "Data Analysis",
+    "Results",
+    "RQ1: Does Early-Season Identity Leadership Predict Late-Season Team Identification?",
+    "RQ2 and RQ3: Does Team Identification Mediate Leaders’ Impact on Team and Individual Outcomes?",
+    "Figure 3",
+    "Discussion",
+    "RQ1: Does Early-Season Identity Leadership Predict Late-Season Team Identification?",
+    "RQ2: Does Team Identification Mediate Leaders’ Impact on Team Outcomes?",
+    "RQ3: Does Team Identification Mediate Leaders’ Impact on Individual Outcomes?",
+    "Practical Implications",
+    "Strengths, Limitations, and Avenues for Future Research",
+    "Conclusion",
+    "Acknowledgments",
+    "Appendix"
+  ],
+  "top_concepts": [
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9516,
+      "frequency": 334
+    },
+    {
+      "text": "leaders’ identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8998,
+      "frequency": 372
+    },
+    {
+      "text": "team identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8987,
+      "frequency": 311
+    },
+    {
+      "text": "athlete leaders’ identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8738,
+      "frequency": 320
+    },
+    {
+      "text": "Team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8904,
+      "frequency": 235
+    },
+    {
+      "text": "identity leadership athletes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.819,
+      "frequency": 362
+    },
+    {
+      "text": "identity leadership predicts",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8016,
+      "frequency": 340
+    },
+    {
+      "text": "identity theorizing sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7572,
+      "frequency": 257
+    },
+    {
+      "text": "benefits team identification",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7285,
+      "frequency": 312
+    },
+    {
+      "text": "social identity performance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7434,
+      "frequency": 277
+    },
+    {
+      "text": "predicts team functioning",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7388,
+      "frequency": 251
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7772,
+      "frequency": 183
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7238,
+      "frequency": 255
+    },
+    {
+      "text": "relationships key team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6925,
+      "frequency": 258
+    },
+    {
+      "text": "identity prototypicality td",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6738,
+      "frequency": 189
+    },
+    {
+      "text": "1989 team relied",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6439,
+      "frequency": 237
+    },
+    {
+      "text": "leadership dimensions encompassing",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6818,
+      "frequency": 174
+    },
+    {
+      "text": "sport research corroborated",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7182,
+      "frequency": 117
+    },
+    {
+      "text": "athlete leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6712,
+      "frequency": 162
+    },
+    {
+      "text": "effectiveness athlete key",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7103,
+      "frequency": 115
+    },
+    {
+      "text": "social cure sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6621,
+      "frequency": 146
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6474,
+      "frequency": 151
+    },
+    {
+      "text": "sport teams internalised",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6906,
+      "frequency": 103
+    },
+    {
+      "text": "teammates’ team identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5491,
+      "frequency": 337
+    },
+    {
+      "text": "sport teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6776,
+      "frequency": 102
+    },
+    {
+      "text": "Leadership Predicts Team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5177,
+      "frequency": 392
+    },
+    {
+      "text": "social cohesion fransen",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6931,
+      "frequency": 84
+    },
+    {
+      "text": "power longitudinal evidence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6995,
+      "frequency": 49
+    },
+    {
+      "text": "team members’ team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4187,
+      "frequency": 480
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.448,
+      "frequency": 286
+    },
+    {
+      "text": "outcomes burnout individual",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6102,
+      "frequency": 59
+    },
+    {
+      "text": "team resilience",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4521,
+      "frequency": 250
+    },
+    {
+      "text": "Shared Team Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.409,
+      "frequency": 449
+    },
+    {
+      "text": "athletes’ team identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3698,
+      "frequency": 342
+    },
+    {
+      "text": "belgium school psychology",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6441,
+      "frequency": 26
+    },
+    {
+      "text": "important framework understanding",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5976,
+      "frequency": 29
+    },
+    {
+      "text": "prosocial behaviour teammates",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6983,
+      "frequency": 14
+    },
+    {
+      "text": "leaders’ identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3425,
+      "frequency": 221
+    },
+    {
+      "text": "members live membership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5842,
+      "frequency": 16
+    },
+    {
+      "text": "Athlete",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3358,
+      "frequency": 99
+    },
+    {
+      "text": "Sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3459,
+      "frequency": 73
+    },
+    {
+      "text": "social identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2347,
+      "frequency": 406
+    },
+    {
+      "text": "running head unlocking",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6286,
+      "frequency": 7
+    },
+    {
+      "text": "movement sciences ku",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5935,
+      "frequency": 8
+    },
+    {
+      "text": "delehanty 1995 importance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5232,
+      "frequency": 10
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2238,
+      "frequency": 265
+    },
+    {
+      "text": "success structures divide",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.634,
+      "frequency": 4
+    },
+    {
+      "text": "haslam mclaren mertens",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5363,
+      "frequency": 6
+    },
+    {
+      "text": "Identity Leadership Predict",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1704,
+      "frequency": 340
+    },
+    {
+      "text": "chicago bulls words",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5659,
+      "frequency": 3
+    }
+  ],
+  "relations": [
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "team",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Abstract",
+      "type": "become",
+      "tail": "important framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "become",
+      "tail": "important framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Good teams",
+      "type": "become",
+      "tail": "great ones",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "recent evidence",
+      "type": "indicate",
+      "tail": "# Leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "live",
+      "tail": "group shared membership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "sport research",
+      "type": "corroborate",
+      "tail": "previous findings",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Fransen",
+      "type": "examine",
+      "tail": "personality different traits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "use",
+      "tail": "multilevel analyses",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity Season Leadership",
+      "type": "predict",
+      "tail": "Team Season Identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "little research",
+      "type": "compare",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity perceived leadership",
+      "type": "make",
+      "tail": "unique contribution",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "nurture",
+      "tail": "motivational climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "previous research",
+      "type": "show",
+      "tail": "Fransen",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Canadian athletes",
+      "type": "receive",
+      "tail": "team meal",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# # Participants",
+      "type": "include",
+      "tail": "Belgian teams",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "include",
+      "tail": "competitive athletes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "S D$",
+      "type": "have",
+      "tail": "Identity # Measures Leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "square $",
+      "type": "imply",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# # RQ1",
+      "type": "do",
+      "tail": "Identity Season Leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "present",
+      "tail": "bivariate correlations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "ingroup ties",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity season leadership",
+      "type": "remain",
+      "tail": "significant predictor",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "explain",
+      "tail": "small proportion",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Mplus",
+      "type": "suggest",
+      "tail": "direct additional effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Regressions",
+      "type": "confirm",
+      "tail": "superior power",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "multidimensional grained Additional analyses",
+      "type": "reveal",
+      "tail": "important nuances",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity season leadership",
+      "type": "predict",
+      "tail": "ingroup ties",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team",
+      "type": "captain",
+      "tail": "identity prototypicality",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "qualitative study",
+      "type": "identify",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "build",
+      "tail": "task climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "involving climate",
+      "type": "encourage",
+      "tail": "team members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "study findings",
+      "type": "indicate",
+      "tail": "Fransen",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "athlete contexts leaders",
+      "type": "initiate",
+      "tail": "identity social processes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "have",
+      "tail": "total significant effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "impact",
+      "tail": "individual performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "provide",
+      "tail": "quantitative evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership potential",
+      "type": "involve",
+      "tail": "identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "intervention Recent studies",
+      "type": "test",
+      "tail": "# # Strengths",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current research",
+      "type": "have",
+      "tail": "notable strengths",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "earlier studies",
+      "type": "consider",
+      "tail": "multidimensional nature",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current study",
+      "type": "provide",
+      "tail": "grained analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "future research",
+      "type": "adopt",
+      "tail": "multidimensional approach",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team identification",
+      "type": "predict",
+      "tail": "identity season leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "elite cyclists",
+      "type": "go",
+      "tail": "extra mile",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "new psychology",
+      "type": "unlock",
+      "tail": "social cure",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 58,
+  "relation_count": 47,
+  "elapsed_s": 103.8
+}

@@ -1,0 +1,948 @@
+{
+  "paper_id": "Fransen_-_2019_-_Standing_out_from_the_crowd_Identifying_the",
+  "filename": "Fransen - 2019 - Standing out from the crowd Identifying the traits and behaviors that characterize high‐quality athlete.pdf",
+  "title": "",
+  "authors": [],
+  "doi": "",
+  "abstract": "",
+  "word_count": 21319,
+  "sections": [],
+  "top_concepts": [
+    {
+      "text": "PSLBI",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9303,
+      "frequency": 328
+    },
+    {
+      "text": "ATHLETE LEADERS",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9243,
+      "frequency": 305
+    },
+    {
+      "text": "leadership behaviors athlete",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8219,
+      "frequency": 489
+    },
+    {
+      "text": "sports leadership quality",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8023,
+      "frequency": 461
+    },
+    {
+      "text": "leadership quality",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8015,
+      "frequency": 434
+    },
+    {
+      "text": "PROFILE OF ATHLETE",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7038,
+      "frequency": 831
+    },
+    {
+      "text": "predictor variables",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8469,
+      "frequency": 222
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.767,
+      "frequency": 330
+    },
+    {
+      "text": "distinguishes leadership styles",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7407,
+      "frequency": 343
+    },
+    {
+      "text": "DISTINCT PROFILE",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8741,
+      "frequency": 138
+    },
+    {
+      "text": "high-quality athlete leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7182,
+      "frequency": 373
+    },
+    {
+      "text": "athlete leaders separate",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7376,
+      "frequency": 308
+    },
+    {
+      "text": "athlete leaders scandinavian",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.735,
+      "frequency": 306
+    },
+    {
+      "text": "specifically leadership research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7071,
+      "frequency": 371
+    },
+    {
+      "text": "distinct profile athlete",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7491,
+      "frequency": 252
+    },
+    {
+      "text": "Social leadership quality",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6669,
+      "frequency": 483
+    },
+    {
+      "text": "leadership influential number",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6884,
+      "frequency": 334
+    },
+    {
+      "text": "task leadership quality",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6349,
+      "frequency": 474
+    },
+    {
+      "text": "ILI",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7434,
+      "frequency": 187
+    },
+    {
+      "text": "high48 quality leaders",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6691,
+      "frequency": 296
+    },
+    {
+      "text": "External leadership quality",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5915,
+      "frequency": 480
+    },
+    {
+      "text": "Motivational leadership quality",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5873,
+      "frequency": 468
+    },
+    {
+      "text": "LEADERS",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6841,
+      "frequency": 191
+    },
+    {
+      "text": "grouped cases correctly",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6312,
+      "frequency": 257
+    },
+    {
+      "text": "focused mainly team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7146,
+      "frequency": 125
+    },
+    {
+      "text": "DTLI",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.65,
+      "frequency": 153
+    },
+    {
+      "text": "cases correctly classified",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5615,
+      "frequency": 255
+    },
+    {
+      "text": "behave members team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6391,
+      "frequency": 124
+    },
+    {
+      "text": "research sport 59",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6493,
+      "frequency": 68
+    },
+    {
+      "text": "questionnaires organizational sports",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7457,
+      "frequency": 37
+    },
+    {
+      "text": "Quality Athlete Leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4533,
+      "frequency": 409
+    },
+    {
+      "text": "research identified wide",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6773,
+      "frequency": 48
+    },
+    {
+      "text": "social network analysis",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6135,
+      "frequency": 70
+    },
+    {
+      "text": "68 furthermore teams",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6308,
+      "frequency": 57
+    },
+    {
+      "text": "attributes distinctly characteristic",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6667,
+      "frequency": 45
+    },
+    {
+      "text": "collective sense 47",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6005,
+      "frequency": 64
+    },
+    {
+      "text": "behaviors characterize high3",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6264,
+      "frequency": 47
+    },
+    {
+      "text": "athletes stratified gender",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.727,
+      "frequency": 26
+    },
+    {
+      "text": "society large sports",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6773,
+      "frequency": 31
+    },
+    {
+      "text": "point talent important",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6204,
+      "frequency": 35
+    },
+    {
+      "text": "trait questionnaire",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6666,
+      "frequency": 16
+    },
+    {
+      "text": "predictor",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4002,
+      "frequency": 113
+    },
+    {
+      "text": "coach decade seen",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5965,
+      "frequency": 11
+    },
+    {
+      "text": "ATHLETE",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2944,
+      "frequency": 114
+    },
+    {
+      "text": "psychology university queensland",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5725,
+      "frequency": 9
+    },
+    {
+      "text": "Big",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2968,
+      "frequency": 97
+    },
+    {
+      "text": "LTQ",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2904,
+      "frequency": 102
+    },
+    {
+      "text": "sciences ku leuven",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5689,
+      "frequency": 6
+    },
+    {
+      "text": "athlete leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1806,
+      "frequency": 444
+    },
+    {
+      "text": "boen4 authors",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5746,
+      "frequency": 4
+    }
+  ],
+  "relations": [
+    {
+      "head": "leadership quality",
+      "type": "determine",
+      "tail": "Results",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership behaviors",
+      "type": "outweigh",
+      "tail": "personality traits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "greater resilience",
+      "type": "see",
+      "tail": "Cotterill",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership Early studies",
+      "type": "adopt",
+      "tail": "trait approach",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "certain individuals",
+      "type": "have",
+      "tail": "innate enduring special characteristics",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "previous research",
+      "type": "identify",
+      "tail": "wide range",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "recent studies",
+      "type": "identify",
+      "tail": "specific genotype",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "DISTINCT PROFILE",
+      "type": "assess",
+      "tail": "leadership quality",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Previous research",
+      "type": "show",
+      "tail": "athlete informal leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "assess",
+      "tail": "personality different traits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "include",
+      "tail": "different variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "complete",
+      "tail": "Dutch translation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "complete",
+      "tail": "LTQ",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "psychometric evaluation",
+      "type": "provide",
+      "tail": "Leadership behaviors",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different athletes",
+      "type": "have",
+      "tail": "different needs",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "have",
+      "tail": "clear targets",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "previous research",
+      "type": "measure",
+      "tail": "centrality indegree 28,37,38",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Filip",
+      "type": "perceive",
+      "tail": "Alex",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "perceive",
+      "tail": "Alex",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Alex 371",
+      "type": "receive",
+      "tail": "high scores",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team member",
+      "type": "receive",
+      "tail": "specific score",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team member",
+      "type": "receive",
+      "tail": "target effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "unknown individuals",
+      "type": "have",
+      "tail": "equal chance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "have",
+      "tail": "distinctive levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "differentiate",
+      "tail": "motivational skills",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "indicate",
+      "tail": "DISTINCT PROFILE",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "resulting networks",
+      "type": "map",
+      "tail": "leadership structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Previous research",
+      "type": "highlight",
+      "tail": "general value",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "role leaders",
+      "type": "fulfil",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership behaviors",
+      "type": "make",
+      "tail": "largest contribution",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "DISTINCT PROFILE",
+      "type": "explain",
+      "tail": "stronger relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "evaluate",
+      "tail": "leadership status",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership attributes",
+      "type": "have",
+      "tail": "discriminating stronger impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership dimensions",
+      "type": "serve",
+      "tail": "quality discriminate leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "previous studies",
+      "type": "use",
+      "tail": "self reports",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "DISTINCT PROFILE",
+      "type": "use",
+      "tail": "longitudinal design",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present paper",
+      "type": "give",
+      "tail": "good indication",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Fransen K",
+      "type": "perceive",
+      "tail": "leadership quality",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leadership",
+      "type": "validate",
+      "tail": "dimensional model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader ship",
+      "type": "sink",
+      "tail": "temporal investigation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "task leader",
+      "type": "give",
+      "tail": "tactical advice",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "put",
+      "tail": "fresh heart",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Commitment",
+      "type": "focus",
+      "tail": "4.89 16.09",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Commitment",
+      "type": "focus",
+      "tail": "PSLBI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "LTQ",
+      "type": "work",
+      "tail": "DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% classified %",
+      "type": "classify",
+      "tail": "Predictor variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% classified %",
+      "type": "classify",
+      "tail": "r variables PSLBI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "grouped validated cases",
+      "type": "classify",
+      "tail": "Predictor variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "grouped validated cases",
+      "type": "classify",
+      "tail": "r variables DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Individual consideration",
+      "type": "reward",
+      "tail": "DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Contingent",
+      "type": "reward",
+      "tail": "DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "quality % R²",
+      "type": "classify",
+      "tail": "r variables PSLBI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "consideration LTQ",
+      "type": "classify",
+      "tail": "r variables variables DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Inspirational LTQ",
+      "type": "classify",
+      "tail": "r variables variables DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model classified LTQ",
+      "type": "classify",
+      "tail": "Predictor variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model classified LTQ",
+      "type": "classify",
+      "tail": "r variables DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model classified LTQ",
+      "type": "classify",
+      "tail": "-.50 DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% classified %",
+      "type": "classify",
+      "tail": "r variables DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% classified %",
+      "type": "classify",
+      "tail": "-.50 DTLI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI Commitment",
+      "type": "focus",
+      "tail": "PSLBI Trustworthy intelligent Creative classified Problem",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI Commitment",
+      "type": "focus",
+      "tail": "Big",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI Commitment",
+      "type": "focus",
+      "tail": "DISTINCT PROFILE",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI Problem",
+      "type": "classify",
+      "tail": "Predictor variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI Problem",
+      "type": "classify",
+      "tail": "PSLBI variables Problem",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% % classified %",
+      "type": "classify",
+      "tail": "Predictor variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% % classified %",
+      "type": "classify",
+      "tail": "PSLBI variables Problem",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% % classified %",
+      "type": "classify",
+      "tail": "PSLBI Problem",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI intelligent Creative Commitment",
+      "type": "focus",
+      "tail": "leadership quality",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% % classified %",
+      "type": "classify",
+      "tail": "PSLBI variables variables Problem",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI Commitment",
+      "type": "focus",
+      "tail": ".30 Conscientiousness Big Note",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership quality",
+      "type": "classify",
+      "tail": "PSLBI Problem",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI confident Skilled Commitment",
+      "type": "focus",
+      "tail": "LTQ Trustworthy",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "R² %",
+      "type": "classify",
+      "tail": "PSLBI variables variables Problem",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI intelligent Commitment",
+      "type": "focus",
+      "tail": "PSLBI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI classified Problem",
+      "type": "work",
+      "tail": "Individual consideration",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI Commitment",
+      "type": "focus",
+      "tail": "Compassionate PSLBI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI classified Commitment",
+      "type": "focus",
+      "tail": "PSLBI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI classified Commitment",
+      "type": "focus",
+      "tail": "Promoting teamwork",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% % classified %",
+      "type": "classify",
+      "tail": "Predictor variables variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% % classified %",
+      "type": "classify",
+      "tail": "Contingent Character reward",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership Skilled Articulate Big quality",
+      "type": "classify",
+      "tail": "Predictor variables variables",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PSLBI intelligent Creative Commitment",
+      "type": "focus",
+      "tail": "performance High expectations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Promoting Big team",
+      "type": "work",
+      "tail": "LC Motivation Yielding",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 83,
+  "elapsed_s": 198.8
+}

@@ -1,0 +1,584 @@
+{
+  "paper_id": "Khumalo_et_al__-_2022_-_Leaders__influence_on_collective_act",
+  "filename": "Khumalo et al. - 2022 - Leaders’ influence on collective action An identi.pdf",
+  "title": "Leaders’ influence on collective action: An identity leadership perspective",
+  "authors": [],
+  "doi": "10.1016/j.leaqua.2022.101609",
+  "abstract": "",
+  "word_count": 26272,
+  "sections": [],
+  "top_concepts": [
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9497,
+      "frequency": 713
+    },
+    {
+      "text": "social identity model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8734,
+      "frequency": 949
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8958,
+      "frequency": 714
+    },
+    {
+      "text": "identity leadership model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7937,
+      "frequency": 948
+    },
+    {
+      "text": "collective action identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7847,
+      "frequency": 803
+    },
+    {
+      "text": "social identity processes",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7612,
+      "frequency": 740
+    },
+    {
+      "text": "identity leadership haslam",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.723,
+      "frequency": 719
+    },
+    {
+      "text": "collective action",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7886,
+      "frequency": 399
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.709,
+      "frequency": 760
+    },
+    {
+      "text": "ingroup identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7748,
+      "frequency": 397
+    },
+    {
+      "text": "leadership model views",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7194,
+      "frequency": 546
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7341,
+      "frequency": 404
+    },
+    {
+      "text": "Social Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7273,
+      "frequency": 330
+    },
+    {
+      "text": "model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7682,
+      "frequency": 235
+    },
+    {
+      "text": "leadership quarterly",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7032,
+      "frequency": 309
+    },
+    {
+      "text": "group context relationship",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6496,
+      "frequency": 479
+    },
+    {
+      "text": "research social movements",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6771,
+      "frequency": 365
+    },
+    {
+      "text": "group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6558,
+      "frequency": 353
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.654,
+      "frequency": 309
+    },
+    {
+      "text": "organisational identification outcome",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.691,
+      "frequency": 188
+    },
+    {
+      "text": "social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6222,
+      "frequency": 310
+    },
+    {
+      "text": "leaders influenced followers",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7516,
+      "frequency": 114
+    },
+    {
+      "text": "ingroup member differs",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6186,
+      "frequency": 235
+    },
+    {
+      "text": "group context",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5059,
+      "frequency": 449
+    },
+    {
+      "text": "model views",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5607,
+      "frequency": 237
+    },
+    {
+      "text": "haslam reicher et",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.548,
+      "frequency": 172
+    },
+    {
+      "text": "al 1987 influence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5993,
+      "frequency": 45
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3205,
+      "frequency": 725
+    },
+    {
+      "text": "group efficacy",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3426,
+      "frequency": 425
+    },
+    {
+      "text": "context identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3077,
+      "frequency": 809
+    },
+    {
+      "text": "apartheid struggle south",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.563,
+      "frequency": 31
+    },
+    {
+      "text": "ceos ideology organisational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6686,
+      "frequency": 16
+    },
+    {
+      "text": "waldzus department psychology",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6028,
+      "frequency": 22
+    },
+    {
+      "text": "africa instituto universitário",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6337,
+      "frequency": 16
+    },
+    {
+      "text": "key stakeholders",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6371,
+      "frequency": 14
+    },
+    {
+      "text": "1979 selfcategorisation theory",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6167,
+      "frequency": 12
+    },
+    {
+      "text": "subasic 2008 people",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5859,
+      "frequency": 14
+    },
+    {
+      "text": "emotional value significance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6123,
+      "frequency": 12
+    },
+    {
+      "text": "empirical evidence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6073,
+      "frequency": 12
+    },
+    {
+      "text": "1990 people",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5522,
+      "frequency": 14
+    },
+    {
+      "text": "social group context",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2278,
+      "frequency": 759
+    },
+    {
+      "text": "identity leadership items",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2196,
+      "frequency": 767
+    },
+    {
+      "text": "following article khumalo",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6292,
+      "frequency": 7
+    },
+    {
+      "text": "repository text changed",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5921,
+      "frequency": 6
+    },
+    {
+      "text": "group contexts",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.204,
+      "frequency": 399
+    },
+    {
+      "text": "knippenberg 2011 endorsed",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5364,
+      "frequency": 6
+    },
+    {
+      "text": "tau 2017 martin",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5105,
+      "frequency": 6
+    },
+    {
+      "text": "Identity leadership Group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1442,
+      "frequency": 1066
+    },
+    {
+      "text": "copyright holders serviços",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5593,
+      "frequency": 3
+    },
+    {
+      "text": "statement peer reviewed",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5793,
+      "frequency": 2
+    }
+  ],
+  "relations": [
+    {
+      "head": "ISCTE Repositório IUL",
+      "type": "deposit",
+      "tail": "Deposited version",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "King Luther Martin Jr.",
+      "type": "personify",
+      "tail": "Rights Movement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social Shared identity",
+      "type": "make",
+      "tail": "mutual influence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Group leadership members",
+      "type": "follow",
+      "tail": "ingroup influential members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different interests",
+      "type": "see",
+      "tail": "Hambrick",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model views",
+      "type": "share",
+      "tail": "social identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership model",
+      "type": "conceptualise",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity social processes",
+      "type": "affect",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership",
+      "type": "affect",
+      "tail": "identity social processes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership",
+      "type": "promote",
+      "tail": "ingroup identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity leadership",
+      "type": "influence",
+      "tail": "collective action",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "De Weerd",
+      "type": "produce",
+      "tail": "social politicised identities",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "oblige members",
+      "type": "advance",
+      "tail": "group interests",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Results",
+      "type": "conduct",
+      "tail": "factor analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model",
+      "type": "include",
+      "tail": "direct paths",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Square significant test",
+      "type": "indicate",
+      "tail": "substantial misfit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "report",
+      "tail": "direct paths",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "indirect path",
+      "type": "reach",
+      "tail": "statistical significance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Insert Table",
+      "type": "present",
+      "tail": "empirical evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "present",
+      "tail": "empirical evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social identity",
+      "type": "inspire",
+      "tail": "self definitions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social identity",
+      "type": "inspire",
+      "tail": "empowered individuals",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "model",
+      "type": "include",
+      "tail": "indirect paths",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "report",
+      "tail": "model comparisons",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ChiSquare significant tests",
+      "type": "indicate",
+      "tail": "substantial misfit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Consistent",
+      "type": "reach",
+      "tail": "statistical significance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity leadership",
+      "type": "mobilize",
+      "tail": "collective action",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Licence",
+      "type": "fail",
+      "tail": "Goal definition",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "enhance",
+      "tail": "work engagement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Simon",
+      "type": "produce",
+      "tail": "social politicised identities",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Estimates",
+      "type": "pool",
+      "tail": "regression imputations",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 31,
+  "elapsed_s": 198.2
+}

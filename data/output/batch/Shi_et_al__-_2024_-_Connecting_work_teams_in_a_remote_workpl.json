@@ -1,0 +1,796 @@
+{
+  "paper_id": "Shi_et_al__-_2024_-_Connecting_work_teams_in_a_remote_workpl",
+  "filename": "Shi et al. - 2024 - Connecting work teams in a remote workplace an id.pdf",
+  "title": "Connecting work teams in a remote workplace: an identity leadership perspective",
+  "authors": [],
+  "doi": "10.1080/1359432X.2024.2362460",
+  "abstract": "Accelerated by the COVID-19 pandemic, a shift towards remote and hybrid working practices is currently taking place in organizations worldwide. This transition creates an important challenge for workplace management to ensure that remotely working employees feel connected to their team, and the organization at large, despite the loss of frequent in-person, face-to-face interactions. We propose that identity leadership behaviours from workplace supervisors are key to ensuring such feelings of connectedness among remotely working employees. We conducted two studies among working adults in the United Kingdom to demonstrate the importance of identity leadership in a remote working context. Our first study showed that employees preferred identity leadership behaviours from their supervisors more in a remote versus an on-site working context. Results of our second study showed that identity leadership behaviours mitigate against the detrimental consequences of remote working on team connectedness and on various work-related outcomes for employees, such as their work engagement, job satisfaction, work stress and absenteeism. We discuss the theoretical and practical implications of these findings as well as directions for future research. ARTICLE HISTORY Received 20 March 2023 Accepted 27 May 2024 Remote working; identity leadership; team connectedness; work experiences",
+  "word_count": 13156,
+  "sections": [
+    "Connecting work teams in a remote workplace: an identity leadership perspective",
+    "Connecting work teams in a remote workplace: an identity leadership perspective",
+    "Introduction",
+    "Theory and hypotheses development",
+    "The social identity approach to leadership",
+    "The context of remote working",
+    "Identity leadership in remote work settings",
+    "Implications for work experiences",
+    "Overview of study designs",
+    "Study 1",
+    "Method",
+    "Participants and procedure",
+    "Measures",
+    "Endorsement of identity leadership behaviours",
+    "Endorsement of other leadership behaviours",
+    "Attention checks",
+    "Analytic strategy",
+    "Results",
+    "Study 2",
+    "Method",
+    "Participants and procedure",
+    "Measures",
+    "Analytic strategy",
+    "Results",
+    "Descriptive statistics",
+    "Factor structure",
+    "Hypotheses testing",
+    "General discussion",
+    "Theoretical implications",
+    "Practical implications",
+    "Limitations and future research directions",
+    "Conclusion",
+    "Notes",
+    "Disclosure statement",
+    "ORCID",
+    "Data availability statement"
+  ],
+  "top_concepts": [
+    {
+      "text": "identity leadership behaviours",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9665,
+      "frequency": 395
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9664,
+      "frequency": 343
+    },
+    {
+      "text": "remote working",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9194,
+      "frequency": 278
+    },
+    {
+      "text": "leadership behaviours",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8409,
+      "frequency": 234
+    },
+    {
+      "text": "leadership remote work",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.744,
+      "frequency": 454
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8424,
+      "frequency": 182
+    },
+    {
+      "text": "identity leadership perspective",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7497,
+      "frequency": 347
+    },
+    {
+      "text": "remote work",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7778,
+      "frequency": 272
+    },
+    {
+      "text": "remote workplace identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7553,
+      "frequency": 311
+    },
+    {
+      "text": "remote work settings",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7457,
+      "frequency": 285
+    },
+    {
+      "text": "connectedness work teams",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7915,
+      "frequency": 174
+    },
+    {
+      "text": "social identity teams",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7454,
+      "frequency": 233
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7954,
+      "frequency": 161
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7112,
+      "frequency": 221
+    },
+    {
+      "text": "journal work organizational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7005,
+      "frequency": 206
+    },
+    {
+      "text": "leadership lab vrije",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6814,
+      "frequency": 184
+    },
+    {
+      "text": "remotely working employees",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6536,
+      "frequency": 221
+    },
+    {
+      "text": "working",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7083,
+      "frequency": 140
+    },
+    {
+      "text": "remote",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6978,
+      "frequency": 138
+    },
+    {
+      "text": "hybrid working practices",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6832,
+      "frequency": 153
+    },
+    {
+      "text": "work",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6955,
+      "frequency": 134
+    },
+    {
+      "text": "identity leadership research",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5543,
+      "frequency": 400
+    },
+    {
+      "text": "literature highlights remote",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.66,
+      "frequency": 145
+    },
+    {
+      "text": "remote work setting",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5762,
+      "frequency": 279
+    },
+    {
+      "text": "work outcomes experienced",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6526,
+      "frequency": 138
+    },
+    {
+      "text": "remote working teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5159,
+      "frequency": 290
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6269,
+      "frequency": 102
+    },
+    {
+      "text": "team identification fransen",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5992,
+      "frequency": 122
+    },
+    {
+      "text": "members haslam et",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.572,
+      "frequency": 138
+    },
+    {
+      "text": "behaviours workplace",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6743,
+      "frequency": 64
+    },
+    {
+      "text": "identity leadership activities",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4682,
+      "frequency": 357
+    },
+    {
+      "text": "team connectedness",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5386,
+      "frequency": 130
+    },
+    {
+      "text": "research challenges consensus",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6237,
+      "frequency": 63
+    },
+    {
+      "text": "Connecting work teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.511,
+      "frequency": 149
+    },
+    {
+      "text": "context study showed",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6534,
+      "frequency": 48
+    },
+    {
+      "text": "important theoretical practical",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6359,
+      "frequency": 50
+    },
+    {
+      "text": "working remotely",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4803,
+      "frequency": 172
+    },
+    {
+      "text": "journal images 5198b6c1129abc7e2c991065b1eb9192020b6ccfda9cf028f0bf72d38181c606",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6076,
+      "frequency": 34
+    },
+    {
+      "text": "transition workplace accelerated",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6534,
+      "frequency": 19
+    },
+    {
+      "text": "style supervisor compared",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5981,
+      "frequency": 23
+    },
+    {
+      "text": "taylor francis group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5667,
+      "frequency": 17
+    },
+    {
+      "text": "sense cf",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5538,
+      "frequency": 18
+    },
+    {
+      "text": "face interactions propose",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6187,
+      "frequency": 12
+    },
+    {
+      "text": "isolation loneliness frequency",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5853,
+      "frequency": 14
+    },
+    {
+      "text": "vugt cite article",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6414,
+      "frequency": 10
+    },
+    {
+      "text": "downsides organizations allow",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5984,
+      "frequency": 11
+    },
+    {
+      "text": "article jian shi",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5681,
+      "frequency": 9
+    },
+    {
+      "text": "conflict turnover intentions",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6363,
+      "frequency": 6
+    },
+    {
+      "text": "2362460 link article",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5794,
+      "frequency": 5
+    },
+    {
+      "text": "informa uk limited",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5504,
+      "frequency": 2
+    }
+  ],
+  "relations": [
+    {
+      "head": "work Connecting teams",
+      "type": "connect",
+      "tail": "work teams",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Accepted 27",
+      "type": "keyword",
+      "tail": "working",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "work",
+      "type": "experience",
+      "tail": "# Introduction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "recent studies",
+      "type": "suggest",
+      "tail": "Kniffin",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Organizational researchers",
+      "type": "recognize",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "create",
+      "tail": "social identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Figure",
+      "type": "describe",
+      "tail": "conceptual overall model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "make",
+      "tail": "theoretical important contributions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "remote working",
+      "type": "have",
+      "tail": "important downsides",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "provide",
+      "tail": "practical valuable insights",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership behaviours",
+      "type": "prevent",
+      "tail": "working employees",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "conceptual overall model",
+      "type": "provide",
+      "tail": "theoretical appropriate framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Remote working",
+      "type": "constitute",
+      "tail": "working novel arrangement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different situations",
+      "type": "require",
+      "tail": "leadership different behaviours",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "necessitate leaders",
+      "type": "employ",
+      "tail": "unique set",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Employees",
+      "type": "endorse",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "working employees",
+      "type": "perceive",
+      "tail": "team members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Hypothesis",
+      "type": "moderate",
+      "tail": "# # Implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity leadership",
+      "type": "moderate",
+      "tail": "# # Implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "McCloskey",
+      "type": "show",
+      "tail": "work remote results",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity leadership",
+      "type": "moderate",
+      "tail": "indirect negative effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "test",
+      "tail": "Hypothesis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "hold",
+      "tail": "diverse jobs",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI",
+      "type": "offer",
+      "tail": "complete measure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "sample item",
+      "type": "keep",
+      "tail": "work",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "younger employees",
+      "type": "favour",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership behaviours",
+      "type": "mitigate",
+      "tail": "negative consequences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "work",
+      "tail": "# # Measures",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Wiesenfeld",
+      "type": "assess",
+      "tail": "remote working",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "key constructs",
+      "type": "have",
+      "tail": "discriminant satisfactory validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "focal variables",
+      "type": "display",
+      "tail": "discriminant adequate validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Hypothesis",
+      "type": "state",
+      "tail": "negative relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "moderate",
+      "tail": "indirect effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "remote working",
+      "type": "have",
+      "tail": "indirect negative significant effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "mitigate",
+      "tail": "detrimental consequences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Theoretical implications",
+      "type": "make",
+      "tail": "important contributions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "make",
+      "tail": "important contributions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "add",
+      "tail": "Hill",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "link",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "working employees",
+      "type": "experience",
+      "tail": "work",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "form",
+      "tail": "Practical implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "offer",
+      "tail": "practical important contributions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "highlight",
+      "tail": "crucial challenges",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "live",
+      "tail": "group membership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "sectional - cross nature",
+      "type": "cause",
+      "tail": "method common bias",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "focal variables",
+      "type": "reflect",
+      "tail": "personal experiences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "work",
+      "type": "concern",
+      "tail": "centric perspective",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "theoretical concept",
+      "type": "capture",
+      "tail": "follower viewpoint",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Future research",
+      "type": "examine",
+      "tail": "Conclusion Overall",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "enhancing activities",
+      "type": "create",
+      "tail": "stronger sense",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "mitigate",
+      "tail": "negative consequences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "demonstrate",
+      "tail": "# # Notes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity",
+      "type": "change",
+      "tail": "research questions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "COVID‐19",
+      "type": "change",
+      "tail": "research questions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "autocratic leaders",
+      "type": "become",
+      "tail": "option uncertainty",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "categorization theory",
+      "type": "rediscover",
+      "tail": "social group",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 56,
+  "elapsed_s": 72.0
+}

@@ -1,0 +1,774 @@
+{
+  "paper_id": "Rowe_-_2021_-_Will__we__continue_to_exercise_The_association",
+  "filename": "Rowe - 2021 - Will ‘we’ continue to exercise The associations between group identification, identity leadership, and rel.pdf",
+  "title": "Will ‘We’ Continue to Exercise? The Associations between Group Identification,",
+  "authors": [],
+  "doi": "",
+  "abstract": "The present study sought to provide support for the roles of both the social identity approach (group identification and identity leadership) and relational identification in adherence to group exercise classes. One hundred and twenty U.K. based group exercise class attendees completed an online survey in a cross-sectional design. Group identification, perceptions of identity leadership behaviour, and relational identification were not significantly associated with length of class attendance. However, both identity leadership behaviour of the class instructor and ingroup affect (measured as an element of multidimensional group identification), were significantly associated with expected likelihood of continued class participation. For every 1 unit increase in the identity leadership and ingroup affect measures respectively, participants were 1.9 and 2.0 times more likely to be ‘at or near 100%’ likely to continue vs not. Social identity variables were not associated with how long exercisers had been attending class, but identity leadership and ingroup affect are positive influencers of expected future adherence. Further research into the social identity approach and identity leadership behaviour regards exercise class attendance tenure vs volume is warranted and is likely to benefit from the use of multi-dimensional group identification measures.",
+  "word_count": 8779,
+  "sections": [
+    "Will ‘We’ Continue to Exercise? The Associations between Group Identification,",
+    "Identity Leadership, and Relational Identification on Group Exercise Class Adherence",
+    "The Social Identity Approach",
+    "The Social Identity Approach to Leadership",
+    "Relational Identification",
+    "The Present Research",
+    "Method",
+    "Participants and Design",
+    "Participants by Exercise Class type",
+    "Table 2.",
+    "Procedures",
+    "Measures",
+    "Data Analysis",
+    "Results",
+    "Preliminary Analysis",
+    "Main Analysis",
+    "Table 4.",
+    "Table 6.",
+    "Discussion",
+    "Further Limitations and Considerations",
+    "Conclusions"
+  ],
+  "top_concepts": [
+    {
+      "text": "group exercise class",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9135,
+      "frequency": 332
+    },
+    {
+      "text": "exercise class",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9078,
+      "frequency": 226
+    },
+    {
+      "text": "group identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.938,
+      "frequency": 188
+    },
+    {
+      "text": "exercise class attendance",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.866,
+      "frequency": 278
+    },
+    {
+      "text": "exercise class adherence",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8422,
+      "frequency": 252
+    },
+    {
+      "text": "adherence group exercise",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8285,
+      "frequency": 255
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9007,
+      "frequency": 160
+    },
+    {
+      "text": "identity leadership behaviour",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8488,
+      "frequency": 187
+    },
+    {
+      "text": "identification exercise groups",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8214,
+      "frequency": 211
+    },
+    {
+      "text": "relational identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8779,
+      "frequency": 136
+    },
+    {
+      "text": "identity leadership behaviours",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8035,
+      "frequency": 174
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7956,
+      "frequency": 172
+    },
+    {
+      "text": "group exercise",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7272,
+      "frequency": 229
+    },
+    {
+      "text": "exercise classes perceive",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7978,
+      "frequency": 139
+    },
+    {
+      "text": "conceptualisation group identification",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7469,
+      "frequency": 190
+    },
+    {
+      "text": "class attendance",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.764,
+      "frequency": 155
+    },
+    {
+      "text": "increase identity leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7529,
+      "frequency": 165
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.766,
+      "frequency": 151
+    },
+    {
+      "text": "identity terms adherence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.761,
+      "frequency": 140
+    },
+    {
+      "text": "vs social identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7326,
+      "frequency": 159
+    },
+    {
+      "text": "exercise",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7693,
+      "frequency": 123
+    },
+    {
+      "text": "identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8019,
+      "frequency": 82
+    },
+    {
+      "text": "group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7501,
+      "frequency": 106
+    },
+    {
+      "text": "leadership behaviour relational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7,
+      "frequency": 136
+    },
+    {
+      "text": "continued class participation",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7116,
+      "frequency": 124
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7322,
+      "frequency": 105
+    },
+    {
+      "text": "class",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7251,
+      "frequency": 103
+    },
+    {
+      "text": "relationship levels group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7021,
+      "frequency": 118
+    },
+    {
+      "text": "face group disbandment",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.691,
+      "frequency": 108
+    },
+    {
+      "text": "future adherence research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7345,
+      "frequency": 81
+    },
+    {
+      "text": "group exercise classes",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5832,
+      "frequency": 244
+    },
+    {
+      "text": "activity participation social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7163,
+      "frequency": 76
+    },
+    {
+      "text": "study measured attendance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6559,
+      "frequency": 91
+    },
+    {
+      "text": "exercise class attendees",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5111,
+      "frequency": 230
+    },
+    {
+      "text": "ingroup affect positive",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7231,
+      "frequency": 43
+    },
+    {
+      "text": "sport research regard",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6784,
+      "frequency": 54
+    },
+    {
+      "text": "individual behaviour affected",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6891,
+      "frequency": 31
+    },
+    {
+      "text": "avenue research advance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6124,
+      "frequency": 31
+    },
+    {
+      "text": "small significant association",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6666,
+      "frequency": 20
+    },
+    {
+      "text": "23 factor model",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6387,
+      "frequency": 19
+    },
+    {
+      "text": "regard running role",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6239,
+      "frequency": 20
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4648,
+      "frequency": 55
+    },
+    {
+      "text": "17 demonstrated relationship",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6297,
+      "frequency": 13
+    },
+    {
+      "text": "sense belonging commitment",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7205,
+      "frequency": 7
+    },
+    {
+      "text": "identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3187,
+      "frequency": 126
+    },
+    {
+      "text": "dynamics health",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6508,
+      "frequency": 8
+    },
+    {
+      "text": "depression recommended adults",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6268,
+      "frequency": 8
+    },
+    {
+      "text": "having previously inactive",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6505,
+      "frequency": 7
+    },
+    {
+      "text": "heart according sil",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6119,
+      "frequency": 8
+    },
+    {
+      "text": "long term",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6085,
+      "frequency": 6
+    }
+  ],
+  "relations": [
+    {
+      "head": "class group based attendees",
+      "type": "complete",
+      "tail": "online survey",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "long exercisers",
+      "type": "attend",
+      "tail": "class",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "exercise group classes",
+      "type": "offer",
+      "tail": "valuable avenue",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "exercise group classes",
+      "type": "offer",
+      "tail": "Identity Approach",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "provide",
+      "tail": "social crucial processes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "comprise",
+      "tail": "identity theory",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "comprise",
+      "tail": "categorisation theory",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group identification",
+      "type": "engender",
+      "tail": "exercise participation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Maintenance",
+      "type": "present",
+      "tail": "key area",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "recent studies",
+      "type": "use",
+      "tail": "global measure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "add",
+      "tail": "substantial value",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "behaviour",
+      "tail": "influence attendance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership behaviours",
+      "type": "engender",
+      "tail": "class attendance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Sluss",
+      "type": "outline",
+      "tail": "relational identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "dimensional - multi elements",
+      "type": "show",
+      "tail": "differing relationships",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# # Procedures",
+      "type": "grant",
+      "tail": "ethical approval",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "complete",
+      "tail": "demographics questions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "class",
+      "type": "have",
+      "tail": "class regular instructor",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "final page",
+      "type": "act",
+      "tail": "Group identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Higher scores",
+      "type": "indicate",
+      "tail": "higher levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "illustrate",
+      "tail": "internal good consistency",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "assessed participants",
+      "type": "perceive",
+      "tail": "SIL behaviour",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI",
+      "type": "demonstrate",
+      "tail": "construct good validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership research",
+      "type": "use",
+      "tail": "ILI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Higher scores",
+      "type": "indicate",
+      "tail": "greater levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "limited research",
+      "type": "render",
+      "tail": "scale selection",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Selection",
+      "type": "elicit",
+      "tail": "follow format box",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "SIQS elements",
+      "type": "show",
+      "tail": "differing relationships",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "P plots",
+      "type": "reveal",
+      "tail": "potential skew",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ZResid",
+      "type": "reveal",
+      "tail": "potential funnelling",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "H1a",
+      "type": "support",
+      "tail": "# Table",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Results",
+      "type": "show",
+      "tail": "regression significant equation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Group identification",
+      "type": "show",
+      "tail": "positive significant - non effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "show",
+      "tail": "positive significant effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "relational identification",
+      "type": "show",
+      "tail": "negative significant - non effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Results",
+      "type": "show",
+      "tail": "small effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Ingroup affect",
+      "type": "show",
+      "tail": "significant effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ingroup ties",
+      "type": "show",
+      "tail": "negative significant - non effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "cognitive centrality",
+      "type": "show",
+      "tail": "negative significant - non effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group identification",
+      "type": "predict",
+      "tail": "class adherence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership behaviour",
+      "type": "influence",
+      "tail": "activity group attendance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Previous studies",
+      "type": "examine",
+      "tail": "attendance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "particular study",
+      "type": "permit",
+      "tail": "causational establishment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership behaviour",
+      "type": "enhance",
+      "tail": "expected continuation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "unit increase",
+      "type": "affect",
+      "tail": "score participants",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "small scale",
+      "type": "enable",
+      "tail": "firm conclusions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# Limitations",
+      "type": "yield",
+      "tail": "interesting results",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "yield",
+      "tail": "interesting results",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group identification",
+      "type": "affect",
+      "tail": "class group adherence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "regression model",
+      "type": "offer",
+      "tail": "significant improvement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "provide",
+      "tail": "partial support",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "promote",
+      "tail": "attendance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "selfcategorization theory",
+      "type": "rediscover",
+      "tail": "social group",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Sniehotta FF",
+      "type": "bridge",
+      "tail": "behaviour gap",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Courneya KS",
+      "type": "predict",
+      "tail": "physical activity",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 55,
+  "elapsed_s": 81.6
+}

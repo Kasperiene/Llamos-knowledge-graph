@@ -1,0 +1,713 @@
+{
+  "paper_id": "Butalia_-_2024_-_Measuring_leadership_in_sport_Development_a",
+  "filename": "Butalia - 2024 - Measuring leadership in sport Development and validation of the Identity Leadership Inventory - Youth (.pdf",
+  "title": "Phase I: Testing the Understandability, Factor Validity, and Internal Consistency of the",
+  "authors": [],
+  "doi": "",
+  "abstract": "The social identity approach to leadership posits that leaders’ effectiveness depends on their ability to represent, advance, create, and embed a shared sense of social identity among their followers. Although significant progress has been made in investigating the benefits of identity leadership in adult sports, research in youth sports is still in its infancy. One reason is the lack of a youth-centric inventory that adequately measures identity leadership in this population. To bridge this gap, we developed and validated a long (16 items) and short (5 items) version of the Identity Leadership Inventory for Youth Sport (ILI-Y or ILI-Y-Short-Form) through five studies conducted in three phases of research. Data were primarily collected in football in the United Kingdom, involving a total of 1,096 participants. Results of Phase I of this study provided little to no evidence that the ILI – originally developed for adults – was understandable (Study 1) and had factor validity and internal consistency (Study 2) in a sample of youth athletes. Therefore, in Phase II, the ILI was revised, leading to the development of the ILI-Y, which was understandable for youth athletes (Study 3). Results from Phase II (Study 4) also indicated that the ILI-Y exhibited a unidimensional factor structure, which was subsequently confirmed in Phase III (Study 5). This last phase offered additional evidence for the discriminant, criterion, and incremental validity of the ILI-Y and its short form, along with their measurement invariance across genders and age groups, and internal consistency. This study provides sports psychology researchers and practitioners with a valid measure to assess identity leadership in youth sports. Key Words: Leadership; Identity Leadership; Social Identity; Measurement Development",
+  "word_count": 13348,
+  "sections": [
+    "Introduction",
+    "Phase I: Testing the Understandability, Factor Validity, and Internal Consistency of the",
+    "ILI in Youth Sports Contexts",
+    "Study 1: Qualitative Analysis of the ILI",
+    "Methods",
+    "Results",
+    "Study 2: Quantitative Analysis of the ILI",
+    "Methods",
+    "Results",
+    "Discussion Phase I",
+    "Phase II: Adapting the ILI and Exploring the Understandability, Factor Structure, and",
+    "Internal Consistency of the ILI-Y in Youth Sports Contexts",
+    "Adapting the ILI",
+    "Methods",
+    "Results",
+    "Results",
+    "Discussion Phase II",
+    "Phase III: Confirming and Extending the Validity and Internal Consistency Evidence of",
+    "the ILI-Y and ILI-SF in Youth Sports Contexts",
+    "Study 5: Quantitative Analysis of the ILI-Y and ILI-Y-SF",
+    "Methods",
+    "Results",
+    "\\*\\*\\* Table 4 should be presented here \\*\\*\\*",
+    "Discussion Phase III",
+    "General Discussion",
+    "Implications",
+    "Strengths",
+    "Limitations and Future Research",
+    "Practical Applications",
+    "Conclusion",
+    "Notes",
+    "Data Use",
+    "Data Availability Statement",
+    "Funding",
+    "Tables",
+    "Table 2",
+    "Table 3",
+    "Table 4",
+    "Supplementary Materials",
+    "Obtaining Consent from Youth Athletes",
+    "Sample Size Determination",
+    "Study 1",
+    "Study 2",
+    "Study 3",
+    "Study 4",
+    "Study 5",
+    "Study 4",
+    "Eigen Values",
+    "Table 1",
+    "Factor Loadings and Cross-Loadings",
+    "Table 2"
+  ],
+  "top_concepts": [
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9475,
+      "frequency": 214
+    },
+    {
+      "text": "identity leadership factor",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8797,
+      "frequency": 288
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9042,
+      "frequency": 229
+    },
+    {
+      "text": "athletes identity leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.824,
+      "frequency": 232
+    },
+    {
+      "text": "social identity youth",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7897,
+      "frequency": 255
+    },
+    {
+      "text": "leadership inventory youth",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7818,
+      "frequency": 205
+    },
+    {
+      "text": "growth research identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7772,
+      "frequency": 156
+    },
+    {
+      "text": "youth sport ili",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7438,
+      "frequency": 165
+    },
+    {
+      "text": "social identification sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7935,
+      "frequency": 109
+    },
+    {
+      "text": "leadership research context",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7319,
+      "frequency": 151
+    },
+    {
+      "text": "adult sports research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7589,
+      "frequency": 91
+    },
+    {
+      "text": "youth samples scale",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7346,
+      "frequency": 100
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7159,
+      "frequency": 111
+    },
+    {
+      "text": "dimensions identity prototypicality",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6923,
+      "frequency": 125
+    },
+    {
+      "text": "affect youth athlete",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7329,
+      "frequency": 95
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7172,
+      "frequency": 103
+    },
+    {
+      "text": "study indicated ili",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6977,
+      "frequency": 111
+    },
+    {
+      "text": "2020 effective identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6833,
+      "frequency": 112
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6206,
+      "frequency": 168
+    },
+    {
+      "text": "sport development validation",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7338,
+      "frequency": 74
+    },
+    {
+      "text": "youth sports",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6402,
+      "frequency": 120
+    },
+    {
+      "text": "social exclusion players",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6943,
+      "frequency": 72
+    },
+    {
+      "text": "factor structure",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6601,
+      "frequency": 89
+    },
+    {
+      "text": "effects shared social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6911,
+      "frequency": 70
+    },
+    {
+      "text": "individual team outcomes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7437,
+      "frequency": 49
+    },
+    {
+      "text": "ILI-Y",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7222,
+      "frequency": 45
+    },
+    {
+      "text": "validity studies organisational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6864,
+      "frequency": 49
+    },
+    {
+      "text": "factor",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5926,
+      "frequency": 74
+    },
+    {
+      "text": "development cognitive emotional",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.702,
+      "frequency": 34
+    },
+    {
+      "text": "Youth",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5384,
+      "frequency": 87
+    },
+    {
+      "text": "study",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5599,
+      "frequency": 63
+    },
+    {
+      "text": "world group sense",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6682,
+      "frequency": 30
+    },
+    {
+      "text": "identity leadership factors",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3985,
+      "frequency": 227
+    },
+    {
+      "text": "associated psychological",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6891,
+      "frequency": 20
+    },
+    {
+      "text": "Youth Sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4243,
+      "frequency": 128
+    },
+    {
+      "text": "identification task cohesion",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6949,
+      "frequency": 17
+    },
+    {
+      "text": "participation vehicle positive",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6601,
+      "frequency": 18
+    },
+    {
+      "text": "leadership factor",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3807,
+      "frequency": 177
+    },
+    {
+      "text": "football united kingdom",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6273,
+      "frequency": 18
+    },
+    {
+      "text": "ILI",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4799,
+      "frequency": 37
+    },
+    {
+      "text": "identity leadership behaviours",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3104,
+      "frequency": 219
+    },
+    {
+      "text": "self efficacy",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.683,
+      "frequency": 8
+    },
+    {
+      "text": "mental health past",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6017,
+      "frequency": 11
+    },
+    {
+      "text": "youth athletes",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3296,
+      "frequency": 105
+    },
+    {
+      "text": "goals goals focused",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6668,
+      "frequency": 7
+    },
+    {
+      "text": "youth sport leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2683,
+      "frequency": 231
+    },
+    {
+      "text": "youth sports leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2683,
+      "frequency": 223
+    },
+    {
+      "text": "followers significant progress",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6734,
+      "frequency": 6
+    },
+    {
+      "text": "1987 emerged key",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5727,
+      "frequency": 9
+    },
+    {
+      "text": "Youth Sports Contexts",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2826,
+      "frequency": 125
+    }
+  ],
+  "relations": [
+    {
+      "head": "ILI Y",
+      "type": "exhibit",
+      "tail": "factor unidimensional structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "study",
+      "type": "provide",
+      "tail": "psychology researchers",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social identification",
+      "type": "have",
+      "tail": "multiple benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "youth athletes",
+      "type": "report",
+      "tail": "mental better health",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "youth athletes",
+      "type": "report",
+      "tail": "fewer symptoms",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Steffens",
+      "type": "develop",
+      "tail": "Leadership Inventory",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI",
+      "type": "have",
+      "tail": "factor dimensional consistent structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "past decade",
+      "type": "see",
+      "tail": "substantial increase",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI",
+      "type": "measure",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "second study",
+      "type": "explore",
+      "tail": "factor structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Phase III",
+      "type": "include",
+      "tail": "study",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# Results",
+      "type": "find",
+      "tail": "ILI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Seven",
+      "type": "find",
+      "tail": "ILI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Phase II",
+      "type": "involve",
+      "tail": "Phase # II",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "youth athletes",
+      "type": "understand",
+      "tail": "ILI Y",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "explore",
+      "tail": "factor structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Phase",
+      "type": "employ",
+      "tail": "methods design",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Data",
+      "type": "collect",
+      "tail": "# #",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Aim",
+      "type": "evaluate",
+      "tail": "internal consistency",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Aim",
+      "type": "assess",
+      "tail": "discriminant validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "TTQ",
+      "type": "measure",
+      "tail": "transformational leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "TTQ",
+      "type": "measure",
+      "tail": "leadership researched theory",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI Y",
+      "type": "explain",
+      "tail": "unique variance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "study participants",
+      "type": "provide",
+      "tail": "informed consent",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "TTQ",
+      "type": "develop",
+      "tail": "et al",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI Y",
+      "type": "have",
+      "tail": "factor validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "SISQ",
+      "type": "demonstrate",
+      "tail": "factor validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI Y",
+      "type": "have",
+      "tail": "criterion validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Phase III",
+      "type": "provide",
+      "tail": "robust evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "exhibit",
+      "tail": "factor unidimensional structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "adult measures",
+      "type": "exhibit",
+      "tail": "fewer dimensions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "study",
+      "type": "provide",
+      "tail": "strong support",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "situate",
+      "tail": "follower relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# # Strengths",
+      "type": "have",
+      "tail": "key strengths",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Practical Applications",
+      "type": "be",
+      "tail": "practical important implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "increase",
+      "tail": "youth athletes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "increase",
+      "tail": "social identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# Funding",
+      "type": "receive",
+      "tail": "specific grant",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "P1",
+      "type": "mean",
+      "tail": "Prototypicality item",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "fit Model CFA",
+      "type": "study</td><td",
+      "tail": "S",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "categorization theory",
+      "type": "rediscover",
+      "tail": "social group",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "younger participants",
+      "type": "understand",
+      "tail": "ILI Y",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 42,
+  "elapsed_s": 151.1
+}

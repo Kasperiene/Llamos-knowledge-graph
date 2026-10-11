@@ -1,0 +1,21 @@
+{
+  "parser": "REBEL",
+  "note": "REBEL extracts subject→relation→object triplets from text, not a PDF parser",
+  "time_seconds": 4.14,
+  "peak_ram_mb": 15.7,
+  "triplets_abstract": [
+    {
+      "subject": "Leaders",
+      "relation": "Organizations",
+      "object": "part of</s>"
+    }
+  ],
+  "triplets_intro": [
+    {
+      "subject": "CÁRDENAS et al.",
+      "relation": "2016",
+      "object": "publication date</s>"
+    }
+  ],
+  "total_triplets": 2
+}

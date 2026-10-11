@@ -1,0 +1,570 @@
+{
+  "paper_id": "Krug_et_al__-_2021_-_Identity_Leadership__Social_Identity_Co",
+  "filename": "Krug et al. - 2021 - Identity Leadership, Social Identity Continuity, a.pdf",
+  "title": "Identity Leadership, Social Identity Continuity, and Well-Being at Work During COVID-19",
+  "authors": [],
+  "doi": "10.3389/fpsyg.2021.684475",
+  "abstract": "The COVID-19 pandemic has led to widespread remote working that has posed significant challenges for people’s sense of connection to their workplace and their mental health and well-being. In the present work, we examined how leaders’ identity leadership is associated with the well-being of employees in the context of the COVID-19 pandemic. Specifically, we examined how both leaders’ and team members’ identity leadership is associated with employees’ social identity continuity, and through this with their job satisfaction, burnout and loneliness at work. Employees (N = 363) participated in a field study during the COVID-19 pandemic, completing measures of their leader’s and team members’ identity leadership (i.e., entrepreneurship and impresarioship), social identity continuity, job satisfaction, burnout, loneliness at work. Results revealed that to the extent that employees perceived greater social identity continuity, they were more satisfied with their work and felt less lonely. Furthermore, mediation analyses revealed indirect effects of team members’ identity entrepreneurship on job satisfaction and loneliness via an increase in social identity continuity. Results suggest that to foster employees’ health and well-being in times of disruption, organizations might put in place practices that allow employees to maintain a sense of ‘we-ness’ at work by involving not only formal leaders but also other members of the organization.",
+  "word_count": 7919,
+  "sections": [
+    "Identity Leadership, Social Identity Continuity, and Well-Being at Work During COVID-19",
+    "INTRODUCTION",
+    "Social Identity Continuity",
+    "Identity Entrepreneurship and Identity Impresarioship",
+    "MATERIALS AND METHODS",
+    "Sample and Data Collection",
+    "Measures",
+    "Identity Leadership by Formal Leaders and Fellow Team Members",
+    "Perceived Social Identity Continuity at Work",
+    "Job Satisfaction",
+    "Burnout",
+    "Loneliness at Work",
+    "RESULTS",
+    "Structural Models",
+    "Tests of H1",
+    "Tests of H2",
+    "Tests of H3",
+    "Controlling for Organizational Tenure",
+    "DISCUSSION",
+    "Theoretical and Practical Implications",
+    "Limitations and Future Research",
+    "CONCLUSION",
+    "DATA AVAILABILITY STATEMENT",
+    "ETHICS STATEMENT",
+    "AUTHOR CONTRIBUTIONS",
+    "APPENDIX A",
+    "Members of my team. . ."
+  ],
+  "top_concepts": [
+    {
+      "text": "Social Identity Continuity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9856,
+      "frequency": 281
+    },
+    {
+      "text": "Social Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9716,
+      "frequency": 252
+    },
+    {
+      "text": "Identity Continuity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.927,
+      "frequency": 183
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8595,
+      "frequency": 258
+    },
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9063,
+      "frequency": 192
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9349,
+      "frequency": 154
+    },
+    {
+      "text": "identity entrepreneurship",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8837,
+      "frequency": 188
+    },
+    {
+      "text": "Identity Impresarioship",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.86,
+      "frequency": 186
+    },
+    {
+      "text": "workplace social identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7733,
+      "frequency": 261
+    },
+    {
+      "text": "identity entrepreneurship team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7721,
+      "frequency": 239
+    },
+    {
+      "text": "identity impresarioship team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7682,
+      "frequency": 237
+    },
+    {
+      "text": "identity continuity health",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7819,
+      "frequency": 215
+    },
+    {
+      "text": "importance identity leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.749,
+      "frequency": 200
+    },
+    {
+      "text": "identity entrepreneurship leader",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7199,
+      "frequency": 212
+    },
+    {
+      "text": "identity impresarioship leader",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7151,
+      "frequency": 210
+    },
+    {
+      "text": "Social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7943,
+      "frequency": 98
+    },
+    {
+      "text": "impacts counteracted identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7155,
+      "frequency": 156
+    },
+    {
+      "text": "social identity model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5912,
+      "frequency": 269
+    },
+    {
+      "text": "social distancing result",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6787,
+      "frequency": 104
+    },
+    {
+      "text": "b58bc9f930d3e5fb9a73e480dce98ae004315428bacac84e24cd9f4366a973ae jpg identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.604,
+      "frequency": 154
+    },
+    {
+      "text": "burnout loneliness work",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6835,
+      "frequency": 73
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5385,
+      "frequency": 197
+    },
+    {
+      "text": "social support levine",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6037,
+      "frequency": 110
+    },
+    {
+      "text": "nk 2021 identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.539,
+      "frequency": 159
+    },
+    {
+      "text": "social cure literature",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5761,
+      "frequency": 101
+    },
+    {
+      "text": "workplace mental health",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6842,
+      "frequency": 43
+    },
+    {
+      "text": "bräscher et al",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5678,
+      "frequency": 92
+    },
+    {
+      "text": "entrepreneurship job satisfaction",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5948,
+      "frequency": 69
+    },
+    {
+      "text": "experience work related",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6385,
+      "frequency": 48
+    },
+    {
+      "text": "team community derive",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.598,
+      "frequency": 54
+    },
+    {
+      "text": "health wellbeing undermining",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6588,
+      "frequency": 35
+    },
+    {
+      "text": "knowledge effects changes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.641,
+      "frequency": 34
+    },
+    {
+      "text": "Haslam",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7516,
+      "frequency": 16
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5454,
+      "frequency": 51
+    },
+    {
+      "text": "workplace leaders play",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.617,
+      "frequency": 26
+    },
+    {
+      "text": "team members’ identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3424,
+      "frequency": 214
+    },
+    {
+      "text": "Work",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4854,
+      "frequency": 39
+    },
+    {
+      "text": "true groups",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5803,
+      "frequency": 15
+    },
+    {
+      "text": "did prior pandemic",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.619,
+      "frequency": 12
+    },
+    {
+      "text": "bans causing psychological",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6366,
+      "frequency": 11
+    },
+    {
+      "text": "team members",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3672,
+      "frequency": 73
+    },
+    {
+      "text": "frontiers psychology received",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6378,
+      "frequency": 10
+    },
+    {
+      "text": "transition retirement steffens",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6,
+      "frequency": 10
+    },
+    {
+      "text": "stresses importance",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6034,
+      "frequency": 9
+    },
+    {
+      "text": "mediation analyses revealed",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6531,
+      "frequency": 7
+    },
+    {
+      "text": "haslam sa otto",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.4623,
+      "frequency": 18
+    },
+    {
+      "text": "organization keywords covid",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7298,
+      "frequency": 4
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2893,
+      "frequency": 38
+    },
+    {
+      "text": "identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2036,
+      "frequency": 160
+    },
+    {
+      "text": "henning krug uni",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5352,
+      "frequency": 4
+    }
+  ],
+  "relations": [
+    {
+      "head": "mediation analyses",
+      "type": "reveal",
+      "tail": "indirect effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "new regulations",
+      "type": "bring",
+      "tail": "significant changes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "support",
+      "tail": "team members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Haslam",
+      "type": "see",
+      "tail": "Greenaway",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ethics local committee",
+      "type": "grant",
+      "tail": "ethical approval",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Responses",
+      "type": "make",
+      "tail": "# Loneliness",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "factor proposed model",
+      "type": "have",
+      "tail": "fit 0.001",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "alternative models",
+      "type": "yield",
+      "tail": "fit 0.001",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "confidence % bootstrapped intervals",
+      "type": "report",
+      "tail": "# Tests",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Results",
+      "type": "reveal",
+      "tail": "indirect significant effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "H2a",
+      "type": "support",
+      "tail": "# Tests",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "previous research",
+      "type": "demonstrate",
+      "tail": "positive impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "modeling results",
+      "type": "reveal",
+      "tail": "positive significant relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "future research",
+      "type": "employ",
+      "tail": "longitudinal designs",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Future research",
+      "type": "assess",
+      "tail": "team multiple membership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Future research",
+      "type": "assess",
+      "tail": "# CONCLUSION",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Requests",
+      "type": "direct",
+      "tail": "REFERENCES # Arbuckle",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity continuity",
+      "type": "protect",
+      "tail": "academic international performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "New Psychology",
+      "type": "unlock",
+      "tail": "Social Cure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CONTRIBUTIONS HK",
+      "type": "develop",
+      "tail": "study concept",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "HK",
+      "type": "perform",
+      "tail": "statistical analyses",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Belastungen psychischer Erfassung Erprobung",
+      "type": "eine",
+      "tail": "Messinstrumentes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social Multiple identities",
+      "type": "enhance",
+      "tail": "health post",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participation",
+      "type": "benefit",
+      "tail": "longitudinal data",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Categorization Theory",
+      "type": "rediscover",
+      "tail": "Social Group",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 25,
+  "elapsed_s": 65.7
+}

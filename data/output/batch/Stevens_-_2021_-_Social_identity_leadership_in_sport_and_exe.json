@@ -1,0 +1,705 @@
+{
+  "paper_id": "Stevens_-_2021_-_Social_identity_leadership_in_sport_and_exe",
+  "filename": "Stevens - 2021 - Social identity leadership in sport and exercise Current status and future directions.pdf",
+  "title": "Social Identity Leadership in Sport and Exercise: Current Status and Future Directions",
+  "authors": [],
+  "doi": "",
+  "abstract": "The social identity approach is fast becoming a prominent framework for understanding effective leadership in sport and exercise contexts. The last five years, in particular, has seen a proliferation of research informed by the identity leadership approach, with a focus on two broad outcomes: performance and health. Using these two key outcomes as an organising framework, we provide a critical narrative review of research that has examined the presence, role, and benefits of identity leadership in sport and exercise contexts, and identify fruitful avenues for future research. Applying a broader lens, we then make five key recommendations for future identity leadership research in sport and exercise contexts. Specifically, we highlight the need for research (a) using more rigorous and varied research designs, (b) using stronger measures, (c) comparing the effects of identity leadership to the effects of other types of leadership, (d) assessing further potential mediators of relationships between identity leadership and key outcomes, and (e) exploring the possible dark side of identity leadership. Key words: Identity Leadership; Social Identification; Narrative Review; Physical Activity; Performance; Health",
+  "word_count": 12466,
+  "sections": [
+    "Social Identity Leadership in Sport and Exercise: Current Status and Future Directions",
+    "Highlights",
+    "Social Identity Leadership in Sport and Exercise: Current Status and Future Directions",
+    "The Social Identity Approach to Leadership",
+    "Identity Leadership and Performance",
+    "Early Reflective Analyses and Qualitative Research",
+    "Testing Relationships—Quantitative Research",
+    "Experimental Research",
+    "Identity Leadership Intervention Programs",
+    "Future directions",
+    "Identity Leadership and Health",
+    "Participation and Effort",
+    "Athlete Health and Burnout",
+    "Future Directions",
+    "Performance and Health: Two sides of the same coin",
+    "Advancing the Field: Directions, Priorities, and Considerations for Future Research",
+    "The Need for Stronger and More Varied Research Designs",
+    "The Need for Stronger Measurement",
+    "The Need to Compare the Effects of Identity Leadership to the Effects of Other Types of Leadership",
+    "The Need to Test Additional Mediators",
+    "The Need to Explore the Possible Dark Side of Identity Leadership",
+    "Conclusion"
+  ],
+  "top_concepts": [
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9789,
+      "frequency": 449
+    },
+    {
+      "text": "identity leadership research",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.942,
+      "frequency": 531
+    },
+    {
+      "text": "identity leadership sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8327,
+      "frequency": 523
+    },
+    {
+      "text": "Social identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.823,
+      "frequency": 523
+    },
+    {
+      "text": "identity leadership approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8261,
+      "frequency": 471
+    },
+    {
+      "text": "identity leadership effects",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8038,
+      "frequency": 461
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8892,
+      "frequency": 226
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8666,
+      "frequency": 223
+    },
+    {
+      "text": "exercise contexts identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7871,
+      "frequency": 295
+    },
+    {
+      "text": "Social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7819,
+      "frequency": 297
+    },
+    {
+      "text": "research informed identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7303,
+      "frequency": 308
+    },
+    {
+      "text": "approach leadership social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.687,
+      "frequency": 322
+    },
+    {
+      "text": "related benefits identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7094,
+      "frequency": 256
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6817,
+      "frequency": 319
+    },
+    {
+      "text": "leadership effects types",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7098,
+      "frequency": 251
+    },
+    {
+      "text": "psychology sport exercise",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7666,
+      "frequency": 147
+    },
+    {
+      "text": "articulation principles identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6802,
+      "frequency": 229
+    },
+    {
+      "text": "members performance health",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7125,
+      "frequency": 138
+    },
+    {
+      "text": "strength social identification",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.713,
+      "frequency": 115
+    },
+    {
+      "text": "exercise leaders acting",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7073,
+      "frequency": 118
+    },
+    {
+      "text": "confidence team resilience",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.702,
+      "frequency": 122
+    },
+    {
+      "text": "leadership research",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5748,
+      "frequency": 308
+    },
+    {
+      "text": "research examined benefits",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6802,
+      "frequency": 121
+    },
+    {
+      "text": "distinctiveness group members",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6655,
+      "frequency": 116
+    },
+    {
+      "text": "sporting leaders articles",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7299,
+      "frequency": 74
+    },
+    {
+      "text": "exercise contexts years",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6977,
+      "frequency": 74
+    },
+    {
+      "text": "rehabilitation sport sciences",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.671,
+      "frequency": 75
+    },
+    {
+      "text": "sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6323,
+      "frequency": 74
+    },
+    {
+      "text": "categorise terms social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5993,
+      "frequency": 78
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5417,
+      "frequency": 111
+    },
+    {
+      "text": "task performance selfefficacy",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6097,
+      "frequency": 62
+    },
+    {
+      "text": "Applied Sport Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5255,
+      "frequency": 105
+    },
+    {
+      "text": "key outcomes organising",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6737,
+      "frequency": 35
+    },
+    {
+      "text": "psychology australian national",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7002,
+      "frequency": 28
+    },
+    {
+      "text": "perceived identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3355,
+      "frequency": 477
+    },
+    {
+      "text": "sport and exercise",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3144,
+      "frequency": 505
+    },
+    {
+      "text": "article stevens rees",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6259,
+      "frequency": 19
+    },
+    {
+      "text": "overviews theory applies",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6299,
+      "frequency": 13
+    },
+    {
+      "text": "Research",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3806,
+      "frequency": 82
+    },
+    {
+      "text": "Sport Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3675,
+      "frequency": 94
+    },
+    {
+      "text": "mediators relationships",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6251,
+      "frequency": 12
+    },
+    {
+      "text": "al 2020 transformational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5869,
+      "frequency": 14
+    },
+    {
+      "text": "identity leadership behaviours",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2499,
+      "frequency": 468
+    },
+    {
+      "text": "sports team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3026,
+      "frequency": 148
+    },
+    {
+      "text": "Identity Leadership Intervention",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2342,
+      "frequency": 457
+    },
+    {
+      "text": "future identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.219,
+      "frequency": 468
+    },
+    {
+      "text": "exert influence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6566,
+      "frequency": 4
+    },
+    {
+      "text": "tegan cruwys anu",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5607,
+      "frequency": 6
+    },
+    {
+      "text": "sports",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3114,
+      "frequency": 37
+    },
+    {
+      "text": "group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2092,
+      "frequency": 76
+    }
+  ],
+  "relations": [
+    {
+      "head": "Paper",
+      "type": "accept",
+      "tail": "Identity # Leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Paper",
+      "type": "accept",
+      "tail": "Research Tegan School",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Paper",
+      "type": "accept",
+      "tail": "author information",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Email",
+      "type": "trees@bournemouth.ac.uk",
+      "tail": "Tegan Cruwys",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "become",
+      "tail": "prominent framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Key words",
+      "type": "be",
+      "tail": "growing evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "related benefits",
+      "type": "include",
+      "tail": "task greater performance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "related benefits",
+      "type": "include",
+      "tail": "rated greater health",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "reflective piece",
+      "type": "use",
+      "tail": "performance director",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Slater",
+      "type": "conduct",
+      "tail": "thematic analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "successful leaders",
+      "type": "use",
+      "tail": "collective language",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Collective language",
+      "type": "cite",
+      "tail": "Steffens",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team identification",
+      "type": "mediate",
+      "tail": "increased effort",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "manipulate",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "test",
+      "tail": "adapted versions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Mertens",
+      "type": "deliver",
+      "tail": "adapted program",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Comparisons",
+      "type": "reveal",
+      "tail": "significant differences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Fransen",
+      "type": "deliver",
+      "tail": "leadership shared program",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader behaviours",
+      "type": "face",
+      "tail": "particular challenge",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "use",
+      "tail": "existing groups",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "activity Greater participation",
+      "type": "have",
+      "tail": "physiological numerous benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "greater selfesteem",
+      "type": "see",
+      "tail": "Biddle",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Stevens",
+      "type": "have",
+      "tail": "health important implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "promote",
+      "tail": "group identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "facilitate",
+      "tail": "member greater effort",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "impact",
+      "tail": "physical holistic health",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "consistent pattern",
+      "type": "provide",
+      "tail": "initial evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "exercise based programs",
+      "type": "show",
+      "tail": "promising results",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "considerable evidence",
+      "type": "demonstrate",
+      "tail": "health mental abundant benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "experience",
+      "tail": "particular benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "seem",
+      "tail": "enhanced commitment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Mertens",
+      "type": "use",
+      "tail": "analytical multilevel approaches",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "cause",
+      "tail": "positive team",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI",
+      "type": "remain",
+      "tail": "key tool",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research",
+      "type": "use",
+      "tail": "objective measures",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "experimental controlled valid studies",
+      "type": "see",
+      "tail": "Fransen",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Stevens",
+      "type": "represent",
+      "tail": "good alternative",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Fransen",
+      "type": "ask",
+      "tail": "team members",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership approach",
+      "type": "provide",
+      "tail": "superior framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "affect",
+      "tail": "key outcomes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership higher perceptions",
+      "type": "predict",
+      "tail": "increased likelihood",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "physical based activity",
+      "type": "randomize",
+      "tail": "controlled trial",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "signals trust",
+      "type": "increase",
+      "tail": "social identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "elite cyclists",
+      "type": "go",
+      "tail": "extra mile",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "new psychology",
+      "type": "unlock",
+      "tail": "social cure",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 45,
+  "elapsed_s": 126.2
+}

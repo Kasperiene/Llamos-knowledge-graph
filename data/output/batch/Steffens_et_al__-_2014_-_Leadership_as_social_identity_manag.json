@@ -1,0 +1,867 @@
+{
+  "paper_id": "Steffens_et_al__-_2014_-_Leadership_as_social_identity_manag",
+  "filename": "Steffens et al. - 2014 - Leadership as social identity management Introduc.pdf",
+  "title": "Leadership as social identity management: Introducing the Identity Leadership Inventory (ILI) to assess and validate a four-dimensional model☆",
+  "authors": [],
+  "doi": "",
+  "abstract": "Although nearly two decades of research have provided support for the social identity approach to leadership, most previous work has focused on leaders' identity prototypicality while neglecting the assessment of other equally important dimensions of social identity management. However, recent theoretical developments have argued that in order to mobilize and direct followers' energies, leaders need not only to ‘be one of us’ (identity prototypicality), but also to ‘do it for us’ (identity advancement), to ‘craft a sense of us’ (identity entrepreneurship), and to ‘embed a sense of us’ (identity impresarioship). In the present research we develop and validate an Identity Leadership Inventory (ILI) that assesses these dimensions in different contexts and with diverse samples from the US, China, and Belgium. Study 1 demonstrates that the scale has content validity such that the items meaningfully differentiate between the four dimensions. Studies 2, 3, and 4 provide evidence for the scale's construct validity (distinguishing between dimensions), discriminant validity (distinguishing identity leadership from authentic leadership, leaders' charisma, and perceived leader quality), and criterion validity (relating the ILI to key leadership outcomes). We conclude that by assessing multiple facets of leaders' social identity management the ILI has significant utility for both theory and practice. © 2014 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/3.0/). Questions of collective self and identity (e.g., “Who are we?”, “What do we stand for?”, “How will we progress?”) are at the heart of collaborative human enterprise. Not least, this is because the answers to such questions are crucial to leaders' attempts to mobilize and shape the energies of potential followers. Nevertheless, despite the readily apparent relevance of these questions to issues of leadership and followership, relatively little leadership research has placed these issues center stage and attempted to build theory around them (Akerlof, 2011; Dinh et al., 2014; Gardner, Lowe, Moss, Mahoney, & Cogliser, 2010). There are however, some notable exceptions to this observation. Most particularly, two theories that have placed issues of group process at the cornerstone of the analysis of leadership are social identity theory (Tajfel & Turner, 1979) and self-categorization theory (Turner, 1991; Turner, Hogg, Oakes, Reicher, & Wetherell, 1987; Turner, Oakes, Haslam, & McGarty, 1994) — theories which, together, comprise the social identity approach (Haslam, 2001/2004; Postmes & Branscombe, 2010; Reicher, Spears, & Haslam, 2010; Tyler & Blader, 2003). In answer to the question “who am I?”, self-categorization theory suggests that a person’s subjective sense of self can be defined at varying levels of abstraction (Turner, 1985). At one level, these definitions involve conceptions of the self as a unique individual (in terms of personal identity as ‘I’ and ‘me’; Turner, 1982), but at another they involve more inclusive definitions based on shared group memberships (in terms of social identity as ‘us’ and ‘we’). Importantly, self-categorization in terms of social identity (i.e., where the self is defined in terms of shared group membership) is argued to underpin behavior that is qualitatively distinct from that which is predicated on personal identity because it is shaped by, and oriented toward, the interests of the group as a whole. Indeed, more generally, self-categorization theory asserts that it is individuals' internalized sense of shared identity (their sense of themselves as part of ‘us’) that “makes group behavior possible” (Turner, 1982, p. 21; see also Albert & Whetten, 1985; Ashforth & Mael, 1989; Ellemers, 2012; Ellemers, Spears, & Doosje, 2002; Haslam, Postmes, & Ellemers, 2003; Hogg & Terry, 2001).",
+  "word_count": 20865,
+  "sections": [
+    "Leadership as social identity management: Introducing the Identity Leadership Inventory (ILI) to assess and validate a four-dimensional model☆",
+    "a r t i c l e i n f o",
+    "The social identity approach to leadership",
+    "Specifying multiple dimensions of identity leadership",
+    "Identity prototypicality: Being one of us",
+    "Identity advancement: Doing it for us",
+    "Identity entrepreneurship: Crafting a sense of us",
+    "Identity impresarioship: Making us matter",
+    "The present research",
+    "Study 1: Item generation and content validation",
+    "Method",
+    "Participants",
+    "Design and procedure",
+    "Analysis",
+    "Results",
+    "Discussion",
+    "Study 2: Establishing construct, discriminant, and criterion validity",
+    "Method",
+    "Participants",
+    "Design and procedure",
+    "Results",
+    "Confirmatory factor analyses with ILI items",
+    "Confirmatory factor analyses with ILI and ALQ items",
+    "Table 3",
+    "Bivariate correlations between ILI dimensions and dependent variables",
+    "Regression analyses examining criterion validity",
+    "Discussion",
+    "Study 3: Confirming construct, discriminant, and criterion validity",
+    "Method",
+    "Participants",
+    "Design and procedure",
+    "Results",
+    "Confirmatory factor analyses with ILI items",
+    "Confirmatory factor analyses with ILI and idealized influence items",
+    "Bivariate correlations between ILI dimensions and dependent variables",
+    "Discussion",
+    "Study 4: Establishing domain generalizability",
+    "Method",
+    "Participants",
+    "Design and procedure",
+    "Results",
+    "Confirmatory factor analyses with ILI items",
+    "Confirmatory factor analyses with ILI and perceived leader quality items",
+    "Regression analyses examining criterion validity",
+    "Discussion",
+    "General discussion",
+    "Theoretical and practical usefulness and implications",
+    "Limitations and future research",
+    "Conclusion",
+    "Appendix A. Identity Leadership Inventory (ILI)",
+    "Appendix B. Identity Leadership Inventory–Short Form (ILI–SF) †#"
+  ],
+  "top_concepts": [
+    {
+      "text": "identity leadership dimensions",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9467,
+      "frequency": 507
+    },
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9189,
+      "frequency": 404
+    },
+    {
+      "text": "leadership social identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8376,
+      "frequency": 527
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8868,
+      "frequency": 365
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8321,
+      "frequency": 415
+    },
+    {
+      "text": "validate identity leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8143,
+      "frequency": 409
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8386,
+      "frequency": 242
+    },
+    {
+      "text": "identity leadership dimension",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7511,
+      "frequency": 421
+    },
+    {
+      "text": "sense identity entrepreneurship",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.738,
+      "frequency": 299
+    },
+    {
+      "text": "identity approach",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7566,
+      "frequency": 258
+    },
+    {
+      "text": "social identity management",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6985,
+      "frequency": 376
+    },
+    {
+      "text": "identity prototypicality neglecting",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7308,
+      "frequency": 287
+    },
+    {
+      "text": "identity entrepreneurship",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7363,
+      "frequency": 266
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6885,
+      "frequency": 381
+    },
+    {
+      "text": "identity advancement haslam",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7206,
+      "frequency": 278
+    },
+    {
+      "text": "identity prototypicality",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6889,
+      "frequency": 286
+    },
+    {
+      "text": "important dimensions social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6972,
+      "frequency": 240
+    },
+    {
+      "text": "body leadership theory",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7294,
+      "frequency": 185
+    },
+    {
+      "text": "identity advancement",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6678,
+      "frequency": 264
+    },
+    {
+      "text": "identity impresarioship",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6671,
+      "frequency": 263
+    },
+    {
+      "text": "leader prototypicality",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.755,
+      "frequency": 134
+    },
+    {
+      "text": "little leadership research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6927,
+      "frequency": 208
+    },
+    {
+      "text": "ILI dimensions",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6923,
+      "frequency": 182
+    },
+    {
+      "text": "ILI items",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6913,
+      "frequency": 168
+    },
+    {
+      "text": "leadership questionnaire mlq",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6902,
+      "frequency": 166
+    },
+    {
+      "text": "2008 perceived leader",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7039,
+      "frequency": 128
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5601,
+      "frequency": 405
+    },
+    {
+      "text": "Social Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6505,
+      "frequency": 149
+    },
+    {
+      "text": "ILI",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7314,
+      "frequency": 79
+    },
+    {
+      "text": "group behavior provides",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6722,
+      "frequency": 99
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5895,
+      "frequency": 162
+    },
+    {
+      "text": "validity relating ili",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6103,
+      "frequency": 134
+    },
+    {
+      "text": "meaningful forms group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6391,
+      "frequency": 96
+    },
+    {
+      "text": "study demonstrates scale",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6547,
+      "frequency": 72
+    },
+    {
+      "text": "leadership dimensions",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4861,
+      "frequency": 265
+    },
+    {
+      "text": "researchers use authentic",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6766,
+      "frequency": 37
+    },
+    {
+      "text": "self categorization scale",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7017,
+      "frequency": 29
+    },
+    {
+      "text": "management recent theoretical",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.639,
+      "frequency": 40
+    },
+    {
+      "text": "330013 china psychology",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6884,
+      "frequency": 27
+    },
+    {
+      "text": "questions collective self",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6427,
+      "frequency": 23
+    },
+    {
+      "text": "faceted nature approach",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6448,
+      "frequency": 20
+    },
+    {
+      "text": "memberships terms",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5412,
+      "frequency": 24
+    },
+    {
+      "text": "Social Psychology Bulletin",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2761,
+      "frequency": 149
+    },
+    {
+      "text": "level definitions involve",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6235,
+      "frequency": 6
+    },
+    {
+      "text": "platow katrien fransen",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5199,
+      "frequency": 10
+    },
+    {
+      "text": "progress heart collaborative",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.615,
+      "frequency": 4
+    },
+    {
+      "text": "2014 handling editor",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5625,
+      "frequency": 5
+    },
+    {
+      "text": "social identity model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1669,
+      "frequency": 439
+    },
+    {
+      "text": "australia school",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5071,
+      "frequency": 5
+    },
+    {
+      "text": "c88f58335791c07ce075b5393826dd255a1002e364998ea7bae69b172c6a93ff jpg niklas",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5332,
+      "frequency": 3
+    }
+  ],
+  "relations": [
+    {
+      "head": "Studies",
+      "type": "provide",
+      "tail": "discriminant validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI",
+      "type": "have",
+      "tail": "significant utility",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership little research",
+      "type": "place",
+      "tail": "center stage",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "provide",
+      "tail": "conceptual basis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "meaningful forms",
+      "type": "provide",
+      "tail": "conceptual basis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Haslam",
+      "type": "see",
+      "tail": "et Haslam al",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "live",
+      "tail": "group membership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Refining insights",
+      "type": "see",
+      "tail": "Judge",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "remaining items",
+      "type": "show",
+      "tail": "good correspondence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "remaining items",
+      "type": "match",
+      "tail": "intended dimension",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Findings",
+      "type": "indicate",
+      "tail": "factor clear structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Discussion # # Study",
+      "type": "test",
+      "tail": "content validity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Results",
+      "type": "provide",
+      "tail": "consistent support",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI",
+      "type": "have",
+      "tail": "factor good structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ILI",
+      "type": "predict",
+      "tail": "leadership relevant outcomes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "fit indices",
+      "type": "yield",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "fit indices",
+      "type": "show",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "display",
+      "tail": "item loadings",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership inventories",
+      "type": "provide",
+      "tail": "stronger support",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CFA results",
+      "type": "provide",
+      "tail": "stronger support",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "fit indices",
+      "type": "indicate",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "show",
+      "tail": "job greater satisfaction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "distinct factors",
+      "type": "have",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership dimensions",
+      "type": "predict",
+      "tail": "job outcomes relevant satisfaction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "conduct",
+      "tail": "# Study",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CFA",
+      "type": "test",
+      "tail": "competing different models",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Model C",
+      "type": "have",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Model C",
+      "type": "have",
+      "tail": "satisfactory overall fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CFA results",
+      "type": "indicate",
+      "tail": "better fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Models D",
+      "type": "have",
+      "tail": "poor fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Model F",
+      "type": "have",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity dimensions",
+      "type": "show",
+      "tail": "weak relationships",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Studies",
+      "type": "provide",
+      "tail": "solid evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Studies",
+      "type": "provide",
+      "tail": "# Study",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "perceive",
+      "tail": "athlete leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "communicate",
+      "tail": "team confidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "provide",
+      "tail": "demographic data",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "provide",
+      "tail": "factor analyses",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Models B",
+      "type": "show",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Model C",
+      "type": "show",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "display",
+      "tail": "item standardized loadings",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Model F",
+      "type": "have",
+      "tail": "overall fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Model F",
+      "type": "have",
+      "tail": "best fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# Regression",
+      "type": "analyse",
+      "tail": "displays intercorrelations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Study",
+      "type": "provide",
+      "tail": "additional tests",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "factor model",
+      "type": "have",
+      "tail": "satisfactory fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "dimensions",
+      "type": "show",
+      "tail": "weak relationships",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity prototypicality",
+      "type": "predict",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity advancement",
+      "type": "predict",
+      "tail": "job satisfaction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team confidence",
+      "type": "predict",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity entrepreneurship",
+      "type": "predict",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity impresarioship",
+      "type": "predict",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Theoretical usefulness",
+      "type": "advance",
+      "tail": "theoretical understanding",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present research",
+      "type": "advance",
+      "tail": "theoretical understanding",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "involve",
+      "tail": "additional elements",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present inventory",
+      "type": "use",
+      "tail": "# Limitations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "future research",
+      "type": "refine",
+      "tail": "ILI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership dimensions",
+      "type": "exert",
+      "tail": "interactive effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "future research",
+      "type": "investigate",
+      "tail": "developmental aspects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "method common bias",
+      "type": "provide",
+      "tail": "conservative test",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# Conclusion",
+      "type": "stimulate",
+      "tail": "important surge",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "stimulate",
+      "tail": "important surge",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group representations",
+      "type": "serve",
+      "tail": "social change",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "In‐group reassurance",
+      "type": "produce",
+      "tail": "lower levels",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 64,
+  "elapsed_s": 133.2
+}

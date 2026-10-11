@@ -1,0 +1,660 @@
+{
+  "paper_id": "Fransen_et_al__-_2020_-_The_impact_of_identity_leadership_on",
+  "filename": "Fransen et al. - 2020 - The impact of identity leadership on team function.pdf",
+  "title": "The impact of identity leadership on team functioning and well-being in team sport: Is psychological safety the missing link?",
+  "authors": [],
+  "doi": "",
+  "abstract": "The purpose of this study was to investigate the role of psychological safety in explaining the impact of identity leadership on team performance and athlete well-being. Adopting a cross-sectional survey design, 289 handball players rated the identity leadership skills of their coach, their captain, and the informal leaders in the team, as well as various performance- and well-being-related measures. Structural equation modelling (controlling for the nested structure of our data) revealed that by demonstrating identity leadership, coaches, captains, and in particular informal athlete leaders, all had a unique contribution in strengthening their team members’ identification with their team. By this shared sense of ‘us’, athletes felt psychologically safe in their team to speak up, provide input, and take risks. In line with our hypotheses, this sense of psychological safety acted as a mediator between identity leadership and two subsequent pathways: (1) a team-oriented pathway in which psychological safety inspired good teamwork, which fostered team resilience and, in turn, enhanced athletes’ satisfaction with their team’s performance; and (2) an individual-oriented pathway wherein psychological safety buffered against athletes’ burnout, thereby enhancing their health. In addition to these pathways mediated by psychological safety, the informal leaders directly influenced the performance pathway (with total effect sizes being 10 times larger than those of coaches and team captains), whereas coaches had a direct influence on the health pathway (with total effect sizes being three times larger than those of informal leaders and captains). Given the oftenunderestimated importance of the informal leaders, sport teams can be recommended to adopt a structure of shared leadership in which team members are encouraged to engage in identity leadership. In conclusion, we found that by nurturing a shared sense of ‘we’ and ‘us’ within the team, leaders are able to foster a psychologically safe environment, which in turn paves the way for an optimal team functioning and a healthier team.",
+  "word_count": 10737,
+  "sections": [
+    "The impact of identity leadership on team functioning and well-being in team sport: Is psychological safety the missing link?",
+    "A R T I C L E I N F O",
+    "1. Introduction",
+    "1.1. The construct of psychological safety",
+    "1.2. The mediating role of psychological safety",
+    "1.3. The present study",
+    "2. Methods",
+    "2.1. Participants",
+    "2.2. Study measures",
+    "2.3. Procedure",
+    "2.4. Data analysis",
+    "3. Results",
+    "4. Discussion",
+    "4.1. Aim 1 – Coaches vs. Team Captains vs. Informal Athlete leaders",
+    "4.2. Aim 1 – Coaches vs. Team Captains vs. Informal Athlete leaders",
+    "4.3. Aim 3 – Team Identification and Athlete Well-Being",
+    "4.4. Aim 4 – The Mediating Role of Psychological Safety",
+    "The Mediating Role of Psychological Safety",
+    "4.5. Limitations and future research directions",
+    "4.6. Practical implications",
+    "5. Conclusion",
+    "CRediT authorship contribution statement",
+    "Declaration of competing interest",
+    "Acknowledgements",
+    "Appendix A. Supplementary data",
+    "Further reading"
+  ],
+  "top_concepts": [
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9242,
+      "frequency": 187
+    },
+    {
+      "text": "team identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8679,
+      "frequency": 232
+    },
+    {
+      "text": "team sport psychological",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8179,
+      "frequency": 319
+    },
+    {
+      "text": "team social identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7751,
+      "frequency": 288
+    },
+    {
+      "text": "psychological safety",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8795,
+      "frequency": 136
+    },
+    {
+      "text": "fostered team resilience",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7922,
+      "frequency": 205
+    },
+    {
+      "text": "team sport athletes",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7487,
+      "frequency": 254
+    },
+    {
+      "text": "informal leaders team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7043,
+      "frequency": 280
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8079,
+      "frequency": 131
+    },
+    {
+      "text": "athlete leadership health",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8009,
+      "frequency": 131
+    },
+    {
+      "text": "informal athlete leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7827,
+      "frequency": 139
+    },
+    {
+      "text": "team key differences",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7299,
+      "frequency": 196
+    },
+    {
+      "text": "team oriented pathway",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7242,
+      "frequency": 195
+    },
+    {
+      "text": "team cohesion defined",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7105,
+      "frequency": 192
+    },
+    {
+      "text": "identity leadership conclusion",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.733,
+      "frequency": 132
+    },
+    {
+      "text": "identification team fransen",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6406,
+      "frequency": 239
+    },
+    {
+      "text": "vulnerabilities benefit team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6647,
+      "frequency": 194
+    },
+    {
+      "text": "team resilience",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6503,
+      "frequency": 204
+    },
+    {
+      "text": "psychological safety trust",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6912,
+      "frequency": 139
+    },
+    {
+      "text": "leadership performance shared",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.72,
+      "frequency": 107
+    },
+    {
+      "text": "athletes’ team identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5633,
+      "frequency": 269
+    },
+    {
+      "text": "team sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5733,
+      "frequency": 238
+    },
+    {
+      "text": "Team Psychological Safety",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5286,
+      "frequency": 323
+    },
+    {
+      "text": "team performance",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5623,
+      "frequency": 208
+    },
+    {
+      "text": "team members",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5332,
+      "frequency": 206
+    },
+    {
+      "text": "performance related outcomes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6741,
+      "frequency": 43
+    },
+    {
+      "text": "influence health pathway",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6756,
+      "frequency": 38
+    },
+    {
+      "text": "safety missing link",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5892,
+      "frequency": 60
+    },
+    {
+      "text": "outcomes athletes identified",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7517,
+      "frequency": 23
+    },
+    {
+      "text": "sport teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5733,
+      "frequency": 65
+    },
+    {
+      "text": "social cure organisational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6429,
+      "frequency": 40
+    },
+    {
+      "text": "shared team identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4233,
+      "frequency": 282
+    },
+    {
+      "text": "psychological",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5351,
+      "frequency": 81
+    },
+    {
+      "text": "abstract purpose study",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6594,
+      "frequency": 31
+    },
+    {
+      "text": "athlete leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4763,
+      "frequency": 100
+    },
+    {
+      "text": "sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5476,
+      "frequency": 51
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.522,
+      "frequency": 61
+    },
+    {
+      "text": "structural equation",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6484,
+      "frequency": 20
+    },
+    {
+      "text": "resilience",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.665,
+      "frequency": 17
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4442,
+      "frequency": 70
+    },
+    {
+      "text": "handball players",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6247,
+      "frequency": 15
+    },
+    {
+      "text": "discourages interpersonal risk",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.667,
+      "frequency": 12
+    },
+    {
+      "text": "informal athlete",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3922,
+      "frequency": 85
+    },
+    {
+      "text": "risks line hypotheses",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6214,
+      "frequency": 14
+    },
+    {
+      "text": "safety",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4065,
+      "frequency": 55
+    },
+    {
+      "text": "team identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.285,
+      "frequency": 257
+    },
+    {
+      "text": "empowerment hand involves",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5951,
+      "frequency": 7
+    },
+    {
+      "text": "2016 levels attendence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6286,
+      "frequency": 4
+    },
+    {
+      "text": "professional australian",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5587,
+      "frequency": 4
+    },
+    {
+      "text": "nottingham trent university",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5514,
+      "frequency": 4
+    }
+  ],
+  "relations": [
+    {
+      "head": "handball players",
+      "type": "rate",
+      "tail": "leadership skills",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "psychological safety",
+      "type": "inspire",
+      "tail": "good teamwork",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "informal leaders",
+      "type": "influence",
+      "tail": "performance pathway",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "share",
+      "tail": "social identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "strengthen",
+      "tail": "identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "safe environment",
+      "type": "foster",
+      "tail": "team",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Different studies",
+      "type": "evidence",
+      "tail": "Fransen",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "provide",
+      "tail": "additional insights",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team shared identity",
+      "type": "promote",
+      "tail": "based attraction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "safety",
+      "type": "predict",
+      "tail": "oriented measures",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "psychological safety",
+      "type": "have",
+      "tail": "significant potential",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "athlete informal leaders",
+      "type": "have",
+      "tail": "strongest impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "McEwan",
+      "type": "add",
+      "tail": "direct effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "hypothesised model",
+      "type": "bring",
+      "tail": "expected different relationships",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "include",
+      "tail": "handball teams",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "final sample",
+      "type": "include",
+      "tail": "handball teams",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Participants",
+      "type": "complete",
+      "tail": "Safety item questionnaire",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Higher scores",
+      "type": "indicate",
+      "tail": "perceived sense",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Higher scores",
+      "type": "indicate",
+      "tail": "greater perceptions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Higher scores",
+      "type": "indicate",
+      "tail": "team greater resilience",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "higher scores",
+      "type": "suggest",
+      "tail": "team lower resilience",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Data analysis",
+      "type": "perform",
+      "tail": "Equation Modelling",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "square $",
+      "type": "imply",
+      "tail": "good fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Equation Modelling",
+      "type": "reveal",
+      "tail": "inadequate fit",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "present",
+      "tail": "indirect standardized effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Performance",
+      "type": "satisfaction</td></tr><tr><td",
+      "tail": "Team Note",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "resulting model",
+      "type": "highlight",
+      "tail": "direct additional pathways",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "direct second link",
+      "type": "reflect",
+      "tail": "direct influence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Team Identification",
+      "type": "yield",
+      "tail": "important benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team strong identity",
+      "type": "yield",
+      "tail": "important benefits",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identifying athletes",
+      "type": "report",
+      "tail": "improved team",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "future research",
+      "type": "adopt",
+      "tail": "longitudinal designs",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Future research",
+      "type": "use",
+      "tail": "objective measures",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "demonstrate",
+      "tail": "better teamwork",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "informal leadership",
+      "type": "have",
+      "tail": "total largest effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "athlete informal leaders",
+      "type": "give",
+      "tail": "necessary voice",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "elite cyclists",
+      "type": "go",
+      "tail": "extra mile",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "new psychology",
+      "type": "unlock",
+      "tail": "social cure",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 38,
+  "elapsed_s": 63.8
+}

@@ -1,0 +1,696 @@
+{
+  "paper_id": "C_rdenas_et_al__-_Boosting_school_staff_well-being_and_engag",
+  "filename": "Cárdenas et al. - Boosting school staff well-being and engagement th.pdf",
+  "title": "Boosting school staff well-being and engagement through identity leadership: The mediating role of organizational climate",
+  "authors": [
+    "Diana Cárdenas",
+    "Bethany Reid",
+    "Haochen Zhou",
+    "Katherine J. Reynolds"
+  ],
+  "doi": "",
+  "abstract": "Organizations and their leaders are recognized as key players in staff well-being and engagement but there is limited longitudinal research with large samples. Moreover, it is not clear how specifically leader behaviour impacts on wellbeing. Based on the social identity approach, we argue that school leaders who are capable of crafting and clarifying what it means to be an organizational member while actively representing the groups' interests—an identity leader—will be able to foster a positive school climate. In turn, this positive climate should result in a range of positive outcomes for school staff members, including better well-being and engagement in their work. Using a longitudinal survey of over 6000 school staff, we found support for our hypothesis: school staff members who perceived their school leaders as being identity leaders perceived a more positive school climate 1 year later, which, in turn, predicted higher levels of well-being (lower burnout, lower stress and higher self-esteem) and engagement in school outcomes (higher organizational commitment, team morale and professional development). Overall, these results underline the key role that school identity leaders play in crafting positive working environments and outcomes for staff members.",
+  "word_count": 11039,
+  "sections": [
+    "Boosting school staff well-being and engagement through identity leadership: The mediating role of organizational climate",
+    "K E Y W O R D S",
+    "Leadership and its impact on followers",
+    "Identity leadership: A group approach to school leadership",
+    "Why identity leaders influence followers: Organizational climate",
+    "Current study and hypotheses",
+    "METHOD",
+    "Participants and procedure",
+    "Measures",
+    "Identity leadership",
+    "Organizational or school climate",
+    "Well-being",
+    "Engagement in organizational outcomes",
+    "Covariates",
+    "Data analyses",
+    "RESULTS",
+    "Data cleaning and descriptive analyses",
+    "Hierarchical multilevel models",
+    "Well-being",
+    "Organizational engagement",
+    "DISCUSSION",
+    "Strengths and limitations",
+    "CONCLUSION",
+    "AUTHOR CONTRIBUTIONS",
+    "ACKNOWLEDGEMENTS",
+    "CONFLICT OF INTEREST STATEMENT",
+    "DATA AVAILABILITY STATEMENT",
+    "ORCID",
+    "SUPPORTING INFORMATION"
+  ],
+  "top_concepts": [
+    {
+      "text": "school identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9042,
+      "frequency": 383
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9566,
+      "frequency": 265
+    },
+    {
+      "text": "Identity leadership Wave",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.87,
+      "frequency": 348
+    },
+    {
+      "text": "school climate",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8827,
+      "frequency": 223
+    },
+    {
+      "text": "school identity leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8185,
+      "frequency": 282
+    },
+    {
+      "text": "organizational school climate",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7814,
+      "frequency": 314
+    },
+    {
+      "text": "organizational climate",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8439,
+      "frequency": 196
+    },
+    {
+      "text": "school leaders identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7673,
+      "frequency": 282
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8206,
+      "frequency": 143
+    },
+    {
+      "text": "staff engagement identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7487,
+      "frequency": 206
+    },
+    {
+      "text": "leadership staff mental",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7265,
+      "frequency": 192
+    },
+    {
+      "text": "engagement school outcomes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7324,
+      "frequency": 181
+    },
+    {
+      "text": "leadership engagement review",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7133,
+      "frequency": 196
+    },
+    {
+      "text": "boosting school staff",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7268,
+      "frequency": 164
+    },
+    {
+      "text": "perceived positive school",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7365,
+      "frequency": 147
+    },
+    {
+      "text": "positive association leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.712,
+      "frequency": 169
+    },
+    {
+      "text": "school identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6543,
+      "frequency": 240
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7304,
+      "frequency": 122
+    },
+    {
+      "text": "conceptualizations leadership harms",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7013,
+      "frequency": 146
+    },
+    {
+      "text": "positive climate result",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6884,
+      "frequency": 128
+    },
+    {
+      "text": "mediating role organizational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.708,
+      "frequency": 110
+    },
+    {
+      "text": "gained social identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.655,
+      "frequency": 159
+    },
+    {
+      "text": "Wave",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7386,
+      "frequency": 83
+    },
+    {
+      "text": "identity leadership model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5771,
+      "frequency": 291
+    },
+    {
+      "text": "support hypothesis school",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6619,
+      "frequency": 127
+    },
+    {
+      "text": "school",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6652,
+      "frequency": 118
+    },
+    {
+      "text": "emotional exhaustion school",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6358,
+      "frequency": 134
+    },
+    {
+      "text": "leadership School identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5211,
+      "frequency": 383
+    },
+    {
+      "text": "Identity leadership School",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5211,
+      "frequency": 383
+    },
+    {
+      "text": "team morale research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7091,
+      "frequency": 62
+    },
+    {
+      "text": "environments outcomes staff",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6855,
+      "frequency": 70
+    },
+    {
+      "text": "organizational",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6424,
+      "frequency": 91
+    },
+    {
+      "text": "positive school climate",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5255,
+      "frequency": 244
+    },
+    {
+      "text": "identity leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5517,
+      "frequency": 164
+    },
+    {
+      "text": "members keywords burnout",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6353,
+      "frequency": 59
+    },
+    {
+      "text": "climate",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5509,
+      "frequency": 105
+    },
+    {
+      "text": "research focused transformational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.651,
+      "frequency": 43
+    },
+    {
+      "text": "dyrbye et al",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.541,
+      "frequency": 68
+    },
+    {
+      "text": "using year longitudinal",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5788,
+      "frequency": 31
+    },
+    {
+      "text": "research cross sectional",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5934,
+      "frequency": 25
+    },
+    {
+      "text": "impacts wellbeing based",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7619,
+      "frequency": 10
+    },
+    {
+      "text": "followers mental",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6167,
+      "frequency": 10
+    },
+    {
+      "text": "education key factor",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6389,
+      "frequency": 9
+    },
+    {
+      "text": "identity leadership predicted",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2451,
+      "frequency": 284
+    },
+    {
+      "text": "organizational engagement Wave",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2516,
+      "frequency": 214
+    },
+    {
+      "text": "university melbourne",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.563,
+      "frequency": 8
+    },
+    {
+      "text": "model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2841,
+      "frequency": 26
+    },
+    {
+      "text": "involvement self esteem",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6641,
+      "frequency": 2
+    },
+    {
+      "text": "reid haochen zhou",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.4718,
+      "frequency": 4
+    },
+    {
+      "text": "organizational engagement",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.172,
+      "frequency": 131
+    }
+  ],
+  "relations": [
+    {
+      "head": "staff members",
+      "type": "perceive",
+      "tail": "school positive climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "emerging syntheses",
+      "type": "demonstrate",
+      "tail": "consistent association",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "promote",
+      "tail": "employee better outcomes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leaders",
+      "type": "create",
+      "tail": "organizational positive climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Kuoppala",
+      "type": "find",
+      "tail": "positive association",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Montano",
+      "type": "find",
+      "tail": "positive association",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group processes",
+      "type": "have",
+      "tail": "important implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leaders",
+      "type": "champion",
+      "tail": "school",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leaders",
+      "type": "create",
+      "tail": "work environment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity perceived leadership",
+      "type": "foster",
+      "tail": "school positive climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "higher scores",
+      "type": "represent",
+      "tail": "greater presence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "outcome variable",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "school climate",
+      "type": "predict",
+      "tail": "outcome variable",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "final model",
+      "type": "test",
+      "tail": "H2",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "FIML",
+      "type": "use",
+      "tail": "available data",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity leadership",
+      "type": "have",
+      "tail": "high ICCs",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "show",
+      "tail": "fit statistics",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Model 1c",
+      "type": "test",
+      "tail": "H1",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "burnout lower disengagement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "School climate",
+      "type": "predict",
+      "tail": "school higher climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "school higher climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "school climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "engagement Table",
+      "type": "compare",
+      "tail": "Models",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "higher levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "professional development",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Table",
+      "type": "show",
+      "tail": "mediation model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "school climate",
+      "type": "predict",
+      "tail": "school greater climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "climate predicts",
+      "type": "outcome",
+      "tail": "predicts 3b org",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "mediation models",
+      "type": "colspan=\"2\">stress</td><td",
+      "tail": "SE",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "climate L1",
+      "type": "outcome",
+      "tail": "Identity tailed leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Figure",
+      "type": "report",
+      "tail": "school positive climate",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Indirect effect",
+      "type": "srmr",
+      "tail": "N</td><td Abbreviations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Chi square",
+      "type": "srmr",
+      "tail": "N</td><td Abbreviations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "individual perceptions",
+      "type": "predict",
+      "tail": "individual changes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "organizational staff",
+      "type": "experience",
+      "tail": "work environment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current results",
+      "type": "suggest",
+      "tail": "# Strengths",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "shared methods",
+      "type": "bias",
+      "tail": "statistical relationships",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "future research",
+      "type": "examine",
+      "tail": "new staff",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "License",
+      "type": "fail",
+      "tail": "Goal definition",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity intervention",
+      "type": "improve",
+      "tail": "mental health",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group membership",
+      "type": "improve",
+      "tail": "mental health",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leaders",
+      "type": "enhance",
+      "tail": "work engagement",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 42,
+  "elapsed_s": 113.8
+}

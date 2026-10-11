@@ -1,0 +1,557 @@
+{
+  "paper_id": "Mertens_-_2020_-_Leading_together_towards_a_stronger__us__An",
+  "filename": "Mertens - 2020 - Leading together towards a stronger 'us' An experimental test of the effectiveness of the 5R Shared Lea.pdf",
+  "title": "",
+  "authors": [],
+  "doi": "10.1016/j.jsams.2020.01.010",
+  "abstract": "Objectives. Leadership has been suggested to be a key factor in gaining a competitive advantage as a team, with shared leadership being a better predictor of team functioning than vertical leadership. Although the benefits of shared leadership are well-documented, evidence about how to implement a shared leadership structure remains sparse. This leaves coaches with three key challenges: (1) identifying the best leaders; (2) defining what roles those leaders should fulfill; and (3) developing their leadership skills. Solutions to these challenges have been proposed in the 5R Shared Leadership Program (5RS ) — a leadership development program that seeks to implement an effective structure of shared leadership within sports teams. Design. To test the effectiveness of $5 \\mathrm { R ^ { s } }$ program, we conducted an experimental-comparison group intervention in which eight national-level basketball teams $( N = 9 6 )$ completed a questionnaire at two points in time (i.e., pre- and posttest). The teams in the intervention condition completed the $5 \\mathrm { R ^ { s } }$ program, in which we identified the leadership structure in their teams (through Shared Leadership Mapping), appointed the best leaders in their leadership role, and then developed their identity leadership skills. Results. The results revealed that the $5 \\mathrm { R ^ { s } }$ program was successful in strengthening athlete leaders’ identity leadership skills, and as a result also team members’ identification with their team. Furthermore, in contrast to athletes in the comparison condition, athletes in the $5 \\mathrm { R ^ { s } }$ condition were able to maintain their levels of intrinsic motivation and commitment to team goals, while also reporting improved well-being. Conclusions. The present study provides encouraging evidence that, by implementing a structure of shared leadership and by promoting athlete leaders’ identity leadership skills, the $5 \\mathrm { R ^ { s } }$ program is able to improve the team’s functioning and the well-being of its members.",
+  "word_count": 6158,
+  "sections": [
+    "Authors list:",
+    "Practical Implications",
+    "Introduction",
+    "Methods",
+    "Results",
+    "Discussion",
+    "Conclusion"
+  ],
+  "top_concepts": [
+    {
+      "text": "shared leadership program",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9191,
+      "frequency": 173
+    },
+    {
+      "text": "shared leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9117,
+      "frequency": 137
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8857,
+      "frequency": 133
+    },
+    {
+      "text": "shared team identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8303,
+      "frequency": 165
+    },
+    {
+      "text": "teams shared leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8235,
+      "frequency": 165
+    },
+    {
+      "text": "5r shared leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8121,
+      "frequency": 147
+    },
+    {
+      "text": "identity leadership skills",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7952,
+      "frequency": 141
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7943,
+      "frequency": 125
+    },
+    {
+      "text": "sports leadership research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8007,
+      "frequency": 116
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8323,
+      "frequency": 89
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8467,
+      "frequency": 73
+    },
+    {
+      "text": "leadership development program",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7209,
+      "frequency": 131
+    },
+    {
+      "text": "leadership skills results",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7439,
+      "frequency": 107
+    },
+    {
+      "text": "higher team confidence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7566,
+      "frequency": 89
+    },
+    {
+      "text": "Shared Leadership Mapping",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6792,
+      "frequency": 140
+    },
+    {
+      "text": "vertical leadership benefits",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7275,
+      "frequency": 95
+    },
+    {
+      "text": "leadership better predictor",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7159,
+      "frequency": 97
+    },
+    {
+      "text": "research established shared",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7137,
+      "frequency": 67
+    },
+    {
+      "text": "5rs program effectiveness",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7007,
+      "frequency": 69
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6424,
+      "frequency": 81
+    },
+    {
+      "text": "leadership program",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5819,
+      "frequency": 125
+    },
+    {
+      "text": "experimental comparison group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6913,
+      "frequency": 53
+    },
+    {
+      "text": "level basketball teams",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7222,
+      "frequency": 42
+    },
+    {
+      "text": "goals athletes comparison",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.687,
+      "frequency": 47
+    },
+    {
+      "text": "Social Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6062,
+      "frequency": 77
+    },
+    {
+      "text": "help coaches implement",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7327,
+      "frequency": 28
+    },
+    {
+      "text": "group intervention national",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6857,
+      "frequency": 34
+    },
+    {
+      "text": "study investigated basketball",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7189,
+      "frequency": 27
+    },
+    {
+      "text": "Athlete leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4799,
+      "frequency": 117
+    },
+    {
+      "text": "helped athletes remain",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6983,
+      "frequency": 22
+    },
+    {
+      "text": "aim current study",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6673,
+      "frequency": 25
+    },
+    {
+      "text": "teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6369,
+      "frequency": 28
+    },
+    {
+      "text": "network perceived best",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6489,
+      "frequency": 21
+    },
+    {
+      "text": "implementing effective structure",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6898,
+      "frequency": 16
+    },
+    {
+      "text": "apply principle sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6606,
+      "frequency": 17
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4836,
+      "frequency": 44
+    },
+    {
+      "text": "shared",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4543,
+      "frequency": 48
+    },
+    {
+      "text": "team confidence",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.395,
+      "frequency": 85
+    },
+    {
+      "text": "sports teams",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4066,
+      "frequency": 38
+    },
+    {
+      "text": "leaders’ identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.299,
+      "frequency": 139
+    },
+    {
+      "text": "nature role according",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6084,
+      "frequency": 8
+    },
+    {
+      "text": "program",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3835,
+      "frequency": 36
+    },
+    {
+      "text": "belgium school psychology",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6311,
+      "frequency": 7
+    },
+    {
+      "text": "athlete leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3129,
+      "frequency": 59
+    },
+    {
+      "text": "author niels mertens",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5607,
+      "frequency": 7
+    },
+    {
+      "text": "leadership skills",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2645,
+      "frequency": 97
+    },
+    {
+      "text": "movement sciences ku",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6194,
+      "frequency": 5
+    },
+    {
+      "text": "away training camps",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6123,
+      "frequency": 4
+    },
+    {
+      "text": "stronger",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6284,
+      "frequency": 3
+    },
+    {
+      "text": "Social Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1701,
+      "frequency": 166
+    }
+  ],
+  "relations": [
+    {
+      "head": "teams",
+      "type": "complete",
+      "tail": "program",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "complete",
+      "tail": "Results",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "provide",
+      "tail": "encouraging evidence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Team",
+      "type": "function",
+      "tail": "Practical Implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "shared leadership",
+      "type": "constitute",
+      "tail": "better predictor",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "athlete leaders",
+      "type": "improve",
+      "tail": "leadership skills",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present program",
+      "type": "use",
+      "tail": "Leadership Shared Mapping",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "network analysis",
+      "type": "place",
+      "tail": "entire group",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Fransen",
+      "type": "identify",
+      "tail": "leadership distinct roles",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team captains",
+      "type": "meet",
+      "tail": "high expectations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "report",
+      "tail": "greater identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "different players",
+      "type": "occupy",
+      "tail": "leadership roles",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current study",
+      "type": "investigate",
+      "tail": "basketball teams",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team",
+      "type": "complete",
+      "tail": "data collection",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Burnout",
+      "type": "assess",
+      "tail": "example item",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Future research",
+      "type": "use",
+      "tail": "frequent measures",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team members",
+      "type": "experience",
+      "tail": "improved health",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "report",
+      "tail": "higher levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "show",
+      "tail": "baseline higher values",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "teams",
+      "type": "show",
+      "tail": "6 1",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "present study",
+      "type": "provide",
+      "tail": "preliminary insights",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "best timing",
+      "type": "implement",
+      "tail": "program",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Stirling",
+      "type": "handbook",
+      "tail": "ICSIS",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Conference",
+      "type": "handbook",
+      "tail": "ICSIS",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "new psychology",
+      "type": "unlock",
+      "tail": "social cure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Haslam SA",
+      "type": "apply",
+      "tail": "mental public health",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 26,
+  "elapsed_s": 69.3
+}

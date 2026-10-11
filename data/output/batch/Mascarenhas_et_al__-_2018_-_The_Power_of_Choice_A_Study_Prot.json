@@ -1,0 +1,578 @@
+{
+  "paper_id": "Mascarenhas_et_al__-_2018_-_The_Power_of_Choice_A_Study_Prot",
+  "filename": "Mascarenhas et al. - 2018 - The Power of Choice A Study Protocol on How Ident.pdf",
+  "title": "The Power of Choice: A Study Protocol on How Identity Leadership Fosters Commitment Toward the Organization",
+  "authors": [
+    "FIGURE 1",
+    "Hypothesized model."
+  ],
+  "doi": "10.3389/fpsyg.2018.01677",
+  "abstract": "Identity leadership (IL) describes that the effectiveness of a leader will depend upon his capacity to represent a given group, to make the group go forward, to create a group identity, and to make the group matter. An identity leader may increase commitment among his followers by increasing the perception of shared identity and giving more weight in the decision process to his followers. We aim to explore the mechanisms through which a leader who creates a shared group identity can increase organizational commitment. In the first study, we plan to conduct a cross-cultural correlational study where we aim to test if the relationship between IL and organizational commitment is mediated by team identification and mediated-moderated by participation in decision making (PDM) and collective efficacy. In the second study, we aim to explore the direction of the causality between IL and PDM. To test this hypothesis, we will conduct an experimental study in which (1) we will manipulate IL to test its influence on the perception of PDM and (2) we will manipulate PDM to test its influence on the perception of IL. Thus, we will be able to identify the role of IL and the perception of PDM on organizational commitment.",
+  "word_count": 9039,
+  "sections": [
+    "The Power of Choice: A Study Protocol on How Identity Leadership Fosters Commitment Toward the Organization",
+    "Citation:",
+    "INTRODUCTION",
+    "Identity Leadership",
+    "Team Identification",
+    "Participation in Decision Making",
+    "Collective Efficacy",
+    "Culture",
+    "Aims and Hypotheses",
+    "STUDY 1",
+    "Method",
+    "Participants",
+    "Measures",
+    "Leadership",
+    "Organizational commitment",
+    "Team identification",
+    "Participation in Decision Making",
+    "Collective efficacy",
+    "Socio-demographic information",
+    "Procedure",
+    "Planned Analysis",
+    "Differences between groups",
+    "Anticipated Results",
+    "Anticipated Limitations",
+    "STUDY 2",
+    "Overview",
+    "Method",
+    "Participants",
+    "Materials and Procedure",
+    "Planned Analysis",
+    "Identity leadership",
+    "Participation in decision making",
+    "Anticipated Results",
+    "Anticipated Limitations",
+    "CONCLUSION",
+    "ETHICS STATEMENT",
+    "AUTHOR CONTRIBUTIONS",
+    "FUNDING",
+    "ACKNOWLEDGMENTS"
+  ],
+  "top_concepts": [
+    {
+      "text": "organizational commitment",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8839,
+      "frequency": 73
+    },
+    {
+      "text": "identity theory leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7853,
+      "frequency": 106
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8226,
+      "frequency": 81
+    },
+    {
+      "text": "social identity theory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7458,
+      "frequency": 94
+    },
+    {
+      "text": "PDM",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9,
+      "frequency": 39
+    },
+    {
+      "text": "leader",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8213,
+      "frequency": 55
+    },
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7286,
+      "frequency": 93
+    },
+    {
+      "text": "organizational commitment study",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7063,
+      "frequency": 101
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.79,
+      "frequency": 52
+    },
+    {
+      "text": "commitment keywords identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7087,
+      "frequency": 82
+    },
+    {
+      "text": "group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7595,
+      "frequency": 47
+    },
+    {
+      "text": "il test influence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6113,
+      "frequency": 99
+    },
+    {
+      "text": "effectiveness leader depend",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6685,
+      "frequency": 57
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7099,
+      "frequency": 41
+    },
+    {
+      "text": "choice study protocol",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7489,
+      "frequency": 31
+    },
+    {
+      "text": "decision making collective",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6516,
+      "frequency": 49
+    },
+    {
+      "text": "efficacy team identification",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6501,
+      "frequency": 47
+    },
+    {
+      "text": "Commitment",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7019,
+      "frequency": 30
+    },
+    {
+      "text": "fosters commitment",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6639,
+      "frequency": 33
+    },
+    {
+      "text": "organizational",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6104,
+      "frequency": 43
+    },
+    {
+      "text": "research psychology theorizes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6767,
+      "frequency": 28
+    },
+    {
+      "text": "vision group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5776,
+      "frequency": 49
+    },
+    {
+      "text": "haslam 2013 identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5437,
+      "frequency": 54
+    },
+    {
+      "text": "relationship",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5889,
+      "frequency": 39
+    },
+    {
+      "text": "decision making",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5643,
+      "frequency": 39
+    },
+    {
+      "text": "Study",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5831,
+      "frequency": 28
+    },
+    {
+      "text": "followers support personal",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5947,
+      "frequency": 25
+    },
+    {
+      "text": "psychology maastricht university",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6238,
+      "frequency": 18
+    },
+    {
+      "text": "shared identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4042,
+      "frequency": 74
+    },
+    {
+      "text": "team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5019,
+      "frequency": 27
+    },
+    {
+      "text": "influence dyadic bond",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6354,
+      "frequency": 11
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3405,
+      "frequency": 103
+    },
+    {
+      "text": "prototypicality refers ideal",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6297,
+      "frequency": 10
+    },
+    {
+      "text": "je 2018 power",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5772,
+      "frequency": 13
+    },
+    {
+      "text": "Social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4382,
+      "frequency": 29
+    },
+    {
+      "text": "organization psychol 1677",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6181,
+      "frequency": 8
+    },
+    {
+      "text": "organization mafalda mascarenhas1",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5893,
+      "frequency": 9
+    },
+    {
+      "text": "model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3978,
+      "frequency": 28
+    },
+    {
+      "text": "evolved different",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5488,
+      "frequency": 9
+    },
+    {
+      "text": "focused characteristics",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5928,
+      "frequency": 5
+    },
+    {
+      "text": "behavior conger kanungo",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5982,
+      "frequency": 4
+    },
+    {
+      "text": "decision",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2936,
+      "frequency": 27
+    },
+    {
+      "text": "2008 emotional reasons",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5741,
+      "frequency": 3
+    },
+    {
+      "text": "article",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6068,
+      "frequency": 2
+    },
+    {
+      "text": "Identity Leadership Fosters",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1766,
+      "frequency": 96
+    },
+    {
+      "text": "topal ab izydorczyk",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.4988,
+      "frequency": 3
+    },
+    {
+      "text": "ispa instituto universitário",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.563,
+      "frequency": 2
+    },
+    {
+      "text": "group identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1676,
+      "frequency": 99
+    },
+    {
+      "text": "kingdom c2s laboratory",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.541,
+      "frequency": 2
+    },
+    {
+      "text": "business school london",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.524,
+      "frequency": 2
+    }
+  ],
+  "relations": [
+    {
+      "head": "identity leader",
+      "type": "increase",
+      "tail": "commitment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "increase",
+      "tail": "organizational commitment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "instigate",
+      "tail": "followers",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "IL",
+      "type": "predict",
+      "tail": "organizational commitment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "IL",
+      "type": "increase",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "TI",
+      "type": "mediate",
+      "tail": "positive effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "TI",
+      "type": "mediate",
+      "tail": "relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "IL",
+      "type": "predict",
+      "tail": "PDM",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PDM",
+      "type": "predict",
+      "tail": "organizational commitment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "CE",
+      "type": "moderate",
+      "tail": "relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Hofstede study",
+      "type": "measure",
+      "tail": "global orientation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "IL",
+      "type": "influence",
+      "tail": "organizational commitment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identification # Respondents",
+      "type": "administer",
+      "tail": "identification group measure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "efficacy # Participant",
+      "type": "complete",
+      "tail": "Beliefs item scale",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "PDM",
+      "type": "mediate",
+      "tail": "relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "wonder",
+      "tail": "organizational foster best commitment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "strengthen",
+      "tail": "OC",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "study",
+      "type": "provide",
+      "tail": "significant insight",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# # Overview",
+      "type": "study",
+      "tail": "correlational relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "experimental complex design",
+      "type": "want",
+      "tail": "# CONCLUSION",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Personal efficacy",
+      "type": "ed",
+      "tail": "G. J. Adair",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leadership",
+      "type": "affect",
+      "tail": "relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "role ambiguity",
+      "type": "affect",
+      "tail": "relationship",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Zwischen Beziehung Unternehmen",
+      "type": "und",
+      "tail": "Freien",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 24,
+  "elapsed_s": 51.4
+}

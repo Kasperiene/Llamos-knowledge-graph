@@ -3,6 +3,7 @@ Knowledge Graph Construction Pipeline
 Runs all 9 agents sequentially, passing output from one to the next.
 """
 
+from pathlib import Path
 from agents.agent1_ingestion import DataIngestionAgent
 from agents.agent2_embedding import SemanticEmbeddingAgent
 from agents.agent3_concept_extraction import ConceptExtractionAgent
@@ -36,9 +37,10 @@ def run_pipeline(input_path: str):
     print("[4/9] Relation Extraction Agent...")
     relations = RelationExtractionAgent().run(text, concepts)
 
-    # 5. Entity Linking
+    # 5. Entity Linking (canonization + Wikidata)
     print("[5/9] Entity Linking Agent...")
-    linked_entities = EntityLinkingAgent().run(concepts)
+    paper_id = doc.get("title") or Path(input_path).stem
+    linked_entities = EntityLinkingAgent().run(concepts, paper_id=paper_id)
 
     # 6. Relation Validation
     print("[6/9] Relation Validation Agent...")

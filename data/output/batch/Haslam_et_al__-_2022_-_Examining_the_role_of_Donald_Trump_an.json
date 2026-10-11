@@ -1,0 +1,595 @@
+{
+  "paper_id": "Haslam_et_al__-_2022_-_Examining_the_role_of_Donald_Trump_an",
+  "filename": "Haslam et al. - 2022 - Examining the role of Donald Trump and his support.pdf",
+  "title": "Examining the role of Donald Trump and his supporters in the 2021 assault on the U.S. Capitol: A dual-agency model of identity leadership and engaged followership",
+  "authors": [],
+  "doi": "",
+  "abstract": "This article develops a dual-agency model of leadership which treats collective phenomena as a co-production involving both leaders and followers who identify with the same social group. The model integrates work on identity leadership and engaged followership derived from the social identity approach in social psychology. In contrast to binary models which view either leaders $o r$ followers as having agency, our model argues that leaders gain influence by defining parameters of action in ways that frame the agency of their followers but leave space for creativity in how collective goals are accomplished. Followers in turn, exhibit their loyalty and attachment to the leader by striving to be effective in advancing these goals, thereby empowering and giving agency to the leader. We illustrate the model primarily through the events of $6 ^ { \\mathrm { { t h } } }$ January 2021 when Donald Trump’s exhortations to his supporters that they should ‘fight’ to ‘stop the steal’ of the 2020 election was followed by an attack on the United States’ Capitol. We argue that it is Trump’s willing participation in this mutual process of identity enactment, rather than any instructions contained in his speech, that should be the basis for assessing his influence on, and responsibility for, the assault.",
+  "word_count": 16851,
+  "sections": [
+    "Examining the role of Donald Trump and his supporters in the 2021 assault on the U.S. Capitol: A dual-agency model of identity leadership and engaged followership",
+    "Examining the role of Donald Trump and his supporters in the 2021 assault on the U. S. Capitol: A dual-agency model of identity leadership and engaged followership",
+    "A dual-agency model of identity leadership and engaged followership",
+    "Overview: The structure of this article",
+    "Identity leadership: Creating and advancing ‘us’",
+    "Engaged followership: Working towards ‘our’ leader",
+    "Implications and the importance of identity content",
+    "Avoiding confirmation bias: Counterfactual and deviant case analysis",
+    "Limitations and an agenda for future research",
+    "Concluding comment"
+  ],
+  "top_concepts": [
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9642,
+      "frequency": 274
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9044,
+      "frequency": 298
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9342,
+      "frequency": 219
+    },
+    {
+      "text": "social psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9229,
+      "frequency": 183
+    },
+    {
+      "text": "social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.867,
+      "frequency": 150
+    },
+    {
+      "text": "model identity leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7724,
+      "frequency": 243
+    },
+    {
+      "text": "Social identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6905,
+      "frequency": 369
+    },
+    {
+      "text": "identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8351,
+      "frequency": 124
+    },
+    {
+      "text": "identity followers identify",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7448,
+      "frequency": 192
+    },
+    {
+      "text": "Trump",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.908,
+      "frequency": 72
+    },
+    {
+      "text": "Social Psychology Review",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7303,
+      "frequency": 188
+    },
+    {
+      "text": "leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8096,
+      "frequency": 95
+    },
+    {
+      "text": "social identity approach",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6533,
+      "frequency": 285
+    },
+    {
+      "text": "Social identity theory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6469,
+      "frequency": 285
+    },
+    {
+      "text": "Social Psychology Bulletin",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6852,
+      "frequency": 183
+    },
+    {
+      "text": "social identity analysis",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5961,
+      "frequency": 313
+    },
+    {
+      "text": "social psychology contrast",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6546,
+      "frequency": 184
+    },
+    {
+      "text": "theoretical work social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6565,
+      "frequency": 172
+    },
+    {
+      "text": "identify social group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6285,
+      "frequency": 199
+    },
+    {
+      "text": "leaders followers stresses",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6919,
+      "frequency": 120
+    },
+    {
+      "text": "social identity model",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5767,
+      "frequency": 298
+    },
+    {
+      "text": "trump distanced followers",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6642,
+      "frequency": 135
+    },
+    {
+      "text": "role donald trump",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6609,
+      "frequency": 97
+    },
+    {
+      "text": "members trump party",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6697,
+      "frequency": 86
+    },
+    {
+      "text": "Capitol Hill",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7285,
+      "frequency": 54
+    },
+    {
+      "text": "engaged followership pertains",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6999,
+      "frequency": 53
+    },
+    {
+      "text": "capitol argue trump",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5892,
+      "frequency": 112
+    },
+    {
+      "text": "trump biographers noted",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6345,
+      "frequency": 76
+    },
+    {
+      "text": "entirely dependent leaders",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6604,
+      "frequency": 61
+    },
+    {
+      "text": "agency model argues",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6951,
+      "frequency": 38
+    },
+    {
+      "text": "Leadership Quarterly",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5417,
+      "frequency": 96
+    },
+    {
+      "text": "destructive collective action",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6314,
+      "frequency": 46
+    },
+    {
+      "text": "andrews school psychology",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6055,
+      "frequency": 44
+    },
+    {
+      "text": "sense events unfolded",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6061,
+      "frequency": 43
+    },
+    {
+      "text": "Donald Trump",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5107,
+      "frequency": 81
+    },
+    {
+      "text": "Psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.623,
+      "frequency": 33
+    },
+    {
+      "text": "basis assessing influence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6253,
+      "frequency": 29
+    },
+    {
+      "text": "Haslam",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7639,
+      "frequency": 13
+    },
+    {
+      "text": "participation mutual process",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6729,
+      "frequency": 18
+    },
+    {
+      "text": "puppet masters influence",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6418,
+      "frequency": 19
+    },
+    {
+      "text": "Capitol",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5116,
+      "frequency": 37
+    },
+    {
+      "text": "goals associated membership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.574,
+      "frequency": 23
+    },
+    {
+      "text": "political heart",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6462,
+      "frequency": 15
+    },
+    {
+      "text": "2021 dual agency",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5968,
+      "frequency": 17
+    },
+    {
+      "text": "leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4194,
+      "frequency": 57
+    },
+    {
+      "text": "followers",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3975,
+      "frequency": 62
+    },
+    {
+      "text": "shared social",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3184,
+      "frequency": 174
+    },
+    {
+      "text": "2dceff8a0608eec1ecb2c9428c6f138b297905e000f26ec9091e6a8c14659b90 jpg figure",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5815,
+      "frequency": 8
+    },
+    {
+      "text": "article",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6019,
+      "frequency": 7
+    },
+    {
+      "text": "Reicher",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5373,
+      "frequency": 9
+    }
+  ],
+  "relations": [
+    {
+      "head": "Abstract",
+      "type": "develop",
+      "tail": "agency model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "article",
+      "type": "develop",
+      "tail": "agency model",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Trump",
+      "type": "send",
+      "tail": "broadcast message",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Trump",
+      "type": "make",
+      "tail": "strong calls",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "followers",
+      "type": "influence",
+      "tail": "leader",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "have",
+      "tail": "complete agency",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "article",
+      "type": "have",
+      "tail": "unusual form",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "social identities",
+      "type": "restructure",
+      "tail": "social relations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "answer",
+      "tail": "key questions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Trump",
+      "type": "represent",
+      "tail": "America",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Leximancer",
+      "type": "identify",
+      "tail": "key themes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Trump",
+      "type": "leverage",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Carsten",
+      "type": "see",
+      "tail": "Shamir",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Ellemers",
+      "type": "see",
+      "tail": "et Haslam al",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "intrinsic motivations",
+      "type": "tell",
+      "tail": "followers",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Milgram",
+      "type": "make",
+      "tail": "similar observations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Cooperation",
+      "type": "imply",
+      "tail": "certain willingness",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Cooperation",
+      "type": "imply",
+      "tail": "internal certain desire",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Trump",
+      "type": "pose",
+      "tail": "rhetorical questions",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "media posts",
+      "type": "end",
+      "tail": "Heilwell",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "History",
+      "type": "provide",
+      "tail": "case studies",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Mandela",
+      "type": "see",
+      "tail": "Haslam",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "share",
+      "tail": "social identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "followers",
+      "type": "see",
+      "tail": "leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "have",
+      "tail": "little appeal",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "shock machine",
+      "type": "look",
+      "tail": "scientific Laurens",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "followers",
+      "type": "influence",
+      "tail": "# Limitations",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leader",
+      "type": "influence",
+      "tail": "followers",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Capitol",
+      "type": "preprint",
+      "tail": "Hodges",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Prison BBC Experiment",
+      "type": "rethink",
+      "tail": "psychology",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Trump",
+      "type": "reject",
+      "tail": "multiple pleas",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 60,
+  "relation_count": 31,
+  "elapsed_s": 83.9
+}

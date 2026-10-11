@@ -1,0 +1,621 @@
+{
+  "paper_id": "Brown_-_2022_-_Improving_identity_leadership_through_a_novel",
+  "filename": "Brown - 2022 - Improving identity leadership through a novel targeted reflective practice intervention.pdf",
+  "title": "Improving Identity Leadership Through a Novel Targeted Reflective Practice Intervention",
+  "authors": [],
+  "doi": "",
+  "abstract": "The purpose of this study was to investigate the effectiveness of a novel identity leadership-framed reflective practice intervention for developing sport coach leadership skills. We adopted an 8-week randomized control intervention design, including 5 experimental group coaches and their associated athletes (n = 47) and 4 control group coaches and their athletes (n = 32). Athletes’ perceptions of their coach engaging in identity leadership behaviours were measured at Weeks 0 and 8 for both groups. The experimental group coaches completed three specifically designed social identity-framed reflective practice tasks in Weeks 1, 3 and 5. Results showed that when controlling for baseline scores and compared to the control condition, the experimental condition reported significantly greater advancement, entrepreneurship, and impresarioship, but not prototypicality at postintervention. The results provide support for the use of tailored reflective practice interventions to elicit desirable identity leadership behaviours as perceived by athletes. Keywords: reflective practice, social identity, leadership, coaching, team sports, performance Lay Summary: Leadership is a key aspect of team sport performance. Reflective practice is a core component of coach development. The present study shows the potential to develop leadership through social identity-framed reflective practice activities. Implications for Practice: Investigation of new ways for developing leadership In-direct development of Identity Leadership • Multi-faceted and innovative approach to reflective practice The data that support the findings of this study are available from the corresponding author, J.B, upon reasonable request.",
+  "word_count": 8424,
+  "sections": [
+    "Improving Identity Leadership Through a Novel Targeted Reflective Practice Intervention",
+    "Identity Leadership",
+    "Identity Leadership Research in Sport and Exercise",
+    "Reflective Practice",
+    "The Current Study",
+    "Method",
+    "Participants and Design",
+    "Measures",
+    "Procedure",
+    "Data Analysis",
+    "Discussion",
+    "Applications and Reflections",
+    "Limitations",
+    "Conclusion",
+    "REFLECTIVE PRACTICE AND IDENTITY LEADERSHIP"
+  ],
+  "top_concepts": [
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.973,
+      "frequency": 261
+    },
+    {
+      "text": "identity leadership behaviours",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9447,
+      "frequency": 277
+    },
+    {
+      "text": "social identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.874,
+      "frequency": 306
+    },
+    {
+      "text": "reflective practice intervention",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.9365,
+      "frequency": 201
+    },
+    {
+      "text": "identity leadership sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8493,
+      "frequency": 324
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8607,
+      "frequency": 270
+    },
+    {
+      "text": "Reflective Practice",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9373,
+      "frequency": 160
+    },
+    {
+      "text": "identity leadership research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8349,
+      "frequency": 271
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.877,
+      "frequency": 136
+    },
+    {
+      "text": "reflective practice interventions",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8276,
+      "frequency": 171
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8132,
+      "frequency": 170
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8408,
+      "frequency": 125
+    },
+    {
+      "text": "leadership behaviours review",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7511,
+      "frequency": 155
+    },
+    {
+      "text": "leadership coaching",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7463,
+      "frequency": 150
+    },
+    {
+      "text": "intervention developing sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7709,
+      "frequency": 112
+    },
+    {
+      "text": "evidence examining identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7208,
+      "frequency": 135
+    },
+    {
+      "text": "influence sport coaches",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.756,
+      "frequency": 106
+    },
+    {
+      "text": "experimental group coaches",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7493,
+      "frequency": 96
+    },
+    {
+      "text": "coach identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5761,
+      "frequency": 288
+    },
+    {
+      "text": "leadership behaviours",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6399,
+      "frequency": 152
+    },
+    {
+      "text": "Reflective",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6963,
+      "frequency": 92
+    },
+    {
+      "text": "Practice Intervention",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6434,
+      "frequency": 109
+    },
+    {
+      "text": "randomized control intervention",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6972,
+      "frequency": 71
+    },
+    {
+      "text": "Practice",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6679,
+      "frequency": 68
+    },
+    {
+      "text": "sport",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6751,
+      "frequency": 63
+    },
+    {
+      "text": "self efficacy social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7179,
+      "frequency": 48
+    },
+    {
+      "text": "intervention organizational perspective",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7184,
+      "frequency": 46
+    },
+    {
+      "text": "group entrepreneurship reflects",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7031,
+      "frequency": 43
+    },
+    {
+      "text": "behaviours perceived athletes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7317,
+      "frequency": 36
+    },
+    {
+      "text": "sense cohesion group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6924,
+      "frequency": 41
+    },
+    {
+      "text": "member group advancement",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6898,
+      "frequency": 41
+    },
+    {
+      "text": "stevens et",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5581,
+      "frequency": 96
+    },
+    {
+      "text": "behaviours prototypicality advancement",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7043,
+      "frequency": 35
+    },
+    {
+      "text": "identity leadership skills",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4538,
+      "frequency": 265
+    },
+    {
+      "text": "team success result",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7089,
+      "frequency": 22
+    },
+    {
+      "text": "reflects ability leader",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.736,
+      "frequency": 19
+    },
+    {
+      "text": "participate wave study",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6578,
+      "frequency": 27
+    },
+    {
+      "text": "greater self reported",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6535,
+      "frequency": 24
+    },
+    {
+      "text": "Targeted Reflective Practice",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4083,
+      "frequency": 169
+    },
+    {
+      "text": "identity leadership intervention",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3522,
+      "frequency": 302
+    },
+    {
+      "text": "performance wellbeing including",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6818,
+      "frequency": 17
+    },
+    {
+      "text": "identity leadership interventions",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3522,
+      "frequency": 272
+    },
+    {
+      "text": "framework outlined effective",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6877,
+      "frequency": 13
+    },
+    {
+      "text": "progression reflect longitudinal",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.692,
+      "frequency": 11
+    },
+    {
+      "text": "research taken miller",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6201,
+      "frequency": 13
+    },
+    {
+      "text": "Improving Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2996,
+      "frequency": 263
+    },
+    {
+      "text": "novel targeted",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5726,
+      "frequency": 14
+    },
+    {
+      "text": "efficacy 3rs",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6339,
+      "frequency": 9
+    },
+    {
+      "text": "identity leadership dimensions",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2651,
+      "frequency": 265
+    },
+    {
+      "text": "Practice Reflective practice",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.1921,
+      "frequency": 228
+    }
+  ],
+  "relations": [
+    {
+      "head": "group coaches",
+      "type": "complete",
+      "tail": "practice framed designed tasks",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "experimental condition",
+      "type": "report",
+      "tail": "greater advancement",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "resultant evidence",
+      "type": "demonstrate",
+      "tail": "positive influence",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Stevens",
+      "type": "recruit",
+      "tail": "sport teams",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "predict",
+      "tail": "social identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership",
+      "type": "have",
+      "tail": "positive consequences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership",
+      "type": "contribute",
+      "tail": "additional variance",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "way scholars",
+      "type": "advance",
+      "tail": "research conceptual promising base",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Fransen",
+      "type": "identify",
+      "tail": "athlete best leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Mertens",
+      "type": "apply",
+      "tail": "intervention",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "practice designed approach",
+      "type": "elicit",
+      "tail": "leadership development",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Researchers",
+      "type": "highlight",
+      "tail": "positive effects",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "practice reflective intervention",
+      "type": "elicit",
+      "tail": "significant increase",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "power .8",
+      "type": "require",
+      "tail": "sample total size",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Coaches",
+      "type": "coach",
+      "tail": "team sport",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Measures # Athletes",
+      "type": "complete",
+      "tail": "Leadership Inventory",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Coaches",
+      "type": "receive",
+      "tail": "Information Coach Sheet",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Coaches",
+      "type": "receive",
+      "tail": "Intervention Sheet",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Coaches",
+      "type": "create",
+      "tail": "meta reflection",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "control group",
+      "type": "complete",
+      "tail": "ILI",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "covariance approach",
+      "type": "provide",
+      "tail": "statistical optimum estimation",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Consistent MANCOVA",
+      "type": "suggest",
+      "tail": "significant difference",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "applied researchers",
+      "type": "develop",
+      "tail": "Martens",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identitybased intervention",
+      "type": "elicit",
+      "tail": "behaviour change",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "intervention",
+      "type": "use",
+      "tail": "potential main mechanisms",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "change Behaviour literature",
+      "type": "use",
+      "tail": "knowledge development",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "practice reflective targeted intervention",
+      "type": "facilitate",
+      "tail": "reflective focused process",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "intervention",
+      "type": "elicit",
+      "tail": "behaviour change",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "practicing coaches",
+      "type": "use",
+      "tail": "Hughes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "current study",
+      "type": "provide",
+      "tail": "potential grounds",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "education coach Current pathways",
+      "type": "provide",
+      "tail": "little structure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "reflect",
+      "tail": "proximal primary variable",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "practice informed social intervention",
+      "type": "provide",
+      "tail": "Anderson",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "https://doi.org/10.1111/phis.12081 Billsberry",
+      "type": "reimagine",
+      "tail": "leadership",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 58,
+  "relation_count": 34,
+  "elapsed_s": 101.0
+}

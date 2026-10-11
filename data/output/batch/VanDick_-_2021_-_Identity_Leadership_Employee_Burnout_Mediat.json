@@ -1,0 +1,627 @@
+{
+  "paper_id": "VanDick_-_2021_-_Identity_Leadership_Employee_Burnout_Mediat",
+  "filename": "VanDick - 2021 - Identity Leadership Employee Burnout Mediating Role Team Identificatio.pdf",
+  "title": "Identity Leadership, Employee Burnout and the Mediating Role of Team Identification: Evidence from the Global Identity Leadership Development Project",
+  "authors": [],
+  "doi": "",
+  "abstract": "Institutional Review Board Statement: The study was conducted according to the guidelines of the Declaration of Helsinki. Ethical review and approval were obtained from the London School of Ecomoics, London, UK (Ref: 07404).",
+  "word_count": 12607,
+  "sections": [
+    "Identity Leadership, Employee Burnout and the Mediating Role of Team Identification: Evidence from the Global Identity Leadership Development Project",
+    "1. Introduction",
+    "1.1. Social Identification and Burnout",
+    "1.2. Leadership and Burnout",
+    "1.3. Identity Leadership, Team Identification and Burnout",
+    "1.4. The Present Research Project",
+    "2. Materials and Methods",
+    "2.1. Sample",
+    "2.2. Time Span",
+    "2.3. Measures",
+    "2.4. Analytic Procedure",
+    "3. Results",
+    "3.1. Testing H1 and H2 in the Cross-Sectional Sample",
+    "3.2. Testing H1 and H2 in the Two-Wave Data",
+    "3.3. Comparison across Time (RQ1)",
+    "3.4. Cross-Cultural Analyses (RQ2)",
+    "3.5. Testing for Non-Linear Effects (RQ3)",
+    "4. Discussion",
+    "4.1. Theoretical and Practical Contributions",
+    "4.2. Limitations and Opportunities for Future Research",
+    "5. Conclusions"
+  ],
+  "top_concepts": [
+    {
+      "text": "Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9646,
+      "frequency": 233
+    },
+    {
+      "text": "identity leadership team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8341,
+      "frequency": 335
+    },
+    {
+      "text": "Team Identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9143,
+      "frequency": 174
+    },
+    {
+      "text": "team identification burnout",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8186,
+      "frequency": 229
+    },
+    {
+      "text": "social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.833,
+      "frequency": 202
+    },
+    {
+      "text": "identity leadership contributes",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8,
+      "frequency": 235
+    },
+    {
+      "text": "Identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8244,
+      "frequency": 144
+    },
+    {
+      "text": "Global Identity Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6967,
+      "frequency": 239
+    },
+    {
+      "text": "Identity Leadership Development",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6892,
+      "frequency": 238
+    },
+    {
+      "text": "effect ratings identity",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7196,
+      "frequency": 173
+    },
+    {
+      "text": "identity teams protect",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7064,
+      "frequency": 160
+    },
+    {
+      "text": "Team",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7453,
+      "frequency": 102
+    },
+    {
+      "text": "mediating role team",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7045,
+      "frequency": 115
+    },
+    {
+      "text": "Leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7213,
+      "frequency": 89
+    },
+    {
+      "text": "Identity Leadership Inventory",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5888,
+      "frequency": 237
+    },
+    {
+      "text": "identity entrepreneurship",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6381,
+      "frequency": 151
+    },
+    {
+      "text": "employee burnout mediating",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7403,
+      "frequency": 71
+    },
+    {
+      "text": "leadership t1 predicting",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6596,
+      "frequency": 101
+    },
+    {
+      "text": "identification evidence global",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.655,
+      "frequency": 94
+    },
+    {
+      "text": "Burnout",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6655,
+      "frequency": 55
+    },
+    {
+      "text": "shared social identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.484,
+      "frequency": 212
+    },
+    {
+      "text": "University Business School",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6165,
+      "frequency": 42
+    },
+    {
+      "text": "28 pluridisciplinary research",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6328,
+      "frequency": 32
+    },
+    {
+      "text": "indirect effect",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5518,
+      "frequency": 52
+    },
+    {
+      "text": "organizational behaviour communications",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7074,
+      "frequency": 20
+    },
+    {
+      "text": "school psychology pontificia",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6479,
+      "frequency": 27
+    },
+    {
+      "text": "Identification",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5065,
+      "frequency": 72
+    },
+    {
+      "text": "german participants surveyed",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6232,
+      "frequency": 31
+    },
+    {
+      "text": "affects employees variety",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6864,
+      "frequency": 21
+    },
+    {
+      "text": "human resources organizational",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.668,
+      "frequency": 20
+    },
+    {
+      "text": "identity prototypicality",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4066,
+      "frequency": 149
+    },
+    {
+      "text": "identity advancement",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4035,
+      "frequency": 148
+    },
+    {
+      "text": "identity impresarioship",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3969,
+      "frequency": 150
+    },
+    {
+      "text": "sport health society",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5789,
+      "frequency": 27
+    },
+    {
+      "text": "graduate school management",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6119,
+      "frequency": 19
+    },
+    {
+      "text": "effect",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5015,
+      "frequency": 28
+    },
+    {
+      "text": "ILI",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5797,
+      "frequency": 14
+    },
+    {
+      "text": "Ali Ahmad Bodla",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8418,
+      "frequency": 3
+    },
+    {
+      "text": "Ana Laguia Gonzalez",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8418,
+      "frequency": 3
+    },
+    {
+      "text": "Lynda Jiwen Song",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8418,
+      "frequency": 3
+    },
+    {
+      "text": "niklas steffens alexander",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5179,
+      "frequency": 8
+    },
+    {
+      "text": "article",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6248,
+      "frequency": 3
+    },
+    {
+      "text": "haslam akfirat",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.4817,
+      "frequency": 5
+    },
+    {
+      "text": "katrien fransen",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5025,
+      "frequency": 4
+    },
+    {
+      "text": "matej cerne ef",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5429,
+      "frequency": 2
+    },
+    {
+      "text": "fundação getulio vargas",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.504,
+      "frequency": 2
+    },
+    {
+      "text": "daniel valdenegro",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.493,
+      "frequency": 2
+    },
+    {
+      "text": "ahmad bodla",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.4649,
+      "frequency": 2
+    },
+    {
+      "text": "sylwiusz retowski",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.4639,
+      "frequency": 2
+    },
+    {
+      "text": "story fgv br",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5579,
+      "frequency": 1
+    }
+  ],
+  "relations": [
+    {
+      "head": "Identity # Leadership",
+      "type": "cord",
+      "tail": "Matej Cerne",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity # Leadership",
+      "type": "cord",
+      "tail": "Ronit Kark",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Identity # Leadership",
+      "type": "cord",
+      "tail": "Tomoki Sekiguchi",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "research organizational studies",
+      "type": "find",
+      "tail": "similar patterns",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Ciampa",
+      "type": "find",
+      "tail": "direct significant link",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Harms",
+      "type": "conduct",
+      "tail": "meta analysis",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "have",
+      "tail": "key components",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Fransen",
+      "type": "conduct",
+      "tail": "survey study",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity prototypicality",
+      "type": "predict",
+      "tail": "job satisfaction",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity prototypicality",
+      "type": "predict",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Lee",
+      "type": "find",
+      "tail": "stronger relationships",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "have",
+      "tail": "negative impact",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Measures",
+      "type": "translate",
+      "tail": "English survey",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Team identification",
+      "type": "assess",
+      "tail": "item measure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identification",
+      "type": "show",
+      "tail": "negative skew",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "burnout",
+      "type": "have",
+      "tail": "positive skew",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "have",
+      "tail": "lowest alpha",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity prototypicality",
+      "type": "have",
+      "tail": "lowest alpha",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity advancement",
+      "type": "have",
+      "tail": "lowest alpha",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity entrepreneurship",
+      "type": "have",
+      "tail": "lowest alpha",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity impresarioship",
+      "type": "have",
+      "tail": "lowest alpha",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "team identification",
+      "type": "have",
+      "tail": "lowest alpha",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "burnout",
+      "type": "have",
+      "tail": "lowest alpha",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "H2",
+      "type": "predict",
+      "tail": "indirect effect",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "% CI",
+      "type": "see",
+      "tail": "Figure",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Figure",
+      "type": "show",
+      "tail": "identity leadership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "high levels",
+      "type": "have",
+      "tail": "toxic consequences",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity leadership",
+      "type": "promote",
+      "tail": "team identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "ambivalent identification",
+      "type": "have",
+      "tail": "distinct implications",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Organizations",
+      "type": "cause",
+      "tail": "Personal Stress",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Haslam",
+      "type": "make",
+      "tail": "social based connection",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Greenaway",
+      "type": "perceive",
+      "tail": "personal control",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Lee",
+      "type": "identify",
+      "tail": "Organizational Identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Lee",
+      "type": "identify",
+      "tail": "Analytic Review",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 34,
+  "elapsed_s": 124.4
+}

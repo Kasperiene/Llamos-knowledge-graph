@@ -1,0 +1,582 @@
+{
+  "paper_id": "Slater_-_2014_-_Promoting_shared_meanings_in_group_membershi",
+  "filename": "Slater - 2014 - Promoting shared meanings in group memberships a social identity approach to leadership in sport.pdf",
+  "title": "Promoting Shared Meanings in Group Memberships: A Social Identity Approach to Leadership in Sport",
+  "authors": [],
+  "doi": "",
+  "abstract": "The purpose of this review is to demonstrate the applicability of a social identity approach to leadership in sporting contexts. A social identity approach to leadership contends that leaders and group members are connected through feeling a sense of belonging and emotional attachment to their group. The present review (a) outlines the theoretical underpinnings of social identity theory, (b) reflects on the four principles of social identity leadership and applies them to sport, (c) contrasts social identity leadership with current leadership theories, and (d) provides suggestions for future research investigating a social identity approach to leadership in sport. Accordingly, the review illustrates how an appreciation of the social context and group members’ values allow leaders to mobilise—enlist the motivation and abilities of—athletes to achieve the leader’s vision. A social identity approach to leadership has the potential to extend understanding of leadership in sport by emphasising the role of groups and context in leadership. Promoting Shared Meanings in Group Memberships: A Social Identity Approach to Leadership in Sport In sport, leaders play a crucial role in determining the fulfillment of groups’ goals. Anecdotally, the positive influence of British Cycling’s performance director Sir David Brailsford has been widely recognised in light of his leadership skills that have produced unprecedented results (e.g., 8 Gold, 2 Silver, and 2 Bronze medals at the London 2012 Olympic Games). On reflection, Sir David Brailsford’s leadership was enacted through a unified, distinct groupBritish Cycling, and the success of Brailsford’s leadership has been posited to be due to the identification created within British Cycling (Slater, Evans, & Barker, 2013). In particular, Sir David Brailsford, his support staff, and the athletes he leads share an emotional attachment to one another (i.e., by being part of British Cycling), and to the group, which perhaps mobilised members to further the group’s interests. A social identity approach to leadership (Haslam, Reicher, & Platow, 2011; Hogg, 2001) contends it is the shared connection between leader and group that forms the foundation of successful leadership. In particular, the social identity analysis offers an original contribution to knowledge by providing an explanation of the grouplevel psychosocial processes that underpin leadership (i.e., leaders’ and group members’ social identities). Accordingly, the present review draws on empirical evidence from social psychology and reflections from professional sport to demonstrate the potential value and applicability of social identity leadership in sport. The review, first, outlines the theoretical principles of social identity theory that underpin social identity leadership; second, reflects on the four principles of social identity leadership and applies them to sport; third, contrasts social identity leadership with current leadership theories, and finally, provides suggestions for future research investigating a social identity approach to leadership in sport.",
+  "word_count": 7050,
+  "sections": [
+    "Running Head: A SOCIAL IDENTITY APPROACH TO LEADERSHIP IN SPORT",
+    "Social identity theory",
+    "Four principles of a social identity approach to leadership and applications to sport",
+    "Leaders as in-group prototypes",
+    "Leaders as in-group champions",
+    "Leaders as entrepreneurs of identity",
+    "Leaders as embedders of identity",
+    "Contrasting a social identity approach with current leadership theories",
+    "Summary of current leadership theories",
+    "Suggestions for future research investigating social identity leadership in sport",
+    "Conclusion"
+  ],
+  "top_concepts": [
+    {
+      "text": "social identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9744,
+      "frequency": 339
+    },
+    {
+      "text": "SOCIAL IDENTITY",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9593,
+      "frequency": 226
+    },
+    {
+      "text": "SOCIAL IDENTITY APPROACH",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.9214,
+      "frequency": 245
+    },
+    {
+      "text": "identity leadership sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8376,
+      "frequency": 263
+    },
+    {
+      "text": "social identities leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8176,
+      "frequency": 253
+    },
+    {
+      "text": "identity leadership",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8344,
+      "frequency": 210
+    },
+    {
+      "text": "social identity theory",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7895,
+      "frequency": 237
+    },
+    {
+      "text": "SOCIAL",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8766,
+      "frequency": 129
+    },
+    {
+      "text": "sport leaders group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7613,
+      "frequency": 240
+    },
+    {
+      "text": "understanding leadership sport",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.8004,
+      "frequency": 179
+    },
+    {
+      "text": "Group",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8663,
+      "frequency": 116
+    },
+    {
+      "text": "sport research social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7551,
+      "frequency": 231
+    },
+    {
+      "text": "social psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8163,
+      "frequency": 151
+    },
+    {
+      "text": "LEADERSHIP",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.854,
+      "frequency": 113
+    },
+    {
+      "text": "groups context leadership",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7741,
+      "frequency": 135
+    },
+    {
+      "text": "IDENTITY",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.8002,
+      "frequency": 97
+    },
+    {
+      "text": "approach contends social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7211,
+      "frequency": 151
+    },
+    {
+      "text": "running head social",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7147,
+      "frequency": 130
+    },
+    {
+      "text": "applied sport psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.758,
+      "frequency": 87
+    },
+    {
+      "text": "group behaviour turner",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6954,
+      "frequency": 126
+    },
+    {
+      "text": "attachment group thought",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6749,
+      "frequency": 120
+    },
+    {
+      "text": "british cycling group",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6569,
+      "frequency": 130
+    },
+    {
+      "text": "group members",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.644,
+      "frequency": 142
+    },
+    {
+      "text": "sport psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7156,
+      "frequency": 75
+    },
+    {
+      "text": "leaders",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.7077,
+      "frequency": 71
+    },
+    {
+      "text": "categorisation sport explained",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.714,
+      "frequency": 57
+    },
+    {
+      "text": "SPORT",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.6984,
+      "frequency": 53
+    },
+    {
+      "text": "social identity perspective",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4938,
+      "frequency": 231
+    },
+    {
+      "text": "identity leadership research",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.403,
+      "frequency": 259
+    },
+    {
+      "text": "IDENTITY APPROACH",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.4591,
+      "frequency": 116
+    },
+    {
+      "text": "positive influence british",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6122,
+      "frequency": 32
+    },
+    {
+      "text": "perceived effective motivate",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6515,
+      "frequency": 24
+    },
+    {
+      "text": "endorsed participants support",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6372,
+      "frequency": 25
+    },
+    {
+      "text": "leader",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.5616,
+      "frequency": 38
+    },
+    {
+      "text": "group identity",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3818,
+      "frequency": 213
+    },
+    {
+      "text": "team rugby football",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.654,
+      "frequency": 16
+    },
+    {
+      "text": "path analysis indicated",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5949,
+      "frequency": 18
+    },
+    {
+      "text": "theory coaching",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6515,
+      "frequency": 11
+    },
+    {
+      "text": "leadership research",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3245,
+      "frequency": 162
+    },
+    {
+      "text": "psychology",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.503,
+      "frequency": 22
+    },
+    {
+      "text": "abstract purpose review",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5919,
+      "frequency": 10
+    },
+    {
+      "text": "memberships local football",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6274,
+      "frequency": 8
+    },
+    {
+      "text": "research",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.3639,
+      "frequency": 49
+    },
+    {
+      "text": "knowledge belongs",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6236,
+      "frequency": 7
+    },
+    {
+      "text": "characteristic resilient teams",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.7025,
+      "frequency": 5
+    },
+    {
+      "text": "forms foundation successful",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5834,
+      "frequency": 8
+    },
+    {
+      "text": "social identities",
+      "type": "KEYWORD",
+      "label": null,
+      "score": 0.2655,
+      "frequency": 140
+    },
+    {
+      "text": "ingroup unique compared",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.6502,
+      "frequency": 4
+    },
+    {
+      "text": "david brailsford widely",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.5487,
+      "frequency": 6
+    },
+    {
+      "text": "league governing body",
+      "type": "KEYPHRASE",
+      "label": null,
+      "score": 0.672,
+      "frequency": 3
+    }
+  ],
+  "relations": [
+    {
+      "head": "Identity Approach",
+      "type": "promote",
+      "tail": "Shared Meanings",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "David Sir Brailsford",
+      "type": "share",
+      "tail": "emotional attachment",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity analysis",
+      "type": "offer",
+      "tail": "original contribution",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Social identification",
+      "type": "involve",
+      "tail": "identification process",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "longitudinal study",
+      "type": "examine",
+      "tail": "group identification",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group strong identification",
+      "type": "predict",
+      "tail": "higher levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Sarkar",
+      "type": "identify",
+      "tail": "group identity",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "feel",
+      "tail": "strong connection",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "Rogers",
+      "type": "outline",
+      "tail": "positive unconditional regard",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "report",
+      "tail": "higher levels",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "increase",
+      "tail": "self members esteem",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "football League managers",
+      "type": "wear",
+      "tail": "club scarf",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership",
+      "type": "include",
+      "tail": "formal roles",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "perceive",
+      "tail": "leader",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "progress",
+      "tail": "group",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "enhance",
+      "tail": "group membership",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "construct",
+      "tail": "group values",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "shape",
+      "tail": "social context",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "have",
+      "tail": "specific reasons",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leaders",
+      "type": "strive",
+      "tail": "# Leaders",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "group members",
+      "type": "embrace",
+      "tail": "consensual values",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "early approaches",
+      "type": "conceptualise",
+      "tail": "individual characteristics",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "dimensional - multi model",
+      "type": "provide",
+      "tail": "interactional approach",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "accumulated science",
+      "type": "produce",
+      "tail": "periodic table",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership research",
+      "type": "adopt",
+      "tail": "transformationaltransactional paradigm",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership",
+      "type": "involve",
+      "tail": "exchange processes",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "# Suggestions",
+      "type": "provide",
+      "tail": "enhanced understanding",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "leadership research",
+      "type": "investigate",
+      "tail": "identity framework",
+      "source": "svo",
+      "score": 0.75
+    },
+    {
+      "head": "identity approach",
+      "type": "offer",
+      "tail": "promising springboard",
+      "source": "svo",
+      "score": 0.75
+    }
+  ],
+  "concept_count": 59,
+  "relation_count": 29,
+  "elapsed_s": 93.2
+}
