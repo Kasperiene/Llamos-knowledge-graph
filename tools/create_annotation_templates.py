@@ -11,7 +11,7 @@ import json
 import re
 from pathlib import Path
 
-SCHEMA_VERSION = "2.0"
+SCHEMA_VERSION = "2.1"
 
 
 def _pending(value=None) -> dict:

@@ -1,6 +1,6 @@
 {
   "paper_id": "Alvesson - 2020 - The Problematizing Review A Counterpoint to Elsbach and Van Kn",
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "annotation_provenance": {
     "origin": "model",
     "review_status": "unreviewed",
@@ -10,8 +10,9 @@
     "reviewed_by": null,
     "reviewed_date": null,
     "human_read_time_minutes": null,
-    "model_run_time_seconds": 10,
-    "correction_time_minutes": null
+    "model_run_time_seconds": null,
+    "correction_time_minutes": null,
+    "legacy_time_minutes": 10
   },
   "metadata": {
     "title": {
@@ -67,26 +68,41 @@
       "finding_type": "main_result",
       "quote": null,
       "page": null,
-      "section": null
+      "section": null,
+      "status": "pending"
     },
     {
       "statement": "The authors propose 'problematizing review' as an alternative built on four principles: (1) reflexivity, (2) reading broadly but selectively, (3) not accumulating but problematizing, (4) less is more.",
       "finding_type": "main_result",
       "quote": null,
       "page": null,
-      "section": null
+      "section": null,
+      "status": "pending"
     },
     {
       "statement": "Problematizing reviews are 'opening up' exercises rather than 'building exercises', aiming to generate new ways of thinking rather than summarising existing knowledge.",
       "finding_type": "main_result",
       "quote": null,
       "page": null,
-      "section": null
+      "section": null,
+      "status": "pending"
     }
   ],
   "theoretical_framework": [
-    "Problematization methodology (Alvesson & Sandberg)",
-    "Philosophy of knowledge / epistemology of management research"
+    {
+      "name": "Problematization methodology (Alvesson & Sandberg)",
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null
+    },
+    {
+      "name": "Philosophy of knowledge / epistemology of management research",
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null
+    }
   ],
   "notes": "Methodological/conceptual paper — no empirical data, no constructs or hypotheses. Not directly about identity leadership; included as a methodological counterpoint to the SLR approach. Journal inferred from context (Warwick WRAP archive, management framing) — VERIFY from PDF. Authors confirmed from repeated self-citation 'Alvesson and Sandberg' throughout full text."
 }

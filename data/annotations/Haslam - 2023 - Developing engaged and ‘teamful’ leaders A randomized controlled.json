@@ -1,8 +1,8 @@
 {
-  "paper_id": "Haslam - 2023 - Developing engaged and ‘teamful’ leaders A randomized controlled",
-  "schema_version": "2.0",
+  "paper_id": "Haslam - 2023 - Developing engaged and 'teamful' leaders A randomized controlled",
+  "schema_version": "2.1",
   "annotation_provenance": {
-    "origin": "human",
+    "origin": "unknown",
     "review_status": "unreviewed",
     "created_by": "unknown",
     "created_date": "",
@@ -11,7 +11,8 @@
     "reviewed_date": null,
     "human_read_time_minutes": null,
     "model_run_time_seconds": null,
-    "correction_time_minutes": null
+    "correction_time_minutes": null,
+    "legacy_time_minutes": null
   },
   "metadata": {
     "title": {

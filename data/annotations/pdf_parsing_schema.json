@@ -1,0 +1,101 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "urn:llamos-kg:pdf-parsing-eval:v1.0",
+  "title": "PDF Parsing Evaluation Schema v1.0",
+  "description": "Records errors found when comparing a PDF parser's output against the source PDF. Strictly separates PDF parsing errors (what the parser produced) from NLP/LLM interpretation errors (what a downstream model inferred). Do not record interpretation errors in this schema.",
+
+  "definitions": {
+
+    "ErrorCategory": {
+      "type": "string",
+      "enum": [
+        "text_accuracy",
+        "text_completeness",
+        "reading_order",
+        "section_structure",
+        "metadata",
+        "tables",
+        "footnotes",
+        "references",
+        "scientific_content_substitution"
+      ],
+      "description": "text_accuracy=OCR/extraction errors in character content; text_completeness=dropped sentences/paragraphs; reading_order=columns/floats merged in wrong order; section_structure=headings misclassified or merged; metadata=title/author/DOI/year wrong or missing; tables=cell content garbled, merged, or dropped; footnotes=footnote text merged into body or lost; references=citation list malformed or truncated; scientific_content_substitution=formulae/special characters replaced with wrong text (e.g. α→a, β→b)"
+    },
+
+    "ErrorType": {
+      "type": "string",
+      "enum": ["parsing_error", "interpretation_error"],
+      "description": "parsing_error=the parser produced wrong/missing text from the PDF bytes; interpretation_error=the parsed text is correct but a downstream model/pipeline misunderstood it. Only parsing_error belongs in this schema. Record interpretation_error in the LLM extraction evaluation schema."
+    },
+
+    "Severity": {
+      "type": "string",
+      "enum": ["critical", "major", "minor", "cosmetic"],
+      "description": "critical=makes a key fact unrecoverable (e.g. sample size dropped, hypothesis corrupted); major=significant loss affecting multiple sentences or a whole section; minor=affects one sentence or a non-essential element; cosmetic=formatting/whitespace only, content preserved"
+    },
+
+    "SourceLocation": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "page":        { "type": ["integer", "null"], "minimum": 1 },
+        "region":      { "type": ["string", "null"], "description": "Human description: 'top-right column', 'Table 2 row 3', 'footnote 12'" },
+        "section":     { "type": ["string", "null"], "description": "Section heading in the PDF" },
+        "bounding_box":{ "type": ["string", "null"], "description": "x0,y0,x1,y1 in PDF points if available" }
+      }
+    },
+
+    "ErrorRecord": {
+      "type": "object",
+      "required": ["error_id", "category", "error_type", "severity", "source_location",
+                   "original_content", "system_output", "annotator"],
+      "additionalProperties": false,
+      "properties": {
+        "error_id":         { "type": "string", "description": "Unique within this run, e.g. E001" },
+        "category":         { "$ref": "#/definitions/ErrorCategory" },
+        "error_type":       { "$ref": "#/definitions/ErrorType" },
+        "severity":         { "$ref": "#/definitions/Severity" },
+        "source_location":  { "$ref": "#/definitions/SourceLocation" },
+        "original_content": { "type": "string", "description": "Exact text or description from the source PDF." },
+        "system_output":    { "type": "string", "description": "Exact text the parser produced in place of original_content." },
+        "annotator":        { "type": "string" },
+        "comment":          { "type": ["string", "null"], "description": "Why this matters; which downstream tasks are affected." }
+      }
+    },
+
+    "ParseRun": {
+      "type": "object",
+      "required": ["run_id", "paper_id", "pdf_path", "parser_system", "parser_version",
+                   "configuration", "run_date", "annotator", "errors"],
+      "additionalProperties": false,
+      "properties": {
+        "run_id":          { "type": "string", "description": "Unique run identifier, e.g. mineru_steffens_2014_run1" },
+        "paper_id":        { "type": "string", "description": "Normalized paper_id matching annotation files." },
+        "pdf_path":        { "type": "string", "description": "Relative path to source PDF, e.g. data/papers/pilot_10/Steffens....pdf" },
+        "pdf_sha256":      { "type": ["string", "null"], "description": "SHA-256 of the source PDF file." },
+        "parser_system":   { "type": "string", "description": "e.g. MinerU, Marker, PyMuPDF_Enhanced, GROBID, pdfplumber" },
+        "parser_version":  { "type": ["string", "null"] },
+        "configuration":   { "type": "object", "description": "Key parser settings used in this run." },
+        "run_date":        { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+        "annotator":       { "type": "string", "description": "Person who evaluated this run." },
+        "annotation_date": { "type": ["string", "null"], "pattern": "^(\\d{4}-\\d{2}-\\d{2})?$" },
+        "annotation_time_minutes": { "type": ["number", "null"] },
+        "errors":          { "type": "array", "items": { "$ref": "#/definitions/ErrorRecord" } },
+        "summary_notes":   { "type": ["string", "null"], "description": "Overall assessment of this run." }
+      }
+    }
+
+  },
+
+  "type": "object",
+  "required": ["schema_version", "runs"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "type": "string", "const": "1.0" },
+    "runs": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/ParseRun" },
+      "description": "One entry per parser × paper combination."
+    }
+  }
+}

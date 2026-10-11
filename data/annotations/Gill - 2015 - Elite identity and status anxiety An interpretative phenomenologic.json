@@ -1,8 +1,8 @@
 {
   "paper_id": "Gill - 2015 - Elite identity and status anxiety An interpretative phenomenologic",
-  "schema_version": "2.0",
+  "schema_version": "2.1",
   "annotation_provenance": {
-    "origin": "human",
+    "origin": "unknown",
     "review_status": "unreviewed",
     "created_by": "unknown",
     "created_date": "",
@@ -11,7 +11,8 @@
     "reviewed_date": null,
     "human_read_time_minutes": null,
     "model_run_time_seconds": null,
-    "correction_time_minutes": null
+    "correction_time_minutes": null,
+    "legacy_time_minutes": null
   },
   "metadata": {
     "title": {

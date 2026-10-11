@@ -1,12 +1,20 @@
 #!/usr/bin/env python3
-"""Validate annotation JSON files against schema v2.0.
+"""Validate annotation files against schema v2.1.
 
-Checks structure, enum values, provenance consistency, and Claim rules.
-Does NOT compute accuracy — that requires comparison against the PDF.
+Three annotation levels:
+  TEMPLATE        — file exists but annotator has not started (no created_date)
+  IN_PROGRESS     — annotator has started; may have structural errors or pending fields
+  STRUCTURALLY_VALID — passes all structural checks; may still have pending fields
+  GROUND_TRUTH_READY — no structural errors, no pending fields, review_status=verified,
+                        origin != model  ← only this level can serve as ground truth
+
+'Valid' means JSON structure is correct. It does NOT mean the content is accurate.
+Accuracy requires comparing each claim against the source PDF.
 
 Usage:
     python tools/validate_annotations.py
     python tools/validate_annotations.py --dir data/annotations --verbose
+    python tools/validate_annotations.py --fail-on-error
 """
 
 from __future__ import annotations
@@ -17,316 +25,342 @@ import sys
 from dataclasses import dataclass, field
 from pathlib import Path
 
-SCHEMA_VERSION = "2.0"
-SCHEMA_FILE = Path(__file__).parent.parent / "data/annotations/schema.json"
+try:
+    import jsonschema
+    _JSONSCHEMA = True
+except ImportError:
+    _JSONSCHEMA = False
 
-VALID_STATUS = {"pending", "reported", "not_reported", "not_applicable", "ambiguous"}
-VALID_ORIGIN = {"human", "model", "human_revised", "final_reconciled"}
+SCHEMA_FILE  = Path(__file__).parent.parent / "data/annotations/schema.json"
+NON_ANNOTATION = {"schema.json", "pilot_manifest.json"}
+CURRENT_VERSION = "2.1"
+
+VALID_STATUS  = {"pending", "reported", "not_reported", "not_applicable", "ambiguous"}
+VALID_ORIGIN  = {"human", "model", "human_revised", "final_reconciled", "unknown"}
 VALID_REVIEW  = {"unreviewed", "reviewed", "verified"}
-VALID_PAPER_TYPE = {
-    "quantitative_empirical", "qualitative_empirical", "mixed_methods",
-    "scale_validation", "theoretical", "review", "other",
-}
-VALID_PUB_VERSION = {"published", "preprint", "postprint", "accepted_manuscript", "unknown"}
-VALID_ROLES = {
-    "independent", "dependent", "mediator", "moderator", "predictor",
-    "outcome", "focal", "control", "psychometric_target", "not_applicable",
-}
-VALID_ITEM_TYPE = {"hypothesis", "research_question", "proposition", "exploratory", "post_hoc"}
-VALID_FINDING_TYPE = {"main_result", "methodological", "theoretical", "practical", "limitation", "future_direction"}
+VALID_PT      = {"quantitative_empirical", "qualitative_empirical", "mixed_methods",
+                 "scale_validation", "theoretical", "review", "other"}
+VALID_PV      = {"published", "preprint", "postprint", "accepted_manuscript", "unknown"}
+VALID_ROLES   = {"independent", "dependent", "mediator", "moderator", "predictor",
+                 "outcome", "focal", "control", "psychometric_target", "not_applicable"}
+VALID_ITEM    = {"hypothesis", "research_question", "proposition", "exploratory", "post_hoc", None}
+VALID_FTYPE   = {"main_result", "methodological", "theoretical", "practical",
+                 "limitation", "future_direction", None}
+EMPIRICAL     = {"quantitative_empirical", "qualitative_empirical", "mixed_methods", "scale_validation"}
 
-EMPIRICAL_TYPES = {"quantitative_empirical", "qualitative_empirical", "mixed_methods", "scale_validation"}
+# Statuses that require a non-empty quote
+QUOTE_REQUIRED = {"reported", "ambiguous"}
 
 
 @dataclass
 class ValidationResult:
     file: str
-    errors: list[str] = field(default_factory=list)
+    errors: list[str]   = field(default_factory=list)
     warnings: list[str] = field(default_factory=list)
-    pending_count: int = 0
-    review_status: str = "unknown"
+    pending_fields: list[str] = field(default_factory=list)
+
     origin: str = "unknown"
+    review_status: str = "unknown"
+    is_template: bool = False
 
     @property
     def valid(self) -> bool:
         return len(self.errors) == 0
 
     @property
-    def ready_for_use(self) -> bool:
-        return self.valid and self.review_status in ("reviewed", "verified")
+    def level(self) -> str:
+        if self.is_template:
+            return "TEMPLATE"
+        if not self.valid:
+            return "IN_PROGRESS"
+        if self.pending_fields:
+            return "STRUCTURALLY_VALID"
+        if (self.review_status == "verified"
+                and self.origin not in ("model", "unknown")):
+            return "GROUND_TRUTH_READY"
+        return "STRUCTURALLY_VALID"
+
+    @property
+    def ground_truth_blocked(self) -> list[str]:
+        reasons = []
+        if self.pending_fields:
+            reasons.append(f"{len(self.pending_fields)} pending field(s)")
+        if self.errors:
+            reasons.append(f"{len(self.errors)} structural error(s)")
+        if self.review_status != "verified":
+            reasons.append(f"review_status={self.review_status} (need verified)")
+        if self.origin in ("model", "unknown"):
+            reasons.append(f"origin={self.origin} (need human/human_revised/final_reconciled)")
+        return reasons
 
 
-def _check_claim(obj: object, path: str) -> tuple[list[str], list[str], int]:
-    """Returns (errors, warnings, pending_count) for a Claim object."""
-    errors, warnings = [], []
-    pending = 0
+# ── Claim-level checks ────────────────────────────────────────────────────
 
+def check_claim(obj: object, path: str, res: ValidationResult) -> None:
     if not isinstance(obj, dict):
-        return [f"{path}: expected Claim object, got {type(obj).__name__}"], [], 0
+        res.errors.append(f"{path}: expected Claim object, got {type(obj).__name__}")
+        return
 
     status = obj.get("status")
     if status not in VALID_STATUS:
-        errors.append(f"{path}.status: invalid value '{status}'")
-        return errors, warnings, pending
+        res.errors.append(f"{path}.status: invalid value '{status}'")
+        return
 
     if status == "pending":
-        pending += 1
-        warnings.append(f"{path}: still pending")
+        res.pending_fields.append(path)
 
-    if status == "reported":
-        has_provenance = (
-            (isinstance(obj.get("quote"), str) and obj["quote"].strip()) or
-            isinstance(obj.get("page"), int) or
-            (isinstance(obj.get("section"), str) and obj["section"].strip())
-        )
-        if not has_provenance:
-            errors.append(
-                f"{path}: status=reported but no quote, page, or section provided"
+    if status in QUOTE_REQUIRED:
+        quote = obj.get("quote")
+        if not (isinstance(quote, str) and quote.strip()):
+            res.errors.append(
+                f"{path}: status='{status}' requires a non-empty quote "
+                f"(page/section is localisation only, not evidence)"
             )
         if obj.get("value") is None:
-            errors.append(f"{path}: status=reported but value is null")
+            res.errors.append(f"{path}: status='{status}' but value is null")
 
-    return errors, warnings, pending
+    page = obj.get("page")
+    if page is not None and (not isinstance(page, int) or page < 1):
+        res.errors.append(f"{path}.page: must be a positive integer or null, got {page!r}")
 
 
-def _check_construct(obj: dict, path: str) -> tuple[list[str], list[str], int]:
-    errors, warnings, pending = [], [], 0
+def check_theoretical_ref(obj: object, path: str, res: ValidationResult) -> None:
+    if not isinstance(obj, dict):
+        res.errors.append(f"{path}: expected TheoreticalRef object, got {type(obj).__name__}")
+        return
+    if not obj.get("name"):
+        res.errors.append(f"{path}.name: empty")
+    status = obj.get("status")
+    if status not in VALID_STATUS:
+        res.errors.append(f"{path}.status: invalid value '{status}'")
+    elif status == "pending":
+        res.pending_fields.append(f"{path}.status")
+    elif status in QUOTE_REQUIRED:
+        quote = obj.get("quote")
+        if not (isinstance(quote, str) and quote.strip()):
+            res.errors.append(f"{path}: status='{status}' requires a non-empty quote")
+    page = obj.get("page")
+    if page is not None and (not isinstance(page, int) or page < 1):
+        res.errors.append(f"{path}.page: must be a positive integer or null, got {page!r}")
 
-    role = obj.get("role")
-    if role not in VALID_ROLES:
-        errors.append(f"{path}.role: invalid value '{role}'")
 
-    for claim_field in ("name", "measure_name", "items_n", "reliability"):
-        val = obj.get(claim_field)
+def check_key_finding(obj: object, path: str, res: ValidationResult) -> None:
+    if not isinstance(obj, dict):
+        res.errors.append(f"{path}: expected KeyFinding object")
+        return
+    if not obj.get("statement"):
+        res.errors.append(f"{path}.statement: empty")
+    status = obj.get("status")
+    if status not in VALID_STATUS:
+        res.errors.append(f"{path}.status: invalid value '{status!r}'")
+    elif status == "pending":
+        res.pending_fields.append(f"{path}.status")
+    elif status in QUOTE_REQUIRED:
+        quote = obj.get("quote")
+        if not (isinstance(quote, str) and quote.strip()):
+            res.errors.append(f"{path}: status='{status}' requires a non-empty quote")
+    ft = obj.get("finding_type")
+    if ft not in VALID_FTYPE:
+        res.errors.append(f"{path}.finding_type: invalid value '{ft}'")
+    page = obj.get("page")
+    if page is not None and (not isinstance(page, int) or page < 1):
+        res.errors.append(f"{path}.page: must be positive integer or null")
+
+
+def check_construct(obj: dict, path: str, res: ValidationResult) -> None:
+    if obj.get("role") not in VALID_ROLES:
+        res.errors.append(f"{path}.role: invalid value '{obj.get('role')}'")
+    for cf in ("name", "measure_name", "items_n", "reliability"):
+        val = obj.get(cf)
         if val is not None:
-            e, w, p = _check_claim(val, f"{path}.{claim_field}")
-            errors += e; warnings += w; pending += p
-
-    return errors, warnings, pending
+            check_claim(val, f"{path}.{cf}", res)
 
 
-def _check_hypothesis(obj: dict, path: str) -> tuple[list[str], list[str], int]:
-    errors, warnings, pending = [], [], 0
-
+def check_hypothesis(obj: dict, path: str, res: ValidationResult) -> None:
     if not obj.get("id"):
-        errors.append(f"{path}: missing 'id'")
-
-    stmt = obj.get("statement")
-    if stmt is not None:
-        e, w, p = _check_claim(stmt, f"{path}.statement")
-        errors += e; warnings += w; pending += p
-
-    result = obj.get("result")
-    if result is not None:
-        e, w, p = _check_claim(result, f"{path}.result")
-        errors += e; warnings += w; pending += p
-
-    item_type = obj.get("item_type")
-    if item_type is not None and item_type not in VALID_ITEM_TYPE:
-        errors.append(f"{path}.item_type: invalid value '{item_type}'")
-
-    return errors, warnings, pending
+        res.errors.append(f"{path}: missing id")
+    for cf in ("statement", "result", "effect_size"):
+        val = obj.get(cf)
+        if val is not None:
+            check_claim(val, f"{path}.{cf}", res)
+    if obj.get("item_type") not in VALID_ITEM:
+        res.errors.append(f"{path}.item_type: invalid value '{obj.get('item_type')}'")
 
 
-def _check_study(obj: dict, path: str) -> tuple[list[str], list[str], int]:
-    errors, warnings, pending = [], [], 0
-
+def check_study(obj: dict, path: str, res: ValidationResult) -> None:
     if not obj.get("study_id"):
-        errors.append(f"{path}: missing 'study_id'")
-
-    design = obj.get("design", {})
-    for claim_field in ("methodology", "study_type", "data_collection", "country"):
-        val = design.get(claim_field)
+        res.errors.append(f"{path}: missing study_id")
+    for cf in ("methodology", "study_type", "data_collection", "country"):
+        val = (obj.get("design") or {}).get(cf)
         if val is not None:
-            e, w, p = _check_claim(val, f"{path}.design.{claim_field}")
-            errors += e; warnings += w; pending += p
-
-    sample = obj.get("sample", {})
-    for claim_field in ("total_n", "population", "age_mean", "age_range", "gender_percent_female"):
-        val = sample.get(claim_field)
+            check_claim(val, f"{path}.design.{cf}", res)
+    for cf in ("total_n", "population", "age_mean", "age_range", "gender_percent_female"):
+        val = (obj.get("sample") or {}).get(cf)
         if val is not None:
-            e, w, p = _check_claim(val, f"{path}.sample.{claim_field}")
-            errors += e; warnings += w; pending += p
-
-    for i, construct in enumerate(obj.get("constructs", [])):
-        e, w, p = _check_construct(construct, f"{path}.constructs[{i}]")
-        errors += e; warnings += w; pending += p
-
-    for i, hyp in enumerate(obj.get("hypotheses", [])):
-        e, w, p = _check_hypothesis(hyp, f"{path}.hypotheses[{i}]")
-        errors += e; warnings += w; pending += p
-
-    return errors, warnings, pending
+            check_claim(val, f"{path}.sample.{cf}", res)
+    for i, c in enumerate(obj.get("constructs", [])):
+        check_construct(c, f"{path}.constructs[{i}]", res)
+    for i, h in enumerate(obj.get("hypotheses", [])):
+        check_hypothesis(h, f"{path}.hypotheses[{i}]", res)
 
 
-def validate_file(path: Path) -> ValidationResult:
-    result = ValidationResult(file=path.name)
+# ── File-level validation ────────────────────────────────────────────────
+
+def validate_file(path: Path, schema: dict | None) -> ValidationResult:
+    res = ValidationResult(file=path.name)
 
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
     except json.JSONDecodeError as e:
-        result.errors.append(f"JSON parse error: {e}")
-        return result
+        res.errors.append(f"JSON parse error: {e}")
+        return res
 
-    # schema_version
+    # Schema version check
     ver = data.get("schema_version")
-    if ver != SCHEMA_VERSION:
-        result.errors.append(
-            f"schema_version: expected '{SCHEMA_VERSION}', got '{ver}'. "
-            f"Run: python tools/migrate_annotations.py"
+    if ver != CURRENT_VERSION:
+        res.errors.append(
+            f"schema_version: expected '{CURRENT_VERSION}', got '{ver}'. "
+            f"Run: python tools/migrate_annotations.py --write"
         )
-        return result
+        return res
+
+    # jsonschema structural validation
+    if _JSONSCHEMA and schema:
+        try:
+            jsonschema.validate(data, schema)
+        except jsonschema.ValidationError as e:
+            res.errors.append(f"Schema error at {e.json_path}: {e.message}")
+        except jsonschema.SchemaError as e:
+            res.warnings.append(f"Schema itself has an error: {e.message}")
 
     # annotation_provenance
-    prov = data.get("annotation_provenance")
-    if not isinstance(prov, dict):
-        result.errors.append("annotation_provenance: missing or not an object")
-    else:
-        origin = prov.get("origin", "")
-        review = prov.get("review_status", "")
-        result.origin = origin
-        result.review_status = review
+    prov = data.get("annotation_provenance") or {}
+    origin       = prov.get("origin", "")
+    review_status = prov.get("review_status", "")
+    res.origin       = origin
+    res.review_status = review_status
 
-        if origin not in VALID_ORIGIN:
-            result.errors.append(f"annotation_provenance.origin: invalid value '{origin}'")
-        if review not in VALID_REVIEW:
-            result.errors.append(f"annotation_provenance.review_status: invalid value '{review}'")
+    if origin not in VALID_ORIGIN:
+        res.errors.append(f"annotation_provenance.origin: invalid '{origin}'")
+    if review_status not in VALID_REVIEW:
+        res.errors.append(f"annotation_provenance.review_status: invalid '{review_status}'")
+    if origin == "model" and review_status == "verified":
+        res.errors.append(
+            "annotation_provenance: origin=model cannot have review_status=verified — "
+            "a human must review and change origin to human_revised or final_reconciled"
+        )
+    if origin in ("model", "human_revised") and not prov.get("model_id"):
+        res.warnings.append("annotation_provenance.model_id: not set for model/human_revised")
+    if review_status in ("reviewed", "verified") and not prov.get("reviewed_by"):
+        res.warnings.append("annotation_provenance.reviewed_by: not set for reviewed/verified")
 
-        if origin == "model" and review == "verified":
-            result.errors.append(
-                "annotation_provenance: origin=model cannot have review_status=verified. "
-                "A human must review the annotation first."
-            )
-        if not prov.get("created_by"):
-            result.errors.append("annotation_provenance.created_by: empty")
-        if not prov.get("created_date"):
-            result.errors.append("annotation_provenance.created_date: empty")
+    # Detect blank template (no created_date)
+    if not prov.get("created_date"):
+        res.is_template = True
+        return res  # Skip further checks — template is expected to be empty
 
-        if origin in ("model", "human_revised") and not prov.get("model_id"):
-            result.warnings.append(
-                "annotation_provenance.model_id: not set for model/human_revised origin"
-            )
-        if review in ("reviewed", "verified") and not prov.get("reviewed_by"):
-            result.warnings.append(
-                "annotation_provenance.reviewed_by: not set for reviewed/verified status"
-            )
+    # metadata Claims
+    meta = data.get("metadata") or {}
+    for cf in ("title", "authors", "year", "journal", "doi"):
+        val = meta.get(cf)
+        if val is None:
+            res.errors.append(f"metadata.{cf}: missing")
+        else:
+            check_claim(val, f"metadata.{cf}", res)
 
-    # metadata
-    meta = data.get("metadata", {})
-    if not isinstance(meta, dict):
-        result.errors.append("metadata: missing or not an object")
-    else:
-        for claim_field in ("title", "authors", "year", "journal", "doi"):
-            val = meta.get(claim_field)
-            if val is None:
-                result.errors.append(f"metadata.{claim_field}: missing")
-            else:
-                e, w, p = _check_claim(val, f"metadata.{claim_field}")
-                result.errors += e; result.warnings += w; result.pending_count += p
-
-        pt = meta.get("paper_type_profile")
-        if pt not in VALID_PAPER_TYPE:
-            result.errors.append(f"metadata.paper_type_profile: invalid value '{pt}'")
-
-        pv = meta.get("publication_version")
-        if pv not in VALID_PUB_VERSION:
-            result.errors.append(f"metadata.publication_version: invalid value '{pv}'")
-
-    paper_type = meta.get("paper_type_profile", "")
+    pt = meta.get("paper_type_profile")
+    if pt not in VALID_PT:
+        res.errors.append(f"metadata.paper_type_profile: invalid '{pt}'")
+    if meta.get("publication_version") not in VALID_PV:
+        res.errors.append(f"metadata.publication_version: invalid '{meta.get('publication_version')}'")
 
     # studies
-    studies = data.get("studies", [])
-    if not isinstance(studies, list):
-        result.errors.append("studies: must be an array")
-    else:
-        if paper_type in EMPIRICAL_TYPES and len(studies) == 0:
-            result.warnings.append(
-                f"studies[]: empty for paper_type={paper_type}. Add at least one study entry."
-            )
-        for i, study in enumerate(studies):
-            e, w, p = _check_study(study, f"studies[{i}]")
-            result.errors += e; result.warnings += w; result.pending_count += p
+    studies = data.get("studies") or []
+    if pt in EMPIRICAL and not studies:
+        res.warnings.append(f"studies[]: empty for paper_type={pt}")
+    for i, s in enumerate(studies):
+        check_study(s, f"studies[{i}]", res)
 
     # key_findings
-    findings = data.get("key_findings", [])
-    if not isinstance(findings, list):
-        result.errors.append("key_findings: must be an array")
-    else:
-        if len(findings) == 0:
-            result.warnings.append("key_findings: empty — add 3–6 findings")
-        for i, f_item in enumerate(findings):
-            if not isinstance(f_item, dict):
-                result.errors.append(f"key_findings[{i}]: must be an object")
-                continue
-            if not f_item.get("statement"):
-                result.errors.append(f"key_findings[{i}].statement: empty")
-            ft = f_item.get("finding_type")
-            if ft is not None and ft not in VALID_FINDING_TYPE:
-                result.errors.append(f"key_findings[{i}].finding_type: invalid value '{ft}'")
+    findings = data.get("key_findings") or []
+    if not findings:
+        res.warnings.append("key_findings: empty — add 3–6 findings")
+    for i, f in enumerate(findings):
+        check_key_finding(f, f"key_findings[{i}]", res)
 
     # theoretical_framework
-    tf = data.get("theoretical_framework", [])
-    if not isinstance(tf, list):
-        result.errors.append("theoretical_framework: must be an array")
-    elif len(tf) == 0 and paper_type not in ("other",):
-        result.warnings.append("theoretical_framework: empty — add named theories")
+    for i, tf in enumerate(data.get("theoretical_framework") or []):
+        check_theoretical_ref(tf, f"theoretical_framework[{i}]", res)
+    if not data.get("theoretical_framework") and pt not in ("other",):
+        res.warnings.append("theoretical_framework: empty")
 
-    return result
+    return res
+
+
+LEVEL_ORDER = {"TEMPLATE": 0, "IN_PROGRESS": 1, "STRUCTURALLY_VALID": 2, "GROUND_TRUTH_READY": 3}
+LEVEL_COLOR = {"TEMPLATE": "·", "IN_PROGRESS": "!", "STRUCTURALLY_VALID": "✓", "GROUND_TRUTH_READY": "★"}
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dir", default="data/annotations")
-    parser.add_argument("--verbose", action="store_true")
-    parser.add_argument("--fail-on-error", action="store_true",
-                        help="Exit with code 1 if any file has errors")
+    parser.add_argument("--verbose", "-v", action="store_true")
+    parser.add_argument("--fail-on-error", action="store_true")
     args = parser.parse_args()
 
-    ann_dir = Path(args.dir)
-    files = sorted(ann_dir.glob("*.json"))
-    NON_ANNOTATION = {"schema.json", "pilot_manifest.json"}
-    files = [f for f in files if f.name not in NON_ANNOTATION]
+    ann_dir  = Path(args.dir)
+    schema   = None
+    if _JSONSCHEMA and SCHEMA_FILE.exists():
+        schema = json.loads(SCHEMA_FILE.read_text(encoding="utf-8"))
+    elif not _JSONSCHEMA:
+        print("WARNING: jsonschema not installed — skipping structural schema validation.\n"
+              "Install with: pip install jsonschema\n")
 
+    files = [f for f in sorted(ann_dir.glob("*.json")) if f.name not in NON_ANNOTATION]
     if not files:
         print(f"No annotation files found in {ann_dir}")
         sys.exit(0)
 
-    results = [validate_file(f) for f in files]
+    results = [validate_file(f, schema) for f in files]
 
     # Summary table
-    W = 56
-    print(f"\n{'FILE':<{W}} {'VALID':>5}  {'ORIGIN':<18}  {'REVIEW':<12}  PENDING  ISSUES")
-    print("─" * 110)
+    W = 58
+    print(f"\n{'FILE':<{W}} {'LEVEL':<22}  {'ORIGIN':<18}  {'REVIEW':<12}  PENDING")
+    print("─" * 120)
     for r in results:
-        valid_str  = "OK" if r.valid else f"ERR({len(r.errors)})"
-        warn_str   = f"W{len(r.warnings)}" if r.warnings else ""
-        issues_str = f"{valid_str} {warn_str}".strip()
-        print(
-            f"{r.file:<{W}} {valid_str:>5}  {r.origin:<18}  {r.review_status:<12}  "
-            f"{r.pending_count:>7}  {warn_str}"
-        )
+        icon = LEVEL_COLOR.get(r.level, "?")
+        level_str = f"{icon} {r.level}"
+        print(f"{r.file:<{W}} {level_str:<22}  {r.origin:<18}  {r.review_status:<12}  {len(r.pending_fields)}")
 
-    n_valid = sum(1 for r in results if r.valid)
-    n_ready = sum(1 for r in results if r.ready_for_use)
-    n_pending_total = sum(r.pending_count for r in results)
-
-    print(f"\nStructurally valid : {n_valid}/{len(results)}")
-    print(f"Ready for use      : {n_ready}/{len(results)}  (valid + reviewed/verified)")
-    print(f"Pending fields     : {n_pending_total} total across all files")
+    counts = {lv: sum(1 for r in results if r.level == lv) for lv in LEVEL_ORDER}
     print()
-    print("NOTE: 'valid' means the JSON structure is correct, NOT that the content is accurate.")
-    print("      Accuracy requires comparing each claim against the source PDF.")
+    print(f"  · TEMPLATE           : {counts['TEMPLATE']}")
+    print(f"  ! IN_PROGRESS        : {counts['IN_PROGRESS']}")
+    print(f"  ✓ STRUCTURALLY_VALID : {counts['STRUCTURALLY_VALID']}")
+    print(f"  ★ GROUND_TRUTH_READY : {counts['GROUND_TRUTH_READY']}")
+    print()
+    print("NOTE: 'valid' = correct JSON structure. It does NOT mean content is accurate.")
+    print("      Only GROUND_TRUTH_READY annotations may serve as evaluation ground truth.")
+    print("      Accuracy requires human comparison against the source PDF.")
 
-    if args.verbose or any(not r.valid for r in results):
+    if args.verbose or any(r.errors for r in results):
         for r in results:
-            if r.errors or (args.verbose and r.warnings):
+            if r.errors or r.warnings or (args.verbose and r.pending_fields):
                 print(f"\n── {r.file}")
                 for e in r.errors:
                     print(f"   ERROR   {e}")
                 for w in r.warnings:
                     print(f"   WARN    {w}")
+                if args.verbose and r.pending_fields:
+                    for p in r.pending_fields[:10]:
+                        print(f"   PENDING {p}")
+                    if len(r.pending_fields) > 10:
+                        print(f"   PENDING ... ({len(r.pending_fields) - 10} more)")
 
-    if args.fail_on_error and not all(r.valid for r in results):
+                if r.ground_truth_blocked:
+                    print(f"   BLOCKED: ground truth blocked — {'; '.join(r.ground_truth_blocked)}")
+
+    if args.fail_on_error and any(r.errors for r in results):
         sys.exit(1)
 
 
