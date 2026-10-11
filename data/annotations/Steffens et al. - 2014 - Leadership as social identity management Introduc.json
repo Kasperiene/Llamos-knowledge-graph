@@ -1,37 +1,63 @@
 {
   "paper_id": "Steffens et al. - 2014 - Leadership as social identity management Introduc",
-  "annotator": "",
-  "annotation_date": "",
-  "annotation_time_minutes": null,
+  "schema_version": "2.0",
+  "annotation_provenance": {
+    "origin": "human",
+    "review_status": "unreviewed",
+    "created_by": "unknown",
+    "created_date": "",
+    "model_id": null,
+    "reviewed_by": null,
+    "reviewed_date": null,
+    "human_read_time_minutes": null,
+    "model_run_time_seconds": null,
+    "correction_time_minutes": null
+  },
   "metadata": {
-    "title": "",
-    "authors": [],
-    "year": 2014,
-    "journal": "",
-    "doi": null,
-    "paper_type": ""
+    "title": {
+      "value": null,
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "authors": {
+      "value": null,
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "year": {
+      "value": 2014,
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "journal": {
+      "value": null,
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "doi": {
+      "value": null,
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "paper_type_profile": "other",
+    "publication_version": "unknown"
   },
-  "research_design": {
-    "methodology": null,
-    "study_type": null,
-    "number_of_studies": 1,
-    "data_collection": null
-  },
-  "sample": {
-    "total_n": null,
-    "population": "",
-    "country": null,
-    "age_mean": null,
-    "age_range": null,
-    "gender_percent_female": null
-  },
-  "constructs": {
-    "independent_variables": [],
-    "dependent_variables": [],
-    "mediators": [],
-    "moderators": []
-  },
-  "hypotheses": [],
+  "studies": [],
   "key_findings": [],
   "theoretical_framework": [],
   "notes": ""

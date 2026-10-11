@@ -1,41 +1,88 @@
 {
   "paper_id": "Alvesson - 2020 - The Problematizing Review A Counterpoint to Elsbach and Van Kn",
-  "annotator": "Claude (example — verify before use)",
-  "annotation_date": "2026-10-11",
-  "annotation_time_minutes": 10,
+  "schema_version": "2.0",
+  "annotation_provenance": {
+    "origin": "model",
+    "review_status": "unreviewed",
+    "created_by": "Claude (example — verify before use)",
+    "created_date": "2026-10-11",
+    "model_id": "Claude (example — verify before use)",
+    "reviewed_by": null,
+    "reviewed_date": null,
+    "human_read_time_minutes": null,
+    "model_run_time_seconds": 10,
+    "correction_time_minutes": null
+  },
   "metadata": {
-    "title": "The Problematizing Review: A Counterpoint to Elsbach and Van Knippenberg's Argument for Integrative Reviews",
-    "authors": ["Alvesson, Mats", "Sandberg, Jörgen"],
-    "year": 2020,
-    "journal": "Journal of Management Studies",
-    "doi": null,
-    "paper_type": "theoretical"
+    "title": {
+      "value": "The Problematizing Review: A Counterpoint to Elsbach and Van Knippenberg's Argument for Integrative Reviews",
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "authors": {
+      "value": [
+        "Alvesson, Mats",
+        "Sandberg, Jörgen"
+      ],
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "year": {
+      "value": 2020,
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "journal": {
+      "value": "Journal of Management Studies",
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "doi": {
+      "value": null,
+      "status": "pending",
+      "quote": null,
+      "page": null,
+      "section": null,
+      "fragment_id": null
+    },
+    "paper_type_profile": "theoretical",
+    "publication_version": "accepted_manuscript"
   },
-  "research_design": {
-    "methodology": null,
-    "study_type": null,
-    "number_of_studies": null,
-    "data_collection": null
-  },
-  "sample": {
-    "total_n": null,
-    "population": null,
-    "country": null,
-    "age_mean": null,
-    "age_range": null,
-    "gender_percent_female": null
-  },
-  "constructs": {
-    "independent_variables": [],
-    "dependent_variables": [],
-    "mediators": [],
-    "moderators": []
-  },
-  "hypotheses": [],
+  "studies": [],
   "key_findings": [
-    "Integrative reviews rest on questionable assumptions: treating the domain as given, privileging hegemonic concepts, following a jigsaw-puzzle accumulation logic, and assuming author neutrality.",
-    "The authors propose 'problematizing review' as an alternative built on four principles: (1) reflexivity, (2) reading broadly but selectively, (3) not accumulating but problematizing, (4) less is more.",
-    "Problematizing reviews are 'opening up' exercises rather than 'building exercises', aiming to generate new ways of thinking rather than summarising existing knowledge."
+    {
+      "statement": "Integrative reviews rest on questionable assumptions: treating the domain as given, privileging hegemonic concepts, following a jigsaw-puzzle accumulation logic, and assuming author neutrality.",
+      "finding_type": "main_result",
+      "quote": null,
+      "page": null,
+      "section": null
+    },
+    {
+      "statement": "The authors propose 'problematizing review' as an alternative built on four principles: (1) reflexivity, (2) reading broadly but selectively, (3) not accumulating but problematizing, (4) less is more.",
+      "finding_type": "main_result",
+      "quote": null,
+      "page": null,
+      "section": null
+    },
+    {
+      "statement": "Problematizing reviews are 'opening up' exercises rather than 'building exercises', aiming to generate new ways of thinking rather than summarising existing knowledge.",
+      "finding_type": "main_result",
+      "quote": null,
+      "page": null,
+      "section": null
+    }
   ],
   "theoretical_framework": [
     "Problematization methodology (Alvesson & Sandberg)",

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate per-paper annotation template JSON files from pilot_10 folder.
+"""Generate per-paper annotation template JSON files (schema v2.0).
 
 Usage:
     python tools/create_annotation_templates.py
@@ -11,56 +11,15 @@ import json
 import re
 from pathlib import Path
 
-TEMPLATE = {
-    "paper_id": None,
-    "annotator": "",
-    "annotation_date": "",
-    "annotation_time_minutes": None,
-
-    "metadata": {
-        "title": "",
-        "authors": [],
-        "year": None,
-        "journal": "",
-        "doi": None,
-        "paper_type": ""
-    },
-
-    "research_design": {
-        "methodology": None,
-        "study_type": None,
-        "number_of_studies": 1,
-        "data_collection": None
-    },
-
-    "sample": {
-        "total_n": None,
-        "population": "",
-        "country": None,
-        "age_mean": None,
-        "age_range": None,
-        "gender_percent_female": None
-    },
-
-    "constructs": {
-        "independent_variables": [],
-        "dependent_variables": [],
-        "mediators": [],
-        "moderators": []
-    },
-
-    "hypotheses": [],
-
-    "key_findings": [],
-
-    "theoretical_framework": [],
-
-    "notes": ""
-}
+SCHEMA_VERSION = "2.0"
 
 
-def parse_filename(stem: str) -> dict:
-    """Extract author/year hint from filename like 'LastName - YYYY - Title...'"""
+def _pending(value=None) -> dict:
+    return {"value": value, "status": "pending", "quote": None, "page": None, "section": None, "fragment_id": None}
+
+
+def make_template(pdf_path: Path) -> dict:
+    stem = pdf_path.stem
     parts = [p.strip() for p in stem.split(" - ", 2)]
     year = None
     if len(parts) >= 2:
@@ -68,17 +27,60 @@ def parse_filename(stem: str) -> dict:
             year = int(parts[1])
         except ValueError:
             pass
-    return {"year_hint": year}
 
+    return {
+        "paper_id": stem[:80],
+        "schema_version": SCHEMA_VERSION,
 
-def make_template(pdf_path: Path) -> dict:
-    stem = pdf_path.stem
-    hint = parse_filename(stem)
-    t = json.loads(json.dumps(TEMPLATE))
-    t["paper_id"] = stem[:80]
-    if hint["year_hint"]:
-        t["metadata"]["year"] = hint["year_hint"]
-    return t
+        "annotation_provenance": {
+            "origin": "human",
+            "review_status": "unreviewed",
+            "created_by": "",
+            "created_date": "",
+            "model_id": None,
+            "reviewed_by": None,
+            "reviewed_date": None,
+            "human_read_time_minutes": None,
+            "model_run_time_seconds": None,
+            "correction_time_minutes": None,
+        },
+
+        "metadata": {
+            "title":       _pending(),
+            "authors":     _pending(),
+            "year":        _pending(year),
+            "journal":     _pending(),
+            "doi":         _pending(),
+            "paper_type_profile": "quantitative_empirical",
+            "publication_version": "unknown",
+        },
+
+        "studies": [
+            {
+                "study_id": "single",
+                "design": {
+                    "methodology":     _pending(),
+                    "study_type":      _pending(),
+                    "data_collection": _pending(),
+                    "country":         _pending(),
+                },
+                "sample": {
+                    "total_n":               _pending(),
+                    "population":            _pending(),
+                    "age_mean":              _pending(),
+                    "age_range":             _pending(),
+                    "gender_percent_female": _pending(),
+                },
+                "constructs": [],
+                "hypotheses": [],
+                "results_notes": None,
+            }
+        ],
+
+        "key_findings": [],
+        "theoretical_framework": [],
+        "notes": "",
+    }
 
 
 def main() -> None:
@@ -111,6 +113,7 @@ def main() -> None:
 
     print(f"\nDone: {created} created, {skipped} skipped")
     print(f"Annotation files in: {out_dir}/")
+    print(f"Fill in annotation_provenance.created_by and annotation_date before annotating.")
 
 
 if __name__ == "__main__":

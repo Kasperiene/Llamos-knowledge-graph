@@ -1,0 +1,143 @@
+{
+  "_schema": "pilot_manifest_v1",
+  "_note": "Manifest of 10 pilot papers selected for LLM extraction evaluation. MRQ_2025_included refers to Lê Hoang et al. (2025) doi:10.1007/s11301-025-00554-0 selected study set (61 studies), NOT the bibliography. Membership must be verified against the paper's inclusion table, not by presence in the reference list.",
+
+  "papers": [
+    {
+      "paper_id": "Alvesson - 2020 - The Problematizing Review A Counterpoint to Elsbach and Van Kn",
+      "filename": "Alvesson - 2020 - The Problematizing Review A Counterpoint to Elsbach and Van Knippenberg's Argument for Integrative Rev.pdf",
+      "doi": { "value": null, "verified": false, "note": "Not found in parsed text; check PDF header or CrossRef." },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2020,
+      "paper_type": "theoretical",
+      "publication_version": "accepted_manuscript",
+      "version_note": "Warwick WRAP repository copy; likely accepted manuscript, not final typeset.",
+      "mrq_2025_included": { "value": "no", "verified": false, "note": "Methodological paper on review types; unlikely in identity leadership empirical study set. Verify against inclusion table." },
+      "selection_rationale": "Methodological contrast case — non-empirical paper tests schema handling of theoretical works."
+    },
+    {
+      "paper_id": "Butalia - 2024 - Measuring leadership in sport Development and validation of the",
+      "filename": "Butalia - 2024 - Measuring leadership in sport Development and validation of the Identity Leadership Inventory - Youth (.pdf",
+      "doi": { "value": null, "verified": false, "note": "Check PDF or CrossRef for ILI-Youth validation paper." },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2024,
+      "paper_type": "scale_validation",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "2024 publication; verify whether it falls within SLR search cutoff." },
+      "selection_rationale": "Scale validation — tests schema handling of psychometric results (CFA, AVE, reliability)."
+    },
+    {
+      "paper_id": "Fransen et al. - 2022 - Unlocking the power of 'us' Longitudinal evidence",
+      "filename": "Fransen et al. - 2022 - Unlocking the power of 'us' Longitudinal evidence.pdf",
+      "doi": { "value": null, "verified": false, "note": null },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2022,
+      "paper_type": "quantitative_empirical",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "Verify against SLR inclusion table." },
+      "selection_rationale": "Longitudinal design — tests schema handling of time-point data and repeated measures."
+    },
+    {
+      "paper_id": "Frenzel - 2022 - How national leaders keep 'us' safe A longitudinal, four-nation",
+      "filename": "Frenzel - 2022 - How national leaders keep 'us' safe A longitudinal, four-nation study exploring the role of identity le.pdf",
+      "doi": { "value": null, "verified": false, "note": null },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2022,
+      "paper_type": "quantitative_empirical",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "Verify against SLR inclusion table." },
+      "selection_rationale": "Multi-country longitudinal study — tests multi-study schema and cross-national sampling."
+    },
+    {
+      "paper_id": "Gill - 2015 - Elite identity and status anxiety An interpretative phenomenologic",
+      "filename": "Gill - 2015 - Elite identity and status anxiety An interpretative phenomenological analysis of management consultants.pdf",
+      "doi": { "value": null, "verified": false, "note": null },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2015,
+      "paper_type": "qualitative_empirical",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "IPA qualitative study; verify whether it meets SLR quantitative inclusion criteria." },
+      "selection_rationale": "IPA qualitative paper — tests schema handling of qualitative design (no N, no hypotheses, thematic findings)."
+    },
+    {
+      "paper_id": "Haslam - 2023 - Developing engaged and 'teamful' leaders A randomized controlled",
+      "filename": "Haslam - 2023 - Developing engaged and 'teamful' leaders A randomized controlled trial of the 5R identity leadership pro.pdf",
+      "doi": { "value": null, "verified": false, "note": null },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2023,
+      "paper_type": "quantitative_empirical",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "2023 publication; verify SLR search cutoff date." },
+      "selection_rationale": "RCT — highest internal validity design; tests intervention/control group schema handling."
+    },
+    {
+      "paper_id": "Haslam et al. - 2022 - Examining the role of Donald Trump and his support",
+      "filename": "Haslam et al. - 2022 - Examining the role of Donald Trump and his support.pdf",
+      "doi": { "value": null, "verified": false, "note": null },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2022,
+      "paper_type": "quantitative_empirical",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "Verify against SLR inclusion table." },
+      "selection_rationale": "Political context (Trump) — tests schema robustness for non-organisational leadership contexts."
+    },
+    {
+      "paper_id": "Roodt - 2021 - Subgroup Formation in Diverse Virtual Teams The Moderating Role o",
+      "filename": "Roodt - 2021 - Subgroup Formation in Diverse Virtual Teams The Moderating Role of Identity Leadership.pdf",
+      "doi": { "value": null, "verified": false, "note": null },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2021,
+      "paper_type": "quantitative_empirical",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "Verify against SLR inclusion table." },
+      "selection_rationale": "Virtual teams + moderation — tests schema handling of moderator constructs and interaction effects."
+    },
+    {
+      "paper_id": "Steffens et al. - 2014 - Leadership as social identity management Introduc",
+      "filename": "Steffens et al. - 2014 - Leadership as social identity management Introduc.pdf",
+      "doi": { "value": null, "verified": false, "note": null },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2014,
+      "paper_type": "quantitative_empirical",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "Foundational ILI paper (2014) — likely included but must verify." },
+      "selection_rationale": "Foundational ILI paper — high citation count, multiple studies, provides baseline for schema coverage."
+    },
+    {
+      "paper_id": "VanDick - 2021 - Identity Leadership Employee Burnout Mediating Role Team Identi",
+      "filename": "VanDick - 2021 - Identity Leadership Employee Burnout Mediating Role Team Identificatio.pdf",
+      "doi": { "value": null, "verified": false, "note": null },
+      "title_verified": false,
+      "year_verified": false,
+      "year_from_filename": 2021,
+      "paper_type": "quantitative_empirical",
+      "publication_version": "unknown",
+      "version_note": null,
+      "mrq_2025_included": { "value": null, "verified": false, "note": "Verify against SLR inclusion table." },
+      "selection_rationale": "Mediation model (team identification mediates IL → burnout) — tests schema handling of mediation paths."
+    }
+  ],
+
+  "_verification_procedure": {
+    "doi": "Check each PDF header/footer or search CrossRef (api.crossref.org/works?query=<title>). Do not infer from filename.",
+    "mrq_2025_included": "Open doi:10.1007/s11301-025-00554-0. Find the list/table of included studies (Appendix or Table listing 61 studies). Match by DOI or exact title. Being in the reference list is NOT sufficient.",
+    "publication_version": "Check PDF for journal header, page numbers, copyright notice, or repository stamp. Warwick WRAP and similar repositories often serve accepted manuscripts."
+  }
+}
