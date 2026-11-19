@@ -8,7 +8,7 @@ A multi-agent pipeline that reads scientific papers and builds a knowledge graph
 pip install -r requirements.txt
 
 # Download papers (topic search → free PDFs)
-python tools/paper_downloader.py "Russian cyber groups Telegram" data/papers/my_topic
+python tools/paper_downloader.py data/papers/my_topic
 
 # Run full pipeline on a single document
 python main.py data/papers/my_topic/paper.pdf
